@@ -1,26 +1,35 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public class SecretRooms : MonoBehaviour
-{
-    private BoundsInt area;
-    private Tilemap tm;
-    private BoxCollider2D cldr;
 
+{
+    BoundsInt area;
+    Tilemap tm;
+    BoxCollider2D cldr;
+    // Start is called before the first frame update
     void Start()
     {
+        //area = new BoundsInt(new Vector3Int(95,11,0), new Vector3Int(6,5,1));
         tm = GameObject.FindGameObjectWithTag("HiddenRooms").GetComponent<Tilemap>();
         cldr = GetComponent<BoxCollider2D>();
-        
         Vector3Int position = Vector3Int.FloorToInt(cldr.bounds.min);
-        Vector3Int size = Vector3Int.FloorToInt(cldr.bounds.size + new Vector3Int(0, 0, 1));
+        Vector3Int size = Vector3Int.FloorToInt(cldr.bounds.size + new Vector3Int(0,0,1));
         area = new BoundsInt(position, size);
-        
+
         foreach (Vector3Int point in area.allPositionsWithin)
         {
             tm.SetTileFlags(point, TileFlags.None);
-            tm.SetColor(point, new Color(1f, 1f, 1f, 0f));
+            tm.SetColor(point, new Color(255f, 255f, 255f, 0f));
+            //tm.SetTileFlags(point, TileFlags.LockColor);
         }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
     }
 
     void RevealRoom()
@@ -28,7 +37,8 @@ public class SecretRooms : MonoBehaviour
         foreach (Vector3Int point in area.allPositionsWithin)
         {
             tm.SetTileFlags(point, TileFlags.None);
-            tm.SetColor(point, new Color(1f, 1f, 1f, 1f));
+            tm.SetColor(point, new Color(255f, 255f, 255f, 255f));
+            //tm.SetTileFlags(point, TileFlags.LockColor);
         }
     }
 
