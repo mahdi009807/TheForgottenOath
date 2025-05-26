@@ -2,49 +2,48 @@ using UnityEngine;
 
 public class PlatformRotation : MonoBehaviour
 {
-    [SerializeField] private float flipInterval = 5f;
+    [Tooltip("Time between rotations in seconds")]
+    public float rotationInterval = 5f;
+    
+    [Tooltip("How long each rotation takes in seconds")]
+    public float rotationDuration = 1f;
+
     private float timer;
-    private Vector3 pivotPoint; // Rotation pivot point
+    private bool isRotating;
 
-    private void Start()
+    void Update()
     {
-        timer = flipInterval;
-        // Set pivot point to the platform's center
-        pivotPoint = GetComponent<Collider2D>().bounds.center;
-    }
+        timer += Time.deltaTime;
 
-    private void Update()
-    {
-        timer -= Time.deltaTime;
-        
-        if (timer <= 0f)
+        // Start rotation when interval is reached
+        if (timer >= rotationInterval && !isRotating)
         {
-            FlipPlatform();
-            timer = flipInterval;
+            StartCoroutine(RotatePlatform());
+            timer = 0f;
         }
     }
 
-    private void FlipPlatform()
+    System.Collections.IEnumerator RotatePlatform()
     {
-        // Rotate around the center point
-        transform.RotateAround(pivotPoint, Vector3.forward, 180);
+        isRotating = true;
         
-        // Optional: Add visual/sound effects
-        OnFlip();
-    }
+        float elapsed = 0f;
+        Quaternion startRotation = transform.rotation;
+        Quaternion endRotation = startRotation * Quaternion.Euler(0, 0, 180);
 
-    private void OnFlip()
-    {
-        // Add your effects here (particles, sounds, etc.)
-    }
-
-    // Visualize the pivot point in editor
-    private void OnDrawGizmos()
-    {
-        if (Application.isPlaying)
+        while (elapsed < rotationDuration)
         {
-            Gizmos.color = Color.red;
-            Gizmos.DrawSphere(pivotPoint, 0.1f);
+            transform.rotation = Quaternion.Slerp(
+                startRotation, 
+                endRotation, 
+                elapsed / rotationDuration
+            );
+            elapsed += Time.deltaTime;
+            yield return null;
         }
+
+        // Ensure we reach exactly 180 degrees
+        transform.rotation = endRotation;
+        isRotating = false;
     }
 }
