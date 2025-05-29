@@ -6,41 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7d9f8b2d-2f6f-45e2-b3d5-c91dee5fe11b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ForRange.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ForRange.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/check point/Checkpoint.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/check point/Checkpoint.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/start chunk/ForMelee.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/start chunk/ForMelee.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/start chunk/Start Chunk.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/start chunk/Start Chunk.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/mahanM/mScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/mahanM/mScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahanM/PlatformRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahanM/PlatformRotation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahanM/PlatformRotation.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahanM/PlatformRotation.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Legacy-Fantasy - High Forest 2.3/Assets/Tiles.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Legacy-Fantasy - High Forest 2.3/Assets/Tiles.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Other Vegetation/tree03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/layers/tileset.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/layers/tileset.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/house.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/house.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/mushroom-brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/mushroom-brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/mushroom-red.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/mushroom-red.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/plant.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/plant.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/rock.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/rock.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/tree.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/tree.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/vine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/Sunny-land-forest-files/PNG/environment/props/vine.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/SunnyLandForestGodot/World/Assets/tileset.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/SunnyLandForestGodot/World/Assets/tileset.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/a/3 Objects/Willows/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/a/3 Objects/Willows/1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/b/_pack/New Animation.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/b/_pack/New Animation.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/b/_pack/Obj12_1.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/b/_pack/Obj12_1.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/tiles/New Tile Palette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/tiles/New Tile Palette.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/melee tile palette/melee start.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/melee tile palette/melee start.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +21,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Range_Player_Arrow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Range_Player_Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity project/FinalProject/Assets/Scripts/RangePlayer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -58,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "mahanM",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mahdiH&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
@@ -126,6 +102,9 @@
       <workItem from="1747895448857" duration="5776000" />
       <workItem from="1747937275770" duration="2920000" />
       <workItem from="1748204987996" duration="6696000" />
+      <workItem from="1748519563932" duration="500000" />
+      <workItem from="1748520342075" duration="1163000" />
+      <workItem from="1748521828739" duration="10754000" />
     </task>
     <servers />
   </component>
