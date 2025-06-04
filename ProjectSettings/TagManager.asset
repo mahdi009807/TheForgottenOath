@@ -5,11 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - HiddenRooms
-  - Melee_Player
-  - PlayerSimpleArrow
   - Enemy
   - Ground
+  - ArcherArrow
   - RangePlayer
+  - EnemyArrow
   layers:
   - Default
   - TransparentFX
@@ -18,10 +18,10 @@ TagManager:
   - Water
   - UI
   - Ground
-  - RangePlayer
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - PlayerArrow
+  - EnemyArrow
   - 
   - 
   - 

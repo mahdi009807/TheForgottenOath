@@ -1,364 +1,506 @@
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using Unity.VisualScripting;
-    using UnityEngine;
-    using UnityEngine.InputSystem;
-    using UnityEngine.Serialization;
+using System;
+using System.Collections;
+using UnityEngine;
+using UnityEngine.InputSystem;
 
-    public class MeleePlayer : MonoBehaviour
+public class MeleePlayer : MonoBehaviour
+{
+    [Header("Movement")]
+    public float walkSpeed = 4f;
+    public float runSpeed = 7f;
+    public float deceleration = 15f;  
+    public float moveInput;
+    private float currentVelocityX = 0f;
+    private bool facingRight = true;
+    private bool isRunning;
+    private bool wasRunningLastFrame;
+
+    [Header("Jumping")]
+    public float jumpForce = 12f;
+    public Transform groundCheckPoint;
+    public float groundCheckRadius = 0.2f;
+    public LayerMask groundLayer;
+    private bool isGrounded;
+    private bool wasGroundedLastFrame;
+    private bool jumpPressed;
+
+    [Header("References")]
+    private Animator animator;
+    public Rigidbody2D rb;
+    // public PolygonCollider2D StandCollider;
+    // public PolygonCollider2D LandingCollider;
+    
+    [Header("Combat")]
+    public Transform firePoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayer;
+    public float attackDamage = 25f;
+    
+    [Header("Attack Timing")]
+    public float attackDelay = 0.3f; // زمان تقریبی فعال شدن ضربه
+    public float attackCooldown = 0.6f; // فاصله بین دو حمله
+    private bool isAttacking = false;
+
+    
+    [Header("Health")]
+    [SerializeField]private float maxHealth = 100f;
+    [SerializeField]private float currecntHealth;
+    [SerializeField]private bool isDead = false;
+    
+    [Header("Knockback")]
+    public float knockbackForceX = 8f;
+    public float knockbackForceY = 5f;
+    public float knockbackDuration = 0.3f;
+    private bool isKnockedBack = false;
+    
+    [Header("Wall Jump")]
+    public Transform leftWallCheck;
+    public Transform rightWallCheck;
+    public float wallCheckDistance = 0.3f;
+    public float wallSlideSpeed = 1f;
+    public Vector2 wallJumpForce = new Vector2(10f, 12f);
+    private bool isTouchingWall;
+    private bool isWallSliding;
+    private bool wallJumping;
+    private float wallJumpDirection;
+    public LayerMask wallLayer;
+    private bool wasWallSliding = false;
+    private int wallSlideSide = 0; // -1: چپ، 1: راست
+    
+    
+    [Header("Dash")]
+    public float dashSpeed = 20f;
+    public float dashDuration = 0.2f;
+    public float dashCooldown = 1f;
+    public TrailRenderer trailRenderer;
+    public LayerMask dashCollisionMask;
+    private bool isDashing = false;
+    private bool canDash = true;
+    
+    [Header("AfterImage")]
+    public GameObject afterImagePrefab;
+    public float afterImageInterval = 0.05f; // هر چند ثانیه یک afterimage
+    
+
+    // Input System
+    private PlayerControler controls;
+
+    private void Awake()
     {
-        public Camera cam;                       //for camera to follow.
-
-        public Transform AttackPoint;                     //for attack the enemies.
-        public Transform DashAttackPoint;
-        public float AttackRangr;
-        public LayerMask EnemyLayers;
-        public float attackingDuration;                    //for not attacking immediately.
-        private bool isAttacking;
-
-        public Rigidbody2D rb;                       //for jumping.
-        public float JumpHeight;
-        public int maxJumpCount;
-        private int currentJumpCount; 
+        currecntHealth = maxHealth;
         
-        public Animator animator;
-
-        public float moveSpeed;                       //for moving.
-        float input;
-
-        private bool facingRight;        //for moving left and right
-
-        private bool canDash;                      //for player dash.
-        private bool isDashing;
-        [SerializeField]private float dashingPower;
-        [SerializeField]private float dashingDuration;
-        private float dashingCooldown;
-        public TrailRenderer tr;
-
-        private bool canSlide;                           //for player sliding.
-        private bool isSliding;                      
-        public PolygonCollider2D slideCollider;
-        public PolygonCollider2D standCollider;
-        public PolygonCollider2D AttackCollider;
-        public float slideDuration;
-
-        private PlayerControler controls;
+        // StandCollider.enabled = true;
+        // LandingCollider.enabled = false;
         
-        private float currentHealth;
-        private float maxHealth;
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+
+        controls = new PlayerControler();
+
+        controls.Melee.Move.performed += ctx => moveInput = ctx.ReadValue<float>();
+        controls.Melee.Move.canceled += ctx => moveInput = 0f;
+
+        controls.Melee.Jump.performed += ctx => jumpPressed = true;
         
+        controls.Melee.Dash.performed += ctx => TryDash();
         
-        private void Awake()
+
+        controls.Melee.Attack.performed += ctx =>
         {
-            maxHealth = 100f;
-            currentHealth = maxHealth;
+            if (CombatManager.instance != null)
+            {
+                CombatManager.instance.Attack(ctx);
+            }
+        };
+    }
 
-            slideDuration = 0.4f;
+    private void OnEnable() => controls.Enable();
+    private void OnDisable() => controls.Disable();
+
+    private void Update()
+    {
+        if (isDead || isKnockedBack || isAttacking) return;
+        
+        if (!isWallSliding)
+        {
+            if (moveInput > 0 && !facingRight) Flip();
+            else if (moveInput < 0 && facingRight) Flip();
+        }
+
+
+        // وضعیت دویدن (CapsLock + حرکت)
+        isRunning = Keyboard.current.capsLockKey.isPressed && Mathf.Abs(moveInput) > 0.1f;
+        float targetSpeed = (isRunning ? runSpeed : walkSpeed) * moveInput;
+
+        // کاهش تدریجی سرعت وقتی input قطع شده
+        if (Mathf.Abs(moveInput) < 0.1f)
+        {
+            currentVelocityX = Mathf.MoveTowards(currentVelocityX, 0, deceleration * Time.deltaTime);
+        }
+        else
+        {
+            currentVelocityX = targetSpeed;
+        }
+        
+        // انیمیشن‌ها
+        animator.SetFloat("Speed", Mathf.Abs(currentVelocityX) > 0.1 ? 1 : 0);
+        animator.SetBool("IsRunning", isRunning);
+
+        // کنترل ترایگرهای RunStart و RunEnd فقط وقتی وضعیت تغییر می‌کند
+        if (isRunning && !wasRunningLastFrame && animator.GetCurrentAnimatorStateInfo(0).IsName("Walk"))
+        {
+            animator.SetTrigger("RunStart");
+        }
+        else if (!isRunning && wasRunningLastFrame && animator.GetCurrentAnimatorStateInfo(0).IsName("RunLoop"))
+        {
+            animator.SetTrigger("RunEnd");
+        }
+        wasRunningLastFrame = isRunning;
+
+        // تشخیص زمین
+        isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, groundLayer);
+
+        // تشخیص سقوط (انیمیشن Fall)
+        if (!isGrounded && rb.linearVelocity.y < -0.1f && !isWallSliding && !isDashing)
+        {
+            animator.SetTrigger("Fall");
+        }
+
+        // انیمیشن فرود
+        if (!wasGroundedLastFrame && isGrounded)
+        {
+            StartCoroutine(Landing());
             
-            maxJumpCount = 1;
-            currentJumpCount = 0;
-            
-            attackingDuration = 0.8f;
-            AttackRangr = 0.1f;
-            
-            moveSpeed = 7f;
-            facingRight = true;
-            
-            canDash = true;
-            isDashing = false;
-            dashingPower = 25f;
-            dashingDuration = 0.4f;
-            dashingCooldown = 1f;
-            
-            canSlide = true;
-            isSliding = false;
-            slideCollider.enabled = false;
-            standCollider.enabled = true;
-            slideDuration = 0f;
-            
-            controls = new PlayerControler();
-            controls.Melee.Move.performed += ctx => input = ctx.ReadValue<float>();
-            controls.Melee.Move.canceled += ctx => input = 0f;
-            controls.Melee.Jump.performed += ctx => Jump();
-            controls.Melee.Attack.performed += ctx =>
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        }
+
+        wasGroundedLastFrame = isGrounded;
+        
+        
+        // کنترل اجرای حمله بدون Animation Event
+        if (!isAttacking && CombatManager.instance.HasPendingInput())
+        {
+            TryAttack();
+        }
+        
+        CheckWallSlide();
+
+
+    }
+
+
+    private void FixedUpdate()
+    {
+        if (isDead || isKnockedBack || isAttacking) return;
+
+        // اعمال سرعت روی Rigidbody2D (حرکت افقی)
+        transform.position += new Vector3(currentVelocityX * Time.fixedDeltaTime, 0, 0);
+
+        // پرش از زمین
+        if (jumpPressed && isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            animator.SetTrigger("Jump");
+        }
+
+        // پرش از دیوار
+        if (jumpPressed && isWallSliding)
+        {
+            rb.linearVelocity = new Vector2(wallJumpDirection * wallJumpForce.x, wallJumpForce.y);
+            wallJumping = true;
+            animator.SetTrigger("Jump"); // یا WallJump
+        }
+
+        // 🧱 کاهش سرعت سقوط در حین WallSlide
+        if (isWallSliding)
+        {
+            rb.linearVelocity = new Vector2(0, Mathf.Max(rb.linearVelocity.y, -wallSlideSpeed));
+        }
+
+        jumpPressed = false;
+    }
+
+
+
+    private void Flip()
+    {
+        facingRight = !facingRight;
+        // transform.eulerAngles = new Vector3(0f, facingRight ? 0f : 180f, 0f);
+        transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
+    }
+    
+    public bool IsRunning() => isRunning;
+    
+
+    private IEnumerator Landing()
+    {
+        animator.SetTrigger("Land");
+        yield return new WaitForSeconds(0.3f);
+    }
+    
+    private void CheckWallSlide()
+    {
+        // بررسی برخورد با دیوار چپ و راست
+        bool leftHit = Physics2D.Raycast(leftWallCheck.position, Vector2.left, wallCheckDistance, wallLayer);
+        bool rightHit = Physics2D.Raycast(rightWallCheck.position, Vector2.right, wallCheckDistance, wallLayer);
+
+        isTouchingWall = leftHit || rightHit;
+        wallJumpDirection = rightHit ? -1 : (leftHit ? 1 : 0);
+        wallSlideSide = leftHit ? -1 : (rightHit ? 1 : 0);
+
+        isWallSliding = isTouchingWall && !isGrounded && rb.linearVelocity.y < 0 && Mathf.Abs(moveInput) > 0.01f;
+
+        if (isWallSliding)
+        {
+            if (!wasWallSliding)
             {
-                if (Keyboard.current.leftShiftKey.isPressed && isDashing) StartCoroutine(Dash_Attack());
-                else Attack();
-                
-            };
-            controls.Melee.Dash.performed += ctx =>
-            {
-                if (canDash) StartCoroutine(Dash());
-            };
-            controls.Melee.AirDash.performed += ctx =>
-            {
-                if (canDash && animator.GetBool("Jump"))
+                if (wallSlideSide == -1)
                 {
-                    animator.SetBool("Jump", false);
-                    StartCoroutine(Dash());
+                    animator.SetTrigger("StartWallSlideLeft");
                 }
-            };
-            controls.Melee.Slide.performed += ctx =>
-            {
-                if (Mathf.Abs(input) > 0.1f && canSlide && !animator.GetBool("Jump") && !animator.GetBool("Attack"))
+                else if (wallSlideSide == 1)
                 {
-                    StartCoroutine(slide());
+                    animator.SetTrigger("StartWallSlideRight");
                 }
-            };
-        }
-
-        
-        
-        
-        
-        void Update()
-        {
-            if (isDashing || isAttacking) return;
-
-            if (input < 0 && facingRight)                    //for changing player pic. 180 degree.
-            {
-                facingRight = false;
-                transform.eulerAngles = new Vector3(0, -180, 0);
-            } 
-            else if (input > 0 && !facingRight)
-            {
-                facingRight = true;
-                transform.eulerAngles = new Vector3(0, 0, 0);
             }
-            animator.SetFloat("Run", Mathf.Abs(input) > 0.1f ? 1 : 0);   //for running animation.
+
+            // فعال‌سازی فقط یک Loop بر اساس جهت
+            animator.SetBool("WallSlideLeftLoop", wallSlideSide == -1);
+            animator.SetBool("WallSlideRightLoop", wallSlideSide == 1);
         }
-        
-        
-        
-        
-        
-        private void FixedUpdate()
+        else
         {
-            if (isDashing || isAttacking) return;
-            transform.position += new Vector3(input , 0f , 0f) * moveSpeed * Time.fixedDeltaTime;       //for movement.
+            animator.SetBool("WallSlideLeftLoop", false);
+            animator.SetBool("WallSlideRightLoop", false);
         }
 
-        
-        
-        
-        
-        private void Attack()                                      //for attack.
+        wasWallSliding = isWallSliding;
+    }
+
+
+
+
+    
+    public void DealDamage()
+    {
+        // شلیک یک دایره از firePoint برای برخورد با دشمنان
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(firePoint.position, attackRange, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
         {
-            if (animator.GetBool("Jump"))
+            if (enemy.TryGetComponent<MeleeEnemy>(out MeleeEnemy e))
             {
-                animator.SetBool("Jump" , false);
+                e.TakeDamage(attackDamage);
             }
-            isAttacking = true;
-            animator.SetTrigger("Attack");
-            StartCoroutine(AttackingDuration());
-        }
-
-        
-        
-        
-        
-        private IEnumerator AttackingDuration()
-        {
-            yield return new WaitForSeconds(attackingDuration);
-            isAttacking = false;
-        }
-
-        
-        
-        
-        
-        private void PerformAttack()
-        {
-            Collider2D[] hitEnemy = Physics2D.OverlapCircleAll(AttackPoint.position , AttackRangr , EnemyLayers);
-            foreach (Collider2D Enemy in hitEnemy)
+            
+            if (enemy.TryGetComponent<FlyingEnemy>(out FlyingEnemy flying))
             {
-                Enemy.GetComponent<Enemy1>().TakeDamage(20);
+                flying.TakeDamage((int)attackDamage); // اگر نیاز بود می‌توانی تبدیل نوع را تغییر بدهی
             }
-        }
-
-        
-        
-        
-        
-        private void OnDrawGizmosSelected()
-        {
-            if(AttackPoint == null || DashAttackPoint == null) return;
             
-            Gizmos.color = Color.green;
-            Gizmos.DrawWireSphere(AttackPoint.position , AttackRangr);
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(DashAttackPoint.position , AttackRangr);
-        }
-
-        
-        
-        
-        
-        private IEnumerator Dash_Attack()                        //for dash attack.
-        {
-            if (isAttacking) yield break;
-            
-            canDash = false;
-            isDashing = true;
-            
-            float originalGravity = rb.gravityScale;              //save the gravity and change it to 0. 
-            rb.gravityScale = 0f;
-            
-            int facingRightInt = facingRight ? 1 : -1;                           //for dashing move.
-            rb.linearVelocity = new Vector2(facingRightInt * dashingPower , 0f);
-            
-            animator.SetTrigger("Dash_Attack");                            //dashing-attack animation.
-            
-            tr.emitting = true;
-            yield return new WaitForSeconds(dashingDuration);                          //how long animation takes.
-            tr.emitting = false;
-            
-            rb.linearVelocity = Vector2.zero;
-            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);                        //after dashing make the x.position 0 so player will stop.
-            rb.gravityScale = originalGravity;
-            
-            isDashing = false;
-            yield return new WaitForSeconds(dashingCooldown);                         //respawn time for dashing-attack again.
-            canDash = true;
-        }
-        
-        
-        
-        
-        private void PerformDashAttack()
-        {
-            Collider2D[] hitEnemy = Physics2D.OverlapCircleAll(AttackPoint.position , AttackRangr , EnemyLayers);
-            foreach (Collider2D Enemy in hitEnemy)
+            if (enemy.TryGetComponent<DogWolfEnemy>(out DogWolfEnemy dog))
             {
-                Enemy.GetComponent<Enemy1>().TakeDamage(50);
+                dog.TakeDamage((int)attackDamage);
             }
-        }
-        
-        
-        
-        
-        
-        private void OnEnable()
-        {
-            controls.Enable();
-        }
 
-        
-        
-        
-        
-        private void OnDisable()
-        {
-            controls.Disable();
-        }
 
-        
-        
-        
-        
-        void Jump()                                      //for simple jump and double-jump.
-        {
-            if (isAttacking) return;
-            
-            if (currentJumpCount < maxJumpCount)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpHeight);
-                animator.SetBool("Jump" , true);
-                currentJumpCount++;
-            }
-        }
-
-        
-        
-        
-        
-        private void OnCollisionEnter2D(Collision2D collision)            //for not jumping more than 2 times in air.  also for enemy contacts.
-        {
-            if (collision.gameObject.CompareTag("Ground"))
-            {
-                currentJumpCount = 0;
-                animator.SetBool("Jump" , false);
-                animator.SetFloat("Run", Mathf.Abs(input) > 0.1f ? 1 : 0);
-            }
-        }
-
-        
-        
-        
-        
-        private IEnumerator Dash()                        //for dash.
-        {
-            if (isAttacking) yield break;
-            
-            canDash = false;
-            isDashing = true;
-            
-            float originalGravity = rb.gravityScale;
-            rb.gravityScale = 0f;
-            
-            int facingRightInt = facingRight ? 1 : -1;
-            rb.linearVelocity = new Vector2(facingRightInt * dashingPower , 0f);
-            
-            animator.SetTrigger("Dash");
-            
-            tr.emitting = true;
-            yield return new WaitForSeconds(dashingDuration);
-            tr.emitting = false;
-            
-            rb.linearVelocity = Vector2.zero;
-            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y); 
-            rb.gravityScale = originalGravity;
-            
-            isDashing = false;
-            yield return new WaitForSeconds(dashingCooldown);
-            canDash = true;
-        }
-
-        
-        
-        
-        
-        private IEnumerator slide()                  //for sliding.
-        {
-            canSlide = false;
-            isSliding = true;
-
-            standCollider.enabled = false;
-            slideCollider.enabled = true;
-            
-            rb.position -= new Vector2(0f, 0.2f); 
-
-            float originVelocity = moveSpeed;
-            moveSpeed *= 1.2f;
-
-            animator.SetTrigger("Slide");
-            yield return new WaitForSeconds(slideDuration);
-
-            moveSpeed = originVelocity;
-            
-            rb.position += new Vector2(0f, 0.2f); 
-
-            slideCollider.enabled = false;
-            standCollider.enabled = true;
-            
-            canSlide = true;
-            isSliding = false;
-        }
-        
-        
-        
-        
-        public void TakeDamage(float damage)
-        {
-            //animator.SetBool()...
-            currentHealth -= damage;
-            Debug.Log(currentHealth);
-            if (currentHealth <= 0)
-            {
-                //animator.....
-                Debug.Log("you died");
-                OnDisable();
-            }
         }
     }
+    
+    private void TryAttack()
+    {
+        if (!isAttacking && CombatManager.instance.HasPendingInput())
+        {
+            CombatManager.instance.DisableInput();
+            StartCoroutine(AttackRoutine());
+        }
+    }
+
+    private IEnumerator AttackRoutine()
+    {
+        isAttacking = true;
+
+        int nextAttackNumber = Mathf.Clamp(CombatManager.instance.attackInputCount, 1, 4); // ما فقط Attack1 تا Attack4 داریم
+        string triggerName = "Attack" + nextAttackNumber;
+        animator.SetTrigger(triggerName);
+        
+        yield return new WaitForSeconds(attackDelay);
+        DealDamage(); // دیگر نیازی به Animation Event نیست
+
+        // صبر کن تا پایان حمله
+        yield return new WaitForSeconds(attackCooldown - attackDelay);
+
+        CombatManager.instance.ConsumeInput();
+        isAttacking = false;
+        CombatManager.instance.EnableInput();
+
+        // حمله بعدی در صورت وجود
+        TryAttack();
+    }
+
+
+    
+    public void TakeDamage(float damage)
+    {
+        if (isDead || isAttacking) return;
+
+        currecntHealth -= damage;
+        animator.SetTrigger("Hurt");
+
+        // اجرای ضربه‌ی برگشتی (Knockback)
+        StartCoroutine(ApplyKnockback());
+
+        if (currecntHealth <= 0)
+        {
+            StartCoroutine(Die());
+        }
+    }
+    
+    private IEnumerator ApplyKnockback()
+    {
+        isKnockedBack = true;
+
+        float direction = facingRight ? -1f : 1f;
+
+        float timer = 0f;
+
+        Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
+
+        // پرش اولیه به سمت عقب (فقط یکبار، فقط محور Y)
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // صفر کردن سرعت Y برای کنترل بیشتر
+        transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
+
+        while (timer < knockbackDuration)
+        {
+            transform.position += new Vector3(direction * knockbackForceX * Time.deltaTime, 0f, 0f);
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        isKnockedBack = false;
+    }
+    
+
+
+
+
+    private IEnumerator Die()
+    {
+        isDead = true;
+        animator.SetBool("Death", true);
+        
+        // منتظر بمان تا انیمیشن وارد وضعیت "Death" بشود
+        // while (!animator.GetCurrentAnimatorStateInfo(0).IsName("Death"))
+        yield return new WaitForSeconds(3f);
+
+        // اکنون منتظر بمان تا طول انیمیشن مرگ طی شود
+        // yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+
+        // بعد از انیمیشن مرگ:
+        controls.Disable();
+        rb.linearVelocity = Vector2.zero;
+        rb.bodyType = RigidbodyType2D.Kinematic;
+        Destroy(gameObject);
+    }
+    
+    
+    private void TryDash()
+    {
+        if (isDashing || !canDash || isDead || isKnockedBack || isAttacking) return;
+        StartCoroutine(DashRoutine());
+    }
+    
+    private IEnumerator DashRoutine()
+    {
+        isDashing = true;
+        canDash = false;
+        trailRenderer.emitting = true;
+
+        float dashDirection = facingRight ? 1f : -1f;
+        float elapsedTime = 0f;
+
+        int originalLayer = gameObject.layer;
+        gameObject.layer = LayerMask.NameToLayer("Dashing");
+
+        // اجرای StartDash
+        animator.SetTrigger("StartDash");
+
+        yield return new WaitForSeconds(0.05f); // می‌تونی این رو با طول StartDash تنظیم کنی
+
+        // اجرای Loop تا پایان dash
+        animator.SetBool("DashLoop", true);
+
+        float afterImageTimer = 0f;
+
+        while (elapsedTime < dashDuration)
+        {
+            rb.linearVelocity = new Vector2(dashDirection * dashSpeed, 0f);
+            elapsedTime += Time.deltaTime;
+            afterImageTimer += Time.deltaTime;
+            if (afterImageTimer >= afterImageInterval)
+            {
+                CreateAfterImage();
+                afterImageTimer = 0f;
+            }
+            yield return null;
+        }
+
+        // پایان dash
+        animator.SetBool("DashLoop", false);
+        animator.SetTrigger("DashEnd");
+
+        trailRenderer.emitting = false;
+        gameObject.layer = originalLayer;
+        rb.linearVelocity = Vector2.zero;
+        isDashing = false;
+
+        // اگر روی زمین هست، سر خوردن کوچیک اجرا کن
+        if (isGrounded)
+        {
+            float slideSpeed = 4f;         // سرعت سر خوردن
+            float slideDuration = 0.15f;   // مدت سر خوردن
+
+            float slideTime = 0f;
+            while (slideTime < slideDuration)
+            {
+                rb.linearVelocity = new Vector2(dashDirection * slideSpeed, rb.linearVelocity.y);
+                slideTime += Time.deltaTime;
+                yield return null;
+            }
+
+            rb.linearVelocity = Vector2.zero;
+        }
+
+        yield return new WaitForSeconds(dashCooldown);
+        canDash = true;
+    }
+    
+    private void CreateAfterImage()
+    {
+        GameObject clone = Instantiate(afterImagePrefab);
+        Sprite currentSprite = GetComponent<SpriteRenderer>().sprite;
+        Vector3 scale = transform.localScale; // اندازه واقعی بازیکن
+
+        clone.GetComponent<AfterImage>().Setup(
+            currentSprite,
+            transform.position,
+            scale
+        );
+    }
+
+
+
+
+
+
+
+
+    
+    private void OnDrawGizmosSelected()
+    {
+        if (firePoint == null) return;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(firePoint.position, attackRange);
+    }
+
+}

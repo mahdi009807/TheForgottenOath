@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 280a391b6d2c4cc4c84c442f11913714
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7877228837734051649
+    second: troll_0000_green_0
+  - first:
+      213: -5549359809634909849
+    second: troll_0000_green_1
+  - first:
+      213: -3020068851388685813
+    second: troll_0000_green_2
+  - first:
+      213: -3013960144404438483
+    second: troll_0000_green_3
+  - first:
+      213: -6770750505623149966
+    second: troll_0000_green_4
+  - first:
+      213: -8880409783165143567
+    second: troll_0000_green_5
+  - first:
+      213: 7790387628929840627
+    second: troll_0000_green_6
+  - first:
+      213: -380244954680028151
+    second: troll_0000_green_7
+  - first:
+      213: 5026824190840288032
+    second: troll_0000_green_8
+  - first:
+      213: 3860831967282610412
+    second: troll_0000_green_9
+  - first:
+      213: -3160796418853772104
+    second: troll_0000_green_10
+  - first:
+      213: -8109792837650912718
+    second: troll_0000_green_11
+  - first:
+      213: 2695374797999993664
+    second: troll_0000_green_12
+  - first:
+      213: 1055515017416729521
+    second: troll_0000_green_13
+  - first:
+      213: -5132856452986857046
+    second: troll_0000_green_14
+  - first:
+      213: 8678557614932196771
+    second: troll_0000_green_15
+  - first:
+      213: -7542816488767611284
+    second: troll_0000_green_16
+  - first:
+      213: -6636853504447914191
+    second: troll_0000_green_17
+  - first:
+      213: -4870165573934806766
+    second: troll_0000_green_18
+  - first:
+      213: 6497354590234541550
+    second: troll_0000_green_19
+  - first:
+      213: 2120145459024209897
+    second: troll_0000_green_20
+  - first:
+      213: 6847359939717776765
+    second: troll_0000_green_21
+  - first:
+      213: -7900178501469985623
+    second: troll_0000_green_22
+  - first:
+      213: -3990362961999386739
+    second: troll_0000_green_23
+  - first:
+      213: 2160738422754096751
+    second: troll_0000_green_24
+  - first:
+      213: -5131116287110422663
+    second: troll_0000_green_25
+  - first:
+      213: 7757257450560476904
+    second: troll_0000_green_26
+  - first:
+      213: 6120808694434807976
+    second: troll_0000_green_27
+  - first:
+      213: -5433112316963180674
+    second: troll_0000_green_28
+  - first:
+      213: -2825620529353535967
+    second: troll_0000_green_29
+  - first:
+      213: -3590642234538023388
+    second: troll_0000_green_30
+  - first:
+      213: 9051358192221951184
+    second: troll_0000_green_31
+  - first:
+      213: 3485284582045803404
+    second: troll_0000_green_32
+  - first:
+      213: -620204274083714109
+    second: troll_0000_green_33
+  - first:
+      213: 5204251735317294466
+    second: troll_0000_green_34
+  - first:
+      213: 5961579216900528392
+    second: troll_0000_green_35
+  - first:
+      213: 1399878458282695433
+    second: troll_0000_green_36
+  - first:
+      213: 8271963700029974376
+    second: troll_0000_green_37
+  - first:
+      213: 4322600134670424825
+    second: troll_0000_green_38
+  - first:
+      213: -3233053028967859428
+    second: troll_0000_green_39
+  - first:
+      213: 8442410020720093041
+    second: troll_0000_green_40
+  - first:
+      213: 5125983349976431901
+    second: troll_0000_green_41
+  - first:
+      213: -7679023857341849807
+    second: troll_0000_green_42
+  - first:
+      213: -8928976743031634624
+    second: troll_0000_green_43
+  - first:
+      213: -1452679721916412373
+    second: troll_0000_green_44
+  - first:
+      213: 8457935563569482573
+    second: troll_0000_green_45
+  - first:
+      213: -6970516051612059983
+    second: troll_0000_green_46
+  - first:
+      213: 7928763644607008284
+    second: troll_0000_green_47
+  - first:
+      213: 5150892317024923727
+    second: troll_0000_green_48
+  - first:
+      213: -7764181319563073726
+    second: troll_0000_green_49
+  - first:
+      213: -6457262846844844111
+    second: troll_0000_green_50
+  - first:
+      213: 6917083142961343915
+    second: troll_0000_green_51
+  - first:
+      213: -6918806794936100953
+    second: troll_0000_green_52
+  - first:
+      213: 6210797949494057753
+    second: troll_0000_green_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troll_0000_green_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1200
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fe99f74e9815d60800000000000000
+      internalID: 7877228837734051649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1200
+        width: 150
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c1e7a7a6bcf2b0800000000000000
+      internalID: -5549359809634909849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1200
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0261c3716f8616d0800000000000000
+      internalID: -3020068851388685813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_3
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1200
+        width: 170
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a691a7334c26d0800000000000000
+      internalID: -3013960144404438483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_4
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1201
+        width: 238
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722981c9467902a0800000000000000
+      internalID: -6770750505623149966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_5
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1200
+        width: 142
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b9864a5272c480800000000000000
+      internalID: -8880409783165143567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_6
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1204
+        width: 190
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5f5f4f5440d1c60800000000000000
+      internalID: 7790387628929840627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_7
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 1205
+        width: 189
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90499a47a3919baf0800000000000000
+      internalID: -380244954680028151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_8
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1207
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233063e7fdd2c540800000000000000
+      internalID: 5026824190840288032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 961
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04a5bf73e649530800000000000000
+      internalID: 3860831967282610412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 961
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e4e657689224d0800000000000000
+      internalID: -3160796418853772104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_11
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 961
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a6fc5b16a347f80800000000000000
+      internalID: -8109792837650912718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_12
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 961
+        width: 170
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043745b1915e76520800000000000000
+      internalID: 2695374797999993664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_13
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 956
+        width: 211
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e634e051f5ae00800000000000000
+      internalID: 1055515017416729521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_14
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 957
+        width: 212
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa995a4404e64c8b0800000000000000
+      internalID: -5132856452986857046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 961
+        width: 189
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7bc87b2e607870800000000000000
+      internalID: 8678557614932196771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_16
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 961
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1c05fd58825790800000000000000
+      internalID: -7542816488767611284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_17
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 961
+        width: 188
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5319b6e825e3a0800000000000000
+      internalID: -6636853504447914191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 721
+        width: 171
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198748b632b96cb0800000000000000
+      internalID: -4870165573934806766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 721
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedfeaa439d3b2a50800000000000000
+      internalID: 6497354590234541550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_20
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 721
+        width: 176
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ab4ddf054c6d10800000000000000
+      internalID: 2120145459024209897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_21
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 721
+        width: 145
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754e181695b60f50800000000000000
+      internalID: 6847359939717776765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_22
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 716
+        width: 199
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a424b5828dec5290800000000000000
+      internalID: -7900178501469985623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_23
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 716
+        width: 195
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87a62527026f98c0800000000000000
+      internalID: -3990362961999386739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_24
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 719
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66bbccb52c7cfd10800000000000000
+      internalID: 2160738422754096751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_25
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 719
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdf853cec9ac8b0800000000000000
+      internalID: -5131116287110422663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_26
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 719
+        width: 186
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d8e33d8057ab60800000000000000
+      internalID: 7757257450560476904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 482
+        width: 126
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c8e1041b71f450800000000000000
+      internalID: 6120808694434807976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 482
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2c923225b994b0800000000000000
+      internalID: -5433112316963180674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_29
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 482
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec4dd691169c8d0800000000000000
+      internalID: -2825620529353535967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_30
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 482
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a8d669e97b2ec0800000000000000
+      internalID: -3590642234538023388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_31
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 483
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41636d152ec9d70800000000000000
+      internalID: 9051358192221951184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_32
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 482
+        width: 173
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c836cfd8cd73e5030800000000000000
+      internalID: 3485284582045803404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_33
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 480
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbaf0baf779467f0800000000000000
+      internalID: -620204274083714109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_34
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 480
+        width: 186
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d2c454167393840800000000000000
+      internalID: 5204251735317294466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_35
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 479
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80915b346b8cbb250800000000000000
+      internalID: 5961579216900528392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b59aa7a0e5d6310800000000000000
+      internalID: 1399878458282695433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_37
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 243
+        width: 188
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867663f882bebc270800000000000000
+      internalID: 8271963700029974376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_38
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 243
+        width: 191
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa161d9be5fcfb30800000000000000
+      internalID: 4322600134670424825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_39
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 243
+        width: 155
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bbe5c4663e123d0800000000000000
+      internalID: -3233053028967859428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_40
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 242
+        width: 158
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177283d1f27792570800000000000000
+      internalID: 8442410020720093041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_41
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 243
+        width: 155
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d79ebb2b6232740800000000000000
+      internalID: 5125983349976431901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_42
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 241
+        width: 186
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f9369ac70ae6590800000000000000
+      internalID: -7679023857341849807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_43
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 240
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04500efb5f6e51480800000000000000
+      internalID: -8928976743031634624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_44
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 240
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e42c25d7b07dbe0800000000000000
+      internalID: -1452679721916412373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 20
+        width: 173
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc3bf359f906570800000000000000
+      internalID: 8457935563569482573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_46
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 16
+        width: 157
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6318a1590c34f90800000000000000
+      internalID: -6970516051612059983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_47
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 12
+        width: 139
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e05d0c680a80e60800000000000000
+      internalID: 7928763644607008284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_48
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 4
+        width: 155
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f403f809545ab7740800000000000000
+      internalID: 5150892317024923727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_49
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 3
+        width: 158
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24728bbe936104490800000000000000
+      internalID: -7764181319563073726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_50
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3
+        width: 155
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b74c7027a13366a0800000000000000
+      internalID: -6457262846844844111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_51
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 8
+        width: 160
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badad02687a6eff50800000000000000
+      internalID: 6917083142961343915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_52
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 8
+        width: 160
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7564e90e57bff90800000000000000
+      internalID: -6918806794936100953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troll_0000_green_53
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 8
+        width: 160
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b515f24df213650800000000000000
+      internalID: 6210797949494057753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

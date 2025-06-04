@@ -11,7 +11,7 @@ public class RangePlayer : MonoBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 7f;
     private float input = 0f;
-    private bool facingRight = true;
+    public bool facingRight = true;
 
     [Header("Jump Settings")]
     public float jumpForce = 6f;
@@ -37,14 +37,38 @@ public class RangePlayer : MonoBehaviour
 
     private float currentChargeTime = 0f;
     private bool isCharging = false;
+    // public PolygonCollider2D StandCollider;
+    // public PolygonCollider2D IsAimingCollider;
     
     
-    [Header("Ulty Settings")]
-    public float maxMana = 100f;
-    public float currentMana = 100f;
-    public GameObject ultyArrowPrefab; // Prefab تیر خاص
-    public float ultyManaCost = 100f;   // میزان مصرف مانا
-    private bool isTryingUlty = false;
+    [Header("Health Settings")]
+    public int maxHealth = 100;
+    private int currentHealth;
+    private bool isDead = false;
+    
+    [Header("Knockback")]
+    public float knockbackForceX = 7f;
+    public float knockbackForceY = 4f;
+    public float knockbackDuration = 0.3f;
+    private bool isKnockedBack = false;
+    
+    [Header("Wall Slide")]
+    public Transform leftWallCheck;
+    public Transform rightWallCheck;
+    public float wallCheckDistance = 0.3f;
+    public float wallSlideSpeed = 1.5f;
+    public LayerMask wallLayer;
+    public Vector2 wallJumpForce = new Vector2(10f, 12f); // x = افقی به بیرون، y = به بالا
+
+    
+
+    private bool isTouchingWall;
+    [SerializeField]private bool isWallSliding;
+    private int wallSlideSide; // -1 = left, 1 = right
+
+
+
+
 
 
 
@@ -53,6 +77,11 @@ public class RangePlayer : MonoBehaviour
     private void Awake()
     {
         RangeControler = new PlayerControler();
+        
+        currentHealth = maxHealth;
+        
+        // StandCollider.enabled = true;
+        // IsAimingCollider.enabled = false;
 
         // ورودی حرکت
         RangeControler.Range.Move.performed += ctx => input = ctx.ReadValue<float>();
@@ -60,24 +89,24 @@ public class RangePlayer : MonoBehaviour
         RangeControler.Range.Jump.performed += ctx => Jump();
         RangeControler.Range.Aim.started += ctx => StartCharging();
         RangeControler.Range.Aim.canceled += ctx => ReleaseArrow();
-        RangeControler.Range.Ulty.started += ctx => isTryingUlty = true;
-        RangeControler.Range.Ulty.canceled += ctx => isTryingUlty = false;
-
+        
 
     }
 
     private void Update()
     {
+        if (isDead || isKnockedBack) return;
+
         // تغییر جهت بازیکن
         if (facingRight && input < 0)
         {
             facingRight = false;
-            transform.eulerAngles = new Vector3(0f, -180f, 0f);
+            transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
         }
         else if (!facingRight && input > 0)
         {
             facingRight = true;
-            transform.eulerAngles = new Vector3(0f, 0f, 0f);
+            transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
         }
 
         // بررسی تماس با زمین
@@ -99,12 +128,24 @@ public class RangePlayer : MonoBehaviour
             currentChargeTime += Time.deltaTime;
             currentChargeTime = Mathf.Clamp(currentChargeTime, 0f, maxChargeTime);
         }
+        
+        CheckWallSlide();
+
     }
 
 
 
     private void FixedUpdate()
     {
+        if (isDead || isKnockedBack) return;
+        
+        if (isWallSliding)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -wallSlideSpeed));
+        }
+
+
+
         float speedMultiplier = isCharging ? 0.5f : 1f;
         transform.position += new Vector3(input, 0f, 0f) * moveSpeed * speedMultiplier * Time.fixedDeltaTime;
     }
@@ -123,14 +164,59 @@ public class RangePlayer : MonoBehaviour
 
     private void Jump()
     {
+        if (isWallSliding)
+        {
+            // جهت پرش: اگر بازیکن به دیوار سمت چپ چسبیده، به سمت راست بپره و برعکس
+            int direction = wallSlideSide == -1 ? 1 : -1;
+
+            rb.linearVelocity = new Vector2(wallJumpForce.x * direction, wallJumpForce.y);
+
+            // تنظیم جهت دید
+            facingRight = direction == 1;
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x) * direction, transform.localScale.y, transform.localScale.z);
+
+            animator.SetBool("Jump", true);
+
+            // قطع حالت wall slide
+            isWallSliding = false;
+            animator.SetBool("WallSlideLeft", false);
+            animator.SetBool("WallSlideRight", false);
+
+            return;
+        }
+
+        // پرش معمولی
         if (currentJumpCount < maxJumpCount)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            animator.SetBool("Jump" , true);
+            animator.SetBool("Jump", true);
             currentJumpCount++;
-            Debug.Log(animator.GetBool("Jump"));
         }
     }
+
+    
+    private void CheckWallSlide()
+    {
+        bool leftHit = Physics2D.Raycast(leftWallCheck.position, Vector2.left, wallCheckDistance, wallLayer);
+        bool rightHit = Physics2D.Raycast(rightWallCheck.position, Vector2.right, wallCheckDistance, wallLayer);
+
+        isTouchingWall = leftHit || rightHit;
+        wallSlideSide = leftHit ? -1 : (rightHit ? 1 : 0);
+
+        isWallSliding = isTouchingWall && !isGrounded && rb.linearVelocity.y < 0;
+
+        if (isWallSliding)
+        {
+            if (wallSlideSide == 1) animator.SetBool("WallSlideRight" , true);
+            else animator.SetBool("WallSlideLeft", true);
+        }
+        else
+        {
+            animator.SetBool("WallSlideLeft", false);
+            animator.SetBool("WallSlideRight", false);
+        }
+    }
+
     
     
     private void StartCharging()
@@ -138,6 +224,8 @@ public class RangePlayer : MonoBehaviour
         isCharging = true;
         currentChargeTime = 0f;
         animator.SetBool("IsAiming", true);
+        // StandCollider.enabled = false;
+        // IsAimingCollider.enabled = true;
     }
 
     private void ReleaseArrow()
@@ -146,24 +234,77 @@ public class RangePlayer : MonoBehaviour
 
         isCharging = false;
         animator.SetBool("IsAiming", false);
+        // StandCollider.enabled = true;   
+        // IsAimingCollider.enabled = false;
 
-        if (isTryingUlty)
+        float launchForce = Mathf.Lerp(minLaunchForce, maxLaunchForce, currentChargeTime / maxChargeTime);
+
+        Vector2 spawnPos = firePoint.position + (facingRight ? Vector3.right : Vector3.left) * 0.5f;
+        GameObject arrow = Instantiate(arrowPrefab, spawnPos, Quaternion.identity); // از firePoint.rotation استفاده نکن
+
+        // جهت و چرخش
+        Vector2 direction = facingRight ? Vector2.right : Vector2.left;
+
+        arrow.GetComponent<RangePlayerArrow>().Launch(direction, launchForce);
+    }
+
+    
+    
+    public void TakeDamage(int damage)
+    {
+        if (isDead || isKnockedBack) return;
+
+        currentHealth -= damage;
+        animator.SetTrigger("Hit");
+
+        StartCoroutine(ApplyKnockback());
+
+        if (currentHealth <= 0)
         {
-            Vector2 direction = facingRight ? Vector2.right : Vector2.left;
-            animator.SetTrigger("Ulty");
-        }
-        else
-        {
-
-            float launchForce = Mathf.Lerp(minLaunchForce, maxLaunchForce, currentChargeTime / maxChargeTime);
-
-            Vector2 spawnPos = firePoint.position + (facingRight ? Vector3.right : Vector3.left) * 0.5f;
-            GameObject arrow = Instantiate(arrowPrefab, spawnPos, firePoint.rotation);
-
-            Vector2 direction = facingRight ? Vector2.right : Vector2.left;
-            arrow.GetComponent<RangePlayerArrow>().Launch(direction, launchForce);
+            Die();
         }
     }
+    
+    private IEnumerator ApplyKnockback()
+    {
+        isKnockedBack = true;
+
+        float direction = facingRight ? -1f : 1f;
+
+        float timer = 0f;
+        Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
+
+        // Reset Y velocity and apply upward motion
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+        transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
+
+        while (timer < knockbackDuration)
+        {
+            transform.position += new Vector3(direction * knockbackForceX * Time.deltaTime, 0f, 0f);
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        isKnockedBack = false;
+    }
+
+
+
+    
+    private void Die()
+    {
+        isDead = true;
+        input = 0f; // متوقف کردن حرکت
+        animator.SetBool("Dead", true);
+        RangeControler.Disable(); // غیرفعال کردن کنترل‌ها
+        rb.linearVelocity = Vector2.zero;
+        rb.bodyType = RigidbodyType2D.Static;
+
+        Destroy(gameObject, 2f); // حذف بعد از 2 ثانیه
+    }
+
+
+
 
 
     private void OnDrawGizmosSelected()
@@ -175,3 +316,6 @@ public class RangePlayer : MonoBehaviour
         }
     }
 }
+
+
+

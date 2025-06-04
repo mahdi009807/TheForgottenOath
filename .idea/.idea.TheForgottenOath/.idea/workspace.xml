@@ -6,11 +6,145 @@
   <component name="ChangeListManager">
     <list default="true" id="7d9f8b2d-2f6f-45e2-b3d5-c91dee5fe11b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/MeleeRun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/MeleeRun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/MeleeWalk.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/MeleeWalk.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinAttack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinAttack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinDeath.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinDeath.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinHurt.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/JungleEnemy/gublinHurt.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Attack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Attack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Dash.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Dash.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Dash_Attack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Dash_Attack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Jump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Jump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Melee_Player.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Melee_Player.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/New Animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/New Animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/Run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/slide.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Melee_Animation/slide.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/IsAiming.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/IsAiming.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Jump.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Range_Player 1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Range_Player 1.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Ulty.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/mahdiH/Range_Animation/Ulty.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/JungleMeleeEnemy 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/JungleMeleeEnemy 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Melee_Player 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Melee_Player 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player_Simple_Arrow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player_Simple_Arrow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/Physics Material 2D.physicsMaterial2D" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/Physics Material 2D.physicsMaterial2D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.inputactions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.inputactions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/mahdiH/MahdiScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/mahdiH/MahdiScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/Enemy1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/Enemy1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayerArrow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayerArrow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Attack.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Attack.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleAttack.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleAttack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleAttack.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleAttack.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleMove.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleMove.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleMove.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/BeetleMove.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Death.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Death.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Idle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Idle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Run.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Run.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Take Hit.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Enemies/Jungle_Enemies/Take Hit.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/air_atk/air_atk_9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/death/death_9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/defend/defend_9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_20.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_20.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_21.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_21.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_22.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_22.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/jump_full/jump_9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow/arrow_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow/arrow_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahdiH/Ranged_Sprites/animations/PNG/projectiles_and_effects/arrow_hit/arrow_hit_6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +156,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Enemy1_Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Melee_Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Melee_Player_movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/Range_Player_Arrow.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/Range_Player_Movement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../unity project/FinalProject/Assets/Scripts/RangePlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Range_Player_Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Updated_RangePlayer_WithWallSlide.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/AfterImage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/ComboRecoveryBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/DogWolfEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/EnemyArcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/EnemyArrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleeEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity project/FinalProject/Assets/Scripts/RangePlayer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -44,6 +189,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -105,12 +251,22 @@
       <workItem from="1748519563932" duration="500000" />
       <workItem from="1748520342075" duration="1163000" />
       <workItem from="1748521828739" duration="10754000" />
+      <workItem from="1748546299342" duration="9456000" />
+      <workItem from="1748581801475" duration="9882000" />
+      <workItem from="1748592843363" duration="20950000" />
+      <workItem from="1748676352066" duration="35293000" />
+      <workItem from="1748752191415" duration="9771000" />
+      <workItem from="1748792018952" duration="1334000" />
+      <workItem from="1748844310869" duration="28514000" />
+      <workItem from="1748929546032" duration="31722000" />
+      <workItem from="1749020192950" duration="19106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />

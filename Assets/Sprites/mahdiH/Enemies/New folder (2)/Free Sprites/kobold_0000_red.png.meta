@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 05f93cf6ff5bebc4bb5a3c268ec0dde4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6037616534982042744
+    second: kobold_0000_red_0
+  - first:
+      213: 1871597604398562837
+    second: kobold_0000_red_1
+  - first:
+      213: 7519431400799145804
+    second: kobold_0000_red_2
+  - first:
+      213: 5001395660463551374
+    second: kobold_0000_red_3
+  - first:
+      213: 6261057670303565512
+    second: kobold_0000_red_4
+  - first:
+      213: -5497448987012065200
+    second: kobold_0000_red_5
+  - first:
+      213: -6610532773008928819
+    second: kobold_0000_red_6
+  - first:
+      213: -3306903337567667968
+    second: kobold_0000_red_7
+  - first:
+      213: -7699043720650948090
+    second: kobold_0000_red_8
+  - first:
+      213: 410601426429704531
+    second: kobold_0000_red_9
+  - first:
+      213: 942431132524163697
+    second: kobold_0000_red_10
+  - first:
+      213: 6531616557327800811
+    second: kobold_0000_red_11
+  - first:
+      213: 4643579191436877698
+    second: kobold_0000_red_12
+  - first:
+      213: -4895504309461646099
+    second: kobold_0000_red_13
+  - first:
+      213: -2053533021820066789
+    second: kobold_0000_red_14
+  - first:
+      213: 1314845181244461696
+    second: kobold_0000_red_15
+  - first:
+      213: -5598493322603905535
+    second: kobold_0000_red_16
+  - first:
+      213: 7136190036204220810
+    second: kobold_0000_red_17
+  - first:
+      213: 5679577224392763508
+    second: kobold_0000_red_18
+  - first:
+      213: -8363505383843989598
+    second: kobold_0000_red_19
+  - first:
+      213: -6382819525437748170
+    second: kobold_0000_red_20
+  - first:
+      213: -8616721801304505558
+    second: kobold_0000_red_21
+  - first:
+      213: -8435590659237353310
+    second: kobold_0000_red_22
+  - first:
+      213: 2096885981839490656
+    second: kobold_0000_red_23
+  - first:
+      213: 4974977441725989387
+    second: kobold_0000_red_24
+  - first:
+      213: -2556861617862915565
+    second: kobold_0000_red_25
+  - first:
+      213: 1202270898083048611
+    second: kobold_0000_red_26
+  - first:
+      213: -758362424357936334
+    second: kobold_0000_red_27
+  - first:
+      213: 8460990321302309631
+    second: kobold_0000_red_28
+  - first:
+      213: 6183550513833343902
+    second: kobold_0000_red_29
+  - first:
+      213: 7728099137553491367
+    second: kobold_0000_red_30
+  - first:
+      213: 8503611241765233276
+    second: kobold_0000_red_31
+  - first:
+      213: -4886764673444637132
+    second: kobold_0000_red_32
+  - first:
+      213: 3504357404726143492
+    second: kobold_0000_red_33
+  - first:
+      213: 6460238708169340870
+    second: kobold_0000_red_34
+  - first:
+      213: 2292762335688194525
+    second: kobold_0000_red_35
+  - first:
+      213: 4426858468118845442
+    second: kobold_0000_red_36
+  - first:
+      213: 5315515435723023735
+    second: kobold_0000_red_37
+  - first:
+      213: -692525103655778971
+    second: kobold_0000_red_38
+  - first:
+      213: 3787685194314399499
+    second: kobold_0000_red_39
+  - first:
+      213: -881988034081481058
+    second: kobold_0000_red_40
+  - first:
+      213: 5498739519926667529
+    second: kobold_0000_red_41
+  - first:
+      213: 183571070355579262
+    second: kobold_0000_red_42
+  - first:
+      213: -9109057675428270798
+    second: kobold_0000_red_43
+  - first:
+      213: 352609662911494133
+    second: kobold_0000_red_44
+  - first:
+      213: 5299612699395407755
+    second: kobold_0000_red_45
+  - first:
+      213: 4938541858264120974
+    second: kobold_0000_red_46
+  - first:
+      213: -7546989573695224241
+    second: kobold_0000_red_47
+  - first:
+      213: 5361279355549833323
+    second: kobold_0000_red_48
+  - first:
+      213: -7586133548029200584
+    second: kobold_0000_red_49
+  - first:
+      213: -4945251496669964176
+    second: kobold_0000_red_50
+  - first:
+      213: 6880403945586111262
+    second: kobold_0000_red_51
+  - first:
+      213: -4044242943898860991
+    second: kobold_0000_red_52
+  - first:
+      213: 1194285974302532282
+    second: kobold_0000_red_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kobold_0000_red_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 904
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87421a9ff3ce9c350800000000000000
+      internalID: 6037616534982042744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 904
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef5a4ea1049f910800000000000000
+      internalID: 1871597604398562837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 905
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0d85f4036a5860800000000000000
+      internalID: 7519431400799145804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 904
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e833c1bcad6886540800000000000000
+      internalID: 5001395660463551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_4
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 905
+        width: 153
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6cda457ceb3e650800000000000000
+      internalID: 6261057670303565512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_5
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 905
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0589056e54325b3b0800000000000000
+      internalID: -5497448987012065200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_6
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 904
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf89b0977ba244a0800000000000000
+      internalID: -6610532773008928819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_7
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 905
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b9b96fe48b12d0800000000000000
+      internalID: -3306903337567667968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_8
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 905
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60206600780872590800000000000000
+      internalID: -7699043720650948090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 725
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597c9662dfb2b500800000000000000
+      internalID: 410601426429704531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 725
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723f5f2f10341d00800000000000000
+      internalID: 942431132524163697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 724
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9559427a6f4aa50800000000000000
+      internalID: 6531616557327800811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 724
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9dfffbae417040800000000000000
+      internalID: 4643579191436877698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_13
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 725
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4052e94ccaf0cb0800000000000000
+      internalID: -4895504309461646099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_14
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 725
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1461e3c8926083e0800000000000000
+      internalID: -2053533021820066789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_15
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 725
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d5bad9b44f3210800000000000000
+      internalID: 1314845181244461696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_16
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 724
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e3cc43cf72e42b0800000000000000
+      internalID: -5598493322603905535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_17
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 724
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8172ad5707d80360800000000000000
+      internalID: 7136190036204220810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 544
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4786456d469e1de40800000000000000
+      internalID: 5679577224392763508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 544
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a779e64a2cdeeb80800000000000000
+      internalID: -8363505383843989598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_20
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 544
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0bd0957bab67a0800000000000000
+      internalID: -6382819525437748170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_21
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 545
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2381e0dc214b6880800000000000000
+      internalID: -8616721801304505558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_22
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 544
+        width: 176
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8ed853df2ceea80800000000000000
+      internalID: -8435590659237353310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_23
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 544
+        width: 143
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef902d0b2a91d10800000000000000
+      internalID: 2096885981839490656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_24
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 546
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02c8abef9baa0540800000000000000
+      internalID: 4974977441725989387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_25
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 546
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4377c7e3348cd0800000000000000
+      internalID: -2556861617862915565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_26
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 546
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca70c03035fa010800000000000000
+      internalID: 1202270898083048611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 364
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233242d9461c975f0800000000000000
+      internalID: -758362424357936334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 365
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0e357ed97b6570800000000000000
+      internalID: 8460990321302309631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_29
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 365
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b78b33e6260d550800000000000000
+      internalID: 6183550513833343902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_30
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 365
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5e0ea6839bf3b60800000000000000
+      internalID: 7728099137553491367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_31
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 364
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726f6dce55e20670800000000000000
+      internalID: 8503611241765233276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_32
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 365
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4369762bb69be2cb0800000000000000
+      internalID: -4886764673444637132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_33
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 366
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a26b22e7af1a030800000000000000
+      internalID: 3504357404726143492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_34
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 366
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c779a490e067a950800000000000000
+      internalID: 6460238708169340870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_35
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 366
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f61d523781df10800000000000000
+      internalID: 2292762335688194525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 184
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208572f725c5f6d30800000000000000
+      internalID: 4426858468118845442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 184
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756060402184c940800000000000000
+      internalID: 5315515435723023735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_38
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 184
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658e8e5618a366f0800000000000000
+      internalID: -692525103655778971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_39
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 184
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fbd10cd9f809430800000000000000
+      internalID: 3787685194314399499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 184
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e9d645e8c82c3f0800000000000000
+      internalID: -881988034081481058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_41
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 185
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90981a5b5727f4c40800000000000000
+      internalID: 5498739519926667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_42
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 186
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7125977aec2c8200800000000000000
+      internalID: 183571070355579262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_43
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 186
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d6d895e40269180800000000000000
+      internalID: -9109057675428270798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_44
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 186
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b536ce98b4e400800000000000000
+      internalID: 352609662911494133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fbc9aeba10c8940800000000000000
+      internalID: 5299612699395407755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_46
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 19
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8efa3297a9398440800000000000000
+      internalID: 4938541858264120974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_47
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 4
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c158e7f4b34790800000000000000
+      internalID: -7546989573695224241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_48
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 5
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68de292b27176a40800000000000000
+      internalID: 5361279355549833323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_49
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837bb0b2bb3a8b690800000000000000
+      internalID: -7586133548029200584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_50
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 4
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078940007ffee5bb0800000000000000
+      internalID: -4945251496669964176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_51
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 9
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133bdf3fea1c7f50800000000000000
+      internalID: 6880403945586111262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_52
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 9
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14247874876ffd7c0800000000000000
+      internalID: -4044242943898860991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kobold_0000_red_53
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 9
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2a88a14c4f29010800000000000000
+      internalID: 1194285974302532282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

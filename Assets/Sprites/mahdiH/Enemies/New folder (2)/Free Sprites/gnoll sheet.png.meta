@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 0f5b43428d72b834f91bbdf9f144f9b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1740603049999449606
+    second: gnoll sheet_0
+  - first:
+      213: -7301750322927625368
+    second: gnoll sheet_1
+  - first:
+      213: 1333099135993403759
+    second: gnoll sheet_2
+  - first:
+      213: -5754818399414650964
+    second: gnoll sheet_3
+  - first:
+      213: 451677857339688724
+    second: gnoll sheet_4
+  - first:
+      213: -2331778847046986184
+    second: gnoll sheet_5
+  - first:
+      213: -2580955498448932087
+    second: gnoll sheet_6
+  - first:
+      213: 1930138906203708326
+    second: gnoll sheet_7
+  - first:
+      213: 3336766513093977973
+    second: gnoll sheet_8
+  - first:
+      213: 5312645114607002719
+    second: gnoll sheet_9
+  - first:
+      213: 8419647442464441378
+    second: gnoll sheet_10
+  - first:
+      213: 2125757946110680461
+    second: gnoll sheet_11
+  - first:
+      213: -4648929764013034689
+    second: gnoll sheet_12
+  - first:
+      213: 1615259459731287899
+    second: gnoll sheet_13
+  - first:
+      213: -7467440449898157466
+    second: gnoll sheet_14
+  - first:
+      213: 1097642066933500769
+    second: gnoll sheet_15
+  - first:
+      213: -3798382934375846666
+    second: gnoll sheet_16
+  - first:
+      213: -6533076271083784435
+    second: gnoll sheet_17
+  - first:
+      213: 9194468369623555216
+    second: gnoll sheet_18
+  - first:
+      213: -4483767834691140309
+    second: gnoll sheet_19
+  - first:
+      213: -2990659479830540389
+    second: gnoll sheet_20
+  - first:
+      213: 4322415944304205182
+    second: gnoll sheet_21
+  - first:
+      213: 1440124601104625602
+    second: gnoll sheet_22
+  - first:
+      213: -7813780200805068482
+    second: gnoll sheet_23
+  - first:
+      213: -603188530506220060
+    second: gnoll sheet_24
+  - first:
+      213: 6989431448350405992
+    second: gnoll sheet_25
+  - first:
+      213: -7607254666707845307
+    second: gnoll sheet_26
+  - first:
+      213: 4333120971736444490
+    second: gnoll sheet_27
+  - first:
+      213: 3731909079411109384
+    second: gnoll sheet_28
+  - first:
+      213: 3130713145476018006
+    second: gnoll sheet_29
+  - first:
+      213: -6112814460397338995
+    second: gnoll sheet_30
+  - first:
+      213: -3419434991492732305
+    second: gnoll sheet_31
+  - first:
+      213: 8203154732148957276
+    second: gnoll sheet_32
+  - first:
+      213: -4910518807900687941
+    second: gnoll sheet_33
+  - first:
+      213: 3094046530893240738
+    second: gnoll sheet_34
+  - first:
+      213: 4165665027319424594
+    second: gnoll sheet_35
+  - first:
+      213: -2313130553463669802
+    second: gnoll sheet_36
+  - first:
+      213: -975055524080995416
+    second: gnoll sheet_37
+  - first:
+      213: 7217251961432847856
+    second: gnoll sheet_38
+  - first:
+      213: -929392767932039855
+    second: gnoll sheet_39
+  - first:
+      213: -158033655700912231
+    second: gnoll sheet_40
+  - first:
+      213: 2523863976565078588
+    second: gnoll sheet_41
+  - first:
+      213: -2329013544074463238
+    second: gnoll sheet_42
+  - first:
+      213: 5163675171681074787
+    second: gnoll sheet_43
+  - first:
+      213: -1867571630399310695
+    second: gnoll sheet_44
+  - first:
+      213: 7899441131240792786
+    second: gnoll sheet_45
+  - first:
+      213: -7071617816645718741
+    second: gnoll sheet_46
+  - first:
+      213: -1948200920557791500
+    second: gnoll sheet_47
+  - first:
+      213: 6839631193681669283
+    second: gnoll sheet_48
+  - first:
+      213: -3858852731547614897
+    second: gnoll sheet_49
+  - first:
+      213: 151722585513533095
+    second: gnoll sheet_50
+  - first:
+      213: 4584556914172983364
+    second: gnoll sheet_51
+  - first:
+      213: -1935383981379231066
+    second: gnoll sheet_52
+  - first:
+      213: -4605180000230774714
+    second: gnoll sheet_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gnoll sheet_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1089
+        width: 161
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ebd2a704dd72810800000000000000
+      internalID: 1740603049999449606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1089
+        width: 156
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1e4384c8faaa90800000000000000
+      internalID: -7301750322927625368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1089
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695443e99e108210800000000000000
+      internalID: 1333099135993403759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1090
+        width: 141
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f104f727c220b0800000000000000
+      internalID: -5754818399414650964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1090
+        width: 203
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41744af3e9ea44600800000000000000
+      internalID: 451677857339688724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1090
+        width: 181
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369efe2e7bd3afd0800000000000000
+      internalID: -2331778847046986184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1091
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033cdd06aa9e2cd0800000000000000
+      internalID: -2580955498448932087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1091
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abde6fdb1b39ca10800000000000000
+      internalID: 1930138906203708326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 1091
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a267f6739e4e20800000000000000
+      internalID: 3336766513093977973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 873
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f546dd9859e4ab940800000000000000
+      internalID: 5312645114607002719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 873
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248e1e5db898d470800000000000000
+      internalID: 8419647442464441378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 873
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d1468d695308d10800000000000000
+      internalID: 2125757946110680461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 874
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33334eb20fab7fb0800000000000000
+      internalID: -4648929764013034689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 197
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f6f5dabed8a6610800000000000000
+      internalID: 1615259459731287899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 874
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aef6a99725e5890800000000000000
+      internalID: -7467440449898157466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 874
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc812f4ab9b3f00800000000000000
+      internalID: 1097642066933500769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 874
+        width: 133
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2f9b88de694bc0800000000000000
+      internalID: -3798382934375846666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 874
+        width: 133
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d077483ceb9d555a0800000000000000
+      internalID: -6533076271083784435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 657
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1afd8440599f70800000000000000
+      internalID: 9194468369623555216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 657
+        width: 127
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2589ed09e476c1c0800000000000000
+      internalID: -4483767834691140309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_20
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 657
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fcb8c5c0b0f76d0800000000000000
+      internalID: -2990659479830540389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 657
+        width: 141
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d9cb3766e4cfb30800000000000000
+      internalID: 4322415944304205182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 657
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6421d1b95cf310800000000000000
+      internalID: 1440124601104625602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 657
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31980a7e40ef8390800000000000000
+      internalID: -7813780200805068482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 658
+        width: 143
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed36923a3b01a7f0800000000000000
+      internalID: -603188530506220060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 658
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865bed4eed27ff060800000000000000
+      internalID: 6989431448350405992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 658
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f32f28f2a9d6690800000000000000
+      internalID: -7607254666707845307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 441
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6521e096522c30800000000000000
+      internalID: 4333120971736444490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 441
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eaa5409876ac330800000000000000
+      internalID: 3731909079411109384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_29
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 441
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f6eb1c407827b20800000000000000
+      internalID: 3130713145476018006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 441
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3526a2abea2ba0800000000000000
+      internalID: -6112814460397338995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 441
+        width: 132
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae88ffdf9bb80d0800000000000000
+      internalID: -3419434991492732305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 441
+        width: 133
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50ad4744c577d170800000000000000
+      internalID: 8203154732148957276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 441
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1743849255adbb0800000000000000
+      internalID: -4910518807900687941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 441
+        width: 140
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9db684de240fa20800000000000000
+      internalID: 3094046530893240738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 441
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25664ae854a6fc930800000000000000
+      internalID: 4165665027319424594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf1b1640c16efd0800000000000000
+      internalID: -2313130553463669802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 224
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3bedaba28e772f0800000000000000
+      internalID: -975055524080995416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_38
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 224
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f532b79b64d82460800000000000000
+      internalID: 7217251961432847856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 225
+        width: 97
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df792a3322a13f0800000000000000
+      internalID: -929392767932039855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 225
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99704693a3d8ecdf0800000000000000
+      internalID: -158033655700912231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 225
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af0982ae0960320800000000000000
+      internalID: 2523863976565078588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 225
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af73e54758eadafd0800000000000000
+      internalID: -2329013544074463238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 225
+        width: 140
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36efd87d53f09a740800000000000000
+      internalID: 5163675171681074787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 225
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b3793f7d0516e0800000000000000
+      internalID: -1867571630399310695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 179
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a7b71bd370ad60800000000000000
+      internalID: 7899441131240792786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 11
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d228310119cdd90800000000000000
+      internalID: -7071617816645718741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_47
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 11
+        width: 176
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65013b59996f4e0800000000000000
+      internalID: -1948200920557791500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 8
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca31e25504bee50800000000000000
+      internalID: 6839631193681669283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 8
+        width: 133
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410f8fb2e9927ac0800000000000000
+      internalID: -3858852731547614897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 8
+        width: 133
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae10fd33e60b1200800000000000000
+      internalID: 151722585513533095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 0
+        width: 154
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44877d1393e9f9f30800000000000000
+      internalID: 4584556914172983364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 0
+        width: 154
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2e8e5e5822425e0800000000000000
+      internalID: -1935383981379231066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnoll sheet_53
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 0
+        width: 154
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e287603d1710c0800000000000000
+      internalID: -4605180000230774714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
