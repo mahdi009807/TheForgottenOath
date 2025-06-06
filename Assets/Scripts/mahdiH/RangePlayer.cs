@@ -303,8 +303,8 @@ public class RangePlayer : MonoBehaviour
         Destroy(gameObject, 2f); // حذف بعد از 2 ثانیه
     }
 
-
-
+    
+    public bool IsDead() => isDead;
 
 
     private void OnDrawGizmosSelected()

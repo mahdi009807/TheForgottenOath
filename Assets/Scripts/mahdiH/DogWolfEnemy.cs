@@ -14,6 +14,8 @@ public class DogWolfEnemy : MonoBehaviour
     public int damage = 20;
     public int maxHealth = 3;
     private Coroutine returnCoroutine;
+    // [SerializeField]private float attackingAnimationCooldown;
+    // [SerializeField] private bool AttackingTime = false;
 
 
     [Header("References")]
@@ -21,12 +23,12 @@ public class DogWolfEnemy : MonoBehaviour
     public Transform rangePlayer;
     public Animator animator;
 
-    [SerializeField] private int currentHealth;
+    private int currentHealth;
     private Vector3 startPosition;
     private Transform targetPlayer;
     private bool isChasing = false;
     private bool isReturning = false;
-    [SerializeField]private bool isStoppedAfterHit = false;
+    private bool isStoppedAfterHit = false;
     private bool isKnockedBack = false;
     private bool isDead = false;
     private bool canAttack = true;
@@ -40,18 +42,37 @@ public class DogWolfEnemy : MonoBehaviour
     void Update()
     {
         if (isDead || isKnockedBack) return;
+        
+        // if (AttackingTime) return; 
 
         float distToMelee = Vector2.Distance(transform.position, meleePlayer.position);
         float distToRange = Vector2.Distance(transform.position, rangePlayer.position);
         float verticalDistMelee = Mathf.Abs(transform.position.y - meleePlayer.position.y);
         float verticalDistRange = Mathf.Abs(transform.position.y - rangePlayer.position.y);
+        
+        bool isMeleeAlive = meleePlayer != null && !meleePlayer.GetComponent<MeleePlayer>().IsDead();
+        bool isRangeAlive = rangePlayer != null && !rangePlayer.GetComponent<RangePlayer>().IsDead();
 
-        bool meleeInRange = distToMelee <= detectionRange && verticalDistMelee <= verticalDetectionRange;
-        bool rangeInRange = distToRange <= detectionRange && verticalDistRange <= verticalDetectionRange;
+
+        bool meleeInRange = isMeleeAlive && distToMelee <= detectionRange && verticalDistMelee <= verticalDetectionRange;
+        bool rangeInRange = isRangeAlive && distToRange <= detectionRange && verticalDistRange <= verticalDetectionRange;
+
 
         if ((meleeInRange || rangeInRange) && !isDead)
         {
-            targetPlayer = distToMelee < distToRange ? meleePlayer : rangePlayer;
+            if (meleeInRange && rangeInRange)
+            {
+                targetPlayer = distToMelee < distToRange ? meleePlayer : rangePlayer;
+            }
+            else if (meleeInRange)
+            {
+                targetPlayer = meleePlayer;
+            }
+            else if (rangeInRange)
+            {
+                targetPlayer = rangePlayer;
+            }
+            
             isChasing = true;
             isReturning = false;
 
@@ -107,6 +128,8 @@ public class DogWolfEnemy : MonoBehaviour
             {
                 animator.SetTrigger("Attack");
 
+                // StartCoroutine(waitForAttacking());
+
                 if (targetPlayer.TryGetComponent<MeleePlayer>(out MeleePlayer melee))
                     melee.TakeDamage(damage , transform);
                 if (targetPlayer.TryGetComponent<RangePlayer>(out RangePlayer range))
@@ -116,6 +139,13 @@ public class DogWolfEnemy : MonoBehaviour
             }
         }
     }
+
+    // private IEnumerator waitForAttacking()
+    // {
+    //     AttackingTime = true;
+    //     yield return new WaitForSeconds(attackingAnimationCooldown);
+    //     AttackingTime = false;
+    // }
 
     private IEnumerator StopAfterHit()
     {

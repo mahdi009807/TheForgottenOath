@@ -45,7 +45,7 @@ public class MeleePlayer : MonoBehaviour
     [Header("Health")]
     [SerializeField]private float maxHealth = 100f;
     [SerializeField]private float currecntHealth;
-    [SerializeField]private bool isDead = false;
+    private bool isDead = false;
     
     [Header("Knockback")]
     public float knockbackForceX = 8f;
@@ -499,7 +499,7 @@ public class MeleePlayer : MonoBehaviour
     }
 
 
-    
+    public bool IsDead() => isDead;
     
     private void OnDrawGizmosSelected()
     {
