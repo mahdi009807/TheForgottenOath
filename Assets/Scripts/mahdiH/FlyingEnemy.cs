@@ -78,10 +78,10 @@ public class FlyingEnemy : MonoBehaviour
             if (Vector2.Distance(transform.position, targetPlayer.position) <= damageDistance)
             {
                 if (targetPlayer.TryGetComponent<MeleePlayer>(out MeleePlayer melee))
-                    melee.TakeDamage(20);
+                    melee.TakeDamage(20 , transform);
 
                 if (targetPlayer.TryGetComponent<RangePlayer>(out RangePlayer range))
-                    range.TakeDamage(20);
+                    range.TakeDamage(20 , transform);
             }
 
             elapsed += Time.deltaTime;

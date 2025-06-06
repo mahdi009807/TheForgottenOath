@@ -67,6 +67,12 @@ public class RangePlayerArrow : MonoBehaviour
                 dog.TakeDamage(1); // یا مقدار دلخواه
             }
 
+            EnemyArcher archer = collision.GetComponent<EnemyArcher>();
+            if (archer != null)
+            {
+                archer.TakeDamage(1 , transform);
+            }
+
 
             // if (collision.CompareTag("Knight"))
             // {

@@ -6,7 +6,7 @@ public class ComboRecoveryBehaviour : StateMachineBehaviour
     public string nextAttackTrigger;
 
     [Tooltip("Max time to accept the next attack input (in seconds)")]
-    public float inputTimeout = 0.7f;
+    public float inputTimeout = 1f;
 
     private float timer;
 

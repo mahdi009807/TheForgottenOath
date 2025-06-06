@@ -15,15 +15,27 @@ public class EnemyArcher : MonoBehaviour
     public Transform meleePlayer;
     public Transform rangePlayer;
     public Animator animator;
+    
+    [Header("Knockback Settings")]
+    public float knockbackForceX = 4f;
+    public float knockbackForceY = 3f;
+    public float knockbackDuration = 0.2f;
+
+    private bool isKnockedBack = false;
+    private Rigidbody2D rb;
+
 
     private float nextShootTime;
     private int currentHealth;
     private bool isDead = false;
+    [SerializeField] private float DieDuration;
 
     private void Start()
     {
         currentHealth = maxHealth;
+        rb = GetComponent<Rigidbody2D>();
     }
+
 
     private void Update()
     {
@@ -79,25 +91,65 @@ public class EnemyArcher : MonoBehaviour
 
 
 
-    public void TakeDamage(int dmg)
+    public void TakeDamage(int dmg, Transform attacker)
     {
-        if (isDead) return;
+        if (isDead || isKnockedBack) return;
 
         currentHealth -= dmg;
         animator.SetTrigger("Hurt");
+
+        Vector2 direction = (transform.position - attacker.position).normalized;
+        StartCoroutine(ApplyKnockback(direction));
 
         if (currentHealth <= 0)
         {
             Die();
         }
     }
+    
+    private IEnumerator ApplyKnockback(Vector2 direction)
+    {
+        isKnockedBack = true;
+
+        Vector2 knockDir = new Vector2(direction.x, 1f).normalized;
+        rb.linearVelocity = Vector2.zero; // reset velocity
+        rb.AddForce(new Vector2(knockDir.x * knockbackForceX, knockbackForceY), ForceMode2D.Impulse);
+
+        yield return new WaitForSeconds(knockbackDuration);
+        isKnockedBack = false;
+    }
+
+
 
     private void Die()
     {
         isDead = true;
         animator.SetTrigger("Die");
-        Destroy(gameObject, 2f);
+        rb.linearVelocity = Vector2.zero;
+        rb.bodyType = RigidbodyType2D.Kinematic; // دیگه فیزیک روش اعمال نشه
+        StartCoroutine(SinkIntoGround());
     }
+    
+    private IEnumerator SinkIntoGround()
+    {
+        yield return new WaitForSeconds(DieDuration);
+        float duration = 1.5f; // مدت زمان فرو رفتن
+        float elapsed = 0f;
+        Vector3 startPos = transform.position;
+        Vector3 targetPos = startPos + Vector3.down * 0.5f; // نصف واحد به پایین
+
+        while (elapsed < duration)
+        {
+            transform.position = Vector3.Lerp(startPos, targetPos, elapsed / duration);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = targetPos;
+        Destroy(gameObject);
+    }
+
+
 
     private void OnDrawGizmosSelected()
     {

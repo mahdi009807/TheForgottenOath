@@ -250,31 +250,30 @@ public class RangePlayer : MonoBehaviour
 
     
     
-    public void TakeDamage(int damage)
+    public void TakeDamage(int damage, Transform attacker)
     {
         if (isDead || isKnockedBack) return;
 
         currentHealth -= damage;
         animator.SetTrigger("Hit");
 
-        StartCoroutine(ApplyKnockback());
+        float direction = Mathf.Sign(transform.position.x - attacker.position.x);
+        StartCoroutine(ApplyKnockback(direction));
 
         if (currentHealth <= 0)
         {
             Die();
         }
     }
+
     
-    private IEnumerator ApplyKnockback()
+    private IEnumerator ApplyKnockback(float direction)
     {
         isKnockedBack = true;
 
-        float direction = facingRight ? -1f : 1f;
-
         float timer = 0f;
-        Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
 
-        // Reset Y velocity and apply upward motion
+        // Reset Y velocity and apply upward knock
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
 
@@ -287,6 +286,7 @@ public class RangePlayer : MonoBehaviour
 
         isKnockedBack = false;
     }
+
 
 
 

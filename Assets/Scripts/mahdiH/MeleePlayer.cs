@@ -295,12 +295,22 @@ public class MeleePlayer : MonoBehaviour
             
             if (enemy.TryGetComponent<FlyingEnemy>(out FlyingEnemy flying))
             {
-                flying.TakeDamage((int)attackDamage); // اگر نیاز بود می‌توانی تبدیل نوع را تغییر بدهی
+                flying.TakeDamage((int)attackDamage); 
             }
             
             if (enemy.TryGetComponent<DogWolfEnemy>(out DogWolfEnemy dog))
             {
                 dog.TakeDamage((int)attackDamage);
+            }
+            
+            if (enemy.TryGetComponent<EnemyArcher>(out EnemyArcher archer))
+            {
+                archer.TakeDamage((int)attackDamage , transform);
+            }
+
+            if (enemy.TryGetComponent<LavaEnemyRange>(out LavaEnemyRange FireMan))
+            {
+                FireMan.TakeDamage((int) attackDamage , transform);
             }
 
 
@@ -340,34 +350,33 @@ public class MeleePlayer : MonoBehaviour
 
 
     
-    public void TakeDamage(float damage)
+    public void TakeDamage(float damage, Transform attacker)
     {
         if (isDead || isAttacking) return;
 
         currecntHealth -= damage;
         animator.SetTrigger("Hurt");
 
-        // اجرای ضربه‌ی برگشتی (Knockback)
-        StartCoroutine(ApplyKnockback());
+        float direction = Mathf.Sign(transform.position.x - attacker.position.x); // از دشمن دور شو
+
+        StartCoroutine(ApplyKnockback(direction));
 
         if (currecntHealth <= 0)
         {
             StartCoroutine(Die());
         }
     }
+
     
-    private IEnumerator ApplyKnockback()
+    private IEnumerator ApplyKnockback(float direction)
     {
         isKnockedBack = true;
-
-        float direction = facingRight ? -1f : 1f;
 
         float timer = 0f;
 
         Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
 
-        // پرش اولیه به سمت عقب (فقط یکبار، فقط محور Y)
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // صفر کردن سرعت Y برای کنترل بیشتر
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
 
         while (timer < knockbackDuration)
@@ -379,6 +388,7 @@ public class MeleePlayer : MonoBehaviour
 
         isKnockedBack = false;
     }
+
     
 
 
@@ -489,12 +499,7 @@ public class MeleePlayer : MonoBehaviour
     }
 
 
-
-
-
-
-
-
+    
     
     private void OnDrawGizmosSelected()
     {

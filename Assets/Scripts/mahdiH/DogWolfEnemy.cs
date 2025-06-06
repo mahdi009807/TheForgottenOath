@@ -108,9 +108,9 @@ public class DogWolfEnemy : MonoBehaviour
                 animator.SetTrigger("Attack");
 
                 if (targetPlayer.TryGetComponent<MeleePlayer>(out MeleePlayer melee))
-                    melee.TakeDamage(damage);
+                    melee.TakeDamage(damage , transform);
                 if (targetPlayer.TryGetComponent<RangePlayer>(out RangePlayer range))
-                    range.TakeDamage(damage);
+                    range.TakeDamage(damage , transform);
 
                 StartCoroutine(StopAfterHit());
             }

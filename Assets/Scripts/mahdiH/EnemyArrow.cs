@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyArrow : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed = 20f;
     private Vector2 direction;
     private int damage;
     private bool hasHit = false;
@@ -45,14 +45,14 @@ public class EnemyArrow : MonoBehaviour
         // برخورد با بازیکن
         else if (other.TryGetComponent<MeleePlayer>(out MeleePlayer melee))
         {
-            melee.TakeDamage(damage);
+            melee.TakeDamage(damage , transform);
             hasHit = true;
             StopArrow();
             Destroy(gameObject, 0.2f); // تاخیر جزئی در حذف برای افکت احتمالی
         }
         else if (other.TryGetComponent<RangePlayer>(out RangePlayer range))
         {
-            range.TakeDamage(damage);
+            range.TakeDamage(damage , transform);
             hasHit = true;
             StopArrow();
             Destroy(gameObject, 0.2f);
