@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: b0a5d3229aa562240bc39add1cfb6071
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1109979328324186095
+    second: zombie2 battler_0
+  - first:
+      213: -1930964421528776199
+    second: zombie2 battler_1
+  - first:
+      213: -1256651184948566800
+    second: zombie2 battler_2
+  - first:
+      213: -1959787264991936262
+    second: zombie2 battler_3
+  - first:
+      213: -6235690627645468991
+    second: zombie2 battler_4
+  - first:
+      213: 1546419994026431347
+    second: zombie2 battler_5
+  - first:
+      213: 8770192193732286130
+    second: zombie2 battler_6
+  - first:
+      213: -1176803374451370785
+    second: zombie2 battler_7
+  - first:
+      213: -728034199085510176
+    second: zombie2 battler_8
+  - first:
+      213: -4087214675302024052
+    second: zombie2 battler_9
+  - first:
+      213: -9148139115294217671
+    second: zombie2 battler_10
+  - first:
+      213: 4042187725018655419
+    second: zombie2 battler_11
+  - first:
+      213: 4567139196518090951
+    second: zombie2 battler_12
+  - first:
+      213: -209851004581987106
+    second: zombie2 battler_13
+  - first:
+      213: 981633771740635977
+    second: zombie2 battler_14
+  - first:
+      213: 8224100919707803138
+    second: zombie2 battler_15
+  - first:
+      213: 7433520637206137669
+    second: zombie2 battler_16
+  - first:
+      213: 8835363588332941274
+    second: zombie2 battler_17
+  - first:
+      213: -4154458414477084177
+    second: zombie2 battler_18
+  - first:
+      213: -6751636847821904860
+    second: zombie2 battler_19
+  - first:
+      213: -7208408279400305474
+    second: zombie2 battler_20
+  - first:
+      213: -1911460231456894977
+    second: zombie2 battler_21
+  - first:
+      213: 8217413123409228236
+    second: zombie2 battler_22
+  - first:
+      213: -5410751536996260197
+    second: zombie2 battler_23
+  - first:
+      213: 1581127125966553614
+    second: zombie2 battler_24
+  - first:
+      213: 4455872758914258934
+    second: zombie2 battler_25
+  - first:
+      213: 9207239062838581930
+    second: zombie2 battler_26
+  - first:
+      213: -1195345640529193179
+    second: zombie2 battler_27
+  - first:
+      213: 3195779395640874130
+    second: zombie2 battler_28
+  - first:
+      213: 4294395175051140199
+    second: zombie2 battler_29
+  - first:
+      213: 3723351108271167311
+    second: zombie2 battler_30
+  - first:
+      213: -247802859846692554
+    second: zombie2 battler_31
+  - first:
+      213: -3923824869079657275
+    second: zombie2 battler_32
+  - first:
+      213: -2501774198545899317
+    second: zombie2 battler_33
+  - first:
+      213: -5320828426957782830
+    second: zombie2 battler_34
+  - first:
+      213: -1762688346644047757
+    second: zombie2 battler_35
+  - first:
+      213: 3393827316444396738
+    second: zombie2 battler_36
+  - first:
+      213: -6343705597137545682
+    second: zombie2 battler_37
+  - first:
+      213: -7259859380614866063
+    second: zombie2 battler_38
+  - first:
+      213: -1242820824064049503
+    second: zombie2 battler_39
+  - first:
+      213: -7754210948734768730
+    second: zombie2 battler_40
+  - first:
+      213: 2542215640700707898
+    second: zombie2 battler_41
+  - first:
+      213: -2119750202830041584
+    second: zombie2 battler_42
+  - first:
+      213: -8554693845924411016
+    second: zombie2 battler_43
+  - first:
+      213: 341620694761573271
+    second: zombie2 battler_44
+  - first:
+      213: 390923021714324756
+    second: zombie2 battler_45
+  - first:
+      213: -2092164987064767322
+    second: zombie2 battler_46
+  - first:
+      213: -8577485915769000500
+    second: zombie2 battler_47
+  - first:
+      213: 858420224622151588
+    second: zombie2 battler_48
+  - first:
+      213: -3152201438975960509
+    second: zombie2 battler_49
+  - first:
+      213: -6392234577421942770
+    second: zombie2 battler_50
+  - first:
+      213: -2487857018174665383
+    second: zombie2 battler_51
+  - first:
+      213: -7958656974001733675
+    second: zombie2 battler_52
+  - first:
+      213: 5179216997817845423
+    second: zombie2 battler_53
+  - first:
+      213: -202136449374611889
+    second: zombie2 battler_54
+  - first:
+      213: -5181418167357861232
+    second: zombie2 battler_55
+  - first:
+      213: 6614199804304371650
+    second: zombie2 battler_56
+  - first:
+      213: -5420323057669147604
+    second: zombie2 battler_57
+  - first:
+      213: -2077397134871180710
+    second: zombie2 battler_58
+  - first:
+      213: 8813560555259022314
+    second: zombie2 battler_59
+  - first:
+      213: 2934530643837028693
+    second: zombie2 battler_60
+  - first:
+      213: 8775532693169855791
+    second: zombie2 battler_61
+  - first:
+      213: 7804510015924908472
+    second: zombie2 battler_62
+  - first:
+      213: 2819287156219432266
+    second: zombie2 battler_63
+  - first:
+      213: -1357730398401700197
+    second: zombie2 battler_64
+  - first:
+      213: -8263278654970045228
+    second: zombie2 battler_65
+  - first:
+      213: -2267860106180457547
+    second: zombie2 battler_66
+  - first:
+      213: 4074433554142258230
+    second: zombie2 battler_67
+  - first:
+      213: -4324269664391916448
+    second: zombie2 battler_68
+  - first:
+      213: 5189314689609279576
+    second: zombie2 battler_69
+  - first:
+      213: -4182596068137733473
+    second: zombie2 battler_70
+  - first:
+      213: -1455083760517186635
+    second: zombie2 battler_71
+  - first:
+      213: -5103176557784871915
+    second: zombie2 battler_72
+  - first:
+      213: -5085415796531861808
+    second: zombie2 battler_73
+  - first:
+      213: -9010004018227273257
+    second: zombie2 battler_74
+  - first:
+      213: 6898290625376702230
+    second: zombie2 battler_75
+  - first:
+      213: -7475057341143481479
+    second: zombie2 battler_76
+  - first:
+      213: -4301462257692202398
+    second: zombie2 battler_77
+  - first:
+      213: -3475016088134640591
+    second: zombie2 battler_78
+  - first:
+      213: 7578259821630270511
+    second: zombie2 battler_79
+  - first:
+      213: -4228893962823214653
+    second: zombie2 battler_80
+  - first:
+      213: -3932301524578418849
+    second: zombie2 battler_81
+  - first:
+      213: 1887324514816491200
+    second: zombie2 battler_82
+  - first:
+      213: 404698472721003527
+    second: zombie2 battler_83
+  - first:
+      213: -621707831582625764
+    second: zombie2 battler_84
+  - first:
+      213: 2272969176302008860
+    second: zombie2 battler_85
+  - first:
+      213: -3471981633841903919
+    second: zombie2 battler_86
+  - first:
+      213: -106047812630199747
+    second: zombie2 battler_87
+  - first:
+      213: -5739068045312942912
+    second: zombie2 battler_88
+  - first:
+      213: -7018493984880775233
+    second: zombie2 battler_89
+  - first:
+      213: 6282675515483438814
+    second: zombie2 battler_90
+  - first:
+      213: -9206193419168081009
+    second: zombie2 battler_91
+  - first:
+      213: -4231906053690024755
+    second: zombie2 battler_92
+  - first:
+      213: -2360291498805439239
+    second: zombie2 battler_93
+  - first:
+      213: 99720226920289639
+    second: zombie2 battler_94
+  - first:
+      213: 7852866691278721996
+    second: zombie2 battler_95
+  - first:
+      213: -3493258149824329699
+    second: zombie2 battler_96
+  - first:
+      213: -2561094796040274187
+    second: zombie2 battler_97
+  - first:
+      213: 5443323900010795104
+    second: zombie2 battler_98
+  - first:
+      213: -7939583815422366612
+    second: zombie2 battler_99
+  - first:
+      213: 867051645382794531
+    second: zombie2 battler_100
+  - first:
+      213: 6389708733522484923
+    second: zombie2 battler_101
+  - first:
+      213: -1224413826177465796
+    second: zombie2 battler_102
+  - first:
+      213: 2228358096382862411
+    second: zombie2 battler_103
+  - first:
+      213: -6615868280991843716
+    second: zombie2 battler_104
+  - first:
+      213: -4020785173910692816
+    second: zombie2 battler_105
+  - first:
+      213: 4298148078392292536
+    second: zombie2 battler_106
+  - first:
+      213: 5548151640095699534
+    second: zombie2 battler_107
+  - first:
+      213: 267246876956592963
+    second: zombie2 battler_108
+  - first:
+      213: -2968030742968589470
+    second: zombie2 battler_109
+  - first:
+      213: -814636945254370798
+    second: zombie2 battler_110
+  - first:
+      213: -3523736996944904738
+    second: zombie2 battler_111
+  - first:
+      213: -5829394890701718608
+    second: zombie2 battler_112
+  - first:
+      213: -8364521666519056736
+    second: zombie2 battler_113
+  - first:
+      213: -6279885055788344815
+    second: zombie2 battler_114
+  - first:
+      213: -7477464950570397048
+    second: zombie2 battler_115
+  - first:
+      213: -2967922068386311866
+    second: zombie2 battler_116
+  - first:
+      213: 5108090767934177210
+    second: zombie2 battler_117
+  - first:
+      213: -1139017927118506348
+    second: zombie2 battler_118
+  - first:
+      213: -1103455607385384733
+    second: zombie2 battler_119
+  - first:
+      213: 3877087663683415234
+    second: zombie2 battler_120
+  - first:
+      213: 6770830708086727825
+    second: zombie2 battler_121
+  - first:
+      213: 4140424128977845501
+    second: zombie2 battler_122
+  - first:
+      213: 7529439581088140551
+    second: zombie2 battler_123
+  - first:
+      213: 4802315414335152835
+    second: zombie2 battler_124
+  - first:
+      213: -6744532949788367316
+    second: zombie2 battler_125
+  - first:
+      213: 100119608514372371
+    second: zombie2 battler_126
+  - first:
+      213: -3826766393251260281
+    second: zombie2 battler_127
+  - first:
+      213: 2633580330061800074
+    second: zombie2 battler_128
+  - first:
+      213: 7217313466618803052
+    second: zombie2 battler_129
+  - first:
+      213: -6251125034425138586
+    second: zombie2 battler_130
+  - first:
+      213: -1222712733188907702
+    second: zombie2 battler_131
+  - first:
+      213: -7331395420199162054
+    second: zombie2 battler_132
+  - first:
+      213: -4642322129353293525
+    second: zombie2 battler_133
+  - first:
+      213: 2715831859694601497
+    second: zombie2 battler_134
+  - first:
+      213: -1885384087833804533
+    second: zombie2 battler_135
+  - first:
+      213: -1729850831311662001
+    second: zombie2 battler_136
+  - first:
+      213: 726330120420381380
+    second: zombie2 battler_137
+  - first:
+      213: 1163729401931365691
+    second: zombie2 battler_138
+  - first:
+      213: -1109461917906504948
+    second: zombie2 battler_139
+  - first:
+      213: 9175616854296668405
+    second: zombie2 battler_140
+  - first:
+      213: -661292919724022515
+    second: zombie2 battler_141
+  - first:
+      213: -2768491912901418315
+    second: zombie2 battler_142
+  - first:
+      213: -2727628045356337371
+    second: zombie2 battler_143
+  - first:
+      213: 4389566476839374757
+    second: zombie2 battler_144
+  - first:
+      213: 7650104660613281330
+    second: zombie2 battler_145
+  - first:
+      213: 1345267557141142576
+    second: zombie2 battler_146
+  - first:
+      213: -187092800875077703
+    second: zombie2 battler_147
+  - first:
+      213: 7831960118467900154
+    second: zombie2 battler_148
+  - first:
+      213: 837979838566133718
+    second: zombie2 battler_149
+  - first:
+      213: 4962207777688846009
+    second: zombie2 battler_150
+  - first:
+      213: -4099078920360857348
+    second: zombie2 battler_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie2 battler_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1115
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2ac47150776f00800000000000000
+      internalID: 1109979328324186095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1000
+        width: 91
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11cdcd616d335e0800000000000000
+      internalID: -1930964421528776199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f42192c76a7f8ee0800000000000000
+      internalID: -1256651184948566800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1000
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af042daaddf6dc4e0800000000000000
+      internalID: -1959787264991936262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce85f989606679a0800000000000000
+      internalID: -6235690627645468991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1000
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d1819accf57510800000000000000
+      internalID: 1546419994026431347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1115
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6115f655bf5b970800000000000000
+      internalID: 8770192193732286130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1001
+        width: 91
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4585fd0972bafe0800000000000000
+      internalID: -1176803374451370785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_8
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11c23d0c085e5f0800000000000000
+      internalID: -728034199085510176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_9
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 986
+        width: 204
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cfbd568eb4747c0800000000000000
+      internalID: -4087214675302024052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_10
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1001
+        width: 106
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a280d81f74b0180800000000000000
+      internalID: -9148139115294217671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_11
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba6e29c15cb81830800000000000000
+      internalID: 4042187725018655419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1001
+        width: 120
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84938c6ecb16f30800000000000000
+      internalID: 4567139196518090951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_13
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1001
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcb1288f95761df0800000000000000
+      internalID: -209851004581987106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_14
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1001
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a028e6b67f9d00800000000000000
+      internalID: 981633771740635977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1091
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e952c9630e12270800000000000000
+      internalID: 8224100919707803138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1097
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b053392ab292760800000000000000
+      internalID: 7433520637206137669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1093
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf61003f548d9a70800000000000000
+      internalID: 8835363588332941274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_18
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1092
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f5f255166856c0800000000000000
+      internalID: -4154458414477084177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1091
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42423210f0e5d42a0800000000000000
+      internalID: -6751636847821904860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1077
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2c569cd696fb90800000000000000
+      internalID: -7208408279400305474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 800
+        width: 119
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc9bdfb012975e0800000000000000
+      internalID: -1911460231456894977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 920
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b071b2bd1a0270800000000000000
+      internalID: 8217413123409228236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 800
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96607df42629e4b0800000000000000
+      internalID: -5410751536996260197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_24
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 800
+        width: 106
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0288ff6eba41f510800000000000000
+      internalID: 1581127125966553614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_25
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 915
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f79c6f7aa076dd30800000000000000
+      internalID: 4455872758914258934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_26
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 801
+        width: 98
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1896452fa6cf70800000000000000
+      internalID: 9207239062838581930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_27
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 920
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52712702977496fe0800000000000000
+      internalID: -1195345640529193179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_28
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 801
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dfa9ad60b95c20800000000000000
+      internalID: 3195779395640874130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_29
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 915
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1316b8a1c89b30800000000000000
+      internalID: 4294395175051140199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475f861b100ca330800000000000000
+      internalID: 3723351108271167311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_31
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 920
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6311384ac90af8cf0800000000000000
+      internalID: -247802859846692554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_32
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 800
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d9a52216cb89c0800000000000000
+      internalID: -3923824869079657275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_33
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 917
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02f631f99e74dd0800000000000000
+      internalID: -2501774198545899317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_34
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 800
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d081649cbe9826b0800000000000000
+      internalID: -5320828426957782830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 891
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3789f80b94ca987e0800000000000000
+      internalID: -1762688346644047757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_36
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 801
+        width: 129
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7fa986fb491f20800000000000000
+      internalID: 3393827316444396738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_37
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 891
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2695faae51a6f7a0800000000000000
+      internalID: -6343705597137545682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_38
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 897
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd9239b5ccf3b90800000000000000
+      internalID: -7259859380614866063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_39
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 893
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae34369b0d90cee0800000000000000
+      internalID: -1242820824064049503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_40
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 892
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92837c932836490800000000000000
+      internalID: -7754210948734768730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_41
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 877
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34686ee7a3c74320800000000000000
+      internalID: 2542215640700707898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 601
+        width: 119
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec0c3eb622592e0800000000000000
+      internalID: -2119750202830041584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 720
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798477954f974980800000000000000
+      internalID: -8554693845924411016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 601
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b8f2f363eadb400800000000000000
+      internalID: 341620694761573271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_45
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 601
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dfdc3ca66dc6500800000000000000
+      internalID: 390923021714324756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_46
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 715
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acae7e670327f2e0800000000000000
+      internalID: -2092164987064767322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_47
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 601
+        width: 91
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2cac4106a6f880800000000000000
+      internalID: -8577485915769000500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_48
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 720
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a74d9c65a8b9eb00800000000000000
+      internalID: 858420224622151588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_49
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 601
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34adc590e712144d0800000000000000
+      internalID: -3152201438975960509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_50
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 601
+        width: 103
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00cbc3f4883a47a0800000000000000
+      internalID: -6392234577421942770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_51
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 715
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d8cb3293b597dd0800000000000000
+      internalID: -2487857018174665383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 600
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff07f16ab2d8190800000000000000
+      internalID: -7958656974001733675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_53
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 720
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa609993b6640e740800000000000000
+      internalID: 5179216997817845423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_54
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 600
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f461ed268fdd13df0800000000000000
+      internalID: -202136449374611889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_55
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 717
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09211ed01a7e718b0800000000000000
+      internalID: -5181418167357861232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_56
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 600
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf2501bdab5acb50800000000000000
+      internalID: 6614199804304371650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_57
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 691
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2475cba5e427c4b0800000000000000
+      internalID: -5420323057669147604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_58
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 691
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ac696ff4a9b23e0800000000000000
+      internalID: -2077397134871180710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_59
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 697
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebcb96f0ae005a70800000000000000
+      internalID: 8813560555259022314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_60
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 693
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598760a21c89b820800000000000000
+      internalID: 2934530643837028693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_61
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 692
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d573b5d74f8c970800000000000000
+      internalID: 8775532693169855791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_62
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 677
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1be2962803f4c60800000000000000
+      internalID: 7804510015924908472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_63
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dc74a3bbe102720800000000000000
+      internalID: 2819287156219432266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 515
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e548e656f582de0800000000000000
+      internalID: -1357730398401700197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc517218dfe25d80800000000000000
+      internalID: -8263278654970045228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_66
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 520
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb85d2cf31f680e0800000000000000
+      internalID: -2267860106180457547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_67
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 400
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e49feabb4b8830800000000000000
+      internalID: 4074433554142258230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_68
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 517
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641ce4b6ab1df3c0800000000000000
+      internalID: -4324269664391916448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a0ed4736240840800000000000000
+      internalID: 5189314689609279576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_70
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 515
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9274bf490f64f5c0800000000000000
+      internalID: -4182596068137733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_71
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 401
+        width: 95
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbfee777018ecbe0800000000000000
+      internalID: -1455083760517186635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_72
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 520
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc12f55ffdd29b0800000000000000
+      internalID: -5103176557784871915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_73
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 401
+        width: 87
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6ee88d649fc69b0800000000000000
+      internalID: -5085415796531861808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_74
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 401
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1a8bc151906f280800000000000000
+      internalID: -9010004018227273257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_75
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 515
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f4cfa66c6abbf50800000000000000
+      internalID: 6898290625376702230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_76
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 400
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738779e3f2434890800000000000000
+      internalID: -7475057341143481479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_77
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 520
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa183edd22e44c0800000000000000
+      internalID: -4301462257692202398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_78
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 400
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c97fd774346cfc0800000000000000
+      internalID: -3475016088134640591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_79
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 517
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c23eb08236b2960800000000000000
+      internalID: 7578259821630270511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_80
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 400
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d021b853ff45c0800000000000000
+      internalID: -4228893962823214653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 491
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fb6cdf898ad69c0800000000000000
+      internalID: -3932301524578418849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_82
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 497
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef58195af113a10800000000000000
+      internalID: 1887324514816491200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_83
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 493
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704bda3ed17cd9500800000000000000
+      internalID: 404698472721003527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_84
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10707865004f57f0800000000000000
+      internalID: -621707831582625764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_85
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 491
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab4e25c653b8f10800000000000000
+      internalID: 2272969176302008860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_86
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 497
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d64c20791b01dfc0800000000000000
+      internalID: -3471981633841903919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_87
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 491
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3248f6831e378ef0800000000000000
+      internalID: -106047812630199747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_88
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 497
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc9359050cba50b0800000000000000
+      internalID: -5739068045312942912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_89
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 493
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf27f408ec499e90800000000000000
+      internalID: -7018493984880775233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_90
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede3f63281c803750800000000000000
+      internalID: 6282675515483438814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 477
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b92fc9cd70d3080800000000000000
+      internalID: -9206193419168081009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_92
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 477
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc1bf2addf3545c0800000000000000
+      internalID: -4231906053690024755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 315
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d35f136f8e3fd0800000000000000
+      internalID: -2360291498805439239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 106
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765518e9407426100800000000000000
+      internalID: 99720226920289639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_95
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 200
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35a2246acfafc60800000000000000
+      internalID: 7852866691278721996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_96
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 317
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d188bf68834758fc0800000000000000
+      internalID: -3493258149824329699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fefaed2ad9257cd0800000000000000
+      internalID: -2561094796040274187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_98
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 315
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06099814f329a8b40800000000000000
+      internalID: 5443323900010795104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_99
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 201
+        width: 95
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2f49e59ee0d190800000000000000
+      internalID: -7939583815422366612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_100
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d95fca0e2680c00800000000000000
+      internalID: 867051645382794531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_101
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 201
+        width: 87
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe91df2d3ecca850800000000000000
+      internalID: 6389708733522484923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_102
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 201
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328d90cc12020fe0800000000000000
+      internalID: -1224413826177465796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_103
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 315
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44244fd1e7bcee10800000000000000
+      internalID: 2228358096382862411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_104
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 200
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af4bec9d6bf24a0800000000000000
+      internalID: -6615868280991843716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_105
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c55e6ff2d4338c0800000000000000
+      internalID: -4020785173910692816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_106
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 200
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b99c97e616ab30800000000000000
+      internalID: 4298148078392292536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_107
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 317
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42b7e3758efefc40800000000000000
+      internalID: 5548151640095699534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_108
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 200
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b84506e9375b300800000000000000
+      internalID: 267246876956592963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_109
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 291
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2632beab3cf6fc6d0800000000000000
+      internalID: -2968030742968589470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_110
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 293
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2123431b304d1b4f0800000000000000
+      internalID: -814636945254370798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_111
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 292
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd723feedb291fc0800000000000000
+      internalID: -3523736996944904738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_112
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 291
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb3f3c7b34d91fa0800000000000000
+      internalID: -5829394890701718608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_113
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 297
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb2178cdf3beb80800000000000000
+      internalID: -8364521666519056736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_114
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 291
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a937360dd59d8a0800000000000000
+      internalID: -6279885055788344815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_115
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 297
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88251d8ae35ba3890800000000000000
+      internalID: -7477464950570397048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_116
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 293
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6419ac08a92dfc6d0800000000000000
+      internalID: -2967922068386311866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_117
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 292
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf3b275d7593e640800000000000000
+      internalID: 5108090767934177210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_118
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 277
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496bc45ea356130f0800000000000000
+      internalID: -1139017927118506348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_119
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 115
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e89160b8fcbfa0f0800000000000000
+      internalID: -1103455607385384733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc26ec30be2ec530800000000000000
+      internalID: 3877087663683415234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e0d5d7a2d6fd50800000000000000
+      internalID: 6770830708086727825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_122
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc3e23fecdb57930800000000000000
+      internalID: 4140424128977845501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_123
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d46840861fd7860800000000000000
+      internalID: 7529439581088140551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c264d2fc6045a240800000000000000
+      internalID: 4802315414335152835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_125
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 115
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2662f7240b9662a0800000000000000
+      internalID: -6744532949788367316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_126
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313ec84e042b36100800000000000000
+      internalID: 100119608514372371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_127
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7881bdb8d3894eac0800000000000000
+      internalID: -3826766393251260281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_128
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 73
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822acc5b5b5c8420800000000000000
+      internalID: 2633580330061800074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_129
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63f472eb5c092460800000000000000
+      internalID: 7217313466618803052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_130
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c98ca6ea8f39a0800000000000000
+      internalID: -6251125034425138586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_131
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 91
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9de35f3d080fe0800000000000000
+      internalID: -1222712733188907702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_132
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f6a1f65b6a14a90800000000000000
+      internalID: -7331395420199162054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_133
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2146f29e98239fb0800000000000000
+      internalID: -4642322129353293525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_134
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 92
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91509c2ffa290b520800000000000000
+      internalID: 2715831859694601497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_135
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 91
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010e7b4925c5d5e0800000000000000
+      internalID: -1885384087833804533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_136
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44114585d55ef7e0800000000000000
+      internalID: -1729850831311662001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_137
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d2517561741a00800000000000000
+      internalID: 726330120420381380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_138
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 92
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dfbc0b9b5662010800000000000000
+      internalID: 1163729401931365691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03fb5b83466a90f0800000000000000
+      internalID: -1109461917906504948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_140
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a07b1ae6565f70800000000000000
+      internalID: 9175616854296668405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_141
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 77
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056e5bd79d92d6f0800000000000000
+      internalID: -661292919724022515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_142
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 73
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b228f7f5475499d0800000000000000
+      internalID: -2768491912901418315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_143
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 62
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527742d8eb4852ad0800000000000000
+      internalID: -2727628045356337371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_144
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 76
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af49f9247fdaec30800000000000000
+      internalID: 4389566476839374757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_145
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 42
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2363a6628a1aa2a60800000000000000
+      internalID: 7650104660613281330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_146
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c514737b95ba210800000000000000
+      internalID: 1345267557141142576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_147
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 158
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfdecfb610576df0800000000000000
+      internalID: -187092800875077703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_148
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 44
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23e447b36b0bc60800000000000000
+      internalID: 7831960118467900154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_149
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 0
+        width: 158
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6cae293a11ab00800000000000000
+      internalID: 837979838566133718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_150
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 0
+        width: 158
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef2d2dead4dd440800000000000000
+      internalID: 4962207777688846009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie2 battler_151
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0799590752d17c0800000000000000
+      internalID: -4099078920360857348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombie2 battler_0: 1109979328324186095
+      zombie2 battler_1: -1930964421528776199
+      zombie2 battler_10: -9148139115294217671
+      zombie2 battler_100: 867051645382794531
+      zombie2 battler_101: 6389708733522484923
+      zombie2 battler_102: -1224413826177465796
+      zombie2 battler_103: 2228358096382862411
+      zombie2 battler_104: -6615868280991843716
+      zombie2 battler_105: -4020785173910692816
+      zombie2 battler_106: 4298148078392292536
+      zombie2 battler_107: 5548151640095699534
+      zombie2 battler_108: 267246876956592963
+      zombie2 battler_109: -2968030742968589470
+      zombie2 battler_11: 4042187725018655419
+      zombie2 battler_110: -814636945254370798
+      zombie2 battler_111: -3523736996944904738
+      zombie2 battler_112: -5829394890701718608
+      zombie2 battler_113: -8364521666519056736
+      zombie2 battler_114: -6279885055788344815
+      zombie2 battler_115: -7477464950570397048
+      zombie2 battler_116: -2967922068386311866
+      zombie2 battler_117: 5108090767934177210
+      zombie2 battler_118: -1139017927118506348
+      zombie2 battler_119: -1103455607385384733
+      zombie2 battler_12: 4567139196518090951
+      zombie2 battler_120: 3877087663683415234
+      zombie2 battler_121: 6770830708086727825
+      zombie2 battler_122: 4140424128977845501
+      zombie2 battler_123: 7529439581088140551
+      zombie2 battler_124: 4802315414335152835
+      zombie2 battler_125: -6744532949788367316
+      zombie2 battler_126: 100119608514372371
+      zombie2 battler_127: -3826766393251260281
+      zombie2 battler_128: 2633580330061800074
+      zombie2 battler_129: 7217313466618803052
+      zombie2 battler_13: -209851004581987106
+      zombie2 battler_130: -6251125034425138586
+      zombie2 battler_131: -1222712733188907702
+      zombie2 battler_132: -7331395420199162054
+      zombie2 battler_133: -4642322129353293525
+      zombie2 battler_134: 2715831859694601497
+      zombie2 battler_135: -1885384087833804533
+      zombie2 battler_136: -1729850831311662001
+      zombie2 battler_137: 726330120420381380
+      zombie2 battler_138: 1163729401931365691
+      zombie2 battler_139: -1109461917906504948
+      zombie2 battler_14: 981633771740635977
+      zombie2 battler_140: 9175616854296668405
+      zombie2 battler_141: -661292919724022515
+      zombie2 battler_142: -2768491912901418315
+      zombie2 battler_143: -2727628045356337371
+      zombie2 battler_144: 4389566476839374757
+      zombie2 battler_145: 7650104660613281330
+      zombie2 battler_146: 1345267557141142576
+      zombie2 battler_147: -187092800875077703
+      zombie2 battler_148: 7831960118467900154
+      zombie2 battler_149: 837979838566133718
+      zombie2 battler_15: 8224100919707803138
+      zombie2 battler_150: 4962207777688846009
+      zombie2 battler_151: -4099078920360857348
+      zombie2 battler_16: 7433520637206137669
+      zombie2 battler_17: 8835363588332941274
+      zombie2 battler_18: -4154458414477084177
+      zombie2 battler_19: -6751636847821904860
+      zombie2 battler_2: -1256651184948566800
+      zombie2 battler_20: -7208408279400305474
+      zombie2 battler_21: -1911460231456894977
+      zombie2 battler_22: 8217413123409228236
+      zombie2 battler_23: -5410751536996260197
+      zombie2 battler_24: 1581127125966553614
+      zombie2 battler_25: 4455872758914258934
+      zombie2 battler_26: 9207239062838581930
+      zombie2 battler_27: -1195345640529193179
+      zombie2 battler_28: 3195779395640874130
+      zombie2 battler_29: 4294395175051140199
+      zombie2 battler_3: -1959787264991936262
+      zombie2 battler_30: 3723351108271167311
+      zombie2 battler_31: -247802859846692554
+      zombie2 battler_32: -3923824869079657275
+      zombie2 battler_33: -2501774198545899317
+      zombie2 battler_34: -5320828426957782830
+      zombie2 battler_35: -1762688346644047757
+      zombie2 battler_36: 3393827316444396738
+      zombie2 battler_37: -6343705597137545682
+      zombie2 battler_38: -7259859380614866063
+      zombie2 battler_39: -1242820824064049503
+      zombie2 battler_4: -6235690627645468991
+      zombie2 battler_40: -7754210948734768730
+      zombie2 battler_41: 2542215640700707898
+      zombie2 battler_42: -2119750202830041584
+      zombie2 battler_43: -8554693845924411016
+      zombie2 battler_44: 341620694761573271
+      zombie2 battler_45: 390923021714324756
+      zombie2 battler_46: -2092164987064767322
+      zombie2 battler_47: -8577485915769000500
+      zombie2 battler_48: 858420224622151588
+      zombie2 battler_49: -3152201438975960509
+      zombie2 battler_5: 1546419994026431347
+      zombie2 battler_50: -6392234577421942770
+      zombie2 battler_51: -2487857018174665383
+      zombie2 battler_52: -7958656974001733675
+      zombie2 battler_53: 5179216997817845423
+      zombie2 battler_54: -202136449374611889
+      zombie2 battler_55: -5181418167357861232
+      zombie2 battler_56: 6614199804304371650
+      zombie2 battler_57: -5420323057669147604
+      zombie2 battler_58: -2077397134871180710
+      zombie2 battler_59: 8813560555259022314
+      zombie2 battler_6: 8770192193732286130
+      zombie2 battler_60: 2934530643837028693
+      zombie2 battler_61: 8775532693169855791
+      zombie2 battler_62: 7804510015924908472
+      zombie2 battler_63: 2819287156219432266
+      zombie2 battler_64: -1357730398401700197
+      zombie2 battler_65: -8263278654970045228
+      zombie2 battler_66: -2267860106180457547
+      zombie2 battler_67: 4074433554142258230
+      zombie2 battler_68: -4324269664391916448
+      zombie2 battler_69: 5189314689609279576
+      zombie2 battler_7: -1176803374451370785
+      zombie2 battler_70: -4182596068137733473
+      zombie2 battler_71: -1455083760517186635
+      zombie2 battler_72: -5103176557784871915
+      zombie2 battler_73: -5085415796531861808
+      zombie2 battler_74: -9010004018227273257
+      zombie2 battler_75: 6898290625376702230
+      zombie2 battler_76: -7475057341143481479
+      zombie2 battler_77: -4301462257692202398
+      zombie2 battler_78: -3475016088134640591
+      zombie2 battler_79: 7578259821630270511
+      zombie2 battler_8: -728034199085510176
+      zombie2 battler_80: -4228893962823214653
+      zombie2 battler_81: -3932301524578418849
+      zombie2 battler_82: 1887324514816491200
+      zombie2 battler_83: 404698472721003527
+      zombie2 battler_84: -621707831582625764
+      zombie2 battler_85: 2272969176302008860
+      zombie2 battler_86: -3471981633841903919
+      zombie2 battler_87: -106047812630199747
+      zombie2 battler_88: -5739068045312942912
+      zombie2 battler_89: -7018493984880775233
+      zombie2 battler_9: -4087214675302024052
+      zombie2 battler_90: 6282675515483438814
+      zombie2 battler_91: -9206193419168081009
+      zombie2 battler_92: -4231906053690024755
+      zombie2 battler_93: -2360291498805439239
+      zombie2 battler_94: 99720226920289639
+      zombie2 battler_95: 7852866691278721996
+      zombie2 battler_96: -3493258149824329699
+      zombie2 battler_97: -2561094796040274187
+      zombie2 battler_98: 5443323900010795104
+      zombie2 battler_99: -7939583815422366612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

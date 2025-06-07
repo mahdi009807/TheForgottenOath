@@ -2,49 +2,51 @@ using UnityEngine;
 
 public class InvisiblePlatform : MonoBehaviour
 {
-    [SerializeField] private float flipInterval = 5f;
-    private float timer;
-    private Vector3 pivotPoint; // Rotation pivot point
+    [Tooltip("Time in seconds between visibility toggles")]
+    public float toggleTime = 2f; // Only variable you need to set
+    public GameObject Platform1;
+    public GameObject Platform2;
 
-    private void Start()
+    // private Collider platformCollider;
+    // private MeshRenderer meshRenderer;
+    private float timer;
+    private bool isVisible = true;
+
+    void Start()
     {
-        timer = flipInterval;
-        // Set pivot point to the platform's center
-        pivotPoint = GetComponent<Collider2D>().bounds.center;
+        // // Automatically get required components
+        // platformCollider = GetComponent<Collider>();
+        // meshRenderer = GetComponent<MeshRenderer>();
+
+        timer = toggleTime; // Start countdown immediately
     }
 
-    private void Update()
+    void Update()
     {
         timer -= Time.deltaTime;
-        
+
         if (timer <= 0f)
         {
-            FlipPlatform();
-            timer = flipInterval;
+            if (isVisible)
+            {
+                Platform1.SetActive(false);
+                Platform2.SetActive(true);
+                isVisible = false;
+            }
+            else
+            {
+                Platform1.SetActive(true);
+                Platform2.SetActive(false);
+                isVisible = true;
+            }
+            timer = toggleTime; // Reset timer
         }
     }
 
-    private void FlipPlatform()
-    {
-        // Rotate around the center point
-        transform.RotateAround(pivotPoint, Vector3.forward, 180);
-        
-        // Optional: Add visual/sound effects
-        OnFlip();
-    }
-
-    private void OnFlip()
-    {
-        // Add your effects here (particles, sounds, etc.)
-    }
-
-    // Visualize the pivot point in editor
-    private void OnDrawGizmos()
-    {
-        if (Application.isPlaying)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawSphere(pivotPoint, 0.1f);
-        }
-    }
+    // void ToggleVisibility()
+    // {
+    //     isVisible = !isVisible;
+    //     platformCollider.enabled = isVisible;
+    //     meshRenderer.enabled = isVisible;
+    // }
 }

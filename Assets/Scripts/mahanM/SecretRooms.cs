@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,9 +10,12 @@ public class SecretRooms : MonoBehaviour
     BoundsInt area;
     Tilemap tm;
     BoxCollider2D cldr;
+
+    private SpriteRenderer sr;
     // Start is called before the first frame update
     void Start()
     {
+        sr = gameObject.GetComponent<SpriteRenderer>();
         //area = new BoundsInt(new Vector3Int(95,11,0), new Vector3Int(6,5,1));
         tm = GameObject.FindGameObjectWithTag("HiddenRooms").GetComponent<Tilemap>();
         cldr = GetComponent<BoxCollider2D>();
@@ -36,17 +40,31 @@ public class SecretRooms : MonoBehaviour
     {
         foreach (Vector3Int point in area.allPositionsWithin)
         {
-            tm.SetTileFlags(point, TileFlags.None);
-            tm.SetColor(point, new Color(255f, 255f, 255f, 255f));
-            //tm.SetTileFlags(point, TileFlags.LockColor);
+            sr.color = new Color(255, 255, 255, 0);
         }
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Melee_Player"))
         {
             RevealRoom();
+        }
+    }
+    void HideRoom()
+    {
+        foreach (Vector3Int point in area.allPositionsWithin)
+        {
+            tm.SetTileFlags(point, TileFlags.None);
+            tm.SetColor(point, new Color(255f, 255f, 255f, 0f));
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            HideRoom();
         }
     }
 }

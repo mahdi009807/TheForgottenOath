@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: c194a818f67841c4b957bc21b80c68b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3076711781069703464
+    second: Hobgob 1A[anim]_0
+  - first:
+      213: -1210793531336505290
+    second: Hobgob 1A[anim]_1
+  - first:
+      213: 8373146409347422973
+    second: Hobgob 1A[anim]_2
+  - first:
+      213: -8295968816984104920
+    second: Hobgob 1A[anim]_3
+  - first:
+      213: -3490882347318129495
+    second: Hobgob 1A[anim]_4
+  - first:
+      213: 7630947054470244401
+    second: Hobgob 1A[anim]_5
+  - first:
+      213: 5522300898060970124
+    second: Hobgob 1A[anim]_6
+  - first:
+      213: 3522910764584760185
+    second: Hobgob 1A[anim]_7
+  - first:
+      213: -1378963224804215221
+    second: Hobgob 1A[anim]_8
+  - first:
+      213: 4371567362788587721
+    second: Hobgob 1A[anim]_9
+  - first:
+      213: -5451659657143331168
+    second: Hobgob 1A[anim]_10
+  - first:
+      213: -8348574332906733710
+    second: Hobgob 1A[anim]_11
+  - first:
+      213: 3724551626741693853
+    second: Hobgob 1A[anim]_12
+  - first:
+      213: -3619995131117644548
+    second: Hobgob 1A[anim]_13
+  - first:
+      213: -5394634647531144028
+    second: Hobgob 1A[anim]_14
+  - first:
+      213: 3472002188428745340
+    second: Hobgob 1A[anim]_15
+  - first:
+      213: 2063229110811388528
+    second: Hobgob 1A[anim]_16
+  - first:
+      213: 3620739543467969069
+    second: Hobgob 1A[anim]_17
+  - first:
+      213: -6921847049677939410
+    second: Hobgob 1A[anim]_18
+  - first:
+      213: 6364883177267360271
+    second: Hobgob 1A[anim]_19
+  - first:
+      213: -1178894430636679007
+    second: Hobgob 1A[anim]_20
+  - first:
+      213: -5011807350167628145
+    second: Hobgob 1A[anim]_21
+  - first:
+      213: 1994792347389411618
+    second: Hobgob 1A[anim]_22
+  - first:
+      213: -4154914113418167901
+    second: Hobgob 1A[anim]_23
+  - first:
+      213: -3917827447240242228
+    second: Hobgob 1A[anim]_24
+  - first:
+      213: 3001235830170199857
+    second: Hobgob 1A[anim]_25
+  - first:
+      213: -3194594273265595592
+    second: Hobgob 1A[anim]_26
+  - first:
+      213: -5487450374640152645
+    second: Hobgob 1A[anim]_27
+  - first:
+      213: 3520648033249313459
+    second: Hobgob 1A[anim]_28
+  - first:
+      213: -2492312228221574513
+    second: Hobgob 1A[anim]_29
+  - first:
+      213: 1685553062138904078
+    second: Hobgob 1A[anim]_30
+  - first:
+      213: 8556837877279497102
+    second: Hobgob 1A[anim]_31
+  - first:
+      213: 8030547668319099000
+    second: Hobgob 1A[anim]_32
+  - first:
+      213: 302097342859606119
+    second: Hobgob 1A[anim]_33
+  - first:
+      213: 1714282399040732551
+    second: Hobgob 1A[anim]_34
+  - first:
+      213: -2560880160220082810
+    second: Hobgob 1A[anim]_35
+  - first:
+      213: -7259652703018851941
+    second: Hobgob 1A[anim]_36
+  - first:
+      213: 4545926568494556556
+    second: Hobgob 1A[anim]_37
+  - first:
+      213: -3109043811547269209
+    second: Hobgob 1A[anim]_38
+  - first:
+      213: -5348584565873986756
+    second: Hobgob 1A[anim]_39
+  - first:
+      213: 7361773906494958316
+    second: Hobgob 1A[anim]_40
+  - first:
+      213: 4908143290143026645
+    second: Hobgob 1A[anim]_41
+  - first:
+      213: -6666480516272086913
+    second: Hobgob 1A[anim]_42
+  - first:
+      213: -3155562993488672022
+    second: Hobgob 1A[anim]_43
+  - first:
+      213: -6098982378094953160
+    second: Hobgob 1A[anim]_44
+  - first:
+      213: -1966010652519132562
+    second: Hobgob 1A[anim]_45
+  - first:
+      213: 6520784294837810497
+    second: Hobgob 1A[anim]_46
+  - first:
+      213: -8577046152299719087
+    second: Hobgob 1A[anim]_47
+  - first:
+      213: 8372534085076109782
+    second: Hobgob 1A[anim]_48
+  - first:
+      213: 2229975338398548399
+    second: Hobgob 1A[anim]_49
+  - first:
+      213: 5591644407795661951
+    second: Hobgob 1A[anim]_50
+  - first:
+      213: 6043758364370978027
+    second: Hobgob 1A[anim]_51
+  - first:
+      213: 4088159554598895871
+    second: Hobgob 1A[anim]_52
+  - first:
+      213: 419381010426744186
+    second: Hobgob 1A[anim]_53
+  - first:
+      213: 2411966739731891133
+    second: Hobgob 1A[anim]_54
+  - first:
+      213: -308043627744569172
+    second: Hobgob 1A[anim]_55
+  - first:
+      213: 4895054654004638996
+    second: Hobgob 1A[anim]_56
+  - first:
+      213: -1028803967894229630
+    second: Hobgob 1A[anim]_57
+  - first:
+      213: -540014935722522968
+    second: Hobgob 1A[anim]_58
+  - first:
+      213: 631083100180603435
+    second: Hobgob 1A[anim]_59
+  - first:
+      213: 7601697192870107018
+    second: Hobgob 1A[anim]_60
+  - first:
+      213: -2144905229218441216
+    second: Hobgob 1A[anim]_61
+  - first:
+      213: 5934037625894292136
+    second: Hobgob 1A[anim]_62
+  - first:
+      213: 6012703487942813245
+    second: Hobgob 1A[anim]_63
+  - first:
+      213: -197125614128120038
+    second: Hobgob 1A[anim]_64
+  - first:
+      213: 8486459332293553873
+    second: Hobgob 1A[anim]_65
+  - first:
+      213: 5966843162175479001
+    second: Hobgob 1A[anim]_66
+  - first:
+      213: -432393362292039012
+    second: Hobgob 1A[anim]_67
+  - first:
+      213: 7844223451957883533
+    second: Hobgob 1A[anim]_68
+  - first:
+      213: -3753419767344332945
+    second: Hobgob 1A[anim]_69
+  - first:
+      213: -4109787406113898124
+    second: Hobgob 1A[anim]_70
+  - first:
+      213: -7832890568374554764
+    second: Hobgob 1A[anim]_71
+  - first:
+      213: -8894645430888344894
+    second: Hobgob 1A[anim]_72
+  - first:
+      213: -8124292860855133320
+    second: Hobgob 1A[anim]_73
+  - first:
+      213: -1147999282972857067
+    second: Hobgob 1A[anim]_74
+  - first:
+      213: -4463886819452251722
+    second: Hobgob 1A[anim]_75
+  - first:
+      213: 6371441604137540603
+    second: Hobgob 1A[anim]_76
+  - first:
+      213: -5117577253812486731
+    second: Hobgob 1A[anim]_77
+  - first:
+      213: 6362725546995151549
+    second: Hobgob 1A[anim]_78
+  - first:
+      213: 1858498020140561132
+    second: Hobgob 1A[anim]_79
+  - first:
+      213: -9167244772354603649
+    second: Hobgob 1A[anim]_80
+  - first:
+      213: -8337339600299896167
+    second: Hobgob 1A[anim]_81
+  - first:
+      213: -2917858178849564191
+    second: Hobgob 1A[anim]_82
+  - first:
+      213: 6609609929845186373
+    second: Hobgob 1A[anim]_83
+  - first:
+      213: 3405474252094031804
+    second: Hobgob 1A[anim]_84
+  - first:
+      213: -9207041108388424829
+    second: Hobgob 1A[anim]_85
+  - first:
+      213: -4065582530576730709
+    second: Hobgob 1A[anim]_86
+  - first:
+      213: 5651514782347173378
+    second: Hobgob 1A[anim]_87
+  - first:
+      213: 9114736448532437082
+    second: Hobgob 1A[anim]_88
+  - first:
+      213: 9040336360592370903
+    second: Hobgob 1A[anim]_89
+  - first:
+      213: 786631468924439659
+    second: Hobgob 1A[anim]_90
+  - first:
+      213: 4376023941367990264
+    second: Hobgob 1A[anim]_91
+  - first:
+      213: -5362279052350068075
+    second: Hobgob 1A[anim]_92
+  - first:
+      213: -6855185790964811228
+    second: Hobgob 1A[anim]_93
+  - first:
+      213: -2186267265035120312
+    second: Hobgob 1A[anim]_94
+  - first:
+      213: 607106712817770976
+    second: Hobgob 1A[anim]_95
+  - first:
+      213: -2902238133370170475
+    second: Hobgob 1A[anim]_96
+  - first:
+      213: -4658460269479821324
+    second: Hobgob 1A[anim]_97
+  - first:
+      213: -336308209289072492
+    second: Hobgob 1A[anim]_98
+  - first:
+      213: 4714664574630787015
+    second: Hobgob 1A[anim]_99
+  - first:
+      213: -1243134137734350045
+    second: Hobgob 1A[anim]_100
+  - first:
+      213: -166962284680946098
+    second: Hobgob 1A[anim]_101
+  - first:
+      213: -954640904849807176
+    second: Hobgob 1A[anim]_102
+  - first:
+      213: -7730528386459777318
+    second: Hobgob 1A[anim]_103
+  - first:
+      213: 6860748681180087211
+    second: Hobgob 1A[anim]_104
+  - first:
+      213: -7375091959315110427
+    second: Hobgob 1A[anim]_105
+  - first:
+      213: 8130763086494003955
+    second: Hobgob 1A[anim]_106
+  - first:
+      213: -1017037770603045256
+    second: Hobgob 1A[anim]_107
+  - first:
+      213: 5647248476594478520
+    second: Hobgob 1A[anim]_108
+  - first:
+      213: 1027800955423507659
+    second: Hobgob 1A[anim]_109
+  - first:
+      213: -119715663331928289
+    second: Hobgob 1A[anim]_110
+  - first:
+      213: 1501973467517671273
+    second: Hobgob 1A[anim]_111
+  - first:
+      213: 539434262035392496
+    second: Hobgob 1A[anim]_112
+  - first:
+      213: -2672332021786160145
+    second: Hobgob 1A[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2097
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b41dafe25d45d0800000000000000
+      internalID: -3076711781069703464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2097
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c854c2b5623fe0800000000000000
+      internalID: -1210793531336505290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2097
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa9d75eb44633470800000000000000
+      internalID: 8373146409347422973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2097
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e1fb905ccedc80800000000000000
+      internalID: -8295968816984104920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1937
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9accb672005ed8fc0800000000000000
+      internalID: -3490882347318129495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1937
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13823816ae196e960800000000000000
+      internalID: 7630947054470244401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1937
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88aebb886723ac40800000000000000
+      internalID: 5522300898060970124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1937
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973797adca4e3e030800000000000000
+      internalID: 3522910764584760185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1777
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b73bc040fcdce0800000000000000
+      internalID: -1378963224804215221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1777
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c874bada5deaac30800000000000000
+      internalID: 4371567362788587721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1777
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6d4ab0d60d754b0800000000000000
+      internalID: -5451659657143331168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1777
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f762a70e7e32c80800000000000000
+      internalID: -8348574332906733710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1619
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dba8398f340b330800000000000000
+      internalID: 3724551626741693853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1619
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4d6199b9133cdc0800000000000000
+      internalID: -3619995131117644548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1619
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac34ecbe586225b0800000000000000
+      internalID: -5394634647531144028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1619
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a9cac48970f2030800000000000000
+      internalID: 3472002188428745340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1457
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a6820e1ff02ac10800000000000000
+      internalID: 2063229110811388528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1457
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a4e986e637f3230800000000000000
+      internalID: 3620739543467969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1457
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5c5628c8a0ff90800000000000000
+      internalID: -6921847049677939410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1457
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0271e1f68b945850800000000000000
+      internalID: 6364883177267360271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1297
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e63ae2c9b3afe0800000000000000
+      internalID: -1178894430636679007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1297
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86119ac4cb727ab0800000000000000
+      internalID: -5011807350167628145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1297
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22140d2321deeab10800000000000000
+      internalID: 1994792347389411618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1297
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9f375a0a7c656c0800000000000000
+      internalID: -4154914113418167901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1137
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb48fbb1b411a9c0800000000000000
+      internalID: -3917827447240242228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1137
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1372878161886a920800000000000000
+      internalID: 3001235830170199857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1137
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bc1842f658aa3d0800000000000000
+      internalID: -3194594273265595592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1137
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4df045f8a8d3b0800000000000000
+      internalID: -5487450374640152645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 977
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2c009abbadbd030800000000000000
+      internalID: 3520648033249313459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 977
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ad77bb37896dd0800000000000000
+      internalID: -2492312228221574513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 977
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7cde5499446710800000000000000
+      internalID: 1685553062138904078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 977
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1adb96beffb670800000000000000
+      internalID: 8556837877279497102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 817
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87850028e8c327f60800000000000000
+      internalID: 8030547668319099000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 820
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687cb8cee3413400800000000000000
+      internalID: 302097342859606119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 826
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df68f52ca5ac710800000000000000
+      internalID: 1714282399040732551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 817
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d8cb9ff0de57cd0800000000000000
+      internalID: -2560880160220082810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 657
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b916bd37458804b90800000000000000
+      internalID: -7259652703018851941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 660
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e022f020661f30800000000000000
+      internalID: 4545926568494556556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 666
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7399530257ad4d0800000000000000
+      internalID: -3109043811547269209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 657
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b1f3eca206c5b0800000000000000
+      internalID: -5348584565873986756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 497
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2f551d564a2660800000000000000
+      internalID: 7361773906494958316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 497
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd21b3615a3d1440800000000000000
+      internalID: 4908143290143026645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 497
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f702a8d7a47eb73a0800000000000000
+      internalID: -6666480516272086913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 497
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4db22d203534d0800000000000000
+      internalID: -3155562993488672022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 337
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d784647df0c5ba0800000000000000
+      internalID: -6098982378094953160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 337
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6296f75ab357b4e0800000000000000
+      internalID: -1966010652519132562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 337
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f0ce74ca7e7a50800000000000000
+      internalID: 6520784294837810497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 337
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565b06b7f538f880800000000000000
+      internalID: -8577046152299719087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9cfca0467313470800000000000000
+      internalID: 8372534085076109782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1802f51c672fe10800000000000000
+      internalID: 2229975338398548399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 175
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb5fc86f2899d40800000000000000
+      internalID: 5591644407795661951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 175
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c0a0163ebfd350800000000000000
+      internalID: 6043758364370978027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08cf4747f0cb830800000000000000
+      internalID: 4088159554598895871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dc7089ec0f1d500800000000000000
+      internalID: 419381010426744186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3c6cb78f6097120800000000000000
+      internalID: 2411966739731891133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca856f0e3fb99bbf0800000000000000
+      internalID: -308043627744569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415b110d54abee340800000000000000
+      internalID: 4895054654004638996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28de626fd34f8b1f0800000000000000
+      internalID: -1028803967894229630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 111
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a68adee64b7188f0800000000000000
+      internalID: -540014935722522968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22640a6cbe02c800800000000000000
+      internalID: 631083100180603435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a875b174257ae7960800000000000000
+      internalID: 7601697192870107018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0089e87ee04cb32e0800000000000000
+      internalID: -2144905229218441216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa4b37e7cfe95250800000000000000
+      internalID: 5934037625894292136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36659237f9617350800000000000000
+      internalID: 6012703487942813245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f33c16c4ba34df0800000000000000
+      internalID: -197125614128120038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dee72eacc5f5c570800000000000000
+      internalID: 8486459332293553873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc10f70e3c7ec250800000000000000
+      internalID: 5966843162175479001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a8552784dff9f0800000000000000
+      internalID: -432393362292039012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82fcb84ba74cdc60800000000000000
+      internalID: 7844223451957883533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ff28aab9c29ebc0800000000000000
+      internalID: -3753419767344332945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710534f02a17f6c0800000000000000
+      internalID: -4109787406113898124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe68b478bfb4390800000000000000
+      internalID: -7832890568374554764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c259d04b1fdf8480800000000000000
+      internalID: -8894645430888344894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdc79ffa6b04f80800000000000000
+      internalID: -8124292860855133320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51deff70cbc7110f0800000000000000
+      internalID: -1147999282972857067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b11001a6961d02c0800000000000000
+      internalID: -4463886819452251722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb53c1b168eb6850800000000000000
+      internalID: 6371441604137540603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd33eb0a96baf8b0800000000000000
+      internalID: -5117577253812486731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f2ff7c21fc4850800000000000000
+      internalID: 6362725546995151549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2be324a16bac910800000000000000
+      internalID: 1858498020140561132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754fbe137767c080800000000000000
+      internalID: -9167244772354603649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d3508ec1db4c80800000000000000
+      internalID: -8337339600299896167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e914b0227fa187d0800000000000000
+      internalID: -2917858178849564191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f1154463d0abb50800000000000000
+      internalID: 6609609929845186373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7cdcf0acca24f20800000000000000
+      internalID: 3405474252094031804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d61694e40a3080800000000000000
+      internalID: -9207041108388424829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b0f39a362497c0800000000000000
+      internalID: -4065582530576730709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e1ca460c63e6e40800000000000000
+      internalID: 5651514782347173378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58d41c028c0e7e70800000000000000
+      internalID: 9114736448532437082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce72fa50ab57d70800000000000000
+      internalID: 9040336360592370903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c826a372daaea00800000000000000
+      internalID: 786631468924439659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f708d9e692cabc30800000000000000
+      internalID: 4376023941367990264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae72acc9b5595b0800000000000000
+      internalID: -5362279052350068075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42abc3ce7dc7dd0a0800000000000000
+      internalID: -6855185790964811228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841548b7181d8a1e0800000000000000
+      internalID: -2186267265035120312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12246b650ec6800800000000000000
+      internalID: 607106712817770976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d0ee5bcd29b7d0800000000000000
+      internalID: -2902238133370170475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff72650113d95fb0800000000000000
+      internalID: -4658460269479821324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f64a2771355bf0800000000000000
+      internalID: -336308209289072492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77cf5837add6140800000000000000
+      internalID: 4714664574630787015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bbe2096108fbee0800000000000000
+      internalID: -1243134137734350045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e54bacfa4deadf0800000000000000
+      internalID: -166962284680946098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ae5aa72f60c2f0800000000000000
+      internalID: -954640904849807176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6cdfef365a7b490800000000000000
+      internalID: -7730528386459777318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba308f26396463f50800000000000000
+      internalID: 6860748681180087211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5ee2b10f866a990800000000000000
+      internalID: -7375091959315110427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27553d2f546d070800000000000000
+      internalID: 8130763086494003955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87edc004981c2e1f0800000000000000
+      internalID: -1017037770603045256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd97cda19e0f5e40800000000000000
+      internalID: 5647248476594478520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc443dff58b734e00800000000000000
+      internalID: 1027800955423507659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17dc0d0d3fa65ef0800000000000000
+      internalID: -119715663331928289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967d37139e418d410800000000000000
+      internalID: 1501973467517671273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f76b407a947c7700800000000000000
+      internalID: 539434262035392496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hobgob 1A[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d88f4f28f9ead0800000000000000
+      internalID: -2672332021786160145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hobgob 1A[anim]_0: -3076711781069703464
+      Hobgob 1A[anim]_1: -1210793531336505290
+      Hobgob 1A[anim]_10: -5451659657143331168
+      Hobgob 1A[anim]_100: -1243134137734350045
+      Hobgob 1A[anim]_101: -166962284680946098
+      Hobgob 1A[anim]_102: -954640904849807176
+      Hobgob 1A[anim]_103: -7730528386459777318
+      Hobgob 1A[anim]_104: 6860748681180087211
+      Hobgob 1A[anim]_105: -7375091959315110427
+      Hobgob 1A[anim]_106: 8130763086494003955
+      Hobgob 1A[anim]_107: -1017037770603045256
+      Hobgob 1A[anim]_108: 5647248476594478520
+      Hobgob 1A[anim]_109: 1027800955423507659
+      Hobgob 1A[anim]_11: -8348574332906733710
+      Hobgob 1A[anim]_110: -119715663331928289
+      Hobgob 1A[anim]_111: 1501973467517671273
+      Hobgob 1A[anim]_112: 539434262035392496
+      Hobgob 1A[anim]_113: -2672332021786160145
+      Hobgob 1A[anim]_12: 3724551626741693853
+      Hobgob 1A[anim]_13: -3619995131117644548
+      Hobgob 1A[anim]_14: -5394634647531144028
+      Hobgob 1A[anim]_15: 3472002188428745340
+      Hobgob 1A[anim]_16: 2063229110811388528
+      Hobgob 1A[anim]_17: 3620739543467969069
+      Hobgob 1A[anim]_18: -6921847049677939410
+      Hobgob 1A[anim]_19: 6364883177267360271
+      Hobgob 1A[anim]_2: 8373146409347422973
+      Hobgob 1A[anim]_20: -1178894430636679007
+      Hobgob 1A[anim]_21: -5011807350167628145
+      Hobgob 1A[anim]_22: 1994792347389411618
+      Hobgob 1A[anim]_23: -4154914113418167901
+      Hobgob 1A[anim]_24: -3917827447240242228
+      Hobgob 1A[anim]_25: 3001235830170199857
+      Hobgob 1A[anim]_26: -3194594273265595592
+      Hobgob 1A[anim]_27: -5487450374640152645
+      Hobgob 1A[anim]_28: 3520648033249313459
+      Hobgob 1A[anim]_29: -2492312228221574513
+      Hobgob 1A[anim]_3: -8295968816984104920
+      Hobgob 1A[anim]_30: 1685553062138904078
+      Hobgob 1A[anim]_31: 8556837877279497102
+      Hobgob 1A[anim]_32: 8030547668319099000
+      Hobgob 1A[anim]_33: 302097342859606119
+      Hobgob 1A[anim]_34: 1714282399040732551
+      Hobgob 1A[anim]_35: -2560880160220082810
+      Hobgob 1A[anim]_36: -7259652703018851941
+      Hobgob 1A[anim]_37: 4545926568494556556
+      Hobgob 1A[anim]_38: -3109043811547269209
+      Hobgob 1A[anim]_39: -5348584565873986756
+      Hobgob 1A[anim]_4: -3490882347318129495
+      Hobgob 1A[anim]_40: 7361773906494958316
+      Hobgob 1A[anim]_41: 4908143290143026645
+      Hobgob 1A[anim]_42: -6666480516272086913
+      Hobgob 1A[anim]_43: -3155562993488672022
+      Hobgob 1A[anim]_44: -6098982378094953160
+      Hobgob 1A[anim]_45: -1966010652519132562
+      Hobgob 1A[anim]_46: 6520784294837810497
+      Hobgob 1A[anim]_47: -8577046152299719087
+      Hobgob 1A[anim]_48: 8372534085076109782
+      Hobgob 1A[anim]_49: 2229975338398548399
+      Hobgob 1A[anim]_5: 7630947054470244401
+      Hobgob 1A[anim]_50: 5591644407795661951
+      Hobgob 1A[anim]_51: 6043758364370978027
+      Hobgob 1A[anim]_52: 4088159554598895871
+      Hobgob 1A[anim]_53: 419381010426744186
+      Hobgob 1A[anim]_54: 2411966739731891133
+      Hobgob 1A[anim]_55: -308043627744569172
+      Hobgob 1A[anim]_56: 4895054654004638996
+      Hobgob 1A[anim]_57: -1028803967894229630
+      Hobgob 1A[anim]_58: -540014935722522968
+      Hobgob 1A[anim]_59: 631083100180603435
+      Hobgob 1A[anim]_6: 5522300898060970124
+      Hobgob 1A[anim]_60: 7601697192870107018
+      Hobgob 1A[anim]_61: -2144905229218441216
+      Hobgob 1A[anim]_62: 5934037625894292136
+      Hobgob 1A[anim]_63: 6012703487942813245
+      Hobgob 1A[anim]_64: -197125614128120038
+      Hobgob 1A[anim]_65: 8486459332293553873
+      Hobgob 1A[anim]_66: 5966843162175479001
+      Hobgob 1A[anim]_67: -432393362292039012
+      Hobgob 1A[anim]_68: 7844223451957883533
+      Hobgob 1A[anim]_69: -3753419767344332945
+      Hobgob 1A[anim]_7: 3522910764584760185
+      Hobgob 1A[anim]_70: -4109787406113898124
+      Hobgob 1A[anim]_71: -7832890568374554764
+      Hobgob 1A[anim]_72: -8894645430888344894
+      Hobgob 1A[anim]_73: -8124292860855133320
+      Hobgob 1A[anim]_74: -1147999282972857067
+      Hobgob 1A[anim]_75: -4463886819452251722
+      Hobgob 1A[anim]_76: 6371441604137540603
+      Hobgob 1A[anim]_77: -5117577253812486731
+      Hobgob 1A[anim]_78: 6362725546995151549
+      Hobgob 1A[anim]_79: 1858498020140561132
+      Hobgob 1A[anim]_8: -1378963224804215221
+      Hobgob 1A[anim]_80: -9167244772354603649
+      Hobgob 1A[anim]_81: -8337339600299896167
+      Hobgob 1A[anim]_82: -2917858178849564191
+      Hobgob 1A[anim]_83: 6609609929845186373
+      Hobgob 1A[anim]_84: 3405474252094031804
+      Hobgob 1A[anim]_85: -9207041108388424829
+      Hobgob 1A[anim]_86: -4065582530576730709
+      Hobgob 1A[anim]_87: 5651514782347173378
+      Hobgob 1A[anim]_88: 9114736448532437082
+      Hobgob 1A[anim]_89: 9040336360592370903
+      Hobgob 1A[anim]_9: 4371567362788587721
+      Hobgob 1A[anim]_90: 786631468924439659
+      Hobgob 1A[anim]_91: 4376023941367990264
+      Hobgob 1A[anim]_92: -5362279052350068075
+      Hobgob 1A[anim]_93: -6855185790964811228
+      Hobgob 1A[anim]_94: -2186267265035120312
+      Hobgob 1A[anim]_95: 607106712817770976
+      Hobgob 1A[anim]_96: -2902238133370170475
+      Hobgob 1A[anim]_97: -4658460269479821324
+      Hobgob 1A[anim]_98: -336308209289072492
+      Hobgob 1A[anim]_99: 4714664574630787015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

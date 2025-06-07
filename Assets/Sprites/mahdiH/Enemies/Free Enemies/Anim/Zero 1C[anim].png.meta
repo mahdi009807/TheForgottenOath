@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: b8f63318442ab02498abeaeaaf2dfe67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3120108964054010543
+    second: Zero 1C[anim]_0
+  - first:
+      213: 856206680512265519
+    second: Zero 1C[anim]_1
+  - first:
+      213: 2684916254035092624
+    second: Zero 1C[anim]_2
+  - first:
+      213: -1086037396450168147
+    second: Zero 1C[anim]_3
+  - first:
+      213: -4339903553791707953
+    second: Zero 1C[anim]_4
+  - first:
+      213: 4884542043161734077
+    second: Zero 1C[anim]_5
+  - first:
+      213: -6119595513418462038
+    second: Zero 1C[anim]_6
+  - first:
+      213: 3955672042764685215
+    second: Zero 1C[anim]_7
+  - first:
+      213: 2030230672394378691
+    second: Zero 1C[anim]_8
+  - first:
+      213: 6057215460769758375
+    second: Zero 1C[anim]_9
+  - first:
+      213: -9055699608116171574
+    second: Zero 1C[anim]_10
+  - first:
+      213: -6656022951829841545
+    second: Zero 1C[anim]_11
+  - first:
+      213: 4188214442984101917
+    second: Zero 1C[anim]_12
+  - first:
+      213: -2376759375777899300
+    second: Zero 1C[anim]_13
+  - first:
+      213: 3245767598850775070
+    second: Zero 1C[anim]_14
+  - first:
+      213: 4505943965087319206
+    second: Zero 1C[anim]_15
+  - first:
+      213: -5898809833205083710
+    second: Zero 1C[anim]_16
+  - first:
+      213: 8699277264972148413
+    second: Zero 1C[anim]_17
+  - first:
+      213: 5567473465150410145
+    second: Zero 1C[anim]_18
+  - first:
+      213: -8787925680334335898
+    second: Zero 1C[anim]_19
+  - first:
+      213: -3331570229136861120
+    second: Zero 1C[anim]_20
+  - first:
+      213: -4287345745343563272
+    second: Zero 1C[anim]_21
+  - first:
+      213: -2228388148300432274
+    second: Zero 1C[anim]_22
+  - first:
+      213: 3774901005655327885
+    second: Zero 1C[anim]_23
+  - first:
+      213: 6852576430169190757
+    second: Zero 1C[anim]_24
+  - first:
+      213: 2815695328759813765
+    second: Zero 1C[anim]_25
+  - first:
+      213: -3439840425893391332
+    second: Zero 1C[anim]_26
+  - first:
+      213: 1822122009462540393
+    second: Zero 1C[anim]_27
+  - first:
+      213: -5141938604555185048
+    second: Zero 1C[anim]_28
+  - first:
+      213: -1663485242804838609
+    second: Zero 1C[anim]_29
+  - first:
+      213: -5765262785297471602
+    second: Zero 1C[anim]_30
+  - first:
+      213: 8270726982622633466
+    second: Zero 1C[anim]_31
+  - first:
+      213: 7459336843791206435
+    second: Zero 1C[anim]_32
+  - first:
+      213: 2059458248432775147
+    second: Zero 1C[anim]_33
+  - first:
+      213: -869801086204559652
+    second: Zero 1C[anim]_34
+  - first:
+      213: 363208229527011095
+    second: Zero 1C[anim]_35
+  - first:
+      213: -3987227067128170147
+    second: Zero 1C[anim]_36
+  - first:
+      213: -2408466058504161272
+    second: Zero 1C[anim]_37
+  - first:
+      213: 771134218636616662
+    second: Zero 1C[anim]_38
+  - first:
+      213: 474319134576308884
+    second: Zero 1C[anim]_39
+  - first:
+      213: 8635646005168539169
+    second: Zero 1C[anim]_40
+  - first:
+      213: 6450087925736905099
+    second: Zero 1C[anim]_41
+  - first:
+      213: 6700217412904671481
+    second: Zero 1C[anim]_42
+  - first:
+      213: 1612112324881195558
+    second: Zero 1C[anim]_43
+  - first:
+      213: 5456552684305319060
+    second: Zero 1C[anim]_44
+  - first:
+      213: 1716636715110871852
+    second: Zero 1C[anim]_45
+  - first:
+      213: 759518877794468761
+    second: Zero 1C[anim]_46
+  - first:
+      213: 2731429663069564350
+    second: Zero 1C[anim]_47
+  - first:
+      213: -7902673052920109199
+    second: Zero 1C[anim]_48
+  - first:
+      213: 3901490842556149067
+    second: Zero 1C[anim]_49
+  - first:
+      213: 1972327894509191797
+    second: Zero 1C[anim]_50
+  - first:
+      213: -3298673601886480003
+    second: Zero 1C[anim]_51
+  - first:
+      213: -1465916115733826427
+    second: Zero 1C[anim]_52
+  - first:
+      213: -2078550907464416052
+    second: Zero 1C[anim]_53
+  - first:
+      213: -7518615111805317010
+    second: Zero 1C[anim]_54
+  - first:
+      213: -961156645953225577
+    second: Zero 1C[anim]_55
+  - first:
+      213: 1291908332208950504
+    second: Zero 1C[anim]_56
+  - first:
+      213: -2181294382392599990
+    second: Zero 1C[anim]_57
+  - first:
+      213: -2717783426309526909
+    second: Zero 1C[anim]_58
+  - first:
+      213: -8508019029321980836
+    second: Zero 1C[anim]_59
+  - first:
+      213: 4078531727683280655
+    second: Zero 1C[anim]_60
+  - first:
+      213: -5422355032272130576
+    second: Zero 1C[anim]_61
+  - first:
+      213: -2627469317381048936
+    second: Zero 1C[anim]_62
+  - first:
+      213: -6393378066250634901
+    second: Zero 1C[anim]_63
+  - first:
+      213: 6045353431540434505
+    second: Zero 1C[anim]_64
+  - first:
+      213: -1738034130869231304
+    second: Zero 1C[anim]_65
+  - first:
+      213: 5209439029659262008
+    second: Zero 1C[anim]_66
+  - first:
+      213: 7582189531978554548
+    second: Zero 1C[anim]_67
+  - first:
+      213: 2289141118841493296
+    second: Zero 1C[anim]_68
+  - first:
+      213: 6802057163629218599
+    second: Zero 1C[anim]_69
+  - first:
+      213: 2578756815026377356
+    second: Zero 1C[anim]_70
+  - first:
+      213: 4919643310480735633
+    second: Zero 1C[anim]_71
+  - first:
+      213: -7039929085351846162
+    second: Zero 1C[anim]_72
+  - first:
+      213: 650043417272388387
+    second: Zero 1C[anim]_73
+  - first:
+      213: 6317069995222579205
+    second: Zero 1C[anim]_74
+  - first:
+      213: 4670795103212630905
+    second: Zero 1C[anim]_75
+  - first:
+      213: 8547946284253174283
+    second: Zero 1C[anim]_76
+  - first:
+      213: -3513856644547594057
+    second: Zero 1C[anim]_77
+  - first:
+      213: 7046762744998657738
+    second: Zero 1C[anim]_78
+  - first:
+      213: -9133677819490360313
+    second: Zero 1C[anim]_79
+  - first:
+      213: 2629615922320503509
+    second: Zero 1C[anim]_80
+  - first:
+      213: 6167649854933066640
+    second: Zero 1C[anim]_81
+  - first:
+      213: 7985081037497419514
+    second: Zero 1C[anim]_82
+  - first:
+      213: -2877835092737030254
+    second: Zero 1C[anim]_83
+  - first:
+      213: -6863225708226720795
+    second: Zero 1C[anim]_84
+  - first:
+      213: 7093129320789451198
+    second: Zero 1C[anim]_85
+  - first:
+      213: -4513663495410761191
+    second: Zero 1C[anim]_86
+  - first:
+      213: -3500749747420292058
+    second: Zero 1C[anim]_87
+  - first:
+      213: 4637141065732470378
+    second: Zero 1C[anim]_88
+  - first:
+      213: 6300147556239837562
+    second: Zero 1C[anim]_89
+  - first:
+      213: -7874265081687326906
+    second: Zero 1C[anim]_90
+  - first:
+      213: -6647101022579842408
+    second: Zero 1C[anim]_91
+  - first:
+      213: 581402800746183920
+    second: Zero 1C[anim]_92
+  - first:
+      213: -6585251514659068782
+    second: Zero 1C[anim]_93
+  - first:
+      213: -8584075330766488938
+    second: Zero 1C[anim]_94
+  - first:
+      213: -6417126948986523792
+    second: Zero 1C[anim]_95
+  - first:
+      213: 3415175872169273467
+    second: Zero 1C[anim]_96
+  - first:
+      213: 4958335947866296690
+    second: Zero 1C[anim]_97
+  - first:
+      213: 5539279968670204083
+    second: Zero 1C[anim]_98
+  - first:
+      213: 805825972750344931
+    second: Zero 1C[anim]_99
+  - first:
+      213: -8200040471544640644
+    second: Zero 1C[anim]_100
+  - first:
+      213: 5468097037082113736
+    second: Zero 1C[anim]_101
+  - first:
+      213: -9095437506154983812
+    second: Zero 1C[anim]_102
+  - first:
+      213: 9145453013971644851
+    second: Zero 1C[anim]_103
+  - first:
+      213: -464923413772749327
+    second: Zero 1C[anim]_104
+  - first:
+      213: -1474032288762160107
+    second: Zero 1C[anim]_105
+  - first:
+      213: 7664022221159089173
+    second: Zero 1C[anim]_106
+  - first:
+      213: 3483554709157331718
+    second: Zero 1C[anim]_107
+  - first:
+      213: -9039451435151507033
+    second: Zero 1C[anim]_108
+  - first:
+      213: -6342485043357566665
+    second: Zero 1C[anim]_109
+  - first:
+      213: 1730955484166892677
+    second: Zero 1C[anim]_110
+  - first:
+      213: 5922359421187075761
+    second: Zero 1C[anim]_111
+  - first:
+      213: 3031608285249064399
+    second: Zero 1C[anim]_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zero 1C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2098
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa83fe529adc4b20800000000000000
+      internalID: 3120108964054010543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2098
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dff36807bd1eb00800000000000000
+      internalID: 856206680512265519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2098
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942f659b1db24520800000000000000
+      internalID: 2684916254035092624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2098
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da23cc3fdbe9de0f0800000000000000
+      internalID: -1086037396450168147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1938
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc43acc26b095c3c0800000000000000
+      internalID: -4339903553791707953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1938
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbad1ddb1169c340800000000000000
+      internalID: 4884542043161734077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1938
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac4e95bd44d21ba0800000000000000
+      internalID: -6119595513418462038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1938
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fceecc3ce55e630800000000000000
+      internalID: 3955672042764685215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1778
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd5b283a04dc2c10800000000000000
+      internalID: 2030230672394378691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1778
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac7f2b7e5d8f0450800000000000000
+      internalID: 6057215460769758375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1778
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc67918f21b35280800000000000000
+      internalID: -9055699608116171574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1778
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d553f36e01a3a0800000000000000
+      internalID: -6656022951829841545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1618
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d185a3588d68f1a30800000000000000
+      internalID: 4188214442984101917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1618
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdd2ab0fd040fd0800000000000000
+      internalID: -2376759375777899300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1618
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1819f03f684b0d20800000000000000
+      internalID: 3245767598850775070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1618
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a448d8a924588e30800000000000000
+      internalID: 4505943965087319206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1458
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1da3eb5b7332ea0800000000000000
+      internalID: -5898809833205083710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1458
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeeb4de49a0ab870800000000000000
+      internalID: 8699277264972148413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1458
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad04ba6e93a34d40800000000000000
+      internalID: 5567473465150410145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1458
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660932777240b0680800000000000000
+      internalID: -8787925680334335898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1298
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d70c2782e3c1d0800000000000000
+      internalID: -3331570229136861120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1298
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9b38b82c94084c0800000000000000
+      internalID: -4287345745343563272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1298
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbcde19cc2311e0800000000000000
+      internalID: -2228388148300432274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1298
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84c950e674236430800000000000000
+      internalID: 3774901005655327885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1138
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f27ce4fd391f50800000000000000
+      internalID: 6852576430169190757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1138
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586947abbfb531720800000000000000
+      internalID: 2815695328759813765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1138
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1498929b5b3340d0800000000000000
+      internalID: -3439840425893391332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1138
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688f67405a794910800000000000000
+      internalID: 1822122009462540393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 978
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864de92151a24a8b0800000000000000
+      internalID: -5141938604555185048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 978
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f53853cfc1ae8e0800000000000000
+      internalID: -1663485242804838609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 978
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a09dda0cadffa0800000000000000
+      internalID: -5765262785297471602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 978
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd579de5687c270800000000000000
+      internalID: 8270726982622633466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 818
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32888229653e48760800000000000000
+      internalID: 7459336843791206435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 818
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef659f8d5aa49c10800000000000000
+      internalID: 2059458248432775147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 818
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde378f3588dde3f0800000000000000
+      internalID: -869801086204559652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 818
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb47cd5ff5a0500800000000000000
+      internalID: 363208229527011095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 658
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b0019b168aa8c0800000000000000
+      internalID: -3987227067128170147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 658
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808364161e8639ed0800000000000000
+      internalID: -2408466058504161272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 658
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ebf77c7e93ba00800000000000000
+      internalID: 771134218636616662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 658
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49277966dbe159600800000000000000
+      internalID: 474319134576308884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 498
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1268710c94af7d770800000000000000
+      internalID: 8635646005168539169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 498
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89959f5bc0538950800000000000000
+      internalID: 6450087925736905099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 498
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d11edc34fbfc50800000000000000
+      internalID: 6700217412904671481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 498
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a29e3e9f5f5610800000000000000
+      internalID: 1612112324881195558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 338
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494093e91c199bb40800000000000000
+      internalID: 5456552684305319060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 338
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b39c4ff7b2d710800000000000000
+      internalID: 1716636715110871852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 338
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993842f256a5a8a00800000000000000
+      internalID: 759518877794468761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 338
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebde93c8eccf7e520800000000000000
+      internalID: 2731429663069564350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 178
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17725a08ab0145290800000000000000
+      internalID: -7902673052920109199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4daff41041e42630800000000000000
+      internalID: 3901490842556149067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 178
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57280dc25cd1f5b10800000000000000
+      internalID: 1972327894509191797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 178
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79199116d1c832d0800000000000000
+      internalID: -3298673601886480003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843a2b3f0508abe0800000000000000
+      internalID: -1465916115733826427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4840956f08723e0800000000000000
+      internalID: -2078550907464416052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d5f1246388a790800000000000000
+      internalID: -7518615111805317010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb3787f1949a2f0800000000000000
+      internalID: -961156645953225577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8ea788c7cde110800000000000000
+      internalID: 1291908332208950504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1fe2f05c7ab1e0800000000000000
+      internalID: -2181294382392599990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 81
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a606a8f5e784ad0800000000000000
+      internalID: -2717783426309526909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54effe25c17de980800000000000000
+      internalID: -8508019029321980836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd8b15ffad99830800000000000000
+      internalID: 4078531727683280655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd2e57b3dcefb4b0800000000000000
+      internalID: -5422355032272130576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b347a39a598bd0800000000000000
+      internalID: -2627469317381048936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696b56b5882647a0800000000000000
+      internalID: -6393378066250634901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94608a49ae865e350800000000000000
+      internalID: 6045353431540434505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e80e9a2341e7e0800000000000000
+      internalID: -1738034130869231304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c55e95235ab4840800000000000000
+      internalID: 5209439029659262008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc54490539593960800000000000000
+      internalID: 7582189531978554548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037994d18b9a4cf10800000000000000
+      internalID: 2289141118841493296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b450493f2c56e50800000000000000
+      internalID: 6802057163629218599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d3c119a599c320800000000000000
+      internalID: 2578756815026377356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db4d68685164440800000000000000
+      internalID: 4919643310480735633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee99a7cbc52d4e90800000000000000
+      internalID: -7039929085351846162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b0a1f3b0b650900800000000000000
+      internalID: 650043417272388387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508358ef0bdbaa750800000000000000
+      internalID: 6317069995222579205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737f91466ff1d040800000000000000
+      internalID: 4670795103212630905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad7084bd760a670800000000000000
+      internalID: 8547946284253174283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8381ebff54c3fc0800000000000000
+      internalID: -3513856644547594057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef91891612bc160800000000000000
+      internalID: 7046762744998657738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a96c5a68ae3180800000000000000
+      internalID: -9133677819490360313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ff91cfb54e7420800000000000000
+      internalID: 2629615922320503509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093664e8dd4e79550800000000000000
+      internalID: 6167649854933066640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6cdb695e4b0de60800000000000000
+      internalID: 7985081037497419514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29781470b30ef08d0800000000000000
+      internalID: -2877835092737030254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb41dfc49ce0c0a0800000000000000
+      internalID: -6863225708226720795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12097498bdf6260800000000000000
+      internalID: 7093129320789451198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c46027fe3c51c0800000000000000
+      internalID: -4513663495410761191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c997907a6da6fc0800000000000000
+      internalID: -3500749747420292058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a663c5c0b3f6a5040800000000000000
+      internalID: 4637141065732470378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798832a2de9e6750800000000000000
+      internalID: 6300147556239837562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb3cab0adf8b290800000000000000
+      internalID: -7874265081687326906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922efa76d0c0c3a0800000000000000
+      internalID: -6647101022579842408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcb4e154ce811800800000000000000
+      internalID: 581402800746183920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a42833ac7c94a0800000000000000
+      internalID: -6585251514659068782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a387097fc3fd880800000000000000
+      internalID: -8584075330766488938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f621f0a09c1f6a0800000000000000
+      internalID: -6417126948986523792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7862228c54256f20800000000000000
+      internalID: 3415175872169273467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271de91364c8fc440800000000000000
+      internalID: 4958335947866296690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0460c78c97fdc40800000000000000
+      internalID: 5539279968670204083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26198e37ede2b00800000000000000
+      internalID: 805825972750344931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b41c503aa933e80800000000000000
+      internalID: -8200040471544640644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c635a4b84592eb40800000000000000
+      internalID: 5468097037082113736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0ed027c386c180800000000000000
+      internalID: -9095437506154983812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13ecfbf0d2bee70800000000000000
+      internalID: 9145453013971644851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f530525e924c89f0800000000000000
+      internalID: -464923413772749327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c10e0717f2b8be0800000000000000
+      internalID: -1474032288762160107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51443eaba931c5a60800000000000000
+      internalID: 7664022221159089173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60346f22d82185030800000000000000
+      internalID: 3483554709157331718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1466310da6d8280800000000000000
+      internalID: -9039451435151507033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739b17df477faf7a0800000000000000
+      internalID: -6342485043357566665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c28c387d6950810800000000000000
+      internalID: 1730955484166892677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be2b0cf382703250800000000000000
+      internalID: 5922359421187075761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zero 1C[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdc66c5caf621a20800000000000000
+      internalID: 3031608285249064399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zero 1C[anim]_0: 3120108964054010543
+      Zero 1C[anim]_1: 856206680512265519
+      Zero 1C[anim]_10: -9055699608116171574
+      Zero 1C[anim]_100: -8200040471544640644
+      Zero 1C[anim]_101: 5468097037082113736
+      Zero 1C[anim]_102: -9095437506154983812
+      Zero 1C[anim]_103: 9145453013971644851
+      Zero 1C[anim]_104: -464923413772749327
+      Zero 1C[anim]_105: -1474032288762160107
+      Zero 1C[anim]_106: 7664022221159089173
+      Zero 1C[anim]_107: 3483554709157331718
+      Zero 1C[anim]_108: -9039451435151507033
+      Zero 1C[anim]_109: -6342485043357566665
+      Zero 1C[anim]_11: -6656022951829841545
+      Zero 1C[anim]_110: 1730955484166892677
+      Zero 1C[anim]_111: 5922359421187075761
+      Zero 1C[anim]_112: 3031608285249064399
+      Zero 1C[anim]_12: 4188214442984101917
+      Zero 1C[anim]_13: -2376759375777899300
+      Zero 1C[anim]_14: 3245767598850775070
+      Zero 1C[anim]_15: 4505943965087319206
+      Zero 1C[anim]_16: -5898809833205083710
+      Zero 1C[anim]_17: 8699277264972148413
+      Zero 1C[anim]_18: 5567473465150410145
+      Zero 1C[anim]_19: -8787925680334335898
+      Zero 1C[anim]_2: 2684916254035092624
+      Zero 1C[anim]_20: -3331570229136861120
+      Zero 1C[anim]_21: -4287345745343563272
+      Zero 1C[anim]_22: -2228388148300432274
+      Zero 1C[anim]_23: 3774901005655327885
+      Zero 1C[anim]_24: 6852576430169190757
+      Zero 1C[anim]_25: 2815695328759813765
+      Zero 1C[anim]_26: -3439840425893391332
+      Zero 1C[anim]_27: 1822122009462540393
+      Zero 1C[anim]_28: -5141938604555185048
+      Zero 1C[anim]_29: -1663485242804838609
+      Zero 1C[anim]_3: -1086037396450168147
+      Zero 1C[anim]_30: -5765262785297471602
+      Zero 1C[anim]_31: 8270726982622633466
+      Zero 1C[anim]_32: 7459336843791206435
+      Zero 1C[anim]_33: 2059458248432775147
+      Zero 1C[anim]_34: -869801086204559652
+      Zero 1C[anim]_35: 363208229527011095
+      Zero 1C[anim]_36: -3987227067128170147
+      Zero 1C[anim]_37: -2408466058504161272
+      Zero 1C[anim]_38: 771134218636616662
+      Zero 1C[anim]_39: 474319134576308884
+      Zero 1C[anim]_4: -4339903553791707953
+      Zero 1C[anim]_40: 8635646005168539169
+      Zero 1C[anim]_41: 6450087925736905099
+      Zero 1C[anim]_42: 6700217412904671481
+      Zero 1C[anim]_43: 1612112324881195558
+      Zero 1C[anim]_44: 5456552684305319060
+      Zero 1C[anim]_45: 1716636715110871852
+      Zero 1C[anim]_46: 759518877794468761
+      Zero 1C[anim]_47: 2731429663069564350
+      Zero 1C[anim]_48: -7902673052920109199
+      Zero 1C[anim]_49: 3901490842556149067
+      Zero 1C[anim]_5: 4884542043161734077
+      Zero 1C[anim]_50: 1972327894509191797
+      Zero 1C[anim]_51: -3298673601886480003
+      Zero 1C[anim]_52: -1465916115733826427
+      Zero 1C[anim]_53: -2078550907464416052
+      Zero 1C[anim]_54: -7518615111805317010
+      Zero 1C[anim]_55: -961156645953225577
+      Zero 1C[anim]_56: 1291908332208950504
+      Zero 1C[anim]_57: -2181294382392599990
+      Zero 1C[anim]_58: -2717783426309526909
+      Zero 1C[anim]_59: -8508019029321980836
+      Zero 1C[anim]_6: -6119595513418462038
+      Zero 1C[anim]_60: 4078531727683280655
+      Zero 1C[anim]_61: -5422355032272130576
+      Zero 1C[anim]_62: -2627469317381048936
+      Zero 1C[anim]_63: -6393378066250634901
+      Zero 1C[anim]_64: 6045353431540434505
+      Zero 1C[anim]_65: -1738034130869231304
+      Zero 1C[anim]_66: 5209439029659262008
+      Zero 1C[anim]_67: 7582189531978554548
+      Zero 1C[anim]_68: 2289141118841493296
+      Zero 1C[anim]_69: 6802057163629218599
+      Zero 1C[anim]_7: 3955672042764685215
+      Zero 1C[anim]_70: 2578756815026377356
+      Zero 1C[anim]_71: 4919643310480735633
+      Zero 1C[anim]_72: -7039929085351846162
+      Zero 1C[anim]_73: 650043417272388387
+      Zero 1C[anim]_74: 6317069995222579205
+      Zero 1C[anim]_75: 4670795103212630905
+      Zero 1C[anim]_76: 8547946284253174283
+      Zero 1C[anim]_77: -3513856644547594057
+      Zero 1C[anim]_78: 7046762744998657738
+      Zero 1C[anim]_79: -9133677819490360313
+      Zero 1C[anim]_8: 2030230672394378691
+      Zero 1C[anim]_80: 2629615922320503509
+      Zero 1C[anim]_81: 6167649854933066640
+      Zero 1C[anim]_82: 7985081037497419514
+      Zero 1C[anim]_83: -2877835092737030254
+      Zero 1C[anim]_84: -6863225708226720795
+      Zero 1C[anim]_85: 7093129320789451198
+      Zero 1C[anim]_86: -4513663495410761191
+      Zero 1C[anim]_87: -3500749747420292058
+      Zero 1C[anim]_88: 4637141065732470378
+      Zero 1C[anim]_89: 6300147556239837562
+      Zero 1C[anim]_9: 6057215460769758375
+      Zero 1C[anim]_90: -7874265081687326906
+      Zero 1C[anim]_91: -6647101022579842408
+      Zero 1C[anim]_92: 581402800746183920
+      Zero 1C[anim]_93: -6585251514659068782
+      Zero 1C[anim]_94: -8584075330766488938
+      Zero 1C[anim]_95: -6417126948986523792
+      Zero 1C[anim]_96: 3415175872169273467
+      Zero 1C[anim]_97: 4958335947866296690
+      Zero 1C[anim]_98: 5539279968670204083
+      Zero 1C[anim]_99: 805825972750344931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -114,84 +114,18 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 86
-        height: 86
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 547a9c503befd9800800000000000000
-      internalID: 620932368496699205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: icons8-right-click-100_1
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 33
-        width: 13
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab6aa57409f39a020800000000000000
-      internalID: 2353482169182758586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: icons8-right-click-100_2
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 69
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09ee07363fa0eec90800000000000000
-      internalID: -7138756318873981296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: icons8-right-click-100_3
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 28
-        width: 12
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 457231f11600539a0800000000000000
-      internalID: -6254092090400889004
+      spriteID: 8d6b2da329a81e149bf7f0d080b691d8
+      internalID: -291727465
       vertices: []
       indices: 
       edges: []
@@ -200,7 +134,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 926ff607798365e479e9447d3d99e26c
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +144,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      icons8-right-click-100_0: 620932368496699205
-      icons8-right-click-100_1: 2353482169182758586
-      icons8-right-click-100_2: -7138756318873981296
-      icons8-right-click-100_3: -6254092090400889004
+      icons8-right-click-100_0: -291727465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

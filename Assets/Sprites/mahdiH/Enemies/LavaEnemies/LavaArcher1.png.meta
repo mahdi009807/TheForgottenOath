@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: fb296829d7a74c644af506dafb3a3489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1672687772465017353
+    second: LavaArcher1_0
+  - first:
+      213: -1279293927532467352
+    second: LavaArcher1_1
+  - first:
+      213: 2969511910824086962
+    second: LavaArcher1_2
+  - first:
+      213: 5886025037363372827
+    second: LavaArcher1_3
+  - first:
+      213: 364079229567567494
+    second: LavaArcher1_4
+  - first:
+      213: -5642741309756200062
+    second: LavaArcher1_5
+  - first:
+      213: 1281196670447054222
+    second: LavaArcher1_6
+  - first:
+      213: -6303892502779081391
+    second: LavaArcher1_7
+  - first:
+      213: 4394673987659544961
+    second: LavaArcher1_8
+  - first:
+      213: 1712405948904131871
+    second: LavaArcher1_9
+  - first:
+      213: -675039401126510154
+    second: LavaArcher1_10
+  - first:
+      213: 8853139044544184170
+    second: LavaArcher1_11
+  - first:
+      213: -6278314625223290401
+    second: LavaArcher1_12
+  - first:
+      213: 5387626985315851523
+    second: LavaArcher1_13
+  - first:
+      213: -3273554305840047539
+    second: LavaArcher1_14
+  - first:
+      213: -8950836829749029461
+    second: LavaArcher1_15
+  - first:
+      213: -7392100052028596519
+    second: LavaArcher1_16
+  - first:
+      213: -2413288887510543937
+    second: LavaArcher1_17
+  - first:
+      213: -8537870488923154191
+    second: LavaArcher1_18
+  - first:
+      213: -3446303973840387671
+    second: LavaArcher1_19
+  - first:
+      213: 8256780846162460937
+    second: LavaArcher1_20
+  - first:
+      213: 8830556504940044274
+    second: LavaArcher1_21
+  - first:
+      213: 6439030363177934965
+    second: LavaArcher1_22
+  - first:
+      213: 4552448247072986858
+    second: LavaArcher1_23
+  - first:
+      213: -2391637798400851143
+    second: LavaArcher1_24
+  - first:
+      213: -8615429985355579086
+    second: LavaArcher1_25
+  - first:
+      213: -8337715644362271848
+    second: LavaArcher1_26
+  - first:
+      213: -2750848234702033773
+    second: LavaArcher1_27
+  - first:
+      213: 3036444922957425988
+    second: LavaArcher1_28
+  - first:
+      213: -3845032968204901303
+    second: LavaArcher1_29
+  - first:
+      213: -5668755959380201555
+    second: LavaArcher1_30
+  - first:
+      213: 8985831688663296872
+    second: LavaArcher1_31
+  - first:
+      213: -7275327354220125621
+    second: LavaArcher1_32
+  - first:
+      213: 5120966053565341235
+    second: LavaArcher1_33
+  - first:
+      213: 8317599190458664279
+    second: LavaArcher1_34
+  - first:
+      213: -8285771640832962979
+    second: LavaArcher1_35
+  - first:
+      213: 7368312809908914898
+    second: LavaArcher1_36
+  - first:
+      213: -7447243676587053406
+    second: LavaArcher1_37
+  - first:
+      213: 294327931970315577
+    second: LavaArcher1_38
+  - first:
+      213: 2619092976556596013
+    second: LavaArcher1_39
+  - first:
+      213: -1921359281305988764
+    second: LavaArcher1_40
+  - first:
+      213: 6560199026570309663
+    second: LavaArcher1_41
+  - first:
+      213: -2134406299821234
+    second: LavaArcher1_42
+  - first:
+      213: 2029284589912488618
+    second: LavaArcher1_43
+  - first:
+      213: -6263069064109217307
+    second: LavaArcher1_44
+  - first:
+      213: -5010670060354037486
+    second: LavaArcher1_45
+  - first:
+      213: -7140257302779594006
+    second: LavaArcher1_46
+  - first:
+      213: 5779815637845395883
+    second: LavaArcher1_47
+  - first:
+      213: 4685798256772275975
+    second: LavaArcher1_48
+  - first:
+      213: -8234764152563668561
+    second: LavaArcher1_49
+  - first:
+      213: -8038866886213326375
+    second: LavaArcher1_50
+  - first:
+      213: 1795355096747197257
+    second: LavaArcher1_51
+  - first:
+      213: 8616999489434564728
+    second: LavaArcher1_52
+  - first:
+      213: 1571618194840451944
+    second: LavaArcher1_53
+  - first:
+      213: -3359472761399404372
+    second: LavaArcher1_54
+  - first:
+      213: 2420106602417400600
+    second: LavaArcher1_55
+  - first:
+      213: -4493997659616024596
+    second: LavaArcher1_56
+  - first:
+      213: -4458499036267464118
+    second: LavaArcher1_57
+  - first:
+      213: 3224440784467975227
+    second: LavaArcher1_58
+  - first:
+      213: 7359067291280878248
+    second: LavaArcher1_59
+  - first:
+      213: 2134368142105795662
+    second: LavaArcher1_60
+  - first:
+      213: 5116453687267702715
+    second: LavaArcher1_61
+  - first:
+      213: -2881206049988308112
+    second: LavaArcher1_62
+  - first:
+      213: 9203747592579175378
+    second: LavaArcher1_63
+  - first:
+      213: -1403357632519343307
+    second: LavaArcher1_64
+  - first:
+      213: -6239057910448331579
+    second: LavaArcher1_65
+  - first:
+      213: 4839038347033053233
+    second: LavaArcher1_66
+  - first:
+      213: 8885375949283898146
+    second: LavaArcher1_67
+  - first:
+      213: -164922596861105551
+    second: LavaArcher1_68
+  - first:
+      213: 7639085544642933809
+    second: LavaArcher1_69
+  - first:
+      213: -1390596416554518499
+    second: LavaArcher1_70
+  - first:
+      213: -3248674073739569541
+    second: LavaArcher1_71
+  - first:
+      213: 7474663401711770374
+    second: LavaArcher1_72
+  - first:
+      213: 6969787015047493569
+    second: LavaArcher1_73
+  - first:
+      213: -4544439125675483396
+    second: LavaArcher1_74
+  - first:
+      213: -7755896104238597225
+    second: LavaArcher1_75
+  - first:
+      213: 2963500204575305034
+    second: LavaArcher1_76
+  - first:
+      213: 7427571660028117818
+    second: LavaArcher1_77
+  - first:
+      213: -8561845900271347614
+    second: LavaArcher1_78
+  - first:
+      213: 4919096521291000792
+    second: LavaArcher1_79
+  - first:
+      213: 6574816095138876362
+    second: LavaArcher1_80
+  - first:
+      213: 4030936359896460674
+    second: LavaArcher1_81
+  - first:
+      213: 7530198672841494549
+    second: LavaArcher1_82
+  - first:
+      213: 1829669316145177299
+    second: LavaArcher1_83
+  - first:
+      213: -6710776385596560751
+    second: LavaArcher1_84
+  - first:
+      213: -8512201015575557049
+    second: LavaArcher1_85
+  - first:
+      213: -584465512846056155
+    second: LavaArcher1_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaArcher1_1
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3267
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bec1e63f80f3ee0800000000000000
+      internalID: -1279293927532467352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2856
+        width: 300
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d42b74320b3c710800000000000000
+      internalID: 1712405948904131871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2853
+        width: 300
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1467ebd37c1a6f0800000000000000
+      internalID: -675039401126510154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_11
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 2853
+        width: 300
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f72391e0bacda70800000000000000
+      internalID: 8853139044544184170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_12
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2853
+        width: 300
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11d6fbc12fed8a0800000000000000
+      internalID: -6278314625223290401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_13
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2853
+        width: 301
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d5f02c232b4ca40800000000000000
+      internalID: 5387626985315851523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2212
+        width: 273
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a147fe3bff192d0800000000000000
+      internalID: -3273554305840047539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_15
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2639
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba55350b35d38c380800000000000000
+      internalID: -8950836829749029461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_16
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2639
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de50beea2cf96990800000000000000
+      internalID: -7392100052028596519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_17
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2210
+        width: 302
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1598ffa86428ed0800000000000000
+      internalID: -2413288887510543937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_25
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2211
+        width: 237
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c1a72318df6880800000000000000
+      internalID: -8615429985355579086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_26
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2210
+        width: 278
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d19bebcb7a4c80800000000000000
+      internalID: -8337715644362271848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1973
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c239bea1603d9d0800000000000000
+      internalID: -2750848234702033773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1951
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d6ae4d19e932a20800000000000000
+      internalID: 3036444922957425988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1959
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442b7423e2b3aac0800000000000000
+      internalID: -3845032968204901303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_30
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1969
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa3c24d788451b0800000000000000
+      internalID: -5668755959380201555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_31
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1533
+        width: 222
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b6936df4614bc70800000000000000
+      internalID: 8985831688663296872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_32
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1941
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e6035158d80b90800000000000000
+      internalID: -7275327354220125621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_33
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1533
+        width: 212
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e98916e73511740800000000000000
+      internalID: 5120966053565341235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_34
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1533
+        width: 220
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7558d5b256c0e6370800000000000000
+      internalID: 8317599190458664279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_35
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1533
+        width: 178
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e4522b796030d80800000000000000
+      internalID: -8285771640832962979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_36
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1941
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac49c2671814660800000000000000
+      internalID: 7368312809908914898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_37
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 1536
+        width: 287
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae2145555316a890800000000000000
+      internalID: -7447243676587053406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_38
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 1935
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e098d1b9a51400800000000000000
+      internalID: 294327931970315577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_39
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1530
+        width: 294
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b50658f23e85420800000000000000
+      internalID: 2619092976556596013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_40
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1877
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615bd7d9e5f555e0800000000000000
+      internalID: -1921359281305988764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_41
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 1533
+        width: 288
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10369ad1428a0b50800000000000000
+      internalID: 6560199026570309663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_42
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 1869
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b51bec4ca68fff0800000000000000
+      internalID: -2134406299821234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_43
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1745
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa78e93597792c10800000000000000
+      internalID: 2029284589912488618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1533
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9280e8edb1519a0800000000000000
+      internalID: -6263069064109217307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1533
+        width: 58
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21999e5b026867ab0800000000000000
+      internalID: -5010670060354037486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1533
+        width: 57
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafee650d5b8ec90800000000000000
+      internalID: -7140257302779594006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1533
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c50923b7063050800000000000000
+      internalID: 5779815637845395883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1533
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5e0820bc470140800000000000000
+      internalID: 4685798256772275975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1533
+        width: 67
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9625502ad38bd80800000000000000
+      internalID: -8234764152563668561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_50
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1533
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9aa92a825307090800000000000000
+      internalID: -8038866886213326375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_51
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 913
+        width: 300
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943cd43c2f16ae810800000000000000
+      internalID: 1795355096747197257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_54
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 913
+        width: 300
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81030a251c061d0800000000000000
+      internalID: -3359472761399404372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_55
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 916
+        width: 300
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81baaa3f122f59120800000000000000
+      internalID: 2420106602417400600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_58
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 920
+        width: 300
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cde754fc38fbc20800000000000000
+      internalID: 3224440784467975227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 913
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4e2aae2e96a69a0800000000000000
+      internalID: -6239057910448331579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 913
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13806610db7b72340800000000000000
+      internalID: 4839038347033053233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 913
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223bdd069523f4b70800000000000000
+      internalID: 8885375949283898146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 914
+        width: 59
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aa8ae95c316bdf0800000000000000
+      internalID: -164922596861105551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_74
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 294
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed9b251b8eee0c0800000000000000
+      internalID: -4544439125675483396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_76
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 296
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d22891cb7702920800000000000000
+      internalID: 2963500204575305034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_77
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 296
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330cb36219041760800000000000000
+      internalID: 7427571660028117818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_78
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 297
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26811bc24863e2980800000000000000
+      internalID: -8561845900271347614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_79
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 297
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbe86f3934244440800000000000000
+      internalID: 4919096521291000792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 295
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da5d33343c0f730800000000000000
+      internalID: 4030936359896460674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 57
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510d5d6dbc3a08860800000000000000
+      internalID: 7530198672841494549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 295
+        width: 76
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e34d8c8a446910800000000000000
+      internalID: 1829669316145177299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_84
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 295
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aef69be688ed2a0800000000000000
+      internalID: -6710776385596560751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_85
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 294
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c46e1a6469ed980800000000000000
+      internalID: -8512201015575557049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaArcher1_86
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 295
+        width: 370
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525285376bf83e7f0800000000000000
+      internalID: -584465512846056155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f570fbce0ed73734fa02de1f3dbdb3ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaArcher1_0: -1672687772465017353
+      LavaArcher1_1: -1279293927532467352
+      LavaArcher1_10: -675039401126510154
+      LavaArcher1_11: 8853139044544184170
+      LavaArcher1_12: -6278314625223290401
+      LavaArcher1_13: 5387626985315851523
+      LavaArcher1_14: -3273554305840047539
+      LavaArcher1_15: -8950836829749029461
+      LavaArcher1_16: -7392100052028596519
+      LavaArcher1_17: -2413288887510543937
+      LavaArcher1_18: -8537870488923154191
+      LavaArcher1_19: -3446303973840387671
+      LavaArcher1_2: 2969511910824086962
+      LavaArcher1_20: 8256780846162460937
+      LavaArcher1_21: 8830556504940044274
+      LavaArcher1_22: 6439030363177934965
+      LavaArcher1_23: 4552448247072986858
+      LavaArcher1_24: -2391637798400851143
+      LavaArcher1_25: -8615429985355579086
+      LavaArcher1_26: -8337715644362271848
+      LavaArcher1_27: -2750848234702033773
+      LavaArcher1_28: 3036444922957425988
+      LavaArcher1_29: -3845032968204901303
+      LavaArcher1_3: 5886025037363372827
+      LavaArcher1_30: -5668755959380201555
+      LavaArcher1_31: 8985831688663296872
+      LavaArcher1_32: -7275327354220125621
+      LavaArcher1_33: 5120966053565341235
+      LavaArcher1_34: 8317599190458664279
+      LavaArcher1_35: -8285771640832962979
+      LavaArcher1_36: 7368312809908914898
+      LavaArcher1_37: -7447243676587053406
+      LavaArcher1_38: 294327931970315577
+      LavaArcher1_39: 2619092976556596013
+      LavaArcher1_4: 364079229567567494
+      LavaArcher1_40: -1921359281305988764
+      LavaArcher1_41: 6560199026570309663
+      LavaArcher1_42: -2134406299821234
+      LavaArcher1_43: 2029284589912488618
+      LavaArcher1_44: -6263069064109217307
+      LavaArcher1_45: -5010670060354037486
+      LavaArcher1_46: -7140257302779594006
+      LavaArcher1_47: 5779815637845395883
+      LavaArcher1_48: 4685798256772275975
+      LavaArcher1_49: -8234764152563668561
+      LavaArcher1_5: -5642741309756200062
+      LavaArcher1_50: -8038866886213326375
+      LavaArcher1_51: 1795355096747197257
+      LavaArcher1_52: 8616999489434564728
+      LavaArcher1_53: 1571618194840451944
+      LavaArcher1_54: -3359472761399404372
+      LavaArcher1_55: 2420106602417400600
+      LavaArcher1_56: -4493997659616024596
+      LavaArcher1_57: -4458499036267464118
+      LavaArcher1_58: 3224440784467975227
+      LavaArcher1_59: 7359067291280878248
+      LavaArcher1_6: 1281196670447054222
+      LavaArcher1_60: 2134368142105795662
+      LavaArcher1_61: 5116453687267702715
+      LavaArcher1_62: -2881206049988308112
+      LavaArcher1_63: 9203747592579175378
+      LavaArcher1_64: -1403357632519343307
+      LavaArcher1_65: -6239057910448331579
+      LavaArcher1_66: 4839038347033053233
+      LavaArcher1_67: 8885375949283898146
+      LavaArcher1_68: -164922596861105551
+      LavaArcher1_69: 7639085544642933809
+      LavaArcher1_7: -6303892502779081391
+      LavaArcher1_70: -1390596416554518499
+      LavaArcher1_71: -3248674073739569541
+      LavaArcher1_72: 7474663401711770374
+      LavaArcher1_73: 6969787015047493569
+      LavaArcher1_74: -4544439125675483396
+      LavaArcher1_75: -7755896104238597225
+      LavaArcher1_76: 2963500204575305034
+      LavaArcher1_77: 7427571660028117818
+      LavaArcher1_78: -8561845900271347614
+      LavaArcher1_79: 4919096521291000792
+      LavaArcher1_8: 4394673987659544961
+      LavaArcher1_80: 6574816095138876362
+      LavaArcher1_81: 4030936359896460674
+      LavaArcher1_82: 7530198672841494549
+      LavaArcher1_83: 1829669316145177299
+      LavaArcher1_84: -6710776385596560751
+      LavaArcher1_85: -8512201015575557049
+      LavaArcher1_86: -584465512846056155
+      LavaArcher1_9: 1712405948904131871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

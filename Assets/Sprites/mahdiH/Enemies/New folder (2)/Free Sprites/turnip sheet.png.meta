@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: db109a4eb79eb644a981895211508525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5038860965791469276
+    second: turnip sheet_0
+  - first:
+      213: 1669627932253494203
+    second: turnip sheet_1
+  - first:
+      213: -3941816516721360314
+    second: turnip sheet_2
+  - first:
+      213: -8919379962117482108
+    second: turnip sheet_3
+  - first:
+      213: 1050787868604759686
+    second: turnip sheet_4
+  - first:
+      213: -7903396576487828887
+    second: turnip sheet_5
+  - first:
+      213: -7937903959538852799
+    second: turnip sheet_6
+  - first:
+      213: -6902224565538738787
+    second: turnip sheet_7
+  - first:
+      213: -6726390550769473986
+    second: turnip sheet_8
+  - first:
+      213: -3196102801460848472
+    second: turnip sheet_9
+  - first:
+      213: 713276305037342885
+    second: turnip sheet_10
+  - first:
+      213: 3201775488461768391
+    second: turnip sheet_11
+  - first:
+      213: 596459062897789024
+    second: turnip sheet_12
+  - first:
+      213: -4704953980124099957
+    second: turnip sheet_13
+  - first:
+      213: 1668869822194424671
+    second: turnip sheet_14
+  - first:
+      213: 1705724573243479020
+    second: turnip sheet_15
+  - first:
+      213: 4813781658363802569
+    second: turnip sheet_16
+  - first:
+      213: 4141247437913836070
+    second: turnip sheet_17
+  - first:
+      213: 1850449973956354515
+    second: turnip sheet_18
+  - first:
+      213: -6083955430992108203
+    second: turnip sheet_19
+  - first:
+      213: 73773040879409347
+    second: turnip sheet_20
+  - first:
+      213: -7765567386902959559
+    second: turnip sheet_21
+  - first:
+      213: 5972200154414923436
+    second: turnip sheet_22
+  - first:
+      213: 2921538961890411044
+    second: turnip sheet_23
+  - first:
+      213: 2952307638316486852
+    second: turnip sheet_24
+  - first:
+      213: 5653517601532678258
+    second: turnip sheet_25
+  - first:
+      213: -1909816370089183747
+    second: turnip sheet_26
+  - first:
+      213: -7664202677213259829
+    second: turnip sheet_27
+  - first:
+      213: 1485732828955640388
+    second: turnip sheet_28
+  - first:
+      213: -3273314998850511749
+    second: turnip sheet_29
+  - first:
+      213: -7050276010062056140
+    second: turnip sheet_30
+  - first:
+      213: 3110195846580508190
+    second: turnip sheet_31
+  - first:
+      213: -2013909727310709142
+    second: turnip sheet_32
+  - first:
+      213: -3681754439173220346
+    second: turnip sheet_33
+  - first:
+      213: -1275448726294813847
+    second: turnip sheet_34
+  - first:
+      213: 5670623674618837017
+    second: turnip sheet_35
+  - first:
+      213: 7858364105269436157
+    second: turnip sheet_36
+  - first:
+      213: -136356854260620480
+    second: turnip sheet_37
+  - first:
+      213: -5872017782249751032
+    second: turnip sheet_38
+  - first:
+      213: 4589736689900790741
+    second: turnip sheet_39
+  - first:
+      213: -707494079299573891
+    second: turnip sheet_40
+  - first:
+      213: -8140844660953638506
+    second: turnip sheet_41
+  - first:
+      213: -5410663875307304955
+    second: turnip sheet_42
+  - first:
+      213: 6342861339809241440
+    second: turnip sheet_43
+  - first:
+      213: -2650838181294395595
+    second: turnip sheet_44
+  - first:
+      213: -7783609451192970009
+    second: turnip sheet_45
+  - first:
+      213: 2029585137049943406
+    second: turnip sheet_46
+  - first:
+      213: -592713206264558975
+    second: turnip sheet_47
+  - first:
+      213: 7040901984336654684
+    second: turnip sheet_48
+  - first:
+      213: 535212967462197567
+    second: turnip sheet_49
+  - first:
+      213: 2722403368140054513
+    second: turnip sheet_50
+  - first:
+      213: -5952328625883369666
+    second: turnip sheet_51
+  - first:
+      213: 2957088193963268974
+    second: turnip sheet_52
+  - first:
+      213: 5125435390514365748
+    second: turnip sheet_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turnip sheet_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 564
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fa6d06ae521ab0800000000000000
+      internalID: -5038860965791469276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 563
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb1a0122c5bb2710800000000000000
+      internalID: 1669627932253494203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 562
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6424e0f33cadb49c0800000000000000
+      internalID: -3941816516721360314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 563
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489104d6e2ff73480800000000000000
+      internalID: -8919379962117482108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 561
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef97acff5259e00800000000000000
+      internalID: 1050787868604759686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_5
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 561
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962976b00be715290800000000000000
+      internalID: -7903396576487828887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 565
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c1586d766e6d190800000000000000
+      internalID: -7937903959538852799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 565
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da613c35f5630a0800000000000000
+      internalID: -6902224565538738787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 565
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3667d89e6f07a2a0800000000000000
+      internalID: -6726390550769473986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 451
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a89b4d8f6925a3d0800000000000000
+      internalID: -3196102801460848472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 452
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a83474350116e900800000000000000
+      internalID: 713276305037342885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 453
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c60150d7ddfe6c20800000000000000
+      internalID: 3201775488461768391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 451
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c5178b5c074800800000000000000
+      internalID: 596459062897789024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 462
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a84227845a4beb0800000000000000
+      internalID: -4704953980124099957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 456
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b9440e244092710800000000000000
+      internalID: 1668869822194424671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 449
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce315d84673fba710800000000000000
+      internalID: 1705724573243479020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 454
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b01de9ecfdc240800000000000000
+      internalID: 4813781658363802569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 459
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ac9df7a9aa87930800000000000000
+      internalID: 4141247437913836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 339
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ac4c727e1ea910800000000000000
+      internalID: 1850449973956354515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 338
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555286a05c2719ba0800000000000000
+      internalID: -6083955430992108203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 338
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81e979038160100800000000000000
+      internalID: 73773040879409347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 338
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6a48fa992b3490800000000000000
+      internalID: -7765567386902959559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_22
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 336
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae3f6bf56481e250800000000000000
+      internalID: 5972200154414923436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_23
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 336
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42201f4f4346b8820800000000000000
+      internalID: 2921538961890411044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_24
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 338
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0d681b724b8f820800000000000000
+      internalID: 2952307638316486852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 338
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27016c21e44557e40800000000000000
+      internalID: 5653517601532678258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 337
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5bb9a4128fe75e0800000000000000
+      internalID: -1909816370089183747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc71b12954843a590800000000000000
+      internalID: -7664202677213259829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442890dd2226e9410800000000000000
+      internalID: 1485732828955640388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 223
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9e8fe959d292d0800000000000000
+      internalID: -3273314998850511749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 224
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435fac3a253682e90800000000000000
+      internalID: -7050276010062056140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_31
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 226
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169359d4a2a92b20800000000000000
+      internalID: 3110195846580508190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 228
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef0fde5c72d04e0800000000000000
+      internalID: -2013909727310709142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 226
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608dcd628d7c7ecc0800000000000000
+      internalID: -3681754439173220346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 225
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96329fb1422bc4ee0800000000000000
+      internalID: -1275448726294813847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 225
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187394103a12be40800000000000000
+      internalID: 5670623674618837017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 114
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed342b4848e0d60800000000000000
+      internalID: 7858364105269436157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 114
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432b1bd9209b1ef0800000000000000
+      internalID: -136356854260620480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 113
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ef93630f6628ea0800000000000000
+      internalID: -5872017782249751032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 114
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32d16b33502bf30800000000000000
+      internalID: 4589736689900790741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 116
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7728a222e97e26f0800000000000000
+      internalID: -707494079299573891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 120
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6991934b9e8e50f80800000000000000
+      internalID: -8140844660953638506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_42
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 113
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50805415fd579e4b0800000000000000
+      internalID: -5410663875307304955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 113
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06953ea58ce560850800000000000000
+      internalID: 6342861339809241440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 112
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa7e608b4563bd0800000000000000
+      internalID: -2650838181294395595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4154781701bf390800000000000000
+      internalID: -7783609451192970009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d364fcde88a2c10800000000000000
+      internalID: 2029585137049943406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a0beeaa7246c7f0800000000000000
+      internalID: -592713206264558975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_48
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51babaec0f46b160800000000000000
+      internalID: 7040901984336654684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3954c4bb557d6700800000000000000
+      internalID: 535212967462197567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_50
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff905d707be7c520800000000000000
+      internalID: 2722403368140054513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_51
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f25dbc6a4156da0800000000000000
+      internalID: -5952328625883369666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b9eaa8b00b90920800000000000000
+      internalID: 2957088193963268974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turnip sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43503daf454312740800000000000000
+      internalID: 5125435390514365748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

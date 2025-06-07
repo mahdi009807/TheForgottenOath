@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 933a5770f08101d4783661446342d2cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8664071958847167205
+    second: Spore 1C[anim]_0
+  - first:
+      213: 6234274186231992834
+    second: Spore 1C[anim]_1
+  - first:
+      213: -7802009163424955043
+    second: Spore 1C[anim]_2
+  - first:
+      213: 1324787819042847237
+    second: Spore 1C[anim]_3
+  - first:
+      213: -6931020418339421067
+    second: Spore 1C[anim]_4
+  - first:
+      213: -4637076042623538551
+    second: Spore 1C[anim]_5
+  - first:
+      213: -3052888987099943497
+    second: Spore 1C[anim]_6
+  - first:
+      213: -1357813869055854480
+    second: Spore 1C[anim]_7
+  - first:
+      213: 7380957178147962469
+    second: Spore 1C[anim]_8
+  - first:
+      213: 8104412494234788629
+    second: Spore 1C[anim]_9
+  - first:
+      213: 2873711634626228099
+    second: Spore 1C[anim]_10
+  - first:
+      213: -1314309513336020386
+    second: Spore 1C[anim]_11
+  - first:
+      213: 1592559233847931818
+    second: Spore 1C[anim]_12
+  - first:
+      213: -8098246169984433747
+    second: Spore 1C[anim]_13
+  - first:
+      213: 5919394245565857634
+    second: Spore 1C[anim]_14
+  - first:
+      213: 6934753036991564382
+    second: Spore 1C[anim]_15
+  - first:
+      213: 7746186257305617412
+    second: Spore 1C[anim]_16
+  - first:
+      213: -6658144562026296927
+    second: Spore 1C[anim]_17
+  - first:
+      213: -8590081739803554493
+    second: Spore 1C[anim]_18
+  - first:
+      213: -3434781985284571609
+    second: Spore 1C[anim]_19
+  - first:
+      213: 3533389222475035647
+    second: Spore 1C[anim]_20
+  - first:
+      213: 6621401975153453922
+    second: Spore 1C[anim]_21
+  - first:
+      213: 2810310675192957744
+    second: Spore 1C[anim]_22
+  - first:
+      213: 7569096170197023719
+    second: Spore 1C[anim]_23
+  - first:
+      213: 7395361490227729397
+    second: Spore 1C[anim]_24
+  - first:
+      213: -9136014860631079012
+    second: Spore 1C[anim]_25
+  - first:
+      213: -8941365582804616628
+    second: Spore 1C[anim]_26
+  - first:
+      213: 1840236825587233303
+    second: Spore 1C[anim]_27
+  - first:
+      213: 4191020864877201804
+    second: Spore 1C[anim]_28
+  - first:
+      213: -5428610430560433416
+    second: Spore 1C[anim]_29
+  - first:
+      213: -1732048635692368964
+    second: Spore 1C[anim]_30
+  - first:
+      213: 4761398379808023608
+    second: Spore 1C[anim]_31
+  - first:
+      213: 460821864712577806
+    second: Spore 1C[anim]_32
+  - first:
+      213: -7097168417884149035
+    second: Spore 1C[anim]_33
+  - first:
+      213: -8082371333673776777
+    second: Spore 1C[anim]_34
+  - first:
+      213: -7855282615692378255
+    second: Spore 1C[anim]_35
+  - first:
+      213: 8646486662812771934
+    second: Spore 1C[anim]_36
+  - first:
+      213: -8263469410742633100
+    second: Spore 1C[anim]_37
+  - first:
+      213: -2473239004643497512
+    second: Spore 1C[anim]_38
+  - first:
+      213: -1253831769015352601
+    second: Spore 1C[anim]_39
+  - first:
+      213: 2403955632716741787
+    second: Spore 1C[anim]_40
+  - first:
+      213: 741324294351780056
+    second: Spore 1C[anim]_41
+  - first:
+      213: 3065537831323963448
+    second: Spore 1C[anim]_42
+  - first:
+      213: 4045488608265034659
+    second: Spore 1C[anim]_43
+  - first:
+      213: -8759949588896371849
+    second: Spore 1C[anim]_44
+  - first:
+      213: 6246411191010361378
+    second: Spore 1C[anim]_45
+  - first:
+      213: -4614204918877507842
+    second: Spore 1C[anim]_46
+  - first:
+      213: -2367839507564784159
+    second: Spore 1C[anim]_47
+  - first:
+      213: 1793741740408080393
+    second: Spore 1C[anim]_48
+  - first:
+      213: 3682063135070854530
+    second: Spore 1C[anim]_49
+  - first:
+      213: 8912419168975817385
+    second: Spore 1C[anim]_50
+  - first:
+      213: -5832061188908871174
+    second: Spore 1C[anim]_51
+  - first:
+      213: 7014041038716482058
+    second: Spore 1C[anim]_52
+  - first:
+      213: -1475443779769709637
+    second: Spore 1C[anim]_53
+  - first:
+      213: -885857396034424090
+    second: Spore 1C[anim]_54
+  - first:
+      213: 1820168942925302855
+    second: Spore 1C[anim]_55
+  - first:
+      213: -8210573669796647650
+    second: Spore 1C[anim]_56
+  - first:
+      213: 6171561549035480040
+    second: Spore 1C[anim]_57
+  - first:
+      213: -2934113572427476850
+    second: Spore 1C[anim]_58
+  - first:
+      213: -7160198272476548105
+    second: Spore 1C[anim]_59
+  - first:
+      213: 7358220311627889417
+    second: Spore 1C[anim]_60
+  - first:
+      213: -9126839746984879802
+    second: Spore 1C[anim]_61
+  - first:
+      213: -8768997173414370440
+    second: Spore 1C[anim]_62
+  - first:
+      213: 1183381905780937028
+    second: Spore 1C[anim]_63
+  - first:
+      213: 7726525285011710302
+    second: Spore 1C[anim]_64
+  - first:
+      213: -3016528714597842319
+    second: Spore 1C[anim]_65
+  - first:
+      213: 1083084198013889682
+    second: Spore 1C[anim]_66
+  - first:
+      213: 142860946285225243
+    second: Spore 1C[anim]_67
+  - first:
+      213: 4388307690653597295
+    second: Spore 1C[anim]_68
+  - first:
+      213: -4610243752867982381
+    second: Spore 1C[anim]_69
+  - first:
+      213: -2636769374445239265
+    second: Spore 1C[anim]_70
+  - first:
+      213: 2848507185807575327
+    second: Spore 1C[anim]_71
+  - first:
+      213: -1366669086381549950
+    second: Spore 1C[anim]_72
+  - first:
+      213: 7787715609618697866
+    second: Spore 1C[anim]_73
+  - first:
+      213: 219579582973021128
+    second: Spore 1C[anim]_74
+  - first:
+      213: 1763799557673002809
+    second: Spore 1C[anim]_75
+  - first:
+      213: 3573752026807794995
+    second: Spore 1C[anim]_76
+  - first:
+      213: -571263119134793527
+    second: Spore 1C[anim]_77
+  - first:
+      213: 2149896583314128824
+    second: Spore 1C[anim]_78
+  - first:
+      213: -2811877062639294373
+    second: Spore 1C[anim]_79
+  - first:
+      213: 1856316963524099184
+    second: Spore 1C[anim]_80
+  - first:
+      213: 5512161527460570695
+    second: Spore 1C[anim]_81
+  - first:
+      213: -6801050424788991196
+    second: Spore 1C[anim]_82
+  - first:
+      213: 8948259626093639331
+    second: Spore 1C[anim]_83
+  - first:
+      213: -6216412287743356161
+    second: Spore 1C[anim]_84
+  - first:
+      213: 8255911622351291989
+    second: Spore 1C[anim]_85
+  - first:
+      213: 8348493709720099488
+    second: Spore 1C[anim]_86
+  - first:
+      213: 7609099318735722706
+    second: Spore 1C[anim]_87
+  - first:
+      213: 4848007500434240336
+    second: Spore 1C[anim]_88
+  - first:
+      213: 5846599209529673781
+    second: Spore 1C[anim]_89
+  - first:
+      213: 2364432938686345156
+    second: Spore 1C[anim]_90
+  - first:
+      213: -1724626304150655545
+    second: Spore 1C[anim]_91
+  - first:
+      213: 6084029327400294804
+    second: Spore 1C[anim]_92
+  - first:
+      213: 1365034542625857097
+    second: Spore 1C[anim]_93
+  - first:
+      213: 4142586805946827702
+    second: Spore 1C[anim]_94
+  - first:
+      213: -4102975101952402868
+    second: Spore 1C[anim]_95
+  - first:
+      213: 4627059418806915797
+    second: Spore 1C[anim]_96
+  - first:
+      213: -5513712750302741654
+    second: Spore 1C[anim]_97
+  - first:
+      213: -2003948610018449539
+    second: Spore 1C[anim]_98
+  - first:
+      213: -2586700820653987437
+    second: Spore 1C[anim]_99
+  - first:
+      213: -8932774449892843979
+    second: Spore 1C[anim]_100
+  - first:
+      213: -409690004502636723
+    second: Spore 1C[anim]_101
+  - first:
+      213: 6867694012069505343
+    second: Spore 1C[anim]_102
+  - first:
+      213: -5424134935156699007
+    second: Spore 1C[anim]_103
+  - first:
+      213: 4795230825166329686
+    second: Spore 1C[anim]_104
+  - first:
+      213: -2656104463311856101
+    second: Spore 1C[anim]_105
+  - first:
+      213: -6869217484189971881
+    second: Spore 1C[anim]_106
+  - first:
+      213: 8746788130874929337
+    second: Spore 1C[anim]_107
+  - first:
+      213: 4994976274710812320
+    second: Spore 1C[anim]_108
+  - first:
+      213: 1337204209535389858
+    second: Spore 1C[anim]_109
+  - first:
+      213: -4196693995044059747
+    second: Spore 1C[anim]_110
+  - first:
+      213: 907179557528871765
+    second: Spore 1C[anim]_111
+  - first:
+      213: -4323570186634642152
+    second: Spore 1C[anim]_112
+  - first:
+      213: -503660278308695582
+    second: Spore 1C[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spore 1C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2097
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1287da87fc3870800000000000000
+      internalID: 8664071958847167205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2097
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202debe7757948650800000000000000
+      internalID: 6234274186231992834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2097
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5586bfa002b9b390800000000000000
+      internalID: -7802009163424955043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2097
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a30dc9087926210800000000000000
+      internalID: 1324787819042847237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1937
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57446e1d6a110df90800000000000000
+      internalID: -6931020418339421067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1937
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a23f258ebc5afb0800000000000000
+      internalID: -4637076042623538551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1937
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda43124a5f1a5d0800000000000000
+      internalID: -3052888987099943497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1937
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b3d7ea73182de0800000000000000
+      internalID: -1357813869055854480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1777
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ef0e1927d6e6660800000000000000
+      internalID: 7380957178147962469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1777
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5132a187938a87070800000000000000
+      internalID: 8104412494234788629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1777
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fadc0918971e720800000000000000
+      internalID: 2873711634626228099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1777
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52a0bc0672a2cde0800000000000000
+      internalID: -1314309513336020386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1618
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa336497f28e91610800000000000000
+      internalID: 1592559233847931818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1618
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10966c3004d9f80800000000000000
+      internalID: -8098246169984433747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1618
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fb17c34b9e52250800000000000000
+      internalID: 5919394245565857634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1618
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a81fe25213d3060800000000000000
+      internalID: 6934753036991564382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1457
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c6b62c5bff7b60800000000000000
+      internalID: 7746186257305617412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1457
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a949351cc48993a0800000000000000
+      internalID: -6658144562026296927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1457
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d807b7b26e9c880800000000000000
+      internalID: -8590081739803554493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1457
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb33e8bf33550d0800000000000000
+      internalID: -3434781985284571609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1297
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff371d2f6ce190130800000000000000
+      internalID: 3533389222475035647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1297
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6714c302f3eb50800000000000000
+      internalID: 6621401975153453922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1297
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4d5f5baa300720800000000000000
+      internalID: 2810310675192957744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1297
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebfc5f2dd4da0960800000000000000
+      internalID: 7569096170197023719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1136
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f390a2d71a91a660800000000000000
+      internalID: 7395361490227729397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1136
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97056193ea563180800000000000000
+      internalID: -9136014860631079012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1138
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af6063063e9e380800000000000000
+      internalID: -8941365582804616628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1138
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71238b394a5d98910800000000000000
+      internalID: 1840236825587233303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 977
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c898149854f792a30800000000000000
+      internalID: 4191020864877201804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 977
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa077e4393b9a4b0800000000000000
+      internalID: -5428610430560433416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 977
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb3bdf41f686f7e0800000000000000
+      internalID: -1732048635692368964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 977
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e3967992e31240800000000000000
+      internalID: 4761398379808023608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 817
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e032dee5b0b256600800000000000000
+      internalID: 460821864712577806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 817
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae4e42deac18d90800000000000000
+      internalID: -7097168417884149035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 817
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77903912816a5df80800000000000000
+      internalID: -8082371333673776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 817
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fba51841e6cf290800000000000000
+      internalID: -7855282615692378255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 657
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ab1c0fcd7ef770800000000000000
+      internalID: 8646486662812771934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 657
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df0684a52425d80800000000000000
+      internalID: -8263469410742633100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 657
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96593aa3a4dadd0800000000000000
+      internalID: -2473239004643497512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 657
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28dbf26ae799ee0800000000000000
+      internalID: -1253831769015352601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 497
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c71e749e09c5120800000000000000
+      internalID: 2403955632716741787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 497
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8743c9486b94a00800000000000000
+      internalID: 741324294351780056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 497
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83016996a6afa8a20800000000000000
+      internalID: 3065537831323963448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 497
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd68e8476742830800000000000000
+      internalID: 4045488608265034659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 337
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba087d2486e6680800000000000000
+      internalID: -8759949588896371849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 337
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220823122e5bfa650800000000000000
+      internalID: 6246411191010361378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 337
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2279c21d07ffb0800000000000000
+      internalID: -4614204918877507842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 337
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e51772638eb32fd0800000000000000
+      internalID: -2367839507564784159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90880d7fb96a4e810800000000000000
+      internalID: 1793741740408080393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 175
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9576b9e0591330800000000000000
+      internalID: 3682063135070854530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 175
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa8f20a3064fab70800000000000000
+      internalID: 8912419168975817385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 175
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19ebe8f3b501fa0800000000000000
+      internalID: -5832061188908871174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0235b8a921e65160800000000000000
+      internalID: 7014041038716482058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb44c413bb268be0800000000000000
+      internalID: -1475443779769709637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e237bb446dc4b3f0800000000000000
+      internalID: -885857396034424090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc24a820a824910800000000000000
+      internalID: 1820168942925302855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6891bfbe2e0e80800000000000000
+      internalID: -8210573669796647650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e328bfc78ac5a550800000000000000
+      internalID: 6171561549035480040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 147
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80dec0604fe747d0800000000000000
+      internalID: -2934113572427476850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37ba78b9dd1ac90800000000000000
+      internalID: -7160198272476548105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf4ad4366ad1660800000000000000
+      internalID: 7358220311627889417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649dc0f2b93f65180800000000000000
+      internalID: -9126839746984879802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736b3ae7834e4680800000000000000
+      internalID: -8768997173414370440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44192bfc2973c6010800000000000000
+      internalID: 1183381905780937028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5162315fc12a3b60800000000000000
+      internalID: 7726525285011710302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17241a7cd132326d0800000000000000
+      internalID: -3016528714597842319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce474f653e70f00800000000000000
+      internalID: 1083084198013889682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156b93164b8bf100800000000000000
+      internalID: 142860946285225243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eb58a289666ec30800000000000000
+      internalID: 4388307690653597295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3175e9bbf1500c0800000000000000
+      internalID: -4610243752867982381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1400916930586bd0800000000000000
+      internalID: -2636769374445239265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194536813ee78720800000000000000
+      internalID: 2848507185807575327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28658b4f4bd980de0800000000000000
+      internalID: -1366669086381549950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e461bf516831c60800000000000000
+      internalID: 7787715609618697866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb0903a77a1c0300800000000000000
+      internalID: 219579582973021128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937271a4a564a7810800000000000000
+      internalID: 1763799557673002809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df539a884889130800000000000000
+      internalID: 3573752026807794995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c060b648377218f0800000000000000
+      internalID: -571263119134793527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb3484d87f5dd10800000000000000
+      internalID: 2149896583314128824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e051a5b43af8d0800000000000000
+      internalID: -2811877062639294373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb2617176f2c910800000000000000
+      internalID: 1856316963524099184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746acdc54b12f7c40800000000000000
+      internalID: 5512161527460570695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423cee21ca0dd91a0800000000000000
+      internalID: -6801050424788991196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f74358ba9e2c70800000000000000
+      internalID: 8948259626093639331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21fa3d5fddab9a0800000000000000
+      internalID: -6216412287743356161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556844bf0e3e29270800000000000000
+      internalID: 8255911622351291989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa1379fbcecbd370800000000000000
+      internalID: 8348493709720099488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d8e10483f89960800000000000000
+      internalID: 7609099318735722706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053ffc3c225974340800000000000000
+      internalID: 4848007500434240336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5388814210b432150800000000000000
+      internalID: 5846599209529673781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe1adfa3720d020800000000000000
+      internalID: 2364432938686345156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2eca8385e018e0800000000000000
+      internalID: -1724626304150655545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d0ce4070de6450800000000000000
+      internalID: 6084029327400294804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e1a5b2fa391f210800000000000000
+      internalID: 1365034542625857097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34eab60cc6d7930800000000000000
+      internalID: 4142586805946827702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4adadd12ed4f07c0800000000000000
+      internalID: -4102975101952402868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29c94b60e963040800000000000000
+      internalID: 4627059418806915797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bb9ac677b5b73b0800000000000000
+      internalID: -5513712750302741654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7766b74b5b8034e0800000000000000
+      internalID: -2003948610018449539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39925bcfe413a1cd0800000000000000
+      internalID: -2586700820653987437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e937737f8680480800000000000000
+      internalID: -8932774449892843979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47979d8c1d705af0800000000000000
+      internalID: -409690004502636723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39ea7f3153fe4f50800000000000000
+      internalID: 6867694012069505343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180d238c30a99b4b0800000000000000
+      internalID: -5424134935156699007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657da0e77051c8240800000000000000
+      internalID: 4795230825166329686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e97f1301f932bd0800000000000000
+      internalID: -2656104463311856101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a44f1c713aba0a0800000000000000
+      internalID: -6869217484189971881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0376a6675d26970800000000000000
+      internalID: 8746788130874929337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a654a31578b15540800000000000000
+      internalID: 4994976274710812320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0938dc424be8210800000000000000
+      internalID: 1337204209535389858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95426aeb0952c5c0800000000000000
+      internalID: -4196693995044059747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553210a4003f69c00800000000000000
+      internalID: 907179557528871765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d3c2092d79ff3c0800000000000000
+      internalID: -4323570186634642152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore 1C[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e19fe735a3a209f0800000000000000
+      internalID: -503660278308695582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spore 1C[anim]_0: 8664071958847167205
+      Spore 1C[anim]_1: 6234274186231992834
+      Spore 1C[anim]_10: 2873711634626228099
+      Spore 1C[anim]_100: -8932774449892843979
+      Spore 1C[anim]_101: -409690004502636723
+      Spore 1C[anim]_102: 6867694012069505343
+      Spore 1C[anim]_103: -5424134935156699007
+      Spore 1C[anim]_104: 4795230825166329686
+      Spore 1C[anim]_105: -2656104463311856101
+      Spore 1C[anim]_106: -6869217484189971881
+      Spore 1C[anim]_107: 8746788130874929337
+      Spore 1C[anim]_108: 4994976274710812320
+      Spore 1C[anim]_109: 1337204209535389858
+      Spore 1C[anim]_11: -1314309513336020386
+      Spore 1C[anim]_110: -4196693995044059747
+      Spore 1C[anim]_111: 907179557528871765
+      Spore 1C[anim]_112: -4323570186634642152
+      Spore 1C[anim]_113: -503660278308695582
+      Spore 1C[anim]_12: 1592559233847931818
+      Spore 1C[anim]_13: -8098246169984433747
+      Spore 1C[anim]_14: 5919394245565857634
+      Spore 1C[anim]_15: 6934753036991564382
+      Spore 1C[anim]_16: 7746186257305617412
+      Spore 1C[anim]_17: -6658144562026296927
+      Spore 1C[anim]_18: -8590081739803554493
+      Spore 1C[anim]_19: -3434781985284571609
+      Spore 1C[anim]_2: -7802009163424955043
+      Spore 1C[anim]_20: 3533389222475035647
+      Spore 1C[anim]_21: 6621401975153453922
+      Spore 1C[anim]_22: 2810310675192957744
+      Spore 1C[anim]_23: 7569096170197023719
+      Spore 1C[anim]_24: 7395361490227729397
+      Spore 1C[anim]_25: -9136014860631079012
+      Spore 1C[anim]_26: -8941365582804616628
+      Spore 1C[anim]_27: 1840236825587233303
+      Spore 1C[anim]_28: 4191020864877201804
+      Spore 1C[anim]_29: -5428610430560433416
+      Spore 1C[anim]_3: 1324787819042847237
+      Spore 1C[anim]_30: -1732048635692368964
+      Spore 1C[anim]_31: 4761398379808023608
+      Spore 1C[anim]_32: 460821864712577806
+      Spore 1C[anim]_33: -7097168417884149035
+      Spore 1C[anim]_34: -8082371333673776777
+      Spore 1C[anim]_35: -7855282615692378255
+      Spore 1C[anim]_36: 8646486662812771934
+      Spore 1C[anim]_37: -8263469410742633100
+      Spore 1C[anim]_38: -2473239004643497512
+      Spore 1C[anim]_39: -1253831769015352601
+      Spore 1C[anim]_4: -6931020418339421067
+      Spore 1C[anim]_40: 2403955632716741787
+      Spore 1C[anim]_41: 741324294351780056
+      Spore 1C[anim]_42: 3065537831323963448
+      Spore 1C[anim]_43: 4045488608265034659
+      Spore 1C[anim]_44: -8759949588896371849
+      Spore 1C[anim]_45: 6246411191010361378
+      Spore 1C[anim]_46: -4614204918877507842
+      Spore 1C[anim]_47: -2367839507564784159
+      Spore 1C[anim]_48: 1793741740408080393
+      Spore 1C[anim]_49: 3682063135070854530
+      Spore 1C[anim]_5: -4637076042623538551
+      Spore 1C[anim]_50: 8912419168975817385
+      Spore 1C[anim]_51: -5832061188908871174
+      Spore 1C[anim]_52: 7014041038716482058
+      Spore 1C[anim]_53: -1475443779769709637
+      Spore 1C[anim]_54: -885857396034424090
+      Spore 1C[anim]_55: 1820168942925302855
+      Spore 1C[anim]_56: -8210573669796647650
+      Spore 1C[anim]_57: 6171561549035480040
+      Spore 1C[anim]_58: -2934113572427476850
+      Spore 1C[anim]_59: -7160198272476548105
+      Spore 1C[anim]_6: -3052888987099943497
+      Spore 1C[anim]_60: 7358220311627889417
+      Spore 1C[anim]_61: -9126839746984879802
+      Spore 1C[anim]_62: -8768997173414370440
+      Spore 1C[anim]_63: 1183381905780937028
+      Spore 1C[anim]_64: 7726525285011710302
+      Spore 1C[anim]_65: -3016528714597842319
+      Spore 1C[anim]_66: 1083084198013889682
+      Spore 1C[anim]_67: 142860946285225243
+      Spore 1C[anim]_68: 4388307690653597295
+      Spore 1C[anim]_69: -4610243752867982381
+      Spore 1C[anim]_7: -1357813869055854480
+      Spore 1C[anim]_70: -2636769374445239265
+      Spore 1C[anim]_71: 2848507185807575327
+      Spore 1C[anim]_72: -1366669086381549950
+      Spore 1C[anim]_73: 7787715609618697866
+      Spore 1C[anim]_74: 219579582973021128
+      Spore 1C[anim]_75: 1763799557673002809
+      Spore 1C[anim]_76: 3573752026807794995
+      Spore 1C[anim]_77: -571263119134793527
+      Spore 1C[anim]_78: 2149896583314128824
+      Spore 1C[anim]_79: -2811877062639294373
+      Spore 1C[anim]_8: 7380957178147962469
+      Spore 1C[anim]_80: 1856316963524099184
+      Spore 1C[anim]_81: 5512161527460570695
+      Spore 1C[anim]_82: -6801050424788991196
+      Spore 1C[anim]_83: 8948259626093639331
+      Spore 1C[anim]_84: -6216412287743356161
+      Spore 1C[anim]_85: 8255911622351291989
+      Spore 1C[anim]_86: 8348493709720099488
+      Spore 1C[anim]_87: 7609099318735722706
+      Spore 1C[anim]_88: 4848007500434240336
+      Spore 1C[anim]_89: 5846599209529673781
+      Spore 1C[anim]_9: 8104412494234788629
+      Spore 1C[anim]_90: 2364432938686345156
+      Spore 1C[anim]_91: -1724626304150655545
+      Spore 1C[anim]_92: 6084029327400294804
+      Spore 1C[anim]_93: 1365034542625857097
+      Spore 1C[anim]_94: 4142586805946827702
+      Spore 1C[anim]_95: -4102975101952402868
+      Spore 1C[anim]_96: 4627059418806915797
+      Spore 1C[anim]_97: -5513712750302741654
+      Spore 1C[anim]_98: -2003948610018449539
+      Spore 1C[anim]_99: -2586700820653987437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
