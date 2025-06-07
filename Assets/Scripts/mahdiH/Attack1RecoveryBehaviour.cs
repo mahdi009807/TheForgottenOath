@@ -3,19 +3,24 @@ using UnityEngine;
 public class Attack1RecoveryBehaviour : StateMachineBehaviour
 {
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
-    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    {
-        CombatManager.instance.EnableInput();
-    }
+    // override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    // {
+    //     CombatManager.instance.EnableInput();
+    // }
 
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (CombatManager.instance.HasPendingInput())
-        {
-            animator.SetTrigger("Attack2");
-            CombatManager.instance.ConsumeInput();
-            CombatManager.instance.DisableInput();
-        }
+        
+        animator.ResetTrigger("Attack1");
+        animator.ResetTrigger("Attack2");
+        animator.ResetTrigger("Attack3");
+        animator.ResetTrigger("Attack4");
+        // if (CombatManager.instance.HasPendingInput())
+        // {
+        //     animator.SetTrigger("Attack2");
+        //     CombatManager.instance.ConsumeInput();
+        //     CombatManager.instance.DisableInput();
+        // }
     }
 
 

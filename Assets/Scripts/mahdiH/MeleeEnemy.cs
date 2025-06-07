@@ -7,8 +7,6 @@ public class MeleeEnemy : MonoBehaviour
     public float moveSpeed = 3f;
     public float chaseSpeed = 6f;
     public Transform leftPoint, rightPoint;
-    
-
 
     [Header("Idle Timing")]
     public float patrolDuration = 4f;
@@ -28,7 +26,7 @@ public class MeleeEnemy : MonoBehaviour
     [Header("Attack Settings")]
     public float attackCooldown = 0.5f;
     private float attackTimer;
-     private bool isPerformingAttack;
+    private bool isPerformingAttack;
 
     [Header("Health Settings")]
     public float maxHealth = 100;
@@ -37,10 +35,10 @@ public class MeleeEnemy : MonoBehaviour
     private bool isHurt;
 
     [Header("Knockback Settings")]
-    public float knockbackForce = 2f;
-    // public float hurtRecoverTime = 0.3f;
-    private bool isAttackDisabled = false;
-    public float disableAttackDuration = 2f;
+    public float knockbackForceX = 8f;
+    public float knockbackForceY = 5f;
+    public float knockbackDuration = 0.3f;
+    private bool isKnockedBack = false;
 
     [Header("Components")]
     public SpriteRenderer sprite;
@@ -60,11 +58,11 @@ public class MeleeEnemy : MonoBehaviour
     private float idleTimer;
     private bool isWaitingAfterAttack = false;
 
-
     [Header("Ground Detection")]
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
+    
 
     private void Start()
     {
@@ -77,8 +75,7 @@ public class MeleeEnemy : MonoBehaviour
     private void Update()
     {
         if (isDead || isHurt || isPerformingAttack) return;
-        
-        // فقط مدیریت idle باشه
+
         if (isIdle)
         {
             idleTimer -= Time.deltaTime;
@@ -92,33 +89,50 @@ public class MeleeEnemy : MonoBehaviour
         }
     }
 
-    
     private void FixedUpdate()
     {
-        if (isDead || isHurt) return;
+        if (isDead || isHurt || isKnockedBack) return;
 
         if (isPerformingAttack)
         {
-            // فقط انیمیشن حمله فعال باشد
             rb.linearVelocity = Vector2.zero;
             return;
         }
-        
 
-        float meleeDist = Vector2.Distance(transform.position, meleePlayer.position);
-        float rangeDist = Vector2.Distance(transform.position, rangePlayer.position);
-        closestPlayer = meleeDist < rangeDist ? meleePlayer : rangePlayer;
-        
-        
+        // تعیین نزدیک‌ترین بازیکن (مقاوم در برابر null شدن بازیکنان مرده)
+        if (meleePlayer != null && rangePlayer != null)
+        {
+            float meleeDist = Vector2.Distance(transform.position, meleePlayer.position);
+            float rangeDist = Vector2.Distance(transform.position, rangePlayer.position);
+            closestPlayer = meleeDist < rangeDist ? meleePlayer : rangePlayer;
+        }
+        else if (meleePlayer != null)
+        {
+            closestPlayer = meleePlayer;
+        }
+        else if (rangePlayer != null)
+        {
+            closestPlayer = rangePlayer;
+        }
+        else
+        {
+            closestPlayer = null;
+        }
+
+        // اگر هیچ بازیکنی نبود فقط گشت‌زنی کند
+        if (closestPlayer == null)
+        {
+            Patrol();
+            return;
+        }
+
         float distanceToPlayer = Vector2.Distance(transform.position, closestPlayer.position);
         bool inSight = IsPlayerInSight(closestPlayer);
 
-        // اولویت اول: چک کردن شرایط حمله
         if (distanceToPlayer <= attackRange && attackTimer <= 0f && inSight)
         {
             StartCoroutine(PerformAttack());
         }
-        // دوم: چک کردن شرایط تعقیب
         else if (distanceToPlayer <= detectionRange && inSight)
         {
             isChasing = true;
@@ -132,9 +146,7 @@ public class MeleeEnemy : MonoBehaviour
             {
                 ChasePlayer();
             }
-
         }
-        // سوم: حالت عادی (گشت‌زنی)
         else
         {
             isChasing = false;
@@ -143,10 +155,6 @@ public class MeleeEnemy : MonoBehaviour
 
         attackTimer -= Time.fixedDeltaTime;
     }
-
-
-
-
 
 
     private void Patrol()
@@ -193,37 +201,26 @@ public class MeleeEnemy : MonoBehaviour
         isChasing = false;
         isIdle = false;
 
-        // توقف حرکت
         rb.linearVelocity = Vector2.zero;
-        
-        // تنظیم انیمیشن حمله
+
         animator.SetTrigger("Attack");
         animator.SetBool("Idle", false);
         animator.SetFloat("Run", 0);
 
-        // تنظیم جهت
         facingRight = closestPlayer.position.x > transform.position.x;
         sprite.flipX = !facingRight;
         UpdateAttackPoint();
 
-        // زمان‌بندی اجرای ضربه
         yield return new WaitForSeconds(0.5f);
         DoAttackHit();
 
-        // زمان انتظار بعد از حمله (باقی‌مانده زمان کوول‌داون)
         float remainingCooldown = attackCooldown - 0.5f;
         if (remainingCooldown > 0)
             yield return new WaitForSeconds(remainingCooldown);
 
-        // بازنشانی متغیرهای حالت
         isPerformingAttack = false;
         attackTimer = attackCooldown;
     }
-
-
-
-
-
 
     public void DoAttackHit()
     {
@@ -235,14 +232,14 @@ public class MeleeEnemy : MonoBehaviour
             MeleePlayer melee = hit.GetComponent<MeleePlayer>();
             if (melee != null)
             {
-                melee.TakeDamage(25 , transform);
+                melee.TakeDamage(25, transform);
                 continue;
             }
 
             RangePlayer range = hit.GetComponent<RangePlayer>();
             if (range != null)
             {
-                range.TakeDamage(25 , transform);
+                range.TakeDamage(25, transform);
             }
         }
     }
@@ -250,60 +247,44 @@ public class MeleeEnemy : MonoBehaviour
     private bool IsPlayerInSight(Transform target)
     {
         Vector2 dirToPlayer = (target.position - transform.position).normalized;
-        // استفاده از transform.right به عنوان جهت اصلی دشمن. توجه کنید که اگر دشمن از sprite.flipX استفاده می‌کند، ممکن است لازم باشد محاسبه را بر اساس facingRight انجام دهید.
         Vector2 forward = facingRight ? Vector2.right : Vector2.left;
         float angle = Vector2.Angle(forward, dirToPlayer);
         return angle < fieldOfViewAngle * 0.5f;
     }
-    
-    
 
-
-    public void TakeDamage(float damage)
+    public void TakeDamage(float damage, Transform attacker)
     {
-        if (isDead) return;
+        if (isDead || isKnockedBack) return;
 
         currentHealth -= damage;
         animator.SetTrigger("Hit");
 
-        bool grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
-        if (knockbackForce > 0f && !grounded)
-        {
-            Vector2 knockDir = (transform.position - closestPlayer.position).normalized;
-            rb.linearVelocity = Vector2.zero;
-            rb.AddForce(knockDir * knockbackForce, ForceMode2D.Impulse);
-        }
-        else
-        {
-            rb.linearVelocity = Vector2.zero;
-            rb.angularVelocity = 0f;
-        }
+        float direction = Mathf.Sign(transform.position.x - attacker.position.x);
+        StartCoroutine(ApplyKnockback(direction));
 
         if (currentHealth <= 0)
         {
             Die();
         }
-
-        // StartCoroutine(HurtRecover());
-        // StartCoroutine(DisableAttackTemporarily());
     }
 
-    // private IEnumerator HurtRecover()
-    // {
-    //     isHurt = true;
-    //     yield return new WaitForSeconds(hurtRecoverTime);
-    //     isHurt = false;
-    // }
+    private IEnumerator ApplyKnockback(float direction)
+    {
+        isKnockedBack = true;
+        float timer = 0f;
 
-    // private IEnumerator DisableAttackTemporarily()
-    // {
-    //     isAttackDisabled = true;
-    //     isIdle = true;
-    //     idleTimer = disableAttackDuration;
-    //     yield return new WaitForSeconds(disableAttackDuration);
-    //     isAttackDisabled = false;
-    // }
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+        transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
+
+        while (timer < knockbackDuration)
+        {
+            transform.position += new Vector3(direction * knockbackForceX * Time.deltaTime, 0f, 0f);
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        isKnockedBack = false;
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -316,15 +297,13 @@ public class MeleeEnemy : MonoBehaviour
 
         if (collision.collider.TryGetComponent<RangePlayer>(out RangePlayer range))
         {
-            range.TakeDamage(20 , transform);
+            range.TakeDamage(20, transform);
         }
     }
 
     private void Die()
     {
         isDead = true;
-
-        transform.position += Vector3.down * 0.6f;
 
         animator.SetBool("Idle", false);
         animator.SetFloat("Run", 0);

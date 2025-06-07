@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,10 +93,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,10 +124,10 @@ TextureImporter:
       name: Attack1_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 57
-        width: 43
-        height: 33
+        x: 0
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +146,10 @@ TextureImporter:
       name: Attack1_1
       rect:
         serializedVersion: 2
-        x: 206
-        y: 57
-        width: 43
-        height: 31
+        x: 150
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: Attack1_2
       rect:
         serializedVersion: 2
-        x: 352
-        y: 61
-        width: 43
-        height: 27
+        x: 300
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: Attack1_3
       rect:
         serializedVersion: 2
-        x: 502
-        y: 61
-        width: 43
-        height: 27
+        x: 450
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: Attack1_4
       rect:
         serializedVersion: 2
-        x: 652
-        y: 62
-        width: 43
-        height: 26
+        x: 600
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: Attack1_5
       rect:
         serializedVersion: 2
-        x: 804
-        y: 61
-        width: 39
-        height: 28
+        x: 750
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Attack1_6
       rect:
         serializedVersion: 2
-        x: 960
-        y: 58
-        width: 37
-        height: 26
+        x: 900
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Attack1_7
       rect:
         serializedVersion: 2
-        x: 1111
-        y: 58
-        width: 35
-        height: 26
+        x: 1050
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1b905f1347c50cc4cbf1fa2382733a50
     internalID: 0
     vertices: []
     indices: 
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Attack1_0: 6934013284892070054
+      Attack1_1: -7957278214813060823
+      Attack1_2: 1409549213185883415
+      Attack1_3: 4976274401295337057
+      Attack1_4: -5639509438907974925
+      Attack1_5: 452926297546027425
+      Attack1_6: 6238536850125145498
+      Attack1_7: -7543445572115272496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -10,6 +10,8 @@ TagManager:
   - ArcherArrow
   - RangePlayer
   - EnemyArrow
+  - Wall
+  - Ladder
   layers:
   - Default
   - TransparentFX
@@ -22,9 +24,9 @@ TagManager:
   - Enemy
   - PlayerArrow
   - EnemyArrow
-  - 
-  - 
-  - 
+  - Wall
+  - Dashing
+  - ladder
   - 
   - 
   - 

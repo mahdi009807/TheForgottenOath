@@ -142,22 +142,22 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1865814902211991597}
-    m_Position: {x: 510, y: 120, z: 0}
+    m_Position: {x: 550, y: 100, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 9189541085941248627}
-    m_Position: {x: 40, y: 150, z: 0}
+    m_Position: {x: 10, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5331359833982498650}
     m_Position: {x: 500, y: -170, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -455670157803187291}
-    m_Position: {x: 280, y: -270, z: 0}
+    m_Position: {x: 280, y: -310, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6136645625361961996}
     m_Position: {x: -260, y: -10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2138635851377860141}
-    m_Position: {x: 10, y: -130, z: 0}
+    m_Position: {x: 110, y: -170, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -8058172182950556207}
@@ -232,14 +232,8 @@ AnimatorController:
   m_Name: GolemEnemy
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Hit
-    m_Type: 9
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Attack
-    m_Type: 9
+  - m_Name: Run
+    m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
@@ -256,8 +250,14 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: Run
-    m_Type: 1
+  - m_Name: Attack
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: Hit
+    m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0

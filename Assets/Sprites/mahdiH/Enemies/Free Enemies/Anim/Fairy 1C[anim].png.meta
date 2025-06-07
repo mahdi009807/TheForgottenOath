@@ -1,0 +1,2942 @@
+fileFormatVersion: 2
+guid: d018baf24e565f34683d98e9f85dee4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7869317135673035121
+    second: Fairy 1C[anim]_0
+  - first:
+      213: -5036536433548650035
+    second: Fairy 1C[anim]_1
+  - first:
+      213: -4360489230757724011
+    second: Fairy 1C[anim]_2
+  - first:
+      213: -9036444589658754537
+    second: Fairy 1C[anim]_3
+  - first:
+      213: -7002687505268303548
+    second: Fairy 1C[anim]_4
+  - first:
+      213: -488759289569288215
+    second: Fairy 1C[anim]_5
+  - first:
+      213: -6778005900252052487
+    second: Fairy 1C[anim]_6
+  - first:
+      213: 2555416913160381711
+    second: Fairy 1C[anim]_7
+  - first:
+      213: 7140535328968550192
+    second: Fairy 1C[anim]_8
+  - first:
+      213: 5786124391880787699
+    second: Fairy 1C[anim]_9
+  - first:
+      213: -3161889790006975354
+    second: Fairy 1C[anim]_10
+  - first:
+      213: -7622340551881043648
+    second: Fairy 1C[anim]_11
+  - first:
+      213: -5346657623787657186
+    second: Fairy 1C[anim]_12
+  - first:
+      213: 4180336977173751884
+    second: Fairy 1C[anim]_13
+  - first:
+      213: 3028533940770668317
+    second: Fairy 1C[anim]_14
+  - first:
+      213: -3215019471574570955
+    second: Fairy 1C[anim]_15
+  - first:
+      213: 6149766866910046962
+    second: Fairy 1C[anim]_16
+  - first:
+      213: 431043061830063671
+    second: Fairy 1C[anim]_17
+  - first:
+      213: -3898511588162511200
+    second: Fairy 1C[anim]_18
+  - first:
+      213: 6390963262472654361
+    second: Fairy 1C[anim]_19
+  - first:
+      213: 5261675401607833394
+    second: Fairy 1C[anim]_20
+  - first:
+      213: 1538929906633292089
+    second: Fairy 1C[anim]_21
+  - first:
+      213: -1016614732915500308
+    second: Fairy 1C[anim]_22
+  - first:
+      213: -7593117861171831078
+    second: Fairy 1C[anim]_23
+  - first:
+      213: 5975361730690935626
+    second: Fairy 1C[anim]_24
+  - first:
+      213: -5917377028015443711
+    second: Fairy 1C[anim]_25
+  - first:
+      213: 3032665129776545885
+    second: Fairy 1C[anim]_26
+  - first:
+      213: 1493457652551866178
+    second: Fairy 1C[anim]_27
+  - first:
+      213: -3143923287993797273
+    second: Fairy 1C[anim]_28
+  - first:
+      213: 1427819332732211418
+    second: Fairy 1C[anim]_29
+  - first:
+      213: 3064863070885291058
+    second: Fairy 1C[anim]_30
+  - first:
+      213: -2730863825900997363
+    second: Fairy 1C[anim]_31
+  - first:
+      213: -43553365238130680
+    second: Fairy 1C[anim]_32
+  - first:
+      213: -1957608345059667735
+    second: Fairy 1C[anim]_33
+  - first:
+      213: -5138510787592625862
+    second: Fairy 1C[anim]_34
+  - first:
+      213: -7463385444932004555
+    second: Fairy 1C[anim]_35
+  - first:
+      213: 7373642239551214774
+    second: Fairy 1C[anim]_36
+  - first:
+      213: -7573212799749383335
+    second: Fairy 1C[anim]_37
+  - first:
+      213: 7171557373596213717
+    second: Fairy 1C[anim]_38
+  - first:
+      213: 5257779171936087084
+    second: Fairy 1C[anim]_39
+  - first:
+      213: 7733075554387592193
+    second: Fairy 1C[anim]_40
+  - first:
+      213: 5041566324040453064
+    second: Fairy 1C[anim]_41
+  - first:
+      213: 1779283247797793831
+    second: Fairy 1C[anim]_42
+  - first:
+      213: -2422746285325334902
+    second: Fairy 1C[anim]_43
+  - first:
+      213: 7791867829933717368
+    second: Fairy 1C[anim]_44
+  - first:
+      213: -3609490922398949833
+    second: Fairy 1C[anim]_45
+  - first:
+      213: 7980514525857182810
+    second: Fairy 1C[anim]_46
+  - first:
+      213: -759011800293822918
+    second: Fairy 1C[anim]_47
+  - first:
+      213: -3630563028709616693
+    second: Fairy 1C[anim]_48
+  - first:
+      213: -8159272591968069184
+    second: Fairy 1C[anim]_49
+  - first:
+      213: -6005023025852513695
+    second: Fairy 1C[anim]_50
+  - first:
+      213: -3418375252321501761
+    second: Fairy 1C[anim]_51
+  - first:
+      213: 7589203638170107040
+    second: Fairy 1C[anim]_52
+  - first:
+      213: 2287222118298943627
+    second: Fairy 1C[anim]_53
+  - first:
+      213: -8134009219956338341
+    second: Fairy 1C[anim]_54
+  - first:
+      213: -5201969283657360578
+    second: Fairy 1C[anim]_55
+  - first:
+      213: -4047338374330993137
+    second: Fairy 1C[anim]_56
+  - first:
+      213: 3261364903579987259
+    second: Fairy 1C[anim]_57
+  - first:
+      213: -2965633068413958125
+    second: Fairy 1C[anim]_58
+  - first:
+      213: 8464965629231660721
+    second: Fairy 1C[anim]_59
+  - first:
+      213: 5635330458085946574
+    second: Fairy 1C[anim]_60
+  - first:
+      213: -4231742315895907076
+    second: Fairy 1C[anim]_61
+  - first:
+      213: 6346792422419563847
+    second: Fairy 1C[anim]_62
+  - first:
+      213: -943028793941876954
+    second: Fairy 1C[anim]_63
+  - first:
+      213: 6394691865958652155
+    second: Fairy 1C[anim]_64
+  - first:
+      213: -7807624745515798516
+    second: Fairy 1C[anim]_65
+  - first:
+      213: 6429421086490439192
+    second: Fairy 1C[anim]_66
+  - first:
+      213: 5805051452808053765
+    second: Fairy 1C[anim]_67
+  - first:
+      213: -120922758962759440
+    second: Fairy 1C[anim]_68
+  - first:
+      213: -1001071645709351631
+    second: Fairy 1C[anim]_69
+  - first:
+      213: 6453847708001934166
+    second: Fairy 1C[anim]_70
+  - first:
+      213: 8976838956424691787
+    second: Fairy 1C[anim]_71
+  - first:
+      213: 7083256595344419405
+    second: Fairy 1C[anim]_72
+  - first:
+      213: -4727832890168532471
+    second: Fairy 1C[anim]_73
+  - first:
+      213: 5728949332583319376
+    second: Fairy 1C[anim]_74
+  - first:
+      213: -2759835403951959039
+    second: Fairy 1C[anim]_75
+  - first:
+      213: -5603115665722686009
+    second: Fairy 1C[anim]_76
+  - first:
+      213: 7639613236243796210
+    second: Fairy 1C[anim]_77
+  - first:
+      213: -679105262788121960
+    second: Fairy 1C[anim]_78
+  - first:
+      213: 4490512239686466551
+    second: Fairy 1C[anim]_79
+  - first:
+      213: -450561724018963418
+    second: Fairy 1C[anim]_80
+  - first:
+      213: 962272442161272917
+    second: Fairy 1C[anim]_81
+  - first:
+      213: 2251203368692254475
+    second: Fairy 1C[anim]_82
+  - first:
+      213: 4257605305338099578
+    second: Fairy 1C[anim]_83
+  - first:
+      213: -8430912652005433257
+    second: Fairy 1C[anim]_84
+  - first:
+      213: 4417063979530406927
+    second: Fairy 1C[anim]_85
+  - first:
+      213: 79262523499468056
+    second: Fairy 1C[anim]_86
+  - first:
+      213: -4228166747543393749
+    second: Fairy 1C[anim]_87
+  - first:
+      213: -7418941024903921173
+    second: Fairy 1C[anim]_88
+  - first:
+      213: 7481237030374041647
+    second: Fairy 1C[anim]_89
+  - first:
+      213: 1314505949254590044
+    second: Fairy 1C[anim]_90
+  - first:
+      213: 3071188592402128902
+    second: Fairy 1C[anim]_91
+  - first:
+      213: -1438469660187180988
+    second: Fairy 1C[anim]_92
+  - first:
+      213: 8636322225668999916
+    second: Fairy 1C[anim]_93
+  - first:
+      213: -1825589167071309415
+    second: Fairy 1C[anim]_94
+  - first:
+      213: 1255069035902942285
+    second: Fairy 1C[anim]_95
+  - first:
+      213: -5645431661241647892
+    second: Fairy 1C[anim]_96
+  - first:
+      213: 7826909087928151898
+    second: Fairy 1C[anim]_97
+  - first:
+      213: 3968791726526670084
+    second: Fairy 1C[anim]_98
+  - first:
+      213: 3271352588260207494
+    second: Fairy 1C[anim]_99
+  - first:
+      213: 3147978482694620600
+    second: Fairy 1C[anim]_100
+  - first:
+      213: -2203685313132238356
+    second: Fairy 1C[anim]_101
+  - first:
+      213: -4062754989489847616
+    second: Fairy 1C[anim]_102
+  - first:
+      213: -420581983395783791
+    second: Fairy 1C[anim]_103
+  - first:
+      213: -100291229284107239
+    second: Fairy 1C[anim]_104
+  - first:
+      213: 8370398503334860667
+    second: Fairy 1C[anim]_105
+  - first:
+      213: -5739754609857507844
+    second: Fairy 1C[anim]_106
+  - first:
+      213: -1881043664859424595
+    second: Fairy 1C[anim]_107
+  - first:
+      213: 5569185444430050803
+    second: Fairy 1C[anim]_108
+  - first:
+      213: -9160480775234178805
+    second: Fairy 1C[anim]_109
+  - first:
+      213: -5164306863206254711
+    second: Fairy 1C[anim]_110
+  - first:
+      213: 6298905468019764875
+    second: Fairy 1C[anim]_111
+  - first:
+      213: -8612049181943401461
+    second: Fairy 1C[anim]_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2126
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798fa0dd3e653d60800000000000000
+      internalID: 7869317135673035121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2126
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc915046cc0aa1ab0800000000000000
+      internalID: -5036536433548650035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2125
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59005c1c52e6c73c0800000000000000
+      internalID: -4360489230757724011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2125
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b3e8d589189280800000000000000
+      internalID: -9036444589658754537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1966
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499a67d0d471de90800000000000000
+      internalID: -7002687505268303548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1966
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efdc8404049739f0800000000000000
+      internalID: -488759289569288215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1965
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f389fd8b8fafe1a0800000000000000
+      internalID: -6778005900252052487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1965
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0523f1b42aa67320800000000000000
+      internalID: 2555416913160381711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1806
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372c4dac07481360800000000000000
+      internalID: 7140535328968550192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1806
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6074c6a717c4050800000000000000
+      internalID: 5786124391880787699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1805
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68423b70df5be14d0800000000000000
+      internalID: -3161889790006975354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1805
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041531827a1083690800000000000000
+      internalID: -7622340551881043648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1649
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a08e083bdcc5b0800000000000000
+      internalID: -5346657623787657186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1649
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c482fd5155a830a30800000000000000
+      internalID: 4180336977173751884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1649
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f79d1c293870a20800000000000000
+      internalID: 3028533940770668317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1649
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53865d213d4f163d0800000000000000
+      internalID: -3215019471574570955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1486
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae3a1f16c585550800000000000000
+      internalID: 6149766866910046962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1486
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361747816f5bf500800000000000000
+      internalID: 431043061830063671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1486
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae54d2ad54b5e9c0800000000000000
+      internalID: -3898511588162511200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1486
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0148f93341b850800000000000000
+      internalID: 6390963262472654361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1326
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ee3476e9350940800000000000000
+      internalID: 5261675401607833394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1326
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9393a13b8906b5510800000000000000
+      internalID: 1538929906633292089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1326
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea9423694244e1f0800000000000000
+      internalID: -1016614732915500308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1326
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adedd2b0983df9690800000000000000
+      internalID: -7593117861171831078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1166
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4beb42d5dfbce250800000000000000
+      internalID: 5975361730690935626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1166
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1013513d1f041eda0800000000000000
+      internalID: -5917377028015443711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1166
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d508b072ed0361a20800000000000000
+      internalID: 3032665129776545885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1166
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247517382d3d9b410800000000000000
+      internalID: 1493457652551866178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1006
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653d024d6a8e54d0800000000000000
+      internalID: -3143923287993797273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1006
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad050f24e12a0d310800000000000000
+      internalID: 1427819332732211418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1006
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a45189b4988a20800000000000000
+      internalID: 3064863070885291058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1006
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f43fa1d50a1ad0800000000000000
+      internalID: -2730863825900997363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 846
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8085530f174456ff0800000000000000
+      internalID: -43553365238130680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 846
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0d06ff49d25d4e0800000000000000
+      internalID: -1957608345059667735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 846
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a316707e9a750b8b0800000000000000
+      internalID: -5138510787592625862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 846
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535d1050b7abc6890800000000000000
+      internalID: -7463385444932004555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 686
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41445bc80745660800000000000000
+      internalID: 7373642239551214774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 686
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b1f7e451b86e690800000000000000
+      internalID: -7573212799749383335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 686
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1298b4f6d768360800000000000000
+      internalID: 7171557373596213717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 686
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ca2bacc4267f840800000000000000
+      internalID: 5257779171936087084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 530
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1048780ce37615b60800000000000000
+      internalID: 7733075554387592193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 531
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc0004cdd37f540800000000000000
+      internalID: 5041566324040453064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 529
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7247ac3dfa841b810800000000000000
+      internalID: 1779283247797793831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 526
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86494af61da06ed0800000000000000
+      internalID: -2422746285325334902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 366
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773efb1286422c60800000000000000
+      internalID: 7791867829933717368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 366
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed966412388edc0800000000000000
+      internalID: -3609490922398949833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 365
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ff8ebdab70ce60800000000000000
+      internalID: 7980514525857182810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 365
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e282ff9c27775f0800000000000000
+      internalID: -759011800293822918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d8133926ad9dc0800000000000000
+      internalID: -3630563028709616693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9992aaec074ce80800000000000000
+      internalID: -8159272591968069184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 175
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162050cbf5fd9aca0800000000000000
+      internalID: -6005023025852513695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 175
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdf360c1dd7f80d0800000000000000
+      internalID: -3418375252321501761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3b35ef74425960800000000000000
+      internalID: 7589203638170107040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8000abf568ddbf10800000000000000
+      internalID: 2287222118298943627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5110c4d5b13e1f80800000000000000
+      internalID: -8134009219956338341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b1c1b6f74eec7b0800000000000000
+      internalID: -5201969283657360578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b1383137f4d7c0800000000000000
+      internalID: -4047338374330993137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dafc0b912b24d20800000000000000
+      internalID: 3261364903579987259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c807df64f7d6d0800000000000000
+      internalID: -2965633068413958125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7e36f369997570800000000000000
+      internalID: 8464965629231660721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4f622c137b43e40800000000000000
+      internalID: 5635330458085946574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc1900d8c4d545c0800000000000000
+      internalID: -4231742315895907076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7458579d416541850800000000000000
+      internalID: 6346792422419563847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f112cee40b9e2f0800000000000000
+      internalID: -943028793941876954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89b8e1f528eb850800000000000000
+      internalID: 6394691865958652155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003bf719aeb5a390800000000000000
+      internalID: -7807624745515798516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2ba3e964e93950800000000000000
+      internalID: 6429421086490439192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044d733a8faf8050800000000000000
+      internalID: 5805051452808053765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b3c23465625ef0800000000000000
+      internalID: -120922758962759440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13547c264aa7b12f0800000000000000
+      internalID: -1001071645709351631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b9ce5eb4ca09950800000000000000
+      internalID: 6453847708001934166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4005933873249c70800000000000000
+      internalID: 8976838956424691787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a62724858cc4260800000000000000
+      internalID: 7083256595344419405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a818190d536eb0800000000000000
+      internalID: -4727832890168532471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05707d09011518f40800000000000000
+      internalID: 5728949332583319376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10495e4825813b9d0800000000000000
+      internalID: -2759835403951959039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54c251dfbbd32b0800000000000000
+      internalID: -5603115665722686009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01faf03cb550a60800000000000000
+      internalID: 7639613236243796210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6a6e8c555396f0800000000000000
+      internalID: -679105262788121960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3e0a1711815e30800000000000000
+      internalID: 4490512239686466551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c467acf784fb9f0800000000000000
+      internalID: -450561724018963418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589b2410bdaa5d00800000000000000
+      internalID: 962272442161272917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0780145981ed3f10800000000000000
+      internalID: 2251203368692254475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77fe7aa77d061b30800000000000000
+      internalID: 4257605305338099578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750aed4ac916ffa80800000000000000
+      internalID: -8430912652005433257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c451a69409c4d30800000000000000
+      internalID: 4417063979530406927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815df2d58d8991100800000000000000
+      internalID: 79262523499468056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aae81beb88255c0800000000000000
+      internalID: -4228166747543393749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be18701f170aa0990800000000000000
+      internalID: -7418941024903921173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2861fb1171b2d760800000000000000
+      internalID: 7481237030374041647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e157042301e3210800000000000000
+      internalID: 1314505949254590044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6006c50c0cd0f9a20800000000000000
+      internalID: 3071188592402128902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440cd542777890ce0800000000000000
+      internalID: -1438469660187180988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceacfca9e416ad770800000000000000
+      internalID: 8636322225668999916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d9ee23543aa6e0800000000000000
+      internalID: -1825589167071309415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c369573a6ea6110800000000000000
+      internalID: 1255069035902942285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecb2fb90d567a1b0800000000000000
+      internalID: -5645431661241647892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5feb33c854ce9c60800000000000000
+      internalID: 7826909087928151898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a1273c0bf31730800000000000000
+      internalID: 3968791726526670084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bed4eb8dd266d20800000000000000
+      internalID: 3271352588260207494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5069550cddfab20800000000000000
+      internalID: 3147978482694620600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9e10222efea61e0800000000000000
+      internalID: -2203685313132238356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2030accd13e97c0800000000000000
+      internalID: -4062754989489847616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd3c81aeac92af0800000000000000
+      internalID: -420581983395783791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cfe6888a1bb9ef0800000000000000
+      internalID: -100291229284107239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775cbb2711a92470800000000000000
+      internalID: 8370398503334860667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd4885c79b4850b0800000000000000
+      internalID: -5739754609857507844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81e05c0c035e5e0800000000000000
+      internalID: -1881043664859424595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57787a7a8b94d40800000000000000
+      internalID: 5569185444430050803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013f5ce44f6fd080800000000000000
+      internalID: -9160480775234178805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ba730542b458b0800000000000000
+      internalID: -5164306863206254711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e651f66253a6750800000000000000
+      internalID: 6298905468019764875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy 1C[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f11ac5eadb7880800000000000000
+      internalID: -8612049181943401461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -58,7 +58,7 @@ public class RangePlayerArrow : MonoBehaviour
             MeleeEnemy enemy = collision.GetComponent<MeleeEnemy>();
             if (enemy != null)
             {
-                enemy.TakeDamage(1);
+                enemy.TakeDamage(1 , transform);
             }
             
             DogWolfEnemy dog = collision.GetComponent<DogWolfEnemy>();

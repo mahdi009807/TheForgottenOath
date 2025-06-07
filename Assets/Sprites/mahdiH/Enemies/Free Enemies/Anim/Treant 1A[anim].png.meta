@@ -1,0 +1,2967 @@
+fileFormatVersion: 2
+guid: c915b21c517257d4d9fd510c6708668b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6231437478326031242
+    second: Treant 1A[anim]_0
+  - first:
+      213: 8426595598494080400
+    second: Treant 1A[anim]_1
+  - first:
+      213: 6769592795292611440
+    second: Treant 1A[anim]_2
+  - first:
+      213: -4591164476377719656
+    second: Treant 1A[anim]_3
+  - first:
+      213: 890370941637705489
+    second: Treant 1A[anim]_4
+  - first:
+      213: 3027594351967830259
+    second: Treant 1A[anim]_5
+  - first:
+      213: 7046633694450754160
+    second: Treant 1A[anim]_6
+  - first:
+      213: -3992961430766405358
+    second: Treant 1A[anim]_7
+  - first:
+      213: -7684034344951123191
+    second: Treant 1A[anim]_8
+  - first:
+      213: 8462911330969413003
+    second: Treant 1A[anim]_9
+  - first:
+      213: 5642552947227826390
+    second: Treant 1A[anim]_10
+  - first:
+      213: -1492914942859947044
+    second: Treant 1A[anim]_11
+  - first:
+      213: -7094077352584172082
+    second: Treant 1A[anim]_12
+  - first:
+      213: -4413691961650985540
+    second: Treant 1A[anim]_13
+  - first:
+      213: 5133582277961247535
+    second: Treant 1A[anim]_14
+  - first:
+      213: 5959442432312703005
+    second: Treant 1A[anim]_15
+  - first:
+      213: -1411186769436618840
+    second: Treant 1A[anim]_16
+  - first:
+      213: -2441798702633426420
+    second: Treant 1A[anim]_17
+  - first:
+      213: -5129690626245137602
+    second: Treant 1A[anim]_18
+  - first:
+      213: -7846553504997955617
+    second: Treant 1A[anim]_19
+  - first:
+      213: -7608760654575956404
+    second: Treant 1A[anim]_20
+  - first:
+      213: 5254684802556572275
+    second: Treant 1A[anim]_21
+  - first:
+      213: -3055695461160213988
+    second: Treant 1A[anim]_22
+  - first:
+      213: -7509274664770562438
+    second: Treant 1A[anim]_23
+  - first:
+      213: 4760273259284839778
+    second: Treant 1A[anim]_24
+  - first:
+      213: 966926767757496546
+    second: Treant 1A[anim]_25
+  - first:
+      213: 3229031982357743312
+    second: Treant 1A[anim]_26
+  - first:
+      213: -6281336536635434941
+    second: Treant 1A[anim]_27
+  - first:
+      213: 6548013393487447063
+    second: Treant 1A[anim]_28
+  - first:
+      213: -5540136860050957181
+    second: Treant 1A[anim]_29
+  - first:
+      213: 581908836527829782
+    second: Treant 1A[anim]_30
+  - first:
+      213: -9915302769073408
+    second: Treant 1A[anim]_31
+  - first:
+      213: -4240106114545863047
+    second: Treant 1A[anim]_32
+  - first:
+      213: -2993561955602329575
+    second: Treant 1A[anim]_33
+  - first:
+      213: -3387767473091988967
+    second: Treant 1A[anim]_34
+  - first:
+      213: -8910514895056572011
+    second: Treant 1A[anim]_35
+  - first:
+      213: -7640727181711211993
+    second: Treant 1A[anim]_36
+  - first:
+      213: -8111769215719236622
+    second: Treant 1A[anim]_37
+  - first:
+      213: 9051575138085801486
+    second: Treant 1A[anim]_38
+  - first:
+      213: 6246638980580652481
+    second: Treant 1A[anim]_39
+  - first:
+      213: -2549853575029045696
+    second: Treant 1A[anim]_40
+  - first:
+      213: -5975376022766357582
+    second: Treant 1A[anim]_41
+  - first:
+      213: -1029476810890997728
+    second: Treant 1A[anim]_42
+  - first:
+      213: 4694415041780543593
+    second: Treant 1A[anim]_43
+  - first:
+      213: 6327879301982653461
+    second: Treant 1A[anim]_44
+  - first:
+      213: 4305401028549760627
+    second: Treant 1A[anim]_45
+  - first:
+      213: 5969204521195645176
+    second: Treant 1A[anim]_46
+  - first:
+      213: 1414843527272477307
+    second: Treant 1A[anim]_47
+  - first:
+      213: -7080534193243896878
+    second: Treant 1A[anim]_48
+  - first:
+      213: 8814437211882634167
+    second: Treant 1A[anim]_49
+  - first:
+      213: 3239668627278675926
+    second: Treant 1A[anim]_50
+  - first:
+      213: -630457431978642396
+    second: Treant 1A[anim]_51
+  - first:
+      213: 5612343545821361205
+    second: Treant 1A[anim]_52
+  - first:
+      213: -8086583967181580273
+    second: Treant 1A[anim]_53
+  - first:
+      213: -7085723311145511905
+    second: Treant 1A[anim]_54
+  - first:
+      213: 881658836874921869
+    second: Treant 1A[anim]_55
+  - first:
+      213: -5360133550598934535
+    second: Treant 1A[anim]_56
+  - first:
+      213: 8316649323617318239
+    second: Treant 1A[anim]_57
+  - first:
+      213: 4856841122934971586
+    second: Treant 1A[anim]_58
+  - first:
+      213: -4636819980062706420
+    second: Treant 1A[anim]_59
+  - first:
+      213: 7983090398714523749
+    second: Treant 1A[anim]_60
+  - first:
+      213: 5732328430510223176
+    second: Treant 1A[anim]_61
+  - first:
+      213: -4131492108434397918
+    second: Treant 1A[anim]_62
+  - first:
+      213: 764814018193318060
+    second: Treant 1A[anim]_63
+  - first:
+      213: -8391131469360768502
+    second: Treant 1A[anim]_64
+  - first:
+      213: -1563276046340830803
+    second: Treant 1A[anim]_65
+  - first:
+      213: 5348901335271294205
+    second: Treant 1A[anim]_66
+  - first:
+      213: 4684057484496006469
+    second: Treant 1A[anim]_67
+  - first:
+      213: -2129727555999812439
+    second: Treant 1A[anim]_68
+  - first:
+      213: -7996721709487519669
+    second: Treant 1A[anim]_69
+  - first:
+      213: -1111699219436909276
+    second: Treant 1A[anim]_70
+  - first:
+      213: 7518393129414680890
+    second: Treant 1A[anim]_71
+  - first:
+      213: -817783650353418426
+    second: Treant 1A[anim]_72
+  - first:
+      213: 6394668923307732803
+    second: Treant 1A[anim]_73
+  - first:
+      213: 4771878398074106643
+    second: Treant 1A[anim]_74
+  - first:
+      213: -1669007325661698745
+    second: Treant 1A[anim]_75
+  - first:
+      213: 5803549713937221209
+    second: Treant 1A[anim]_76
+  - first:
+      213: 4094751674561045678
+    second: Treant 1A[anim]_77
+  - first:
+      213: 7665076215142207903
+    second: Treant 1A[anim]_78
+  - first:
+      213: -5320842644447356441
+    second: Treant 1A[anim]_79
+  - first:
+      213: -6673488937969151077
+    second: Treant 1A[anim]_80
+  - first:
+      213: -1081151464933488685
+    second: Treant 1A[anim]_81
+  - first:
+      213: -7102100840809155526
+    second: Treant 1A[anim]_82
+  - first:
+      213: 5549928166350503052
+    second: Treant 1A[anim]_83
+  - first:
+      213: -242515713692285590
+    second: Treant 1A[anim]_84
+  - first:
+      213: 7338640551588212722
+    second: Treant 1A[anim]_85
+  - first:
+      213: -6808361316098956950
+    second: Treant 1A[anim]_86
+  - first:
+      213: -4029604694530819154
+    second: Treant 1A[anim]_87
+  - first:
+      213: 7065949806023727662
+    second: Treant 1A[anim]_88
+  - first:
+      213: 6819229827476241157
+    second: Treant 1A[anim]_89
+  - first:
+      213: 2735029713936765821
+    second: Treant 1A[anim]_90
+  - first:
+      213: -4690509992414132133
+    second: Treant 1A[anim]_91
+  - first:
+      213: -1325631148806112685
+    second: Treant 1A[anim]_92
+  - first:
+      213: 6023339751886969558
+    second: Treant 1A[anim]_93
+  - first:
+      213: 6845180320017359265
+    second: Treant 1A[anim]_94
+  - first:
+      213: -2346785198352828752
+    second: Treant 1A[anim]_95
+  - first:
+      213: 7714208300123298461
+    second: Treant 1A[anim]_96
+  - first:
+      213: -4823312541817425348
+    second: Treant 1A[anim]_97
+  - first:
+      213: 1015586575000768938
+    second: Treant 1A[anim]_98
+  - first:
+      213: 6316604699944065691
+    second: Treant 1A[anim]_99
+  - first:
+      213: 4166545301813680937
+    second: Treant 1A[anim]_100
+  - first:
+      213: 1697988515259042366
+    second: Treant 1A[anim]_101
+  - first:
+      213: -8904349961502005152
+    second: Treant 1A[anim]_102
+  - first:
+      213: -3137907532448578684
+    second: Treant 1A[anim]_103
+  - first:
+      213: 2527193643886181073
+    second: Treant 1A[anim]_104
+  - first:
+      213: 5055365900222427940
+    second: Treant 1A[anim]_105
+  - first:
+      213: -7414931243671946881
+    second: Treant 1A[anim]_106
+  - first:
+      213: 50996722902684232
+    second: Treant 1A[anim]_107
+  - first:
+      213: -2476035382658475725
+    second: Treant 1A[anim]_108
+  - first:
+      213: -7373381379925917777
+    second: Treant 1A[anim]_109
+  - first:
+      213: -6309036816055186951
+    second: Treant 1A[anim]_110
+  - first:
+      213: 9159980086525556374
+    second: Treant 1A[anim]_111
+  - first:
+      213: 232121183614667004
+    second: Treant 1A[anim]_112
+  - first:
+      213: 7050331627145963468
+    second: Treant 1A[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Treant 1A[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2090
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83dda7fe538a7650800000000000000
+      internalID: 6231437478326031242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2090
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1c120d0841f470800000000000000
+      internalID: 8426595598494080400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2090
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073b57dc7cc62fd50800000000000000
+      internalID: 6769592795292611440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2090
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1d18db38e840c0800000000000000
+      internalID: -4591164476377719656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1930
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f35ae67ab3b5c00800000000000000
+      internalID: 890370941637705489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1930
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08501b50d240a20800000000000000
+      internalID: 3027594351967830259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1930
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072290ca20caac160800000000000000
+      internalID: 7046633694450754160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1930
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219355dfbb62698c0800000000000000
+      internalID: -3992961430766405358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1770
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903794b9973dc5590800000000000000
+      internalID: -7684034344951123191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1770
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b856f00640d427570800000000000000
+      internalID: 8462911330969413003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1770
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d819dd82006e4e40800000000000000
+      internalID: 5642552947227826390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1770
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d5fee4c9184be0800000000000000
+      internalID: -1492914942859947044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1610
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecda31edb36cc8d90800000000000000
+      internalID: -7094077352584172082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1610
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5cbcdab8a6fb2c0800000000000000
+      internalID: -4413691961650985540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1610
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bee1702e52e3740800000000000000
+      internalID: 5133582277961247535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1610
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187365515134b250800000000000000
+      internalID: 5959442432312703005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1450
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afcff72c157a6ce0800000000000000
+      internalID: -1411186769436618840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1450
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026684640dfc1ed0800000000000000
+      internalID: -2441798702633426420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1450
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be10fbd8dafc8b0800000000000000
+      internalID: -5129690626245137602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1450
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72087f8217b1390800000000000000
+      internalID: -7846553504997955617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1290
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e08036f70486690800000000000000
+      internalID: -7608760654575956404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1290
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723707ccf36ce840800000000000000
+      internalID: 5254684802556572275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1290
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a5c7fa2df795d0800000000000000
+      internalID: -3055695461160213988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1290
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76928d6a72b9c790800000000000000
+      internalID: -7509274664770562438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1130
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26db67dee43ef0240800000000000000
+      internalID: 4760273259284839778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1130
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e09004b5c63b6d00800000000000000
+      internalID: 966926767757496546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1130
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d60fc4da73dfcc20800000000000000
+      internalID: 3229031982357743312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1130
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348992b23b534d8a0800000000000000
+      internalID: -6281336536635434941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 970
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714c15f0d773fda50800000000000000
+      internalID: 6548013393487447063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 970
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c5d91f0ea7d13b0800000000000000
+      internalID: -5540136860050957181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 970
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f6e4f00b531800800000000000000
+      internalID: 581908836527829782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 970
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eb9ca516ccdff0800000000000000
+      internalID: -9915302769073408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 815
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976388034fd1825c0800000000000000
+      internalID: -4240106114545863047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 811
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910133f034bb476d0800000000000000
+      internalID: -2993561955602329575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 810
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912bab0be6b3cf0d0800000000000000
+      internalID: -3387767473091988967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 811
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917352b9ed775480800000000000000
+      internalID: -8910514895056572011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 655
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228e6c4c1fa6f590800000000000000
+      internalID: -7640727181711211993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 651
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1b1550e43d6f80800000000000000
+      internalID: -8111769215719236622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 650
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8c5b71a7ad9d70800000000000000
+      internalID: 9051575138085801486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 651
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c53e958e0580b650800000000000000
+      internalID: 6246638980580652481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 490
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464227eea91d9cd0800000000000000
+      internalID: -2549853575029045696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 490
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ff9b8a23331da0800000000000000
+      internalID: -5975376022766357582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 490
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020175e7b4096b1f0800000000000000
+      internalID: -1029476810890997728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 490
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9607491cb99e52140800000000000000
+      internalID: 4694415041780543593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 330
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0938d2b421d750800000000000000
+      internalID: 6327879301982653461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 330
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765f4aac6bdfbb30800000000000000
+      internalID: 4305401028549760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 330
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a585c2efd6d250800000000000000
+      internalID: 5969204521195645176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 330
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7236df11b882a310800000000000000
+      internalID: 1414843527272477307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c0bf5aa3ecbd90800000000000000
+      internalID: -7080534193243896878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 170
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbbf3d71fb235a70800000000000000
+      internalID: 8814437211882634167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 170
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3ce6b37d95fc20800000000000000
+      internalID: 3239668627278675926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 170
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42478e05e4a2047f0800000000000000
+      internalID: -630457431978642396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534732e28bc03ed40800000000000000
+      internalID: 5612343545821361205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d5c5f9bea6cf80800000000000000
+      internalID: -8086583967181580273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149776b0347aad90800000000000000
+      internalID: -7085723311145511905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8783097a084c3c00800000000000000
+      internalID: 881658836874921869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa5e75feafc95b0800000000000000
+      internalID: -5360133550598934535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f3bf0f7caa6370800000000000000
+      internalID: 8316649323617318239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 135
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5c07c447f66340800000000000000
+      internalID: 4856841122934971586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05bde88bc4b6afb0800000000000000
+      internalID: -4636819980062706420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560f531eb62a9ce60800000000000000
+      internalID: 7983090398714523749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2f6c16525d8f40800000000000000
+      internalID: 5732328430510223176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225207421ddf9a6c0800000000000000
+      internalID: -4131492108434397918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e6a12c4a2d9a00800000000000000
+      internalID: 764814018193318060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a56210366bc8b80800000000000000
+      internalID: -8391131469360768502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94afbe7b02e4ae0800000000000000
+      internalID: -1563276046340830803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4457bbc6d1b3a40800000000000000
+      internalID: 5348901335271294205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de4e6077d110140800000000000000
+      internalID: 4684057484496006469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a435445210b172e0800000000000000
+      internalID: -2129727555999812439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48875249ffe50190800000000000000
+      internalID: -7996721709487519669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d426033737290f0800000000000000
+      internalID: -1111699219436909276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ef7097b2b65860800000000000000
+      internalID: 7518393129414680890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fef815a16a6a4f0800000000000000
+      internalID: -817783650353418426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34facfd518d6eb850800000000000000
+      internalID: 6394668923307732803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313319cde1e193240800000000000000
+      internalID: 4771878398074106643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e86a1eae76d8e0800000000000000
+      internalID: -1669007325661698745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9564c8f57b95a8050800000000000000
+      internalID: 5803549713937221209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a5adf3fa73d830800000000000000
+      internalID: 4094751674561045678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91d8d3d432df5a60800000000000000
+      internalID: 7665076215142207903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e917ff4ec19826b0800000000000000
+      internalID: -5320842644447356441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9399d72b210363a0800000000000000
+      internalID: -6673488937969151077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d70f38887afef0f0800000000000000
+      internalID: -1081151464933488685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343190f9e4407d90800000000000000
+      internalID: -7102100840809155526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb144334e450d40800000000000000
+      internalID: 5549928166350503052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65cbe84e3962acf0800000000000000
+      internalID: -242515713692285590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff21bb23b618d560800000000000000
+      internalID: 7338640551588212722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61296b8477d381a0800000000000000
+      internalID: -6808361316098956950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7e3d41e7f318c0800000000000000
+      internalID: -4029604694530819154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad8cc59eb4f0260800000000000000
+      internalID: 7065949806023727662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b3874f565c2ae50800000000000000
+      internalID: 6819229827476241157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73d655b807c4f520800000000000000
+      internalID: 2735029713936765821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b584cb66306f7eeb0800000000000000
+      internalID: -4690509992414132133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af7306e796a9de0800000000000000
+      internalID: -1325631148806112685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da56b06793379350800000000000000
+      internalID: 6023339751886969558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12126db37fefe50800000000000000
+      internalID: 6845180320017359265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6f800cb4b8e6fd0800000000000000
+      internalID: -2346785198352828752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a183cc39f5e0b60800000000000000
+      internalID: 7714208300123298461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3239485cc6201db0800000000000000
+      internalID: -4823312541817425348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19391fb96181e00800000000000000
+      internalID: 1015586575000768938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9abef18619a750800000000000000
+      internalID: 6316604699944065691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5d2f60ea82d930800000000000000
+      internalID: 4166545301813680937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a45bcee87709710800000000000000
+      internalID: 1697988515259042366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e8e423e46d6480800000000000000
+      internalID: -8904349961502005152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483416e79b9e374d0800000000000000
+      internalID: -3137907532448578684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf57eba35621320800000000000000
+      internalID: 2527193643886181073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42371647084482640800000000000000
+      internalID: 5055365900222427940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79fcf2e15fd81990800000000000000
+      internalID: -7414931243671946881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842d251df3d25b000800000000000000
+      internalID: 50996722902684232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d75520fa53add0800000000000000
+      internalID: -2476035382658475725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf390863bc7ca990800000000000000
+      internalID: -7373381379925917777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f94b28417cc178a0800000000000000
+      internalID: -6309036816055186951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f1076b59ce1f70800000000000000
+      internalID: 9159980086525556374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf802369cf8a83300800000000000000
+      internalID: 232121183614667004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treant 1A[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7acb8b24fc7d160800000000000000
+      internalID: 7050331627145963468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

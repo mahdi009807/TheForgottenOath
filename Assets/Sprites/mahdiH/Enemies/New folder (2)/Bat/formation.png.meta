@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,10 +90,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,10 +121,10 @@ TextureImporter:
       name: formation_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 81
-        width: 6
-        height: 11
+        x: 0
+        y: 0
+        width: 44
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,10 +143,10 @@ TextureImporter:
       name: formation_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 79
-        width: 22
-        height: 13
+        x: 44
+        y: 0
+        width: 44
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: formation_2
       rect:
         serializedVersion: 2
-        x: 60
-        y: 81
-        width: 26
-        height: 11
+        x: 88
+        y: 0
+        width: 44
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,99 +183,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: formation_3
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 83
-        width: 26
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94c3862a349b1e4e0800000000000000
-      internalID: -1954077063163397047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: formation_4
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 38
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73d39a1a269bd13d0800000000000000
-      internalID: -3234225124111991497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: formation_5
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 38
-        width: 22
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 608b3d7ed6dd4d560800000000000000
-      internalID: 7337733157003966470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: formation_6
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 38
-        width: 48
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d17729b1d18c04440800000000000000
-      internalID: 4918150820430771997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 41600650c52a3b743b1497b41c4f033a
     internalID: 0
     vertices: []
     indices: 
@@ -284,7 +196,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      formation_0: 8495114465115340849
+      formation_1: -1991598868815571549
+      formation_2: 6186695704009328831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

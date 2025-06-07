@@ -58,6 +58,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Climb",
+                    "type": "Value",
+                    "id": "dccbaf94-65f2-480d-ac69-1a2b0245396e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -148,6 +157,39 @@
                     "action": "Slide",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "a24c4913-113f-4da6-9508-7513331cfedf",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Climb",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "f6daf2ee-2dd5-45c0-8fc8-bc3d53967f9c",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Climb",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "c122091e-4af0-419a-8ed0-cc736b8ba994",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Climb",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 }
             ]
         },
@@ -183,9 +225,18 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Ulty",
+                    "name": "SuperAttack",
                     "type": "Button",
                     "id": "f3a4b3f0-7649-475e-81e8-d4326976b131",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Defend",
+                    "type": "Button",
+                    "id": "817863c4-c02d-42a7-9410-636881436ab2",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -251,11 +302,22 @@
                 {
                     "name": "",
                     "id": "b9f335af-7567-4fb2-9264-3d1c14f7d313",
-                    "path": "<Keyboard>/rightShift",
+                    "path": "<Keyboard>/m",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Ulty",
+                    "action": "SuperAttack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "466dbdfd-b4ba-4d40-bf37-a62c4b426d24",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Defend",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

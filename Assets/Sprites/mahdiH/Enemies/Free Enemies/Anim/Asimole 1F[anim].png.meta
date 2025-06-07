@@ -1,0 +1,3117 @@
+fileFormatVersion: 2
+guid: 9900dc761f6180244912ca7fb01d8ab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7052910278895600174
+    second: Asimole 1F[anim]_0
+  - first:
+      213: -1512649337932552877
+    second: Asimole 1F[anim]_1
+  - first:
+      213: -5313565134228771492
+    second: Asimole 1F[anim]_2
+  - first:
+      213: 3725734154716382344
+    second: Asimole 1F[anim]_3
+  - first:
+      213: 6875993705991796853
+    second: Asimole 1F[anim]_4
+  - first:
+      213: 1559800717931345192
+    second: Asimole 1F[anim]_5
+  - first:
+      213: -5532457038441212451
+    second: Asimole 1F[anim]_6
+  - first:
+      213: 1716380480137755518
+    second: Asimole 1F[anim]_7
+  - first:
+      213: 2883134002090141652
+    second: Asimole 1F[anim]_8
+  - first:
+      213: -7972673683226747136
+    second: Asimole 1F[anim]_9
+  - first:
+      213: -7825836298749117886
+    second: Asimole 1F[anim]_10
+  - first:
+      213: 132895571609769182
+    second: Asimole 1F[anim]_11
+  - first:
+      213: 8515438655639035584
+    second: Asimole 1F[anim]_12
+  - first:
+      213: 5383375181430448532
+    second: Asimole 1F[anim]_13
+  - first:
+      213: -8371306499423685762
+    second: Asimole 1F[anim]_14
+  - first:
+      213: -165829201132109215
+    second: Asimole 1F[anim]_15
+  - first:
+      213: 1455690366370884537
+    second: Asimole 1F[anim]_16
+  - first:
+      213: -1355038940764943353
+    second: Asimole 1F[anim]_17
+  - first:
+      213: -7493334082844016440
+    second: Asimole 1F[anim]_18
+  - first:
+      213: -8630661432223433750
+    second: Asimole 1F[anim]_19
+  - first:
+      213: 8245304028671324903
+    second: Asimole 1F[anim]_20
+  - first:
+      213: 7140031770507009798
+    second: Asimole 1F[anim]_21
+  - first:
+      213: 4523688968780203004
+    second: Asimole 1F[anim]_22
+  - first:
+      213: -2258255488140209133
+    second: Asimole 1F[anim]_23
+  - first:
+      213: 6234134170186908090
+    second: Asimole 1F[anim]_24
+  - first:
+      213: -2439771488323562918
+    second: Asimole 1F[anim]_25
+  - first:
+      213: -3601819553701039586
+    second: Asimole 1F[anim]_26
+  - first:
+      213: 3997623631900114438
+    second: Asimole 1F[anim]_27
+  - first:
+      213: -1062613295179382125
+    second: Asimole 1F[anim]_28
+  - first:
+      213: -7138840562039472611
+    second: Asimole 1F[anim]_29
+  - first:
+      213: 5286359386786855425
+    second: Asimole 1F[anim]_30
+  - first:
+      213: 5520193376054354296
+    second: Asimole 1F[anim]_31
+  - first:
+      213: -5781686253533871626
+    second: Asimole 1F[anim]_32
+  - first:
+      213: -6643324969721917856
+    second: Asimole 1F[anim]_33
+  - first:
+      213: -7277910253340414640
+    second: Asimole 1F[anim]_34
+  - first:
+      213: -6713395373809581660
+    second: Asimole 1F[anim]_35
+  - first:
+      213: -169535496831902890
+    second: Asimole 1F[anim]_36
+  - first:
+      213: 5474505428336849903
+    second: Asimole 1F[anim]_37
+  - first:
+      213: -3984421190963404748
+    second: Asimole 1F[anim]_38
+  - first:
+      213: -6722093106734063491
+    second: Asimole 1F[anim]_39
+  - first:
+      213: -5961284769942390006
+    second: Asimole 1F[anim]_40
+  - first:
+      213: 5372552983563002085
+    second: Asimole 1F[anim]_41
+  - first:
+      213: -7100018337781610452
+    second: Asimole 1F[anim]_42
+  - first:
+      213: 7361948438719486356
+    second: Asimole 1F[anim]_43
+  - first:
+      213: -701943814002924353
+    second: Asimole 1F[anim]_44
+  - first:
+      213: -5212744378314694735
+    second: Asimole 1F[anim]_45
+  - first:
+      213: 1266066058351844811
+    second: Asimole 1F[anim]_46
+  - first:
+      213: 2814034707667172333
+    second: Asimole 1F[anim]_47
+  - first:
+      213: -4467947623349799426
+    second: Asimole 1F[anim]_48
+  - first:
+      213: 7133725499119492512
+    second: Asimole 1F[anim]_49
+  - first:
+      213: 1402016586347197164
+    second: Asimole 1F[anim]_50
+  - first:
+      213: -7608373913144236797
+    second: Asimole 1F[anim]_51
+  - first:
+      213: 7838146927194226070
+    second: Asimole 1F[anim]_52
+  - first:
+      213: 3506509195227478510
+    second: Asimole 1F[anim]_53
+  - first:
+      213: 6628768367156492834
+    second: Asimole 1F[anim]_54
+  - first:
+      213: -5340079022121768278
+    second: Asimole 1F[anim]_55
+  - first:
+      213: -3207017938883071355
+    second: Asimole 1F[anim]_56
+  - first:
+      213: -5093716645891322871
+    second: Asimole 1F[anim]_57
+  - first:
+      213: 728326743250669917
+    second: Asimole 1F[anim]_58
+  - first:
+      213: -6585229431693381234
+    second: Asimole 1F[anim]_59
+  - first:
+      213: -2960455715815998099
+    second: Asimole 1F[anim]_60
+  - first:
+      213: -6845145949425843715
+    second: Asimole 1F[anim]_61
+  - first:
+      213: 2596974754876802952
+    second: Asimole 1F[anim]_62
+  - first:
+      213: -5494719331131957772
+    second: Asimole 1F[anim]_63
+  - first:
+      213: 4223688876851831100
+    second: Asimole 1F[anim]_64
+  - first:
+      213: -1901670909477527248
+    second: Asimole 1F[anim]_65
+  - first:
+      213: 229667557464545593
+    second: Asimole 1F[anim]_66
+  - first:
+      213: -3879314662362646625
+    second: Asimole 1F[anim]_67
+  - first:
+      213: -6772838033021854648
+    second: Asimole 1F[anim]_68
+  - first:
+      213: 260443924443672742
+    second: Asimole 1F[anim]_69
+  - first:
+      213: 6126832323054025583
+    second: Asimole 1F[anim]_70
+  - first:
+      213: 5434747847807104513
+    second: Asimole 1F[anim]_71
+  - first:
+      213: 462660667260802473
+    second: Asimole 1F[anim]_72
+  - first:
+      213: 2432160030543721012
+    second: Asimole 1F[anim]_73
+  - first:
+      213: 3445614022301988587
+    second: Asimole 1F[anim]_74
+  - first:
+      213: -1448573365317665614
+    second: Asimole 1F[anim]_75
+  - first:
+      213: -8406175215059203788
+    second: Asimole 1F[anim]_76
+  - first:
+      213: -1572653310177100324
+    second: Asimole 1F[anim]_77
+  - first:
+      213: 6633933069167610737
+    second: Asimole 1F[anim]_78
+  - first:
+      213: 144725364138139392
+    second: Asimole 1F[anim]_79
+  - first:
+      213: 7740825417865215343
+    second: Asimole 1F[anim]_80
+  - first:
+      213: 4005452038651778240
+    second: Asimole 1F[anim]_81
+  - first:
+      213: -562311874691654410
+    second: Asimole 1F[anim]_82
+  - first:
+      213: -2581670415079411322
+    second: Asimole 1F[anim]_83
+  - first:
+      213: 2967436614675675158
+    second: Asimole 1F[anim]_84
+  - first:
+      213: -1400032086941096711
+    second: Asimole 1F[anim]_85
+  - first:
+      213: 2432212666100581718
+    second: Asimole 1F[anim]_86
+  - first:
+      213: -2695903282459665260
+    second: Asimole 1F[anim]_87
+  - first:
+      213: 5978350879403057559
+    second: Asimole 1F[anim]_88
+  - first:
+      213: 7818490027002942711
+    second: Asimole 1F[anim]_89
+  - first:
+      213: -1529308618527683488
+    second: Asimole 1F[anim]_90
+  - first:
+      213: -3268800643518174109
+    second: Asimole 1F[anim]_91
+  - first:
+      213: -315566452534314372
+    second: Asimole 1F[anim]_92
+  - first:
+      213: -4798802640082605712
+    second: Asimole 1F[anim]_93
+  - first:
+      213: 7749690151997476332
+    second: Asimole 1F[anim]_94
+  - first:
+      213: 4309810221962093492
+    second: Asimole 1F[anim]_95
+  - first:
+      213: 2974321434149106264
+    second: Asimole 1F[anim]_96
+  - first:
+      213: -32600408094863632
+    second: Asimole 1F[anim]_97
+  - first:
+      213: 2450488301341991148
+    second: Asimole 1F[anim]_98
+  - first:
+      213: -2266486347049639884
+    second: Asimole 1F[anim]_99
+  - first:
+      213: -367958163893535725
+    second: Asimole 1F[anim]_100
+  - first:
+      213: 7766655536103062904
+    second: Asimole 1F[anim]_101
+  - first:
+      213: -1985428113439754433
+    second: Asimole 1F[anim]_102
+  - first:
+      213: -1792859776449135784
+    second: Asimole 1F[anim]_103
+  - first:
+      213: -2276030506817167347
+    second: Asimole 1F[anim]_104
+  - first:
+      213: -6393137024950827744
+    second: Asimole 1F[anim]_105
+  - first:
+      213: 4343645882894234595
+    second: Asimole 1F[anim]_106
+  - first:
+      213: -9077758911666370820
+    second: Asimole 1F[anim]_107
+  - first:
+      213: 735160628302281965
+    second: Asimole 1F[anim]_108
+  - first:
+      213: 1367849950763045785
+    second: Asimole 1F[anim]_109
+  - first:
+      213: -229480958630507939
+    second: Asimole 1F[anim]_110
+  - first:
+      213: 2088967731952360555
+    second: Asimole 1F[anim]_111
+  - first:
+      213: 7156351370310173436
+    second: Asimole 1F[anim]_112
+  - first:
+      213: -3718977865743196804
+    second: Asimole 1F[anim]_113
+  - first:
+      213: -1742470340398450389
+    second: Asimole 1F[anim]_114
+  - first:
+      213: -5369796864298843774
+    second: Asimole 1F[anim]_115
+  - first:
+      213: 5283290162979088343
+    second: Asimole 1F[anim]_116
+  - first:
+      213: 5436789854292580144
+    second: Asimole 1F[anim]_117
+  - first:
+      213: -8723118994111527366
+    second: Asimole 1F[anim]_118
+  - first:
+      213: 3362534796087982578
+    second: Asimole 1F[anim]_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2091
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22064ed788f0e160800000000000000
+      internalID: 7052910278895600174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2091
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355ecc6017df10be0800000000000000
+      internalID: -1512649337932552877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2091
+        width: 161
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da463b9ac6246b0800000000000000
+      internalID: -5313565134228771492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2091
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840963597774b330800000000000000
+      internalID: 3725734154716382344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1931
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578767358df6c6f50800000000000000
+      internalID: 6875993705991796853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1931
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82572b02d7685a510800000000000000
+      internalID: 1559800717931345192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1931
+        width: 161
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51a90c2a3c833b0800000000000000
+      internalID: -5532457038441212451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1931
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b7602f3fec1d710800000000000000
+      internalID: 1716380480137755518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1771
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ee627913f20820800000000000000
+      internalID: 2883134002090141652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1771
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1a21b68f5b5190800000000000000
+      internalID: -7972673683226747136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1771
+        width: 161
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a73be695b056390800000000000000
+      internalID: -7825836298749117886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1771
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d50a71d328d100800000000000000
+      internalID: 132895571609769182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9eff275aec2670800000000000000
+      internalID: 8515438655639035584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1611
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e0d5843795ba40800000000000000
+      internalID: 5383375181430448532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bee3871523db80800000000000000
+      internalID: -8371306499423685762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1611
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162422d583bd2bdf0800000000000000
+      internalID: -165829201132109215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbae76fca6a33410800000000000000
+      internalID: 1455690366370884537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1611
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c42ee334fe13de0800000000000000
+      internalID: -1355038940764943353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c041c06a54520890800000000000000
+      internalID: -7493334082844016440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1611
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb78a3972bb93880800000000000000
+      internalID: -8630661432223433750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1451
+        width: 159
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23d0e14543d6270800000000000000
+      internalID: 8245304028671324903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1451
+        width: 173
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd216d01d761360800000000000000
+      internalID: 7140031770507009798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1475
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34f7a462f57ce30800000000000000
+      internalID: 4523688968780203004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1451
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149359299019a0e0800000000000000
+      internalID: -2258255488140209133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1451
+        width: 181
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18d187ff7148650800000000000000
+      internalID: 6234134170186908090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1291
+        width: 161
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52195102c0342ed0800000000000000
+      internalID: -2439771488323562918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1291
+        width: 160
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f79cf234c30ec0800000000000000
+      internalID: -3601819553701039586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1291
+        width: 173
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60efc1d43896a7730800000000000000
+      internalID: 3997623631900114438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1291
+        width: 172
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392c93786d6d041f0800000000000000
+      internalID: -1062613295179382125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1131
+        width: 161
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ebc7ff45ebdec90800000000000000
+      internalID: -7138840562039472611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1131
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7b7c9adbec5940800000000000000
+      internalID: 5286359386786855425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712f27d0aaab9c40800000000000000
+      internalID: 5520193376054354296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1131
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ca5f2cf253cfa0800000000000000
+      internalID: -5781686253533871626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1131
+        width: 181
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e0e3c432b2ec3a0800000000000000
+      internalID: -6643324969721917856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 971
+        width: 173
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05da8724f2baffa90800000000000000
+      internalID: -7277910253340414640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 971
+        width: 173
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a144530a7a35d2a0800000000000000
+      internalID: -6713395373809581660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 971
+        width: 173
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bd3862d50b5adf0800000000000000
+      internalID: -169535496831902890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 971
+        width: 173
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe337f09ea959fb40800000000000000
+      internalID: 5474505428336849903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 811
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306615890e74b8c0800000000000000
+      internalID: -3984421190963404748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 811
+        width: 161
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70a3024fe356b2a0800000000000000
+      internalID: -6722093106734063491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 814
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b33a20613454da0800000000000000
+      internalID: -5961284769942390006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 811
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ec3a39742f8a40800000000000000
+      internalID: 5372552983563002085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 651
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2884c570faa77d90800000000000000
+      internalID: -7100018337781610452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 651
+        width: 161
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499dd988915ea2660800000000000000
+      internalID: 7361948438719486356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 654
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4a21af1d13246f0800000000000000
+      internalID: -701943814002924353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 651
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf53a13b9c98a7b0800000000000000
+      internalID: -5212744378314694735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 491
+        width: 161
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9d364f58f19110800000000000000
+      internalID: 1266066058351844811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 491
+        width: 160
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb3f1048a57d0720800000000000000
+      internalID: 2814034707667172333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 491
+        width: 173
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53f2b0f49aef1c0800000000000000
+      internalID: -4467947623349799426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 491
+        width: 172
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add92c9b85100360800000000000000
+      internalID: 7133725499119492512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 331
+        width: 171
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23e6638a6f47310800000000000000
+      internalID: 1402016586347197164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 331
+        width: 171
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30560b4ac30a96690800000000000000
+      internalID: -7608373913144236797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 331
+        width: 162
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3bbc1a11b6cc60800000000000000
+      internalID: 7838146927194226070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 331
+        width: 163
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9bc27e88f99a030800000000000000
+      internalID: 3506509195227478510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 172
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a75be85bd1efb50800000000000000
+      internalID: 6628768367156492834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 171
+        width: 172
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaaaed1c6a34e5b0800000000000000
+      internalID: -5340079022121768278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 171
+        width: 172
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b1941d226e73d0800000000000000
+      internalID: -3207017938883071355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 171
+        width: 171
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c472fb2bb7f49b0800000000000000
+      internalID: -5093716645891322871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519fdb60598b1a00800000000000000
+      internalID: 728326743250669917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 152
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81f77fc8b09c94a0800000000000000
+      internalID: -6585229431693381234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d338d26395ae6d0800000000000000
+      internalID: -2960455715815998099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c4c0b6082101a0800000000000000
+      internalID: -6845145949425843715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c61bb7ce4a0420800000000000000
+      internalID: 2596974754876802952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd586f61e5deb3b0800000000000000
+      internalID: -5494719331131957772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 123
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a58ac7ae8d9a30800000000000000
+      internalID: 4223688876851831100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 102
+        width: 81
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e5e02268eb95e0800000000000000
+      internalID: -1901670909477527248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391b1b3d61ff2300800000000000000
+      internalID: 229667557464545593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f8e93ed7e92ac0800000000000000
+      internalID: -3879314662362646625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c1a7861bb0202a0800000000000000
+      internalID: -6772838033021854648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0bf509e584d9300800000000000000
+      internalID: 260443924443672742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b34065981e60550800000000000000
+      internalID: 6126832323054025583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067c508f5a1c6b40800000000000000
+      internalID: 5434747847807104513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a510a3fc63bb6600800000000000000
+      internalID: 462660667260802473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432367169a4c0c120800000000000000
+      internalID: 2432160030543721012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be63a6892b741df20800000000000000
+      internalID: 3445614022301988587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf529f232a5ebe0800000000000000
+      internalID: -1448573365317665614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43904b20e24475b80800000000000000
+      internalID: -8406175215059203788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3d0c8520dc2ae0800000000000000
+      internalID: -1572653310177100324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc3737af6701c50800000000000000
+      internalID: 6633933069167610737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f517fa3fa220200800000000000000
+      internalID: 144725364138139392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dbb2474bfec6b60800000000000000
+      internalID: 7740825417865215343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c414b84869369730800000000000000
+      internalID: 4005452038651778240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc150844544238f0800000000000000
+      internalID: -562311874691654410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817e0e8f601c2cd0800000000000000
+      internalID: -2581670415079411322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183b3ff0e37e2920800000000000000
+      internalID: 2967436614675675158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42abf0c36129ce0800000000000000
+      internalID: -1400032086941096711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655812d8884f0c120800000000000000
+      internalID: 2432212666100581718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c9e248f3a369ad0800000000000000
+      internalID: -2695903282459665260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791a67d337e57f250800000000000000
+      internalID: 5978350879403057559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d173614bd08c60800000000000000
+      internalID: 7818490027002942711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc6b00aedc6cae0800000000000000
+      internalID: -1529308618527683488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce7813223e2a2d0800000000000000
+      internalID: -3268800643518174109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a79adbbf1ee9bf0800000000000000
+      internalID: -315566452534314372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796baa8c6a376db0800000000000000
+      internalID: -4798802640082605712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced0725322e6c8b60800000000000000
+      internalID: 7749690151997476332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e56100958fcb30800000000000000
+      internalID: 4309810221962093492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b942f599e64920800000000000000
+      internalID: 2974321434149106264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe09fff91e2c8ff0800000000000000
+      internalID: -32600408094863632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06db77022e10220800000000000000
+      internalID: 2450488301341991148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43065dbfca2db80e0800000000000000
+      internalID: -2266486347049639884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cbbecdfffb4eaf0800000000000000
+      internalID: -367958163893535725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d7e328f04b8cb60800000000000000
+      internalID: 7766655536103062904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37795b66a75274e0800000000000000
+      internalID: -1985428113439754433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb9a4488b7e17e0800000000000000
+      internalID: -1792859776449135784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e53f105ae960e0800000000000000
+      internalID: -2276030506817167347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02588638fb30747a0800000000000000
+      internalID: -6393137024950827744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3bff7baeab74c30800000000000000
+      internalID: 4343645882894234595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64d79ad52550280800000000000000
+      internalID: -9077758911666370820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7fc642b0d33a00800000000000000
+      internalID: 735160628302281965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993544578449bf210800000000000000
+      internalID: 1367849950763045785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acc12b848b0dcf0800000000000000
+      internalID: -229480958630507939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c164a95118dfc10800000000000000
+      internalID: 2088967731952360555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2c733c7a7705360800000000000000
+      internalID: 7156351370310173436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d16d8c559836cc0800000000000000
+      internalID: -3718977865743196804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_114
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2975e8157081d7e0800000000000000
+      internalID: -1742470340398450389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_115
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281067bc336aa75b0800000000000000
+      internalID: -5369796864298843774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_116
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d72fa14964025940800000000000000
+      internalID: 5283290162979088343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_117
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379e8f219b537b40800000000000000
+      internalID: 5436789854292580144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_118
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36058eed7141f680800000000000000
+      internalID: -8723118994111527366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asimole 1F[anim]_119
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f6b1e49f1aae20800000000000000
+      internalID: 3362534796087982578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

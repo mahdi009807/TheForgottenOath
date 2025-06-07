@@ -144,6 +144,15 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Climb"",
+                    ""type"": ""Value"",
+                    ""id"": ""dccbaf94-65f2-480d-ac69-1a2b0245396e"",
+                    ""expectedControlType"": ""Axis"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": true
                 }
             ],
             ""bindings"": [
@@ -234,6 +243,39 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""action"": ""Slide"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""1D Axis"",
+                    ""id"": ""a24c4913-113f-4da6-9508-7513331cfedf"",
+                    ""path"": ""1DAxis"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Climb"",
+                    ""isComposite"": true,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""negative"",
+                    ""id"": ""f6daf2ee-2dd5-45c0-8fc8-bc3d53967f9c"",
+                    ""path"": ""<Keyboard>/s"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Climb"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""positive"",
+                    ""id"": ""c122091e-4af0-419a-8ed0-cc736b8ba994"",
+                    ""path"": ""<Keyboard>/w"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Climb"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
                 }
             ]
         },
@@ -269,9 +311,18 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""initialStateCheck"": false
                 },
                 {
-                    ""name"": ""Ulty"",
+                    ""name"": ""SuperAttack"",
                     ""type"": ""Button"",
                     ""id"": ""f3a4b3f0-7649-475e-81e8-d4326976b131"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Defend"",
+                    ""type"": ""Button"",
+                    ""id"": ""817863c4-c02d-42a7-9410-636881436ab2"",
                     ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
@@ -337,11 +388,22 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""b9f335af-7567-4fb2-9264-3d1c14f7d313"",
-                    ""path"": ""<Keyboard>/rightShift"",
+                    ""path"": ""<Keyboard>/m"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Ulty"",
+                    ""action"": ""SuperAttack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""466dbdfd-b4ba-4d40-bf37-a62c4b426d24"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Defend"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -358,12 +420,14 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         m_Melee_AirDash = m_Melee.FindAction("AirDash", throwIfNotFound: true);
         m_Melee_Attack = m_Melee.FindAction("Attack", throwIfNotFound: true);
         m_Melee_Slide = m_Melee.FindAction("Slide", throwIfNotFound: true);
+        m_Melee_Climb = m_Melee.FindAction("Climb", throwIfNotFound: true);
         // Range
         m_Range = asset.FindActionMap("Range", throwIfNotFound: true);
         m_Range_Jump = m_Range.FindAction("Jump", throwIfNotFound: true);
         m_Range_Aim = m_Range.FindAction("Aim", throwIfNotFound: true);
         m_Range_Move = m_Range.FindAction("Move", throwIfNotFound: true);
-        m_Range_Ulty = m_Range.FindAction("Ulty", throwIfNotFound: true);
+        m_Range_SuperAttack = m_Range.FindAction("SuperAttack", throwIfNotFound: true);
+        m_Range_Defend = m_Range.FindAction("Defend", throwIfNotFound: true);
     }
 
     ~@PlayerControler()
@@ -451,6 +515,7 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
     private readonly InputAction m_Melee_AirDash;
     private readonly InputAction m_Melee_Attack;
     private readonly InputAction m_Melee_Slide;
+    private readonly InputAction m_Melee_Climb;
     /// <summary>
     /// Provides access to input actions defined in input action map "Melee".
     /// </summary>
@@ -486,6 +551,10 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "Melee/Slide".
         /// </summary>
         public InputAction @Slide => m_Wrapper.m_Melee_Slide;
+        /// <summary>
+        /// Provides access to the underlying input action "Melee/Climb".
+        /// </summary>
+        public InputAction @Climb => m_Wrapper.m_Melee_Climb;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -530,6 +599,9 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Slide.started += instance.OnSlide;
             @Slide.performed += instance.OnSlide;
             @Slide.canceled += instance.OnSlide;
+            @Climb.started += instance.OnClimb;
+            @Climb.performed += instance.OnClimb;
+            @Climb.canceled += instance.OnClimb;
         }
 
         /// <summary>
@@ -559,6 +631,9 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Slide.started -= instance.OnSlide;
             @Slide.performed -= instance.OnSlide;
             @Slide.canceled -= instance.OnSlide;
+            @Climb.started -= instance.OnClimb;
+            @Climb.performed -= instance.OnClimb;
+            @Climb.canceled -= instance.OnClimb;
         }
 
         /// <summary>
@@ -599,7 +674,8 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
     private readonly InputAction m_Range_Jump;
     private readonly InputAction m_Range_Aim;
     private readonly InputAction m_Range_Move;
-    private readonly InputAction m_Range_Ulty;
+    private readonly InputAction m_Range_SuperAttack;
+    private readonly InputAction m_Range_Defend;
     /// <summary>
     /// Provides access to input actions defined in input action map "Range".
     /// </summary>
@@ -624,9 +700,13 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// </summary>
         public InputAction @Move => m_Wrapper.m_Range_Move;
         /// <summary>
-        /// Provides access to the underlying input action "Range/Ulty".
+        /// Provides access to the underlying input action "Range/SuperAttack".
         /// </summary>
-        public InputAction @Ulty => m_Wrapper.m_Range_Ulty;
+        public InputAction @SuperAttack => m_Wrapper.m_Range_SuperAttack;
+        /// <summary>
+        /// Provides access to the underlying input action "Range/Defend".
+        /// </summary>
+        public InputAction @Defend => m_Wrapper.m_Range_Defend;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -662,9 +742,12 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Move.started += instance.OnMove;
             @Move.performed += instance.OnMove;
             @Move.canceled += instance.OnMove;
-            @Ulty.started += instance.OnUlty;
-            @Ulty.performed += instance.OnUlty;
-            @Ulty.canceled += instance.OnUlty;
+            @SuperAttack.started += instance.OnSuperAttack;
+            @SuperAttack.performed += instance.OnSuperAttack;
+            @SuperAttack.canceled += instance.OnSuperAttack;
+            @Defend.started += instance.OnDefend;
+            @Defend.performed += instance.OnDefend;
+            @Defend.canceled += instance.OnDefend;
         }
 
         /// <summary>
@@ -685,9 +768,12 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Move.started -= instance.OnMove;
             @Move.performed -= instance.OnMove;
             @Move.canceled -= instance.OnMove;
-            @Ulty.started -= instance.OnUlty;
-            @Ulty.performed -= instance.OnUlty;
-            @Ulty.canceled -= instance.OnUlty;
+            @SuperAttack.started -= instance.OnSuperAttack;
+            @SuperAttack.performed -= instance.OnSuperAttack;
+            @SuperAttack.canceled -= instance.OnSuperAttack;
+            @Defend.started -= instance.OnDefend;
+            @Defend.performed -= instance.OnDefend;
+            @Defend.canceled -= instance.OnDefend;
         }
 
         /// <summary>
@@ -770,6 +856,13 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnSlide(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Climb" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnClimb(InputAction.CallbackContext context);
     }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "Range" which allows adding and removing callbacks.
@@ -800,11 +893,18 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnMove(InputAction.CallbackContext context);
         /// <summary>
-        /// Method invoked when associated input action "Ulty" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// Method invoked when associated input action "SuperAttack" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
         /// </summary>
         /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
-        void OnUlty(InputAction.CallbackContext context);
+        void OnSuperAttack(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Defend" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnDefend(InputAction.CallbackContext context);
     }
 }

@@ -20,7 +20,7 @@ public class ComboRecoveryBehaviour : StateMachineBehaviour
     {
         timer += Time.deltaTime;
 
-        if (CombatManager.instance.HasPendingInput())
+        if (CombatManager.instance.HasPendingInput() && stateInfo.normalizedTime > 0.8f)
         {
             if (!string.IsNullOrEmpty(nextAttackTrigger))
             {
@@ -29,6 +29,7 @@ public class ComboRecoveryBehaviour : StateMachineBehaviour
                 CombatManager.instance.DisableInput();
             }
         }
+
         else if (timer > inputTimeout)
         {
             // زمان ورودی تمام شد، ریست کنیم

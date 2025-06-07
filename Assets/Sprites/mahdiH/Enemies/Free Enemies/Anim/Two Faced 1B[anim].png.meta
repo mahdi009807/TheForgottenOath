@@ -1,0 +1,3167 @@
+fileFormatVersion: 2
+guid: 75ae924d8d50a82429caa6fdd74dbd3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2836796842293467285
+    second: Two Faced 1B[anim]_0
+  - first:
+      213: -7967238826334678121
+    second: Two Faced 1B[anim]_1
+  - first:
+      213: -7472753590788666694
+    second: Two Faced 1B[anim]_2
+  - first:
+      213: 6348991880357687413
+    second: Two Faced 1B[anim]_3
+  - first:
+      213: -5261996087679399610
+    second: Two Faced 1B[anim]_4
+  - first:
+      213: 2066330255901934398
+    second: Two Faced 1B[anim]_5
+  - first:
+      213: -5026887306536860709
+    second: Two Faced 1B[anim]_6
+  - first:
+      213: -1678750338693880716
+    second: Two Faced 1B[anim]_7
+  - first:
+      213: -7947895669275410505
+    second: Two Faced 1B[anim]_8
+  - first:
+      213: 4524016586932412866
+    second: Two Faced 1B[anim]_9
+  - first:
+      213: -4508074902003567320
+    second: Two Faced 1B[anim]_10
+  - first:
+      213: 7217713491229010305
+    second: Two Faced 1B[anim]_11
+  - first:
+      213: -5058865849888053545
+    second: Two Faced 1B[anim]_12
+  - first:
+      213: 4667557937805445902
+    second: Two Faced 1B[anim]_13
+  - first:
+      213: -906183017775372506
+    second: Two Faced 1B[anim]_14
+  - first:
+      213: 3485532583459151626
+    second: Two Faced 1B[anim]_15
+  - first:
+      213: -8586938941587959223
+    second: Two Faced 1B[anim]_16
+  - first:
+      213: 1790790242096540202
+    second: Two Faced 1B[anim]_17
+  - first:
+      213: 2127015006218139339
+    second: Two Faced 1B[anim]_18
+  - first:
+      213: 5269127257997194502
+    second: Two Faced 1B[anim]_19
+  - first:
+      213: -6430689741899631222
+    second: Two Faced 1B[anim]_20
+  - first:
+      213: -5283120562831051809
+    second: Two Faced 1B[anim]_21
+  - first:
+      213: 1185553554934411975
+    second: Two Faced 1B[anim]_22
+  - first:
+      213: -1239276990398769130
+    second: Two Faced 1B[anim]_23
+  - first:
+      213: -7528777723659349941
+    second: Two Faced 1B[anim]_24
+  - first:
+      213: -7043896765919296475
+    second: Two Faced 1B[anim]_25
+  - first:
+      213: -301986607784131207
+    second: Two Faced 1B[anim]_26
+  - first:
+      213: -587689757045862807
+    second: Two Faced 1B[anim]_27
+  - first:
+      213: -6179156220404882510
+    second: Two Faced 1B[anim]_28
+  - first:
+      213: -4267729260278590455
+    second: Two Faced 1B[anim]_29
+  - first:
+      213: 4032204952723756522
+    second: Two Faced 1B[anim]_30
+  - first:
+      213: -2248368282156092874
+    second: Two Faced 1B[anim]_31
+  - first:
+      213: 7318378621766370943
+    second: Two Faced 1B[anim]_32
+  - first:
+      213: -7023593890683266129
+    second: Two Faced 1B[anim]_33
+  - first:
+      213: -8995660983807946870
+    second: Two Faced 1B[anim]_34
+  - first:
+      213: 5051203357111908672
+    second: Two Faced 1B[anim]_35
+  - first:
+      213: -1997234084836278914
+    second: Two Faced 1B[anim]_36
+  - first:
+      213: 2938545833131458211
+    second: Two Faced 1B[anim]_37
+  - first:
+      213: 3981894808887840235
+    second: Two Faced 1B[anim]_38
+  - first:
+      213: 6766165470477296872
+    second: Two Faced 1B[anim]_39
+  - first:
+      213: -7697463269385171108
+    second: Two Faced 1B[anim]_40
+  - first:
+      213: 2697187412540730166
+    second: Two Faced 1B[anim]_41
+  - first:
+      213: 8046804473351698555
+    second: Two Faced 1B[anim]_42
+  - first:
+      213: -4231544677515480061
+    second: Two Faced 1B[anim]_43
+  - first:
+      213: 7078940185064418250
+    second: Two Faced 1B[anim]_44
+  - first:
+      213: -1301689047217789972
+    second: Two Faced 1B[anim]_45
+  - first:
+      213: 949289025678338716
+    second: Two Faced 1B[anim]_46
+  - first:
+      213: 7981081531567381079
+    second: Two Faced 1B[anim]_47
+  - first:
+      213: 3125017321413614957
+    second: Two Faced 1B[anim]_48
+  - first:
+      213: 5553000277367880033
+    second: Two Faced 1B[anim]_49
+  - first:
+      213: 2688142525315948861
+    second: Two Faced 1B[anim]_50
+  - first:
+      213: 1242168530660420624
+    second: Two Faced 1B[anim]_51
+  - first:
+      213: 6518228475556072962
+    second: Two Faced 1B[anim]_52
+  - first:
+      213: -6313420355296705729
+    second: Two Faced 1B[anim]_53
+  - first:
+      213: 2098247975678189029
+    second: Two Faced 1B[anim]_54
+  - first:
+      213: -4110739283275700872
+    second: Two Faced 1B[anim]_55
+  - first:
+      213: 5554883366853344206
+    second: Two Faced 1B[anim]_56
+  - first:
+      213: -8100745962028274396
+    second: Two Faced 1B[anim]_57
+  - first:
+      213: -8339886473938710964
+    second: Two Faced 1B[anim]_58
+  - first:
+      213: 8998804240973123517
+    second: Two Faced 1B[anim]_59
+  - first:
+      213: 9100409155739559864
+    second: Two Faced 1B[anim]_60
+  - first:
+      213: 7298038722297810877
+    second: Two Faced 1B[anim]_61
+  - first:
+      213: 2378259445821639687
+    second: Two Faced 1B[anim]_62
+  - first:
+      213: -7388211232309659735
+    second: Two Faced 1B[anim]_63
+  - first:
+      213: -3205792812536011029
+    second: Two Faced 1B[anim]_64
+  - first:
+      213: -2872344425195750542
+    second: Two Faced 1B[anim]_65
+  - first:
+      213: -4187218375342167149
+    second: Two Faced 1B[anim]_66
+  - first:
+      213: 6901392728013045705
+    second: Two Faced 1B[anim]_67
+  - first:
+      213: 2972195850356171150
+    second: Two Faced 1B[anim]_68
+  - first:
+      213: -5689094929107960335
+    second: Two Faced 1B[anim]_69
+  - first:
+      213: 8810508280808881100
+    second: Two Faced 1B[anim]_70
+  - first:
+      213: 2133261120008875167
+    second: Two Faced 1B[anim]_71
+  - first:
+      213: 6293661515040147135
+    second: Two Faced 1B[anim]_72
+  - first:
+      213: 6675222643506746657
+    second: Two Faced 1B[anim]_73
+  - first:
+      213: -1570272804670340955
+    second: Two Faced 1B[anim]_74
+  - first:
+      213: -908363174677865894
+    second: Two Faced 1B[anim]_75
+  - first:
+      213: 2464398629493577225
+    second: Two Faced 1B[anim]_76
+  - first:
+      213: -1031927710722949363
+    second: Two Faced 1B[anim]_77
+  - first:
+      213: -2684943544615713691
+    second: Two Faced 1B[anim]_78
+  - first:
+      213: -550334116156761562
+    second: Two Faced 1B[anim]_79
+  - first:
+      213: 8560753385675188735
+    second: Two Faced 1B[anim]_80
+  - first:
+      213: -3936239193254976373
+    second: Two Faced 1B[anim]_81
+  - first:
+      213: 8060999213972696023
+    second: Two Faced 1B[anim]_82
+  - first:
+      213: 8437730028422567006
+    second: Two Faced 1B[anim]_83
+  - first:
+      213: -2855018703055930177
+    second: Two Faced 1B[anim]_84
+  - first:
+      213: 1723538671208532900
+    second: Two Faced 1B[anim]_85
+  - first:
+      213: -8244237748141903351
+    second: Two Faced 1B[anim]_86
+  - first:
+      213: -1960358583531491248
+    second: Two Faced 1B[anim]_87
+  - first:
+      213: -8852396413714485155
+    second: Two Faced 1B[anim]_88
+  - first:
+      213: -5586241095780774172
+    second: Two Faced 1B[anim]_89
+  - first:
+      213: 6859774452526938547
+    second: Two Faced 1B[anim]_90
+  - first:
+      213: -2474749081166921552
+    second: Two Faced 1B[anim]_91
+  - first:
+      213: -1694432570957721328
+    second: Two Faced 1B[anim]_92
+  - first:
+      213: -1382644719791170223
+    second: Two Faced 1B[anim]_93
+  - first:
+      213: -6519560416005378711
+    second: Two Faced 1B[anim]_94
+  - first:
+      213: 5625107648943440715
+    second: Two Faced 1B[anim]_95
+  - first:
+      213: 4260530930220966768
+    second: Two Faced 1B[anim]_96
+  - first:
+      213: -8892831383780574685
+    second: Two Faced 1B[anim]_97
+  - first:
+      213: -7930037801786197556
+    second: Two Faced 1B[anim]_98
+  - first:
+      213: -9031719199326075998
+    second: Two Faced 1B[anim]_99
+  - first:
+      213: 1081217191687563721
+    second: Two Faced 1B[anim]_100
+  - first:
+      213: -3768028884759772578
+    second: Two Faced 1B[anim]_101
+  - first:
+      213: -4423906249180456839
+    second: Two Faced 1B[anim]_102
+  - first:
+      213: 7593757482890358206
+    second: Two Faced 1B[anim]_103
+  - first:
+      213: -350489776182576307
+    second: Two Faced 1B[anim]_104
+  - first:
+      213: -4737495910711302722
+    second: Two Faced 1B[anim]_105
+  - first:
+      213: -1112520436080959463
+    second: Two Faced 1B[anim]_106
+  - first:
+      213: 5260384499638349298
+    second: Two Faced 1B[anim]_107
+  - first:
+      213: -6953552758005975276
+    second: Two Faced 1B[anim]_108
+  - first:
+      213: 5025108698583870950
+    second: Two Faced 1B[anim]_109
+  - first:
+      213: -2763364539002466935
+    second: Two Faced 1B[anim]_110
+  - first:
+      213: -4970499895362223569
+    second: Two Faced 1B[anim]_111
+  - first:
+      213: 4439549389985775280
+    second: Two Faced 1B[anim]_112
+  - first:
+      213: 581126220168782324
+    second: Two Faced 1B[anim]_113
+  - first:
+      213: -6743029241225223259
+    second: Two Faced 1B[anim]_114
+  - first:
+      213: -6680553296299475592
+    second: Two Faced 1B[anim]_115
+  - first:
+      213: 4002787854494156259
+    second: Two Faced 1B[anim]_116
+  - first:
+      213: 7657414531675705862
+    second: Two Faced 1B[anim]_117
+  - first:
+      213: 4030590290570608837
+    second: Two Faced 1B[anim]_118
+  - first:
+      213: 8155212003548774502
+    second: Two Faced 1B[anim]_119
+  - first:
+      213: -9132727254366576290
+    second: Two Faced 1B[anim]_120
+  - first:
+      213: 5732020813211978928
+    second: Two Faced 1B[anim]_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e52b4d4ca1a8d0800000000000000
+      internalID: -2836796842293467285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2136
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7931f9bef7eae6190800000000000000
+      internalID: -7967238826334678121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba440793327b4890800000000000000
+      internalID: -7472753590788666694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2134
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703f8e0a762c1850800000000000000
+      internalID: 6348991880357687413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1973
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cf500072a9f6b0800000000000000
+      internalID: -5261996087679399610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1971
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334dab7b641dac10800000000000000
+      internalID: 2066330255901934398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1973
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd343f7d0a8ec3ab0800000000000000
+      internalID: -5026887306536860709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1975
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a59b1671e3b8e0800000000000000
+      internalID: -1678750338693880716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1815
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf39f0aff663b190800000000000000
+      internalID: -7947895669275410505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1816
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e416dd1988ce30800000000000000
+      internalID: 4524016586932412866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1815
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825393de2c91071c0800000000000000
+      internalID: -4508074902003567320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1814
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ef3fdd287a2460800000000000000
+      internalID: 7217713491229010305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d66113005c4bc9b0800000000000000
+      internalID: -5058865849888053545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc273f63f76c040800000000000000
+      internalID: 4667557937805445902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e104b8579c63f0800000000000000
+      internalID: -906183017775372506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd122ea691f5030800000000000000
+      internalID: 3485532583459151626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425ea6378015d880800000000000000
+      internalID: -8586938941587959223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a6667bc3a2ad810800000000000000
+      internalID: 1790790242096540202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1646
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6be85f0eca48d10800000000000000
+      internalID: 2127015006218139339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053049f253bf1940800000000000000
+      internalID: 5269127257997194502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1495
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f25140c991c6a0800000000000000
+      internalID: -6430689741899631222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1509
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b4ead6d59ea6b0800000000000000
+      internalID: -5283120562831051809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1495
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c231184daee37010800000000000000
+      internalID: 1185553554934411975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1478
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61857f8a4243dcee0800000000000000
+      internalID: -1239276990398769130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40196cac88648790800000000000000
+      internalID: -7528777723659349941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1337
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248bd8263d0f3e90800000000000000
+      internalID: -7043896765919296475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750a1cb7c02fcbf0800000000000000
+      internalID: -301986607784131207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1337
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4529974b18d7f0800000000000000
+      internalID: -587689757045862807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b32f17f72a3f3aa0800000000000000
+      internalID: -6179156220404882510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1190
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904dd8369daf5c4c0800000000000000
+      internalID: -4267729260278590455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59bac7a0545f730800000000000000
+      internalID: 4032204952723756522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1157
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b4d1b5f03cc0e0800000000000000
+      internalID: -2248368282156092874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1020
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768232059a109560800000000000000
+      internalID: 7318378621766370943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1017
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab583ba19e278e90800000000000000
+      internalID: -7023593890683266129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1015
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f494c0ffdf82380800000000000000
+      internalID: -8995660983807946870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1017
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0497aecd0ba791640800000000000000
+      internalID: 5051203357111908672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 855
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df7008e266844e0800000000000000
+      internalID: -1997234084836278914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 856
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae310cbddfc7c820800000000000000
+      internalID: 2938545833131458211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 855
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed4bb05b38824730800000000000000
+      internalID: 3981894808887840235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 854
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4205f85af36ed50800000000000000
+      internalID: 6766165470477296872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 695
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0eac70fd1d2590800000000000000
+      internalID: -7697463269385171108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 696
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b252159a55e6520800000000000000
+      internalID: 2697187412540730166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 695
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78f623e80efbaf60800000000000000
+      internalID: 8046804473351698555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 694
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304be7519888645c0800000000000000
+      internalID: -4231544677515480061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 533
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba00da7927d3260800000000000000
+      internalID: 7078940185064418250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 535
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3219c45b87fede0800000000000000
+      internalID: -1301689047217789972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 533
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aebbcd65d8c2d00800000000000000
+      internalID: 949289025678338716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 535
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a118c0e5f72ce60800000000000000
+      internalID: 7981081531567381079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 373
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1dcf52ba4e5b20800000000000000
+      internalID: 3125017321413614957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 371
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169782ac458301d40800000000000000
+      internalID: 5553000277367880033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 373
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31241762633e4520800000000000000
+      internalID: 2688142525315948861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cee2582b11d3110800000000000000
+      internalID: 1242168530660420624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0b527346657a50800000000000000
+      internalID: 6518228475556072962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 177
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33c1d403a93268a0800000000000000
+      internalID: -6313420355296705729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1bf8ba697e1d10800000000000000
+      internalID: 2098247975678189029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 177
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ab18c668b3f6c0800000000000000
+      internalID: -4110739283275700872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf40abdf8e61d40800000000000000
+      internalID: 5554883366853344206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 177
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42def95977e549f80800000000000000
+      internalID: -8100745962028274396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e4cc54075c24c80800000000000000
+      internalID: -8339886473938710964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 177
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf4b7a87cc22ec70800000000000000
+      internalID: 8998804240973123517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7a19e39e52b4e70800000000000000
+      internalID: 9100409155739559864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 75
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf4b9f1d87d74560800000000000000
+      internalID: 7298038722297810877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8aeb8d56410120800000000000000
+      internalID: 2378259445821639687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b1a4570dc77990800000000000000
+      internalID: -7388211232309659735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be66a490c6cb283d0800000000000000
+      internalID: -3205792812536011029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b32afa6f16328d0800000000000000
+      internalID: -2872344425195750542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 135
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bedbc821304e5c0800000000000000
+      internalID: -4187218375342167149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf7ea8fe1ca6cf50800000000000000
+      internalID: 6901392728013045705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ae57e06c5f3920800000000000000
+      internalID: 2972195850356171150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd3b09dd464c01b0800000000000000
+      internalID: -5689094929107960335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3040f996354a70800000000000000
+      internalID: 8810508280808881100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce747afadda9d10800000000000000
+      internalID: 2133261120008875167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c38c7dc3975750800000000000000
+      internalID: 6293661515040147135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1251dde90a723ac50800000000000000
+      internalID: 6675222643506746657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00b2d2435453ae0800000000000000
+      internalID: -1570272804670340955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a974e5188d463f0800000000000000
+      internalID: -908363174677865894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069cef1f7d433220800000000000000
+      internalID: 2464398629493577225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ff978e63bdda1f0800000000000000
+      internalID: -1031927710722949363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564c335521a2dbad0800000000000000
+      internalID: -2684943544615713691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a92b28902dc58f0800000000000000
+      internalID: -550334116156761562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff964e2f8d7edc670800000000000000
+      internalID: 8560753385675188735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84211f0f4baf59c0800000000000000
+      internalID: -3936239193254976373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbab8b731c6edf60800000000000000
+      internalID: 8060999213972696023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5416ce71c6d81570800000000000000
+      internalID: 8437730028422567006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc3149bd9fe068d0800000000000000
+      internalID: -2855018703055930177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab880e2a4d3be710800000000000000
+      internalID: 1723538671208532900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902b22aa275969d80800000000000000
+      internalID: -8244237748141903351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b73431486bc4e0800000000000000
+      internalID: -1960358583531491248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503b9d1d58f52580800000000000000
+      internalID: -8852396413714485155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4c40125fa972b0800000000000000
+      internalID: -5586241095780774172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fa2a1580d23f50800000000000000
+      internalID: 6859774452526938547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b042dc82dce7add0800000000000000
+      internalID: -2474749081166921552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119630ed8a2c78e0800000000000000
+      internalID: -1694432570957721328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1742f3fbdfcce0800000000000000
+      internalID: -1382644719791170223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2d40085ed585a0800000000000000
+      internalID: -6519560416005378711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434b968a95601e40800000000000000
+      internalID: 5625107648943440715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073a26ace42702b30800000000000000
+      internalID: 4260530930220966768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a305209f0569480800000000000000
+      internalID: -8892831383780574685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93d1962a8d2f190800000000000000
+      internalID: -7930037801786197556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a308158d33e8a280800000000000000
+      internalID: -9031719199326075998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9259bae41410f00800000000000000
+      internalID: 1081217191687563721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e528b7471b545bbc0800000000000000
+      internalID: -3768028884759772578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d7f984b02b92c0800000000000000
+      internalID: -4423906249180456839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebde42e7232726960800000000000000
+      internalID: 7593757482890358206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3b31d76fc22bf0800000000000000
+      internalID: -350489776182576307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5ef2dc198014eb0800000000000000
+      internalID: -4737495910711302722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910280ace888f80f0800000000000000
+      internalID: -1112520436080959463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd2aeae4d3a00940800000000000000
+      internalID: 5260384499638349298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bd1cab94008f90800000000000000
+      internalID: -6953552758005975276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed21d8bcb5ccb540800000000000000
+      internalID: 5025108698583870950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc8dbb79e86a9d0800000000000000
+      internalID: -2763364539002466935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2281d41eac350bb0800000000000000
+      internalID: -4970499895362223569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be77e006a27c9d30800000000000000
+      internalID: 4439549389985775280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f163d2e733901800800000000000000
+      internalID: 581126220168782324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_114
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e2b691a2fb62a0800000000000000
+      internalID: -6743029241225223259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d310f0c28e943a0800000000000000
+      internalID: -6680553296299475592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_116
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e54f529852cc8730800000000000000
+      internalID: 4002787854494156259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_117
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d17222f9944a60800000000000000
+      internalID: 7657414531675705862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_118
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c08998a3888fe730800000000000000
+      internalID: 4030590290570608837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_119
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c68beb122d2170800000000000000
+      internalID: 8155212003548774502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_120
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a3fc03f8024180800000000000000
+      internalID: -9132727254366576290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two Faced 1B[anim]_121
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc45a06f8a3c8f40800000000000000
+      internalID: 5732020813211978928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

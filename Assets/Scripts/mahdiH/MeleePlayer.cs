@@ -23,6 +23,13 @@ public class MeleePlayer : MonoBehaviour
     private bool isGrounded;
     private bool wasGroundedLastFrame;
     private bool jumpPressed;
+    
+    [Header("Ladder Climb")]
+    public float climbSpeed = 3f;
+    private bool isClimbing = false;
+    private bool isTouchingLadder = false;
+    private float verticalInput = 0f;
+
 
     [Header("References")]
     private Animator animator;
@@ -102,6 +109,10 @@ public class MeleePlayer : MonoBehaviour
 
         controls.Melee.Jump.performed += ctx => jumpPressed = true;
         
+        controls.Melee.Climb.performed += ctx => verticalInput = ctx.ReadValue<float>();
+        controls.Melee.Climb.canceled += ctx => verticalInput = 0f;
+
+        
         controls.Melee.Dash.performed += ctx => TryDash();
         
 
@@ -126,6 +137,35 @@ public class MeleePlayer : MonoBehaviour
             if (moveInput > 0 && !facingRight) Flip();
             else if (moveInput < 0 && facingRight) Flip();
         }
+        
+        if (isTouchingLadder)
+        {
+            if (Mathf.Abs(verticalInput) > 0.1f)
+            {
+                isClimbing = true;
+            }
+            
+            animator.SetBool("IsClimbing", isClimbing);
+
+            
+            if (isClimbing)
+            {
+                animator.speed = Mathf.Abs(verticalInput) > 0.1f ? 1f : 0f;
+            }
+            else
+            {
+                animator.speed = 1f;
+            }
+
+        }
+        else
+        {
+            animator.speed = 1f;
+            isClimbing = false;
+            animator.SetBool("IsClimbing", false);
+        }
+
+
 
 
         // وضعیت دویدن (CapsLock + حرکت)
@@ -161,7 +201,7 @@ public class MeleePlayer : MonoBehaviour
         isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, groundLayer);
 
         // تشخیص سقوط (انیمیشن Fall)
-        if (!isGrounded && rb.linearVelocity.y < -0.1f && !isWallSliding && !isDashing)
+        if (!isGrounded && rb.linearVelocity.y < -0.1f && !isWallSliding && !isDashing && !isClimbing)
         {
             animator.SetTrigger("Fall");
         }
@@ -192,6 +232,21 @@ public class MeleePlayer : MonoBehaviour
     private void FixedUpdate()
     {
         if (isDead || isKnockedBack || isAttacking) return;
+        
+        if (isClimbing)
+        {
+            // فقط اگر W یا S فشار داده شده باشد، حرکت کن
+            if (Mathf.Abs(verticalInput) > 0.1f)
+            {
+                rb.linearVelocity = new Vector2(0f, verticalInput * climbSpeed);
+            }
+            else
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
+        }
+
+
 
         // اعمال سرعت روی Rigidbody2D (حرکت افقی)
         transform.position += new Vector3(currentVelocityX * Time.fixedDeltaTime, 0, 0);
@@ -290,7 +345,7 @@ public class MeleePlayer : MonoBehaviour
         {
             if (enemy.TryGetComponent<MeleeEnemy>(out MeleeEnemy e))
             {
-                e.TakeDamage(attackDamage);
+                e.TakeDamage(attackDamage , transform);
             }
             
             if (enemy.TryGetComponent<FlyingEnemy>(out FlyingEnemy flying))
@@ -313,6 +368,15 @@ public class MeleePlayer : MonoBehaviour
                 FireMan.TakeDamage((int) attackDamage , transform);
             }
 
+            if (enemy.TryGetComponent<BatEnemy>(out BatEnemy batEnemy))
+            {
+                batEnemy.TakeDamage((int) attackDamage);
+            }
+
+            if (enemy.TryGetComponent<LavaFlyEnemy>(out LavaFlyEnemy lavaFlyEnemy))
+            {
+                lavaFlyEnemy.TakeDamage((int) attackDamage);
+            }
 
         }
     }
@@ -374,7 +438,7 @@ public class MeleePlayer : MonoBehaviour
 
         float timer = 0f;
 
-        Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
+        // Vector3 knockbackVelocity = new Vector3(direction * knockbackForceX, knockbackForceY, 0);
 
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
@@ -497,6 +561,27 @@ public class MeleePlayer : MonoBehaviour
             scale
         );
     }
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isTouchingLadder = true;
+            rb.gravityScale = 0f; // حذف گرانش هنگام نردبان
+            rb.linearVelocity = Vector2.zero;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isTouchingLadder = false;
+            isClimbing = false;
+            rb.gravityScale = 2.5f; // مقدار پیش‌فرض گرانش
+        }
+    }
+
 
 
     public bool IsDead() => isDead;

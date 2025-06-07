@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,10 +99,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -130,10 +130,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_0
       rect:
         serializedVersion: 2
-        x: 33
+        x: 0
         y: 0
-        width: 36
-        height: 47
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,10 +152,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_1
       rect:
         serializedVersion: 2
-        x: 127
+        x: 96
         y: 0
-        width: 24
-        height: 48
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_2
       rect:
         serializedVersion: 2
-        x: 212
+        x: 192
         y: 0
-        width: 35
-        height: 46
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_3
       rect:
         serializedVersion: 2
-        x: 303
+        x: 288
         y: 0
-        width: 40
-        height: 45
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_4
       rect:
         serializedVersion: 2
-        x: 399
+        x: 384
         y: 0
-        width: 40
-        height: 44
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +240,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_5
       rect:
         serializedVersion: 2
-        x: 509
+        x: 480
         y: 0
-        width: 67
-        height: 47
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_6
       rect:
         serializedVersion: 2
-        x: 608
+        x: 576
         y: 0
-        width: 63
-        height: 49
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_7
       rect:
         serializedVersion: 2
-        x: 702
+        x: 672
         y: 0
-        width: 60
-        height: 48
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_8
       rect:
         serializedVersion: 2
-        x: 799
+        x: 768
         y: 0
-        width: 46
-        height: 48
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +328,10 @@ TextureImporter:
       name: Skeleton_01_White_Attack1_9
       rect:
         serializedVersion: 2
-        x: 897
+        x: 864
         y: 0
-        width: 36
-        height: 47
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,7 +350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d39d6b884bb2cd445a0328dd78c639d1
     internalID: 0
     vertices: []
     indices: 
@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton_01_White_Attack1_0: 3908245539121852773
+      Skeleton_01_White_Attack1_1: 3892371490912497560
+      Skeleton_01_White_Attack1_2: -3589880612545866565
+      Skeleton_01_White_Attack1_3: 5478348406982024880
+      Skeleton_01_White_Attack1_4: 2719386154979094829
+      Skeleton_01_White_Attack1_5: -4577776620893042948
+      Skeleton_01_White_Attack1_6: -3912141382359960733
+      Skeleton_01_White_Attack1_7: 1480888159023825358
+      Skeleton_01_White_Attack1_8: -1968054008120033134
+      Skeleton_01_White_Attack1_9: 4593523546362417047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

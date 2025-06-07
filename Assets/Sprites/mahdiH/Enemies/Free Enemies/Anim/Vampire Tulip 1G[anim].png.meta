@@ -1,0 +1,2967 @@
+fileFormatVersion: 2
+guid: c23882738127a4f4da4512bc6d4f0077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4252639325687096219
+    second: Vampire Tulip 1G[anim]_0
+  - first:
+      213: -5216443136732760682
+    second: Vampire Tulip 1G[anim]_1
+  - first:
+      213: -3736021399673834546
+    second: Vampire Tulip 1G[anim]_2
+  - first:
+      213: -5405210857250231907
+    second: Vampire Tulip 1G[anim]_3
+  - first:
+      213: -2670169785683489308
+    second: Vampire Tulip 1G[anim]_4
+  - first:
+      213: 3694116936022412551
+    second: Vampire Tulip 1G[anim]_5
+  - first:
+      213: -3717464451961052426
+    second: Vampire Tulip 1G[anim]_6
+  - first:
+      213: -5645360117812865893
+    second: Vampire Tulip 1G[anim]_7
+  - first:
+      213: -2894594396369021495
+    second: Vampire Tulip 1G[anim]_8
+  - first:
+      213: 6742264767128631180
+    second: Vampire Tulip 1G[anim]_9
+  - first:
+      213: 9122927936088014549
+    second: Vampire Tulip 1G[anim]_10
+  - first:
+      213: -7484245355108358510
+    second: Vampire Tulip 1G[anim]_11
+  - first:
+      213: 530614110293672263
+    second: Vampire Tulip 1G[anim]_12
+  - first:
+      213: 5964075628376287753
+    second: Vampire Tulip 1G[anim]_13
+  - first:
+      213: 6853329484977669479
+    second: Vampire Tulip 1G[anim]_14
+  - first:
+      213: -6608249825547943641
+    second: Vampire Tulip 1G[anim]_15
+  - first:
+      213: 1182762535099861033
+    second: Vampire Tulip 1G[anim]_16
+  - first:
+      213: -9081227077252461293
+    second: Vampire Tulip 1G[anim]_17
+  - first:
+      213: -7919957689956669182
+    second: Vampire Tulip 1G[anim]_18
+  - first:
+      213: -3433836181491867172
+    second: Vampire Tulip 1G[anim]_19
+  - first:
+      213: 5823926623811540977
+    second: Vampire Tulip 1G[anim]_20
+  - first:
+      213: 4923196037360458076
+    second: Vampire Tulip 1G[anim]_21
+  - first:
+      213: 1386190726977559929
+    second: Vampire Tulip 1G[anim]_22
+  - first:
+      213: 2645144511115773144
+    second: Vampire Tulip 1G[anim]_23
+  - first:
+      213: -5036063646583610956
+    second: Vampire Tulip 1G[anim]_24
+  - first:
+      213: 7924683185817393465
+    second: Vampire Tulip 1G[anim]_25
+  - first:
+      213: -6352150250616683581
+    second: Vampire Tulip 1G[anim]_26
+  - first:
+      213: 1416778514574136958
+    second: Vampire Tulip 1G[anim]_27
+  - first:
+      213: 7535727311619784816
+    second: Vampire Tulip 1G[anim]_28
+  - first:
+      213: -4720341694923637157
+    second: Vampire Tulip 1G[anim]_29
+  - first:
+      213: 7263953881309939054
+    second: Vampire Tulip 1G[anim]_30
+  - first:
+      213: 9130571452419756635
+    second: Vampire Tulip 1G[anim]_31
+  - first:
+      213: 613139003952540688
+    second: Vampire Tulip 1G[anim]_32
+  - first:
+      213: 7833907609685903755
+    second: Vampire Tulip 1G[anim]_33
+  - first:
+      213: -7106380105191272082
+    second: Vampire Tulip 1G[anim]_34
+  - first:
+      213: -6961228368652357877
+    second: Vampire Tulip 1G[anim]_35
+  - first:
+      213: -3944970744312945101
+    second: Vampire Tulip 1G[anim]_36
+  - first:
+      213: -4717139742123864062
+    second: Vampire Tulip 1G[anim]_37
+  - first:
+      213: 6097312521053802368
+    second: Vampire Tulip 1G[anim]_38
+  - first:
+      213: 6692168629882267036
+    second: Vampire Tulip 1G[anim]_39
+  - first:
+      213: -3586513383780086711
+    second: Vampire Tulip 1G[anim]_40
+  - first:
+      213: 2586308650736321841
+    second: Vampire Tulip 1G[anim]_41
+  - first:
+      213: 2967919940453214802
+    second: Vampire Tulip 1G[anim]_42
+  - first:
+      213: -9102813266487850417
+    second: Vampire Tulip 1G[anim]_43
+  - first:
+      213: -5808121206388459757
+    second: Vampire Tulip 1G[anim]_44
+  - first:
+      213: 8461249001882148580
+    second: Vampire Tulip 1G[anim]_45
+  - first:
+      213: -4365281271088134578
+    second: Vampire Tulip 1G[anim]_46
+  - first:
+      213: -5843380768530599332
+    second: Vampire Tulip 1G[anim]_47
+  - first:
+      213: -3078915642508161076
+    second: Vampire Tulip 1G[anim]_48
+  - first:
+      213: -8056201012792422257
+    second: Vampire Tulip 1G[anim]_49
+  - first:
+      213: 7249055758278315060
+    second: Vampire Tulip 1G[anim]_50
+  - first:
+      213: 1915577786379037324
+    second: Vampire Tulip 1G[anim]_51
+  - first:
+      213: 2913810830798645257
+    second: Vampire Tulip 1G[anim]_52
+  - first:
+      213: 2084058586451903975
+    second: Vampire Tulip 1G[anim]_53
+  - first:
+      213: -91305226179337599
+    second: Vampire Tulip 1G[anim]_54
+  - first:
+      213: 484687459374154093
+    second: Vampire Tulip 1G[anim]_55
+  - first:
+      213: 1807368659147710473
+    second: Vampire Tulip 1G[anim]_56
+  - first:
+      213: -5922576389728857897
+    second: Vampire Tulip 1G[anim]_57
+  - first:
+      213: 8432263763889486020
+    second: Vampire Tulip 1G[anim]_58
+  - first:
+      213: 7127031604263694131
+    second: Vampire Tulip 1G[anim]_59
+  - first:
+      213: 5387419684863759849
+    second: Vampire Tulip 1G[anim]_60
+  - first:
+      213: -1616289737434905766
+    second: Vampire Tulip 1G[anim]_61
+  - first:
+      213: -564359380158598453
+    second: Vampire Tulip 1G[anim]_62
+  - first:
+      213: 980900921189580423
+    second: Vampire Tulip 1G[anim]_63
+  - first:
+      213: -1799139388028441136
+    second: Vampire Tulip 1G[anim]_64
+  - first:
+      213: 7429324067531589113
+    second: Vampire Tulip 1G[anim]_65
+  - first:
+      213: 9019934418073095012
+    second: Vampire Tulip 1G[anim]_66
+  - first:
+      213: 6210165026361555347
+    second: Vampire Tulip 1G[anim]_67
+  - first:
+      213: -2470082573645945256
+    second: Vampire Tulip 1G[anim]_68
+  - first:
+      213: 5522676652201077386
+    second: Vampire Tulip 1G[anim]_69
+  - first:
+      213: 7725267041744890665
+    second: Vampire Tulip 1G[anim]_70
+  - first:
+      213: -8040968697849141845
+    second: Vampire Tulip 1G[anim]_71
+  - first:
+      213: -797607845661547846
+    second: Vampire Tulip 1G[anim]_72
+  - first:
+      213: -6508959716159084564
+    second: Vampire Tulip 1G[anim]_73
+  - first:
+      213: -932250268977136357
+    second: Vampire Tulip 1G[anim]_74
+  - first:
+      213: 8878585926794770362
+    second: Vampire Tulip 1G[anim]_75
+  - first:
+      213: -2897848909557151712
+    second: Vampire Tulip 1G[anim]_76
+  - first:
+      213: -6375291464570425960
+    second: Vampire Tulip 1G[anim]_77
+  - first:
+      213: 6401603067020391463
+    second: Vampire Tulip 1G[anim]_78
+  - first:
+      213: -5579263244881249541
+    second: Vampire Tulip 1G[anim]_79
+  - first:
+      213: 3802033791235360813
+    second: Vampire Tulip 1G[anim]_80
+  - first:
+      213: 8600897778352915764
+    second: Vampire Tulip 1G[anim]_81
+  - first:
+      213: -3233472123377463569
+    second: Vampire Tulip 1G[anim]_82
+  - first:
+      213: 6213639038255154565
+    second: Vampire Tulip 1G[anim]_83
+  - first:
+      213: -6649178043181257106
+    second: Vampire Tulip 1G[anim]_84
+  - first:
+      213: 2209639153648528653
+    second: Vampire Tulip 1G[anim]_85
+  - first:
+      213: 1466037735997184946
+    second: Vampire Tulip 1G[anim]_86
+  - first:
+      213: 5468403960028633337
+    second: Vampire Tulip 1G[anim]_87
+  - first:
+      213: 2947822960196211586
+    second: Vampire Tulip 1G[anim]_88
+  - first:
+      213: 4590273293670059635
+    second: Vampire Tulip 1G[anim]_89
+  - first:
+      213: 4543067611324835791
+    second: Vampire Tulip 1G[anim]_90
+  - first:
+      213: -8618155254515210471
+    second: Vampire Tulip 1G[anim]_91
+  - first:
+      213: 7421745959016141913
+    second: Vampire Tulip 1G[anim]_92
+  - first:
+      213: 7352091763547976712
+    second: Vampire Tulip 1G[anim]_93
+  - first:
+      213: 7016566210250965272
+    second: Vampire Tulip 1G[anim]_94
+  - first:
+      213: -5114929070488638167
+    second: Vampire Tulip 1G[anim]_95
+  - first:
+      213: 8057855775630430029
+    second: Vampire Tulip 1G[anim]_96
+  - first:
+      213: 5373138813867880818
+    second: Vampire Tulip 1G[anim]_97
+  - first:
+      213: -184162805233493574
+    second: Vampire Tulip 1G[anim]_98
+  - first:
+      213: -4955771623907694884
+    second: Vampire Tulip 1G[anim]_99
+  - first:
+      213: -6739382354620065461
+    second: Vampire Tulip 1G[anim]_100
+  - first:
+      213: -4420281634616587492
+    second: Vampire Tulip 1G[anim]_101
+  - first:
+      213: 7295175774053571668
+    second: Vampire Tulip 1G[anim]_102
+  - first:
+      213: 5620771806159957894
+    second: Vampire Tulip 1G[anim]_103
+  - first:
+      213: -8985472882536992701
+    second: Vampire Tulip 1G[anim]_104
+  - first:
+      213: 6990702624218583569
+    second: Vampire Tulip 1G[anim]_105
+  - first:
+      213: 3363054001398542175
+    second: Vampire Tulip 1G[anim]_106
+  - first:
+      213: -3164058513044770808
+    second: Vampire Tulip 1G[anim]_107
+  - first:
+      213: -862980311909219739
+    second: Vampire Tulip 1G[anim]_108
+  - first:
+      213: -8047483480516159992
+    second: Vampire Tulip 1G[anim]_109
+  - first:
+      213: -6905529352917265058
+    second: Vampire Tulip 1G[anim]_110
+  - first:
+      213: -1706438993337798967
+    second: Vampire Tulip 1G[anim]_111
+  - first:
+      213: 5103058678218734143
+    second: Vampire Tulip 1G[anim]_112
+  - first:
+      213: -5289810090758544182
+    second: Vampire Tulip 1G[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2096
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93af6d6fe8640b30800000000000000
+      internalID: 4252639325687096219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2096
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695f404ea987b97b0800000000000000
+      internalID: -5216443136732760682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2096
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3fe2fc45cf62cc0800000000000000
+      internalID: -3736021399673834546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2096
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e3850d55dcf4b0800000000000000
+      internalID: -5405210857250231907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1936
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edca522ab6a1fad0800000000000000
+      internalID: -2670169785683489308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1936
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dce52f7c3244330800000000000000
+      internalID: 3694116936022412551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1936
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f228b3e6c9e86cc0800000000000000
+      internalID: -3717464451961052426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1936
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945b9c12e6a7a1b0800000000000000
+      internalID: -5645360117812865893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1776
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c596939bb554d7d0800000000000000
+      internalID: -2894594396369021495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1776
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87755a6516519d50800000000000000
+      internalID: 6742264767128631180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1776
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de730e5f962b9e70800000000000000
+      internalID: 9122927936088014549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1776
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29626e4b08e922890800000000000000
+      internalID: -7484245355108358510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1616
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7414dd4d8be1d5700800000000000000
+      internalID: 530614110293672263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1616
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aeeea5f27a4c250800000000000000
+      internalID: 5964075628376287753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1616
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7650ec82bdaeb1f50800000000000000
+      internalID: 6853329484977669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1616
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218d21bbc7ca44a0800000000000000
+      internalID: -6608249825547943641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1456
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928844652440a6010800000000000000
+      internalID: 1182762535099861033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1456
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d45bf661009f180800000000000000
+      internalID: -9081227077252461293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1456
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20962065178a61290800000000000000
+      internalID: -7919957689956669182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1456
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12b49af209850d0800000000000000
+      internalID: -3433836181491867172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1296
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71a3a686eb2d050800000000000000
+      internalID: 5823926623811540977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1296
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591b7636b4b25440800000000000000
+      internalID: 4923196037360458076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1296
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d10703f1dbc3310800000000000000
+      internalID: 1386190726977559929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1296
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d441a41be075b420800000000000000
+      internalID: 2645144511115773144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1135
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1202fabce4c1ab0800000000000000
+      internalID: -5036063646583610956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1135
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391828ee512afd60800000000000000
+      internalID: 7924683185817393465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1135
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c385109001a8d7a0800000000000000
+      internalID: -6352150250616683581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1135
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d8967d8869a310800000000000000
+      internalID: 1416778514574136958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 977
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708e4d5018449860800000000000000
+      internalID: 7535727311619784816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 977
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7c97ec3afd7eb0800000000000000
+      internalID: -4720341694923637157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 977
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658c48a19fbec460800000000000000
+      internalID: 7263953881309939054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 977
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525dc13c5e46be70800000000000000
+      internalID: 9130571452419756635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 816
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2780fcae428800800000000000000
+      internalID: 613139003952540688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 816
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89ce861771a7bc60800000000000000
+      internalID: 7833907609685903755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 816
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61db2f02f0116d90800000000000000
+      internalID: -7106380105191272082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 816
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0faa1e4eafb46f90800000000000000
+      internalID: -6961228368652357877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 656
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362be76206a049c0800000000000000
+      internalID: -3944970744312945101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 656
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20054d2a56a598eb0800000000000000
+      internalID: -4717139742123864062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 656
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f04f5de610e9450800000000000000
+      internalID: 6097312521053802368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 656
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95252989eb5fdc50800000000000000
+      internalID: 6692168629882267036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 496
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8a9164152a3ec0800000000000000
+      internalID: -3586513383780086711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 496
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13588a6d30a64e320800000000000000
+      internalID: 2586308650736321841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 496
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a238c067b203920800000000000000
+      internalID: 2967919940453214802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 496
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a474a109f4ca180800000000000000
+      internalID: -9102813266487850417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177dc81988656fa0800000000000000
+      internalID: -5808121206388459757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 336
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee505933256c6570800000000000000
+      internalID: 8461249001882148580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 336
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46402cefc76b63c0800000000000000
+      internalID: -4365281271088134578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 336
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52726c862428eea0800000000000000
+      internalID: -5843380768530599332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 175
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf48e2398e7545d0800000000000000
+      internalID: -3078915642508161076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f809d59ccdf923090800000000000000
+      internalID: -8056201012792422257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 175
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccd251ec1d99460800000000000000
+      internalID: 7249055758278315060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 175
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a60c8f8df759a10800000000000000
+      internalID: 1915577786379037324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086078338fef6820800000000000000
+      internalID: 2913810830798645257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 99
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e581981e301cec10800000000000000
+      internalID: 2084058586451903975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182a17b616e9bbef0800000000000000
+      internalID: -91305226179337599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6145132da4f9b600800000000000000
+      internalID: 484687459374154093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006caa3830151910800000000000000
+      internalID: 1807368659147710473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d098171728cecda0800000000000000
+      internalID: -5922576389728857897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 134
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f70b973b650570800000000000000
+      internalID: 8432263763889486020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fae13cb7d48e260800000000000000
+      internalID: 7127031604263694131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5504cd8a5f3ca40800000000000000
+      internalID: 5387419684863759849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53451a1c09c199e0800000000000000
+      internalID: -1616289737434905766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2bcf3422efa28f0800000000000000
+      internalID: -564359380158598453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebb57d03cdc9d00800000000000000
+      internalID: 980900921189580423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda623424c2807e0800000000000000
+      internalID: -1799139388028441136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50b7e80e24a1760800000000000000
+      internalID: 7429324067531589113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0196409e3d2d70800000000000000
+      internalID: 9019934418073095012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b5d84030fe2650800000000000000
+      internalID: 6210165026361555347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85663ff7cf088bdd0800000000000000
+      internalID: -2470082573645945256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae9cf972d74ac40800000000000000
+      internalID: 5522676652201077386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bac3ab179a53b60800000000000000
+      internalID: 7725267041744890665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5aaaa729db86090800000000000000
+      internalID: -8040968697849141845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab26749e3e35ee4f0800000000000000
+      internalID: -797607845661547846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a205cf978ba5a0800000000000000
+      internalID: -6508959716159084564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dfad3d15bff03f0800000000000000
+      internalID: -932250268977136357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab772621cd2173b70800000000000000
+      internalID: 8878585926794770362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028c71d25c5c8c7d0800000000000000
+      internalID: -2897848909557151712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d23b2d03a6687a0800000000000000
+      internalID: -6375291464570425960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7243dc2821017d850800000000000000
+      internalID: 6401603067020391463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab57493a97292b0800000000000000
+      internalID: -5579263244881249541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d288d9ec69983c430800000000000000
+      internalID: 3802033791235360813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350c2cb5f68c5770800000000000000
+      internalID: 8600897778352915764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee45f64c366023d0800000000000000
+      internalID: -3233472123377463569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585c2b5b8c74b3650800000000000000
+      internalID: 6213639038255154565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eaadf6ccf59b3a0800000000000000
+      internalID: -6649178043181257106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de3036a173aae10800000000000000
+      internalID: 2209639153648528653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb1e61bd89685410800000000000000
+      internalID: 1466037735997184946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f898d5cd6ca3eb40800000000000000
+      internalID: 5468403960028633337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835c333d55c8e820800000000000000
+      internalID: 2947822960196211586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e8a238d3de3bf30800000000000000
+      internalID: 4590273293670059635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7699b1ce73c0f30800000000000000
+      internalID: 4543067611324835791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917647bf479266880800000000000000
+      internalID: -8618155254515210471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954195ca0a65ff660800000000000000
+      internalID: 7421745959016141913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043a528180e70660800000000000000
+      internalID: 7352091763547976712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118409fac9df5160800000000000000
+      internalID: 7016566210250965272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da4364c1f1409b0800000000000000
+      internalID: -5114929070488638167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f08c5b22143df60800000000000000
+      internalID: 8057855775630430029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27175797849319a40800000000000000
+      internalID: 5373138813867880818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d73587e8b17df0800000000000000
+      internalID: -184162805233493574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6650107ff893bb0800000000000000
+      internalID: -4955771623907694884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d55b8477e872a0800000000000000
+      internalID: -6739382354620065461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bce71e54108a2c0800000000000000
+      internalID: -4420281634616587492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9f7a07bbad3560800000000000000
+      internalID: 7295175774053571668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe1b57d2ef00e40800000000000000
+      internalID: 5620771806159957894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403a7935003d4380800000000000000
+      internalID: -8985472882536992701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11290f69ff6f30160800000000000000
+      internalID: 6990702624218583569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fe0d9cbc7fbae20800000000000000
+      internalID: 3363054001398542175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8007a69db810714d0800000000000000
+      internalID: -3164058513044770808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562ce748af31604f0800000000000000
+      internalID: -862980311909219739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80692007968915090800000000000000
+      internalID: -8047483480516159992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55555df3a1aa20a0800000000000000
+      internalID: -6905529352917265058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea933d6c28158e0800000000000000
+      internalID: -1706438993337798967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab337a4d4b1d640800000000000000
+      internalID: 5103058678218734143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire Tulip 1G[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac46f03cfb1d696b0800000000000000
+      internalID: -5289810090758544182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

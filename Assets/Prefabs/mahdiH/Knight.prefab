@@ -5767,8 +5767,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 098117b9d6fb15a42b7c13abbda14de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 4
-  runSpeed: 7
+  walkSpeed: 2
+  runSpeed: 10
   deceleration: 15
   moveInput: 0
   jumpForce: 12
@@ -5777,6 +5777,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  climbSpeed: 3
   rb: {fileID: 5201666768815592030}
   firePoint: {fileID: 4246236975359402292}
   attackRange: 0.5
@@ -5788,7 +5789,6 @@ MonoBehaviour:
   attackCooldown: 0.6
   maxHealth: 100
   currecntHealth: 0
-  isDead: 0
   knockbackForceX: 6
   knockbackForceY: 25
   knockbackDuration: 0.3

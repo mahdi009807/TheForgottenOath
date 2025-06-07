@@ -7,6 +7,10 @@ public class Attack4RecoveryBehaviour : StateMachineBehaviour
     {
         CombatManager.instance.attackInputCount = 0; // اطمینان از پاک‌سازی
         CombatManager.instance.EnableInput();
+        animator.ResetTrigger("Attack1");
+        animator.ResetTrigger("Attack2");
+        animator.ResetTrigger("Attack3");
+        animator.ResetTrigger("Attack4");
     }
 
 

@@ -10,6 +10,7 @@ public class FlyingEnemy : MonoBehaviour
     public float returnDuration = 1.5f;
     public float detectionRange = 8f;
     public float damageDistance = 0.5f;
+    [SerializeField] private float distancePatroling = 2f;
 
     [Header("Health")]
     public int maxHealth = 1;
@@ -45,8 +46,8 @@ public class FlyingEnemy : MonoBehaviour
 
         if (Vector2.Distance(transform.position, targetPlayer.position) <= detectionRange)
         {
-            rb.linearVelocity = Vector2.zero; // Freeze in air before dashing
-            StartCoroutine(AttackDash());
+            rb.linearVelocity = Vector2.zero;
+            StartCoroutine(PrepareAndDash());
         }
         else
         {
@@ -54,11 +55,26 @@ public class FlyingEnemy : MonoBehaviour
         }
     }
 
-    private void Patrol()
+    private IEnumerator PrepareAndDash()
     {
-        float offset = Mathf.Sin(Time.time * patrolSpeed) * 0.5f;
-        transform.position = originalPosition + new Vector3(offset, 0f, 0f);
+        isOnCooldown = true;
+
+        // چرخش صورت
+        Vector2 faceDirection = targetPlayer.position - transform.position;
+        animator.SetBool("isMovingRight", faceDirection.x > 0);
+
+        yield return new WaitForSeconds(0.5f); // مکث برای آمادگی حمله
+
+        if (Vector2.Distance(transform.position, targetPlayer.position) > detectionRange)
+        {
+            isOnCooldown = false;
+            yield break; // اگر در فاصله نبود، بی‌خیال حمله شو
+        }
+
+        // شروع حمله
+        StartCoroutine(AttackDash());
     }
+
 
     private IEnumerator AttackDash()
     {
@@ -67,6 +83,11 @@ public class FlyingEnemy : MonoBehaviour
         Vector2 dashDirection = (targetPlayer.position - transform.position).normalized;
         rb.linearVelocity = Vector2.zero;
         rb.AddForce(dashDirection * dashForce, ForceMode2D.Impulse);
+
+        if (dashDirection.x > 0)
+            animator.SetTrigger("AttackRight");
+        else
+            animator.SetTrigger("AttackLeft");
 
         float dashTime = 0.5f;
         float elapsed = 0f;
@@ -78,10 +99,10 @@ public class FlyingEnemy : MonoBehaviour
             if (Vector2.Distance(transform.position, targetPlayer.position) <= damageDistance)
             {
                 if (targetPlayer.TryGetComponent<MeleePlayer>(out MeleePlayer melee))
-                    melee.TakeDamage(20 , transform);
+                    melee.TakeDamage(20, transform);
 
                 if (targetPlayer.TryGetComponent<RangePlayer>(out RangePlayer range))
-                    range.TakeDamage(20 , transform);
+                    range.TakeDamage(20, transform);
             }
 
             elapsed += Time.deltaTime;
@@ -92,6 +113,17 @@ public class FlyingEnemy : MonoBehaviour
         isDashing = false;
         StartCoroutine(ReturnToStart());
     }
+    
+    private void Patrol()
+    {
+        float offset = Mathf.Sin(Time.time * patrolSpeed) * distancePatroling;
+        Vector3 newPos = originalPosition + new Vector3(offset, 0f, 0f);
+
+        animator.SetBool("isMovingRight", newPos.x > transform.position.x);
+        transform.position = newPos;
+    }
+
+
 
     private IEnumerator ReturnToStart()
     {

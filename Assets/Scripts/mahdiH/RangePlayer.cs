@@ -22,6 +22,7 @@ public class RangePlayer : MonoBehaviour
 
     [Header("Components")]
     public Animator animator;
+    public Transform sprite;
     public Rigidbody2D rb;
     public Transform groundCheck; // Assign in Inspector
     public float groundCheckRadius = 0.2f;
@@ -37,8 +38,6 @@ public class RangePlayer : MonoBehaviour
 
     private float currentChargeTime = 0f;
     private bool isCharging = false;
-    // public PolygonCollider2D StandCollider;
-    // public PolygonCollider2D IsAimingCollider;
     
     
     [Header("Health Settings")]
@@ -61,11 +60,27 @@ public class RangePlayer : MonoBehaviour
     public Vector2 wallJumpForce = new Vector2(10f, 12f); // x = افقی به بیرون، y = به بالا
 
     
+    [Header("Defend")]
+    public bool isDefending = false;
+    public float defendKnockbackMultiplier = 0.3f;
+    
+    [Header("Super Attack Settings")]
+    public float mana = 0f;
+    public float maxMana = 100f;
+    public float superAttackCost = 100f;
+    public float laserDuration = 1f;
+    public float laserDamage = 50f;
+    public float laserWidth = 0.2f;
+    public Transform laserOrigin;
+    public LineRenderer laserLine;
+    public LayerMask laserHitMask;
+    private bool isUsingSuper = false;
+
 
     private bool isTouchingWall;
-    [SerializeField]private bool isWallSliding;
+    private bool isWallSliding;
     private int wallSlideSide; // -1 = left, 1 = right
-
+    
 
 
 
@@ -80,15 +95,21 @@ public class RangePlayer : MonoBehaviour
         
         currentHealth = maxHealth;
         
-        // StandCollider.enabled = true;
-        // IsAimingCollider.enabled = false;
-
-        // ورودی حرکت
-        RangeControler.Range.Move.performed += ctx => input = ctx.ReadValue<float>();
+        RangeControler.Range.Move.performed += ctx =>
+        {
+            if (!isDefending) input = ctx.ReadValue<float>();
+        };
         RangeControler.Range.Move.canceled += ctx => input = 0f;
         RangeControler.Range.Jump.performed += ctx => Jump();
-        RangeControler.Range.Aim.started += ctx => StartCharging();
+        RangeControler.Range.Aim.started += ctx =>
+        {
+            if (!isDefending) StartCharging();
+        };
         RangeControler.Range.Aim.canceled += ctx => ReleaseArrow();
+        RangeControler.Range.Defend.started += ctx => StartDefending();
+        RangeControler.Range.Defend.canceled += ctx => StopDefending();
+        RangeControler.Range.SuperAttack.performed += ctx => TrySuperAttack();
+
         
 
     }
@@ -130,6 +151,11 @@ public class RangePlayer : MonoBehaviour
         }
         
         CheckWallSlide();
+        
+
+        if (!isDefending) animator.SetBool("isDefending", false);
+        else animator.SetBool("isDefending" , true);
+
 
     }
 
@@ -145,9 +171,11 @@ public class RangePlayer : MonoBehaviour
         }
 
 
-
-        float speedMultiplier = isCharging ? 0.5f : 1f;
-        transform.position += new Vector3(input, 0f, 0f) * moveSpeed * speedMultiplier * Time.fixedDeltaTime;
+        if (!isDefending)
+        {
+            float speedMultiplier = isCharging ? 0.2f : 1f;
+            transform.position += new Vector3(input, 0f, 0f) * moveSpeed * speedMultiplier * Time.fixedDeltaTime;
+        }
     }
     
     
@@ -224,8 +252,6 @@ public class RangePlayer : MonoBehaviour
         isCharging = true;
         currentChargeTime = 0f;
         animator.SetBool("IsAiming", true);
-        // StandCollider.enabled = false;
-        // IsAimingCollider.enabled = true;
     }
 
     private void ReleaseArrow()
@@ -234,8 +260,6 @@ public class RangePlayer : MonoBehaviour
 
         isCharging = false;
         animator.SetBool("IsAiming", false);
-        // StandCollider.enabled = true;   
-        // IsAimingCollider.enabled = false;
 
         float launchForce = Mathf.Lerp(minLaunchForce, maxLaunchForce, currentChargeTime / maxChargeTime);
 
@@ -254,11 +278,20 @@ public class RangePlayer : MonoBehaviour
     {
         if (isDead || isKnockedBack) return;
 
+        float direction = Mathf.Sign(transform.position.x - attacker.position.x);
+        float forward = facingRight ? -1f : 1f;
+
+        bool hitFromFront = Mathf.Sign(direction) == Mathf.Sign(forward);
+
+        if (isDefending && hitFromFront)
+        {
+            StartCoroutine(ApplyKnockback(direction, true));
+            return;
+        }
+
         currentHealth -= damage;
         animator.SetTrigger("Hit");
-
-        float direction = Mathf.Sign(transform.position.x - attacker.position.x);
-        StartCoroutine(ApplyKnockback(direction));
+        StartCoroutine(ApplyKnockback(direction, false));
 
         if (currentHealth <= 0)
         {
@@ -266,26 +299,98 @@ public class RangePlayer : MonoBehaviour
         }
     }
 
+    private void StartDefending()
+    {
+        isDefending = true;
+        animator.speed = 1;
+        animator.SetBool("isDefending", true);
+    }
+
+    private void StopDefending()
+    {
+        isDefending = false;
+        animator.SetBool("isDefending", false);
+    }
+
+
+
     
-    private IEnumerator ApplyKnockback(float direction)
+    private IEnumerator ApplyKnockback(float direction, bool isDefend)
     {
         isKnockedBack = true;
 
         float timer = 0f;
+        float xForce = isDefend ? knockbackForceX * defendKnockbackMultiplier : knockbackForceX;
+        float yForce = isDefend ? knockbackForceY * defendKnockbackMultiplier : knockbackForceY;
 
-        // Reset Y velocity and apply upward knock
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-        transform.position += new Vector3(0f, knockbackForceY * Time.fixedDeltaTime, 0f);
+        transform.position += new Vector3(0f, yForce * Time.fixedDeltaTime, 0f);
 
         while (timer < knockbackDuration)
         {
-            transform.position += new Vector3(direction * knockbackForceX * Time.deltaTime, 0f, 0f);
+            transform.position += new Vector3(direction * xForce * Time.deltaTime, 0f, 0f);
             timer += Time.deltaTime;
             yield return null;
         }
 
         isKnockedBack = false;
     }
+    
+    private void TrySuperAttack()
+    {
+        Debug.Log("Yesssssssssssss");
+        if (mana >= superAttackCost && !isUsingSuper && !isDead && !isKnockedBack)
+        {
+            StartCoroutine(ExecuteSuperAttack());
+        }
+    }
+
+    private IEnumerator ExecuteSuperAttack()
+    {
+        isUsingSuper = true;
+        input = 0f;
+        isCharging = false;
+        animator.SetTrigger("SuperAttack");
+
+        yield return new WaitForSeconds(0.2f);
+
+        Vector2 direction = facingRight ? Vector2.right : Vector2.left;
+        Vector2 origin = laserOrigin.position;
+
+        // فقط اولین برخورد با زمین یا دیوار
+        RaycastHit2D wallHit = Physics2D.Raycast(origin, direction, Mathf.Infinity, laserHitMask);
+        Vector2 endPos = wallHit.collider != null ? wallHit.point : origin + direction * 100f;
+
+        // نمایش لیزر
+        laserLine.enabled = true;
+        laserLine.startWidth = laserWidth;
+        laserLine.endWidth = laserWidth;
+        laserLine.SetPosition(0, origin);
+        laserLine.SetPosition(1, endPos);
+
+        // آسیب زدن به همه‌ی دشمن‌ها بین origin و endPos
+        RaycastHit2D[] hits = Physics2D.RaycastAll(origin, direction, Vector2.Distance(origin, endPos));
+        foreach (RaycastHit2D hit in hits)
+        {
+            if (hit.collider.TryGetComponent<MeleeEnemy>(out MeleeEnemy enemy))
+            {
+                enemy.TakeDamage(laserDamage, transform);
+            }
+        }
+
+        mana -= superAttackCost;
+        yield return new WaitForSeconds(laserDuration);
+        laserLine.enabled = false;
+        isUsingSuper = false;
+    }
+
+    
+    public void AddMana(float amount)
+    {
+        mana = Mathf.Clamp(mana + amount, 0f, maxMana);
+    }
+
+
 
 
 
