@@ -327,8 +327,9 @@ MonoBehaviour:
   attackCooldown: 1
   maxHealth: 100
   currentHealth: 0
-  knockbackForce: 2
-  disableAttackDuration: 2
+  knockbackForceX: 8
+  knockbackForceY: 5
+  knockbackDuration: 0.3
   sprite: {fileID: 1012803112074146017}
   animator: {fileID: 6525187754430694947}
   rb: {fileID: 3241248072145556852}

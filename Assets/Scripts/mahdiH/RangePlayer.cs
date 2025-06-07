@@ -75,6 +75,7 @@ public class RangePlayer : MonoBehaviour
     public LineRenderer laserLine;
     public LayerMask laserHitMask;
     private bool isUsingSuper = false;
+    public float laserDelay;
 
 
     private bool isTouchingWall;
@@ -352,7 +353,7 @@ public class RangePlayer : MonoBehaviour
         isCharging = false;
         animator.SetTrigger("SuperAttack");
 
-        yield return new WaitForSeconds(0.2f);
+        yield return new WaitForSeconds(laserDelay);
 
         Vector2 direction = facingRight ? Vector2.right : Vector2.left;
         Vector2 origin = laserOrigin.position;
