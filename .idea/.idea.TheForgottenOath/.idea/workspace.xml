@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d9f8b2d-2f6f-45e2-b3d5-c91dee5fe11b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheForgottenOath/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/Collectibles/chest_1_0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/Collectibles/chest_1_0.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/LEVEL 2/Level 2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/LEVEL 2/Level 2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/check point/Checkpoint.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/check point/Checkpoint.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/ice chunks/Chunk 2.3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/jungle chunks/Chunk 1.3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahanM/lava chunks/Chunk 3.3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Knight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Knight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/Range_Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/mahdiH/settings/PlayerControler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/mahanM/Level 2.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/lava.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/lava.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahanM/BallFalling.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahanM/BallFalling.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahanM/Door.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahanM/Door.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahanM/FinishPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahanM/FinishPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/BatEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/BatEnemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaEnemyRange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaEnemyRange.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaFlyEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaFlyEnemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleePlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/RangePlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mahdiH/collectibleMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mahdiH/collectibleMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/d/Medieval_Castle_Asset_Pack/Decorations/door.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/mahanM/Mahans_TileMap/d/Medieval_Castle_Asset_Pack/Decorations/door.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Enemy1_Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Melee_Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Melee_Player_movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Range_Player_Arrow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Range_Player_Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Updated_RangePlayer_WithWallSlide.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/AfterImage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/BatEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/ComboRecoveryBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/DogWolfEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/EnemyArcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/EnemyArrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaEnemyRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/LavaFlyEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/MeleeEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/PlayerRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/TheRealShop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mahdiH/Traps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity project/FinalProject/Assets/Scripts/RangePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xRKSKEkMzqWTJlbro1AKY90PE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\TheForgottenOath -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\TheForgottenOath" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\TheForgottenOath -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\TheForgottenOath" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d9f8b2d-2f6f-45e2-b3d5-c91dee5fe11b" name="Changes" comment="" />
+      <created>1747895446465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747895446465</updated>
+      <workItem from="1747895448857" duration="5776000" />
+      <workItem from="1747937275770" duration="2920000" />
+      <workItem from="1748204987996" duration="6696000" />
+      <workItem from="1748519563932" duration="500000" />
+      <workItem from="1748520342075" duration="1163000" />
+      <workItem from="1748521828739" duration="10754000" />
+      <workItem from="1748546299342" duration="9456000" />
+      <workItem from="1748581801475" duration="9882000" />
+      <workItem from="1748592843363" duration="20950000" />
+      <workItem from="1748676352066" duration="35293000" />
+      <workItem from="1748752191415" duration="9771000" />
+      <workItem from="1748792018952" duration="1334000" />
+      <workItem from="1748844310869" duration="28514000" />
+      <workItem from="1748929546032" duration="31722000" />
+      <workItem from="1749020192950" duration="32545000" />
+      <workItem from="1749139165745" duration="1440000" />
+      <workItem from="1749162037584" duration="42809000" />
+      <workItem from="1749289268019" duration="25198000" />
+      <workItem from="1749391690518" duration="12956000" />
+      <workItem from="1749441575055" duration="18098000" />
+      <workItem from="1749471593774" duration="16296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

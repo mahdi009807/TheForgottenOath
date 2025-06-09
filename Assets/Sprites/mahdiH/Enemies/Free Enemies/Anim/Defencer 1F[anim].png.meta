@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 50ca3997bca7c3640ad7b240f9136db6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7832466591269179925
+    second: Defencer 1F[anim]_0
+  - first:
+      213: 4459145390804967078
+    second: Defencer 1F[anim]_1
+  - first:
+      213: -1364709454857542855
+    second: Defencer 1F[anim]_2
+  - first:
+      213: -4750219673026995584
+    second: Defencer 1F[anim]_3
+  - first:
+      213: 6543922135737618789
+    second: Defencer 1F[anim]_4
+  - first:
+      213: -1092177764766571116
+    second: Defencer 1F[anim]_5
+  - first:
+      213: 5948724732019957508
+    second: Defencer 1F[anim]_6
+  - first:
+      213: -8855335297859384172
+    second: Defencer 1F[anim]_7
+  - first:
+      213: -1198973752227339756
+    second: Defencer 1F[anim]_8
+  - first:
+      213: 3790174447593414980
+    second: Defencer 1F[anim]_9
+  - first:
+      213: -5634062379197384919
+    second: Defencer 1F[anim]_10
+  - first:
+      213: 657499094455259051
+    second: Defencer 1F[anim]_11
+  - first:
+      213: 811862554640240378
+    second: Defencer 1F[anim]_12
+  - first:
+      213: -8266564241606586407
+    second: Defencer 1F[anim]_13
+  - first:
+      213: 4486651909133904193
+    second: Defencer 1F[anim]_14
+  - first:
+      213: -8915832471218673300
+    second: Defencer 1F[anim]_15
+  - first:
+      213: -1392534738596372814
+    second: Defencer 1F[anim]_16
+  - first:
+      213: -913130800418186923
+    second: Defencer 1F[anim]_17
+  - first:
+      213: 1376249745664714339
+    second: Defencer 1F[anim]_18
+  - first:
+      213: 6425068071112569132
+    second: Defencer 1F[anim]_19
+  - first:
+      213: -7445780911425912700
+    second: Defencer 1F[anim]_20
+  - first:
+      213: 4313365080219788608
+    second: Defencer 1F[anim]_21
+  - first:
+      213: -6006480868474636730
+    second: Defencer 1F[anim]_22
+  - first:
+      213: -8120072008164011228
+    second: Defencer 1F[anim]_23
+  - first:
+      213: -1954806271158684688
+    second: Defencer 1F[anim]_24
+  - first:
+      213: -4892674467975953895
+    second: Defencer 1F[anim]_25
+  - first:
+      213: -3647031828287084767
+    second: Defencer 1F[anim]_26
+  - first:
+      213: -5973527640618904263
+    second: Defencer 1F[anim]_27
+  - first:
+      213: 3437698337315331618
+    second: Defencer 1F[anim]_28
+  - first:
+      213: 1152094471684347701
+    second: Defencer 1F[anim]_29
+  - first:
+      213: -7822805892307317154
+    second: Defencer 1F[anim]_30
+  - first:
+      213: -1581706093982880582
+    second: Defencer 1F[anim]_31
+  - first:
+      213: 4821314415723775095
+    second: Defencer 1F[anim]_32
+  - first:
+      213: 6554646585717399161
+    second: Defencer 1F[anim]_33
+  - first:
+      213: -1322031208461035362
+    second: Defencer 1F[anim]_34
+  - first:
+      213: -8912948020736613519
+    second: Defencer 1F[anim]_35
+  - first:
+      213: 3755874349520266488
+    second: Defencer 1F[anim]_36
+  - first:
+      213: 7823206783157924902
+    second: Defencer 1F[anim]_37
+  - first:
+      213: 5573017633320616883
+    second: Defencer 1F[anim]_38
+  - first:
+      213: -4693087849912806389
+    second: Defencer 1F[anim]_39
+  - first:
+      213: -3266120103907981734
+    second: Defencer 1F[anim]_40
+  - first:
+      213: 1742099057194052258
+    second: Defencer 1F[anim]_41
+  - first:
+      213: -2757207707026693454
+    second: Defencer 1F[anim]_42
+  - first:
+      213: -6802390061497107823
+    second: Defencer 1F[anim]_43
+  - first:
+      213: -4361603841265244155
+    second: Defencer 1F[anim]_44
+  - first:
+      213: 5930647497704659471
+    second: Defencer 1F[anim]_45
+  - first:
+      213: -4996851613364939953
+    second: Defencer 1F[anim]_46
+  - first:
+      213: -7763727152334964477
+    second: Defencer 1F[anim]_47
+  - first:
+      213: 4021369603073117848
+    second: Defencer 1F[anim]_48
+  - first:
+      213: 7904575921437707467
+    second: Defencer 1F[anim]_49
+  - first:
+      213: 3178662296677448056
+    second: Defencer 1F[anim]_50
+  - first:
+      213: 2306939247295103882
+    second: Defencer 1F[anim]_51
+  - first:
+      213: 1062173609770389479
+    second: Defencer 1F[anim]_52
+  - first:
+      213: -1812589051901694001
+    second: Defencer 1F[anim]_53
+  - first:
+      213: -3373177260195258966
+    second: Defencer 1F[anim]_54
+  - first:
+      213: 1100000623583700806
+    second: Defencer 1F[anim]_55
+  - first:
+      213: -1601831050518964676
+    second: Defencer 1F[anim]_56
+  - first:
+      213: 8486441352413615030
+    second: Defencer 1F[anim]_57
+  - first:
+      213: -808009665932481629
+    second: Defencer 1F[anim]_58
+  - first:
+      213: 8890855213392735633
+    second: Defencer 1F[anim]_59
+  - first:
+      213: -2932173985688431887
+    second: Defencer 1F[anim]_60
+  - first:
+      213: -7300434131137081593
+    second: Defencer 1F[anim]_61
+  - first:
+      213: -85547216558323666
+    second: Defencer 1F[anim]_62
+  - first:
+      213: 5670647444671172438
+    second: Defencer 1F[anim]_63
+  - first:
+      213: 1750513209935380852
+    second: Defencer 1F[anim]_64
+  - first:
+      213: 4806711267802752882
+    second: Defencer 1F[anim]_65
+  - first:
+      213: 3676826746064463921
+    second: Defencer 1F[anim]_66
+  - first:
+      213: 6696705172142788779
+    second: Defencer 1F[anim]_67
+  - first:
+      213: -3121113076063411295
+    second: Defencer 1F[anim]_68
+  - first:
+      213: 3859038156584497683
+    second: Defencer 1F[anim]_69
+  - first:
+      213: 8354072986291128082
+    second: Defencer 1F[anim]_70
+  - first:
+      213: -6718573537007757623
+    second: Defencer 1F[anim]_71
+  - first:
+      213: -8612998350713224280
+    second: Defencer 1F[anim]_72
+  - first:
+      213: 7360981758142439836
+    second: Defencer 1F[anim]_73
+  - first:
+      213: 7285068323262262464
+    second: Defencer 1F[anim]_74
+  - first:
+      213: 3351204560252345188
+    second: Defencer 1F[anim]_75
+  - first:
+      213: -488839674613608480
+    second: Defencer 1F[anim]_76
+  - first:
+      213: -8819725872816132998
+    second: Defencer 1F[anim]_77
+  - first:
+      213: 8858951425410816918
+    second: Defencer 1F[anim]_78
+  - first:
+      213: -258545591800439250
+    second: Defencer 1F[anim]_79
+  - first:
+      213: 4923439417737102089
+    second: Defencer 1F[anim]_80
+  - first:
+      213: 9045941094584336951
+    second: Defencer 1F[anim]_81
+  - first:
+      213: 8362318430060984276
+    second: Defencer 1F[anim]_82
+  - first:
+      213: 7956374149635076788
+    second: Defencer 1F[anim]_83
+  - first:
+      213: -1746321548648978036
+    second: Defencer 1F[anim]_84
+  - first:
+      213: -7304632250338150352
+    second: Defencer 1F[anim]_85
+  - first:
+      213: 5428239255455251713
+    second: Defencer 1F[anim]_86
+  - first:
+      213: 4938500232185155131
+    second: Defencer 1F[anim]_87
+  - first:
+      213: -2269437853245334901
+    second: Defencer 1F[anim]_88
+  - first:
+      213: 8489455112943097628
+    second: Defencer 1F[anim]_89
+  - first:
+      213: -7914186239678759477
+    second: Defencer 1F[anim]_90
+  - first:
+      213: -8125211278624219844
+    second: Defencer 1F[anim]_91
+  - first:
+      213: -8015730600910106198
+    second: Defencer 1F[anim]_92
+  - first:
+      213: -2156888961936582184
+    second: Defencer 1F[anim]_93
+  - first:
+      213: -8691840823451316716
+    second: Defencer 1F[anim]_94
+  - first:
+      213: -2235554298008897230
+    second: Defencer 1F[anim]_95
+  - first:
+      213: -3041996443911562517
+    second: Defencer 1F[anim]_96
+  - first:
+      213: -1091401565811006729
+    second: Defencer 1F[anim]_97
+  - first:
+      213: 893194621819182804
+    second: Defencer 1F[anim]_98
+  - first:
+      213: -3252388069070101637
+    second: Defencer 1F[anim]_99
+  - first:
+      213: 3545963164157503328
+    second: Defencer 1F[anim]_100
+  - first:
+      213: -4405078594278969106
+    second: Defencer 1F[anim]_101
+  - first:
+      213: -3993916246937553488
+    second: Defencer 1F[anim]_102
+  - first:
+      213: 8847660304311687141
+    second: Defencer 1F[anim]_103
+  - first:
+      213: -3420009878066215367
+    second: Defencer 1F[anim]_104
+  - first:
+      213: -7529241694031589608
+    second: Defencer 1F[anim]_105
+  - first:
+      213: 4414487558059787513
+    second: Defencer 1F[anim]_106
+  - first:
+      213: 4559294231932659684
+    second: Defencer 1F[anim]_107
+  - first:
+      213: -4796444516348267303
+    second: Defencer 1F[anim]_108
+  - first:
+      213: -2118084382100538671
+    second: Defencer 1F[anim]_109
+  - first:
+      213: -7258423585473672421
+    second: Defencer 1F[anim]_110
+  - first:
+      213: 8550321148791190989
+    second: Defencer 1F[anim]_111
+  - first:
+      213: -4473484822493752985
+    second: Defencer 1F[anim]_112
+  - first:
+      213: -2125717320006937570
+    second: Defencer 1F[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2093
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d6b7ddd282bc60800000000000000
+      internalID: 7832466591269179925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2093
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae10cc7b1112ed30800000000000000
+      internalID: 4459145390804967078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2093
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93369993bf39f0de0800000000000000
+      internalID: -1364709454857542855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2093
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a57280064d31eb0800000000000000
+      internalID: -4750219673026995584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1933
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d472e28ea0da50800000000000000
+      internalID: 6543922135737618789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1933
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495228b0c1ec7d0f0800000000000000
+      internalID: -1092177764766571116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1933
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f51a640ad1e8250800000000000000
+      internalID: 5948724732019957508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1933
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0d14d6778b1580800000000000000
+      internalID: -8855335297859384172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1773
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412e87b89b36c5fe0800000000000000
+      internalID: -1198973752227339756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1773
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44161913497699430800000000000000
+      internalID: 3790174447593414980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1773
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273c8ddd1acfc1b0800000000000000
+      internalID: -5634062379197384919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1773
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf852d51f7ef1900800000000000000
+      internalID: 657499094455259051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1617
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afec5c721b0544b00800000000000000
+      internalID: 811862554640240378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1617
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc712de93474d80800000000000000
+      internalID: -8266564241606586407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1617
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14921cad32ac34e30800000000000000
+      internalID: 4486651909133904193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1617
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c692e140b99944480800000000000000
+      internalID: -8915832471218673300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1453
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be52908809bcace0800000000000000
+      internalID: -1392534738596372814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1453
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5591b9fff58e353f0800000000000000
+      internalID: -913130800418186923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1453
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366219c1adb691310800000000000000
+      internalID: 1376249745664714339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1453
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c217e548e5d6a2950800000000000000
+      internalID: 6425068071112569132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1293
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800313e5b54ba890800000000000000
+      internalID: -7445780911425912700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1293
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452311ffa62cdb30800000000000000
+      internalID: 4313365080219788608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1293
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b36c4971b4aca0800000000000000
+      internalID: -6006480868474636730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1293
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239ac2d785bf4f80800000000000000
+      internalID: -8120072008164011228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1133
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f371eaad022fd4e0800000000000000
+      internalID: -1954806271158684688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1133
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128bae6e7ab91cb0800000000000000
+      internalID: -4892674467975953895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1133
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a76effd3236dc0800000000000000
+      internalID: -3647031828287084767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1133
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935deec8244c91da0800000000000000
+      internalID: -5973527640618904263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 973
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e91a09c6825bf20800000000000000
+      internalID: 3437698337315331618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 973
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537df6461df0dff00800000000000000
+      internalID: 1152094471684347701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 973
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e803aec7fcf6390800000000000000
+      internalID: -7822805892307317154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 973
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc641110b6ac0ae0800000000000000
+      internalID: -1581706093982880582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 813
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7748fabaaefb8e240800000000000000
+      internalID: 4821314415723775095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 813
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e99e97758c6fa50800000000000000
+      internalID: 6554646585717399161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 813
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9813bdce9337ade0800000000000000
+      internalID: -1322031208461035362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 813
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173297a7ff8de4480800000000000000
+      internalID: -8912948020736613519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 653
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4282842db8f1430800000000000000
+      internalID: 3755874349520266488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 653
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624fd82ce1d919c60800000000000000
+      internalID: 7823206783157924902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 653
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34019a206575d40800000000000000
+      internalID: 5573017633320616883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 653
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04de3e277dcedeb0800000000000000
+      internalID: -4693087849912806389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 493
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a568dc4f1196ca2d0800000000000000
+      internalID: -3266120103907981734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 493
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa289bccdd2d2810800000000000000
+      internalID: 1742099057194052258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 493
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b264b2e23e6cb9d0800000000000000
+      internalID: -2757207707026693454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 493
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a31d8974e0991a0800000000000000
+      internalID: -6802390061497107823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 333
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e7664a687873c0800000000000000
+      internalID: -4361603841265244155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 333
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0adebc2a74ed4250800000000000000
+      internalID: 5930647497704659471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 333
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439b0e9eed97aab0800000000000000
+      internalID: -4996851613364939953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 333
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309f408f943b14490800000000000000
+      internalID: -7763727152334964477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 171
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0abd0956cec730800000000000000
+      internalID: 4021369603073117848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 171
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc86699be1b2bd60800000000000000
+      internalID: 7904575921437707467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 171
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f26e7480ec1c20800000000000000
+      internalID: 3178662296677448056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 171
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838e61d505e30020800000000000000
+      internalID: 2306939247295103882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef882c35499dbe00800000000000000
+      internalID: 1062173609770389479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 69
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf23ad5cd368d6e0800000000000000
+      internalID: -1812589051901694001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd2a957211031d0800000000000000
+      internalID: -3373177260195258966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472a653dbcf34f00800000000000000
+      internalID: 1100000623583700806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3650ab752725c9e0800000000000000
+      internalID: -1601831050518964676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39cc96275e5c570800000000000000
+      internalID: 8486441352413615030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 111
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab23076d7f59c4f0800000000000000
+      internalID: -808009665932481629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d24b7f5b9a26b70800000000000000
+      internalID: 8890855213392735633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2566b9b43de47d0800000000000000
+      internalID: -2932173985688431887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fcf6b46d5afaa90800000000000000
+      internalID: -7300434131137081593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288481824310def0800000000000000
+      internalID: -85547216558323666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0a1a7ecf22be40800000000000000
+      internalID: 5670647444671172438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471c3d46d721b4810800000000000000
+      internalID: 1750513209935380852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27720475e6ed4b240800000000000000
+      internalID: 4806711267802752882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e3d3e176b60330800000000000000
+      internalID: 3676826746064463921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba097179fd97fec50800000000000000
+      internalID: 6696705172142788779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e96591349fa4d0800000000000000
+      internalID: -3121113076063411295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312b5e1e1ce0e8530800000000000000
+      internalID: 3859038156584497683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c1978e11afe370800000000000000
+      internalID: 8354072986291128082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c61051f6f4d2c2a0800000000000000
+      internalID: -6718573537007757623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a386b632ab787880800000000000000
+      internalID: -8612998350713224280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e53ca8e5772660800000000000000
+      internalID: 7360981758142439836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6f74ca03c91560800000000000000
+      internalID: 7285068323262262464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9287caced18e20800000000000000
+      internalID: 3351204560252345188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efc98ae7ea4739f0800000000000000
+      internalID: -488839674613608480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce87e2c0a0a9580800000000000000
+      internalID: -8819725872816132998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5d0a726151fa70800000000000000
+      internalID: 8858951425410816918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edd727726796cf0800000000000000
+      internalID: -258545591800439250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903406f9012935440800000000000000
+      internalID: 4923439417737102089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732cec18f73a98d70800000000000000
+      internalID: 9045941094584336951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7bc728e4cec0470800000000000000
+      internalID: 8362318430060984276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b279196228ba6e60800000000000000
+      internalID: 7956374149635076788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89ea2dcdc1d3c7e0800000000000000
+      internalID: -1746321548648978036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387bbf7babb0aa90800000000000000
+      internalID: -7304632250338150352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dbd31c7daf45b40800000000000000
+      internalID: 5428239255455251713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e849ebbc3198440800000000000000
+      internalID: 4938500232185155131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a9c75eb465180e0800000000000000
+      internalID: -2269437853245334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d897327a90d570800000000000000
+      internalID: 8489455112943097628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb9a1db892b2290800000000000000
+      internalID: -7914186239678759477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d1b9c24637d3f80800000000000000
+      internalID: -8125211278624219844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15685dc7762c090800000000000000
+      internalID: -8015730600910106198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d91fc3bae03112e0800000000000000
+      internalID: -2156888961936582184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e02f982d0606780800000000000000
+      internalID: -8691840823451316716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239f41fd537b9f0e0800000000000000
+      internalID: -2235554298008897230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea56a8f958a8c5d0800000000000000
+      internalID: -3041996443911562517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a782fe009ad0f0800000000000000
+      internalID: -1091401565811006729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de52d4b6c3456c00800000000000000
+      internalID: 893194621819182804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ab5778423dd2d0800000000000000
+      internalID: -3252388069070101637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676a32e5bac53130800000000000000
+      internalID: 3545963164157503328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0335c8b540ed2c0800000000000000
+      internalID: -4405078594278969106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b530a68552c298c0800000000000000
+      internalID: -3993916246937553488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e792db7b2439ca70800000000000000
+      internalID: 8847660304311687141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364989c22fa980d0800000000000000
+      internalID: -3420009878066215367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fcf272292c28790800000000000000
+      internalID: -7529241694031589608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4098b8b09634d30800000000000000
+      internalID: 4414487558059787513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e765d0a2fdd54f30800000000000000
+      internalID: 4559294231932659684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f032002b9f6db0800000000000000
+      internalID: -4796444516348267303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da38900a7d0b92e0800000000000000
+      internalID: -2118084382100538671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b468ea436e44b90800000000000000
+      internalID: -7258423585473672421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5753588c7d8a670800000000000000
+      internalID: 8550321148791190989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619827614dfae1c0800000000000000
+      internalID: -4473484822493752985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defencer 1F[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1457182c5fef72e0800000000000000
+      internalID: -2125717320006937570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Defencer 1F[anim]_0: 7832466591269179925
+      Defencer 1F[anim]_1: 4459145390804967078
+      Defencer 1F[anim]_10: -5634062379197384919
+      Defencer 1F[anim]_100: 3545963164157503328
+      Defencer 1F[anim]_101: -4405078594278969106
+      Defencer 1F[anim]_102: -3993916246937553488
+      Defencer 1F[anim]_103: 8847660304311687141
+      Defencer 1F[anim]_104: -3420009878066215367
+      Defencer 1F[anim]_105: -7529241694031589608
+      Defencer 1F[anim]_106: 4414487558059787513
+      Defencer 1F[anim]_107: 4559294231932659684
+      Defencer 1F[anim]_108: -4796444516348267303
+      Defencer 1F[anim]_109: -2118084382100538671
+      Defencer 1F[anim]_11: 657499094455259051
+      Defencer 1F[anim]_110: -7258423585473672421
+      Defencer 1F[anim]_111: 8550321148791190989
+      Defencer 1F[anim]_112: -4473484822493752985
+      Defencer 1F[anim]_113: -2125717320006937570
+      Defencer 1F[anim]_12: 811862554640240378
+      Defencer 1F[anim]_13: -8266564241606586407
+      Defencer 1F[anim]_14: 4486651909133904193
+      Defencer 1F[anim]_15: -8915832471218673300
+      Defencer 1F[anim]_16: -1392534738596372814
+      Defencer 1F[anim]_17: -913130800418186923
+      Defencer 1F[anim]_18: 1376249745664714339
+      Defencer 1F[anim]_19: 6425068071112569132
+      Defencer 1F[anim]_2: -1364709454857542855
+      Defencer 1F[anim]_20: -7445780911425912700
+      Defencer 1F[anim]_21: 4313365080219788608
+      Defencer 1F[anim]_22: -6006480868474636730
+      Defencer 1F[anim]_23: -8120072008164011228
+      Defencer 1F[anim]_24: -1954806271158684688
+      Defencer 1F[anim]_25: -4892674467975953895
+      Defencer 1F[anim]_26: -3647031828287084767
+      Defencer 1F[anim]_27: -5973527640618904263
+      Defencer 1F[anim]_28: 3437698337315331618
+      Defencer 1F[anim]_29: 1152094471684347701
+      Defencer 1F[anim]_3: -4750219673026995584
+      Defencer 1F[anim]_30: -7822805892307317154
+      Defencer 1F[anim]_31: -1581706093982880582
+      Defencer 1F[anim]_32: 4821314415723775095
+      Defencer 1F[anim]_33: 6554646585717399161
+      Defencer 1F[anim]_34: -1322031208461035362
+      Defencer 1F[anim]_35: -8912948020736613519
+      Defencer 1F[anim]_36: 3755874349520266488
+      Defencer 1F[anim]_37: 7823206783157924902
+      Defencer 1F[anim]_38: 5573017633320616883
+      Defencer 1F[anim]_39: -4693087849912806389
+      Defencer 1F[anim]_4: 6543922135737618789
+      Defencer 1F[anim]_40: -3266120103907981734
+      Defencer 1F[anim]_41: 1742099057194052258
+      Defencer 1F[anim]_42: -2757207707026693454
+      Defencer 1F[anim]_43: -6802390061497107823
+      Defencer 1F[anim]_44: -4361603841265244155
+      Defencer 1F[anim]_45: 5930647497704659471
+      Defencer 1F[anim]_46: -4996851613364939953
+      Defencer 1F[anim]_47: -7763727152334964477
+      Defencer 1F[anim]_48: 4021369603073117848
+      Defencer 1F[anim]_49: 7904575921437707467
+      Defencer 1F[anim]_5: -1092177764766571116
+      Defencer 1F[anim]_50: 3178662296677448056
+      Defencer 1F[anim]_51: 2306939247295103882
+      Defencer 1F[anim]_52: 1062173609770389479
+      Defencer 1F[anim]_53: -1812589051901694001
+      Defencer 1F[anim]_54: -3373177260195258966
+      Defencer 1F[anim]_55: 1100000623583700806
+      Defencer 1F[anim]_56: -1601831050518964676
+      Defencer 1F[anim]_57: 8486441352413615030
+      Defencer 1F[anim]_58: -808009665932481629
+      Defencer 1F[anim]_59: 8890855213392735633
+      Defencer 1F[anim]_6: 5948724732019957508
+      Defencer 1F[anim]_60: -2932173985688431887
+      Defencer 1F[anim]_61: -7300434131137081593
+      Defencer 1F[anim]_62: -85547216558323666
+      Defencer 1F[anim]_63: 5670647444671172438
+      Defencer 1F[anim]_64: 1750513209935380852
+      Defencer 1F[anim]_65: 4806711267802752882
+      Defencer 1F[anim]_66: 3676826746064463921
+      Defencer 1F[anim]_67: 6696705172142788779
+      Defencer 1F[anim]_68: -3121113076063411295
+      Defencer 1F[anim]_69: 3859038156584497683
+      Defencer 1F[anim]_7: -8855335297859384172
+      Defencer 1F[anim]_70: 8354072986291128082
+      Defencer 1F[anim]_71: -6718573537007757623
+      Defencer 1F[anim]_72: -8612998350713224280
+      Defencer 1F[anim]_73: 7360981758142439836
+      Defencer 1F[anim]_74: 7285068323262262464
+      Defencer 1F[anim]_75: 3351204560252345188
+      Defencer 1F[anim]_76: -488839674613608480
+      Defencer 1F[anim]_77: -8819725872816132998
+      Defencer 1F[anim]_78: 8858951425410816918
+      Defencer 1F[anim]_79: -258545591800439250
+      Defencer 1F[anim]_8: -1198973752227339756
+      Defencer 1F[anim]_80: 4923439417737102089
+      Defencer 1F[anim]_81: 9045941094584336951
+      Defencer 1F[anim]_82: 8362318430060984276
+      Defencer 1F[anim]_83: 7956374149635076788
+      Defencer 1F[anim]_84: -1746321548648978036
+      Defencer 1F[anim]_85: -7304632250338150352
+      Defencer 1F[anim]_86: 5428239255455251713
+      Defencer 1F[anim]_87: 4938500232185155131
+      Defencer 1F[anim]_88: -2269437853245334901
+      Defencer 1F[anim]_89: 8489455112943097628
+      Defencer 1F[anim]_9: 3790174447593414980
+      Defencer 1F[anim]_90: -7914186239678759477
+      Defencer 1F[anim]_91: -8125211278624219844
+      Defencer 1F[anim]_92: -8015730600910106198
+      Defencer 1F[anim]_93: -2156888961936582184
+      Defencer 1F[anim]_94: -8691840823451316716
+      Defencer 1F[anim]_95: -2235554298008897230
+      Defencer 1F[anim]_96: -3041996443911562517
+      Defencer 1F[anim]_97: -1091401565811006729
+      Defencer 1F[anim]_98: 893194621819182804
+      Defencer 1F[anim]_99: -3252388069070101637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

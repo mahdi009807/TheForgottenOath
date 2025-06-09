@@ -2,8 +2,32 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - HiddenRooms
+  - Enemy
+  - Ground
+  - ArcherArrow
+  - RangePlayer
+  - EnemyArrow
+  - Wall
+  - Ladder
+  - DeadlyTraps
+  - Coin
+  - Traps
+  - Diamond
+  - Health
+  - Heart
+  - Mana
+  - Power
+  - Checkpoint
+  - Projectile
+  - Breakables
+  - Stairs
+  - Archer
+  - Knight
+  - Chest
+  - ChunkManager
   layers:
   - Default
   - TransparentFX
@@ -11,18 +35,18 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - PlayerArrow
+  - EnemyArrow
+  - Wall
+  - Dashing
+  - ladder
+  - Stairs
+  - 'Breakables '
+  - BackGround
+  - projectile
   - 
   - 
   - 
@@ -41,3 +65,5 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  m_RenderingLayers:
+  - Default

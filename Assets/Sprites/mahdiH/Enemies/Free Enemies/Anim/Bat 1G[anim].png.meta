@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 79314eb529787804d89216a3d6660051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4170293801756954746
+    second: Bat 1G[anim]_0
+  - first:
+      213: -1993716606285975164
+    second: Bat 1G[anim]_1
+  - first:
+      213: 6068287722947212441
+    second: Bat 1G[anim]_2
+  - first:
+      213: -2024963593099107887
+    second: Bat 1G[anim]_3
+  - first:
+      213: 3459363406174079784
+    second: Bat 1G[anim]_4
+  - first:
+      213: 2801052983084062176
+    second: Bat 1G[anim]_5
+  - first:
+      213: 2257313180152560139
+    second: Bat 1G[anim]_6
+  - first:
+      213: -3364033376965352292
+    second: Bat 1G[anim]_7
+  - first:
+      213: 6146246204694119701
+    second: Bat 1G[anim]_8
+  - first:
+      213: -8915726168213397362
+    second: Bat 1G[anim]_9
+  - first:
+      213: 6268240271073213295
+    second: Bat 1G[anim]_10
+  - first:
+      213: -5150705731040038909
+    second: Bat 1G[anim]_11
+  - first:
+      213: -1429137190682707434
+    second: Bat 1G[anim]_12
+  - first:
+      213: 1683345083594948450
+    second: Bat 1G[anim]_13
+  - first:
+      213: -6847450339374496092
+    second: Bat 1G[anim]_14
+  - first:
+      213: -7693784345633282332
+    second: Bat 1G[anim]_15
+  - first:
+      213: 7542441480582862195
+    second: Bat 1G[anim]_16
+  - first:
+      213: 4172895671971220781
+    second: Bat 1G[anim]_17
+  - first:
+      213: -6284234032290545915
+    second: Bat 1G[anim]_18
+  - first:
+      213: 484444093736498144
+    second: Bat 1G[anim]_19
+  - first:
+      213: -3851901968401468267
+    second: Bat 1G[anim]_20
+  - first:
+      213: 1225888498964697166
+    second: Bat 1G[anim]_21
+  - first:
+      213: -6486238832295979586
+    second: Bat 1G[anim]_22
+  - first:
+      213: 3145167700100970709
+    second: Bat 1G[anim]_23
+  - first:
+      213: 3454963178569754683
+    second: Bat 1G[anim]_24
+  - first:
+      213: -5411218960196997301
+    second: Bat 1G[anim]_25
+  - first:
+      213: 7420833614393476956
+    second: Bat 1G[anim]_26
+  - first:
+      213: -2757186876444597744
+    second: Bat 1G[anim]_27
+  - first:
+      213: -3101605412231531126
+    second: Bat 1G[anim]_28
+  - first:
+      213: 1519093480382599903
+    second: Bat 1G[anim]_29
+  - first:
+      213: 8624201273184987313
+    second: Bat 1G[anim]_30
+  - first:
+      213: -1818751420450209457
+    second: Bat 1G[anim]_31
+  - first:
+      213: -6612581894290237792
+    second: Bat 1G[anim]_32
+  - first:
+      213: -57714321317395624
+    second: Bat 1G[anim]_33
+  - first:
+      213: 5946129103977538538
+    second: Bat 1G[anim]_34
+  - first:
+      213: 1591660066303944408
+    second: Bat 1G[anim]_35
+  - first:
+      213: 2598302924091823764
+    second: Bat 1G[anim]_36
+  - first:
+      213: 2665869741928693341
+    second: Bat 1G[anim]_37
+  - first:
+      213: -4668474339446287561
+    second: Bat 1G[anim]_38
+  - first:
+      213: -4912286740706168607
+    second: Bat 1G[anim]_39
+  - first:
+      213: -202750323640477448
+    second: Bat 1G[anim]_40
+  - first:
+      213: 6972838517120961984
+    second: Bat 1G[anim]_41
+  - first:
+      213: -7288204548091470306
+    second: Bat 1G[anim]_42
+  - first:
+      213: -8357106511533282377
+    second: Bat 1G[anim]_43
+  - first:
+      213: -2346419638569286757
+    second: Bat 1G[anim]_44
+  - first:
+      213: 7614103603719009813
+    second: Bat 1G[anim]_45
+  - first:
+      213: -4839120258187826955
+    second: Bat 1G[anim]_46
+  - first:
+      213: 7354505732320383412
+    second: Bat 1G[anim]_47
+  - first:
+      213: 5628535831134284571
+    second: Bat 1G[anim]_48
+  - first:
+      213: -339024284284629778
+    second: Bat 1G[anim]_49
+  - first:
+      213: -8078081841443495808
+    second: Bat 1G[anim]_50
+  - first:
+      213: -8552051277054054846
+    second: Bat 1G[anim]_51
+  - first:
+      213: -6046758553315756708
+    second: Bat 1G[anim]_52
+  - first:
+      213: 1582058974426635222
+    second: Bat 1G[anim]_53
+  - first:
+      213: -2093399403556815768
+    second: Bat 1G[anim]_54
+  - first:
+      213: -8486956635892114627
+    second: Bat 1G[anim]_55
+  - first:
+      213: -1205543480651976643
+    second: Bat 1G[anim]_56
+  - first:
+      213: 8236921666738775898
+    second: Bat 1G[anim]_57
+  - first:
+      213: 375164714088458393
+    second: Bat 1G[anim]_58
+  - first:
+      213: -5416808621079006153
+    second: Bat 1G[anim]_59
+  - first:
+      213: 8138562783441554604
+    second: Bat 1G[anim]_60
+  - first:
+      213: 1889736956320839828
+    second: Bat 1G[anim]_61
+  - first:
+      213: 4700330408809008992
+    second: Bat 1G[anim]_62
+  - first:
+      213: -8432803643203185196
+    second: Bat 1G[anim]_63
+  - first:
+      213: -8955419087866896525
+    second: Bat 1G[anim]_64
+  - first:
+      213: 4701799017873809973
+    second: Bat 1G[anim]_65
+  - first:
+      213: -4132392303479556275
+    second: Bat 1G[anim]_66
+  - first:
+      213: -7765421586408850484
+    second: Bat 1G[anim]_67
+  - first:
+      213: 3306415804207387451
+    second: Bat 1G[anim]_68
+  - first:
+      213: -4607924962667444269
+    second: Bat 1G[anim]_69
+  - first:
+      213: -8422825678321145188
+    second: Bat 1G[anim]_70
+  - first:
+      213: -4510546435329258009
+    second: Bat 1G[anim]_71
+  - first:
+      213: -300814314516943297
+    second: Bat 1G[anim]_72
+  - first:
+      213: 810291386429810903
+    second: Bat 1G[anim]_73
+  - first:
+      213: 4327654166153310558
+    second: Bat 1G[anim]_74
+  - first:
+      213: 8131932118127131224
+    second: Bat 1G[anim]_75
+  - first:
+      213: 3205250249219525417
+    second: Bat 1G[anim]_76
+  - first:
+      213: -2634860967340524831
+    second: Bat 1G[anim]_77
+  - first:
+      213: 8819008290459570138
+    second: Bat 1G[anim]_78
+  - first:
+      213: 8418465527742844108
+    second: Bat 1G[anim]_79
+  - first:
+      213: 3060508572974527402
+    second: Bat 1G[anim]_80
+  - first:
+      213: 4835088440532597030
+    second: Bat 1G[anim]_81
+  - first:
+      213: 6995224738986771770
+    second: Bat 1G[anim]_82
+  - first:
+      213: -5823783665676944523
+    second: Bat 1G[anim]_83
+  - first:
+      213: -4481840618087134854
+    second: Bat 1G[anim]_84
+  - first:
+      213: -984774882754496024
+    second: Bat 1G[anim]_85
+  - first:
+      213: -8825341750703483229
+    second: Bat 1G[anim]_86
+  - first:
+      213: 3304220661373397507
+    second: Bat 1G[anim]_87
+  - first:
+      213: -5489293340431195046
+    second: Bat 1G[anim]_88
+  - first:
+      213: 4897340016749150274
+    second: Bat 1G[anim]_89
+  - first:
+      213: 3663311086964947807
+    second: Bat 1G[anim]_90
+  - first:
+      213: -2834092029740907136
+    second: Bat 1G[anim]_91
+  - first:
+      213: -5457817748330034321
+    second: Bat 1G[anim]_92
+  - first:
+      213: 5977403872676315522
+    second: Bat 1G[anim]_93
+  - first:
+      213: 2552810238201928348
+    second: Bat 1G[anim]_94
+  - first:
+      213: 5608623689933314557
+    second: Bat 1G[anim]_95
+  - first:
+      213: -3597446314728404544
+    second: Bat 1G[anim]_96
+  - first:
+      213: -2906421252197406018
+    second: Bat 1G[anim]_97
+  - first:
+      213: -4222856656949912192
+    second: Bat 1G[anim]_98
+  - first:
+      213: 5277982897783148694
+    second: Bat 1G[anim]_99
+  - first:
+      213: 4910786124771034143
+    second: Bat 1G[anim]_100
+  - first:
+      213: 2099284008460893391
+    second: Bat 1G[anim]_101
+  - first:
+      213: -768056028655881609
+    second: Bat 1G[anim]_102
+  - first:
+      213: 6042079376962269130
+    second: Bat 1G[anim]_103
+  - first:
+      213: 3645863500504901787
+    second: Bat 1G[anim]_104
+  - first:
+      213: -8803972695672535115
+    second: Bat 1G[anim]_105
+  - first:
+      213: 2429196522566806685
+    second: Bat 1G[anim]_106
+  - first:
+      213: -8006297707909668181
+    second: Bat 1G[anim]_107
+  - first:
+      213: -4549691797938016012
+    second: Bat 1G[anim]_108
+  - first:
+      213: 7077467434698494713
+    second: Bat 1G[anim]_109
+  - first:
+      213: -3740410055887365234
+    second: Bat 1G[anim]_110
+  - first:
+      213: -3982424200117034880
+    second: Bat 1G[anim]_111
+  - first:
+      213: 6911072418049990693
+    second: Bat 1G[anim]_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bat 1G[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2147
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709cb61e1cdfd930800000000000000
+      internalID: 4170293801756954746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2143
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f68b4f45e454e0800000000000000
+      internalID: -1993716606285975164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2147
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f1296883e63450800000000000000
+      internalID: 6068287722947212441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2143
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1aa3e3752e5e3e0800000000000000
+      internalID: -2024963593099107887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1985
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bcdfd70b0220030800000000000000
+      internalID: 3459363406174079784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1982
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e516c5f8d65fd620800000000000000
+      internalID: 2801052983084062176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1985
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0afcc9a066935f10800000000000000
+      internalID: 2257313180152560139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1982
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942c61977d8051d0800000000000000
+      internalID: -3364033376965352292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1822
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c2e4eb5adb4550800000000000000
+      internalID: 6146246204694119701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1818
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e806cfc994af44480800000000000000
+      internalID: -8915726168213397362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1822
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bfd14e0534df650800000000000000
+      internalID: 6268240271073213295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1818
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003ace5d640588b0800000000000000
+      internalID: -5150705731040038909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1658
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61abe060c4faa2ce0800000000000000
+      internalID: -1429137190682707434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1658
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fb31e4f617c5710800000000000000
+      internalID: 1683345083594948450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1658
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a684781238f8f0a0800000000000000
+      internalID: -6847450339374496092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1658
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6211ca6ef2a3590800000000000000
+      internalID: -7693784345633282332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1492
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3751055a0922ca860800000000000000
+      internalID: 7542441480582862195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1493
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d0c94318a19e930800000000000000
+      internalID: 4172895671971220781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1486
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb6e3617ae9c8a0800000000000000
+      internalID: -6284234032290545915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1489
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e333b8265719b600800000000000000
+      internalID: 484444093736498144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1347
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5947dc7619b4b8ac0800000000000000
+      internalID: -3851901968401468267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1346
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e401703481b330110800000000000000
+      internalID: 1225888498964697166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1345
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb557a8c5204cf5a0800000000000000
+      internalID: -6486238832295979586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1343
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fc830c51e5ab20800000000000000
+      internalID: 3145167700100970709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1173
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3864baa4be72ff20800000000000000
+      internalID: 3454963178569754683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1166
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f699b860d77e4b0800000000000000
+      internalID: -5411218960196997301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1173
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c578333ead81cf660800000000000000
+      internalID: 7420833614393476956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1166
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a622e4218cb9d0800000000000000
+      internalID: -2757186876444597744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1025
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85b2828f42e4f4d0800000000000000
+      internalID: -3101605412231531126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1022
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd211dec877e41510800000000000000
+      internalID: 1519093480382599903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1025
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a9af6d515fa770800000000000000
+      internalID: 8624201273184987313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1022
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410451283f72c6e0800000000000000
+      internalID: -1818751420450209457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 870
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a696a65dc36b34a0800000000000000
+      internalID: -6612581894290237792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 865
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538c6b6125f23ff0800000000000000
+      internalID: -57714321317395624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 870
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae361378ae4e48250800000000000000
+      internalID: 5946129103977538538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 865
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6a837b566b61610800000000000000
+      internalID: 1591660066303944408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 710
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4961a593eb60f0420800000000000000
+      internalID: 2598302924091823764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 705
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3f19e7621ff420800000000000000
+      internalID: 2665869741928693341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 710
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733174aa25f363fb0800000000000000
+      internalID: -4668474339446287561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 705
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0f8595c3d04dbb0800000000000000
+      internalID: -4912286740706168607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 547
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f85055a7afaf2df0800000000000000
+      internalID: -202750323640477448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 546
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd082900bf74c060800000000000000
+      internalID: 6972838517120961984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 545
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1f9cf3981bda90800000000000000
+      internalID: -7288204548091470306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 543
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb64f5d7e7950c80800000000000000
+      internalID: -8357106511533282377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c31545c7df6fd0800000000000000
+      internalID: -2346419638569286757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 382
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51671b6e2eabaa960800000000000000
+      internalID: 7614103603719009813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 385
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8615193cdf7dcb0800000000000000
+      internalID: -4839120258187826955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 382
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1d7896ff3701660800000000000000
+      internalID: 7354505732320383412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b215464839c1e40800000000000000
+      internalID: 5628535831134284571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 175
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeccbfca53b8b4bf0800000000000000
+      internalID: -339024284284629778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 175
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802a3e5d53e4ef80800000000000000
+      internalID: -8078081841443495808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 175
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e644a9ca2015980800000000000000
+      internalID: -8552051277054054846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553f030229951ca0800000000000000
+      internalID: -6046758553315756708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1b60514a94f510800000000000000
+      internalID: 1582058974426635222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3bf17550c2f2e0800000000000000
+      internalID: -2093399403556815768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b918dc7e5483a80800000000000000
+      internalID: -8486956635892114627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d307372779c054fe0800000000000000
+      internalID: -1205543480651976643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57eea46d9c6f4270800000000000000
+      internalID: 8236921666738775898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998e08bd15ad43500800000000000000
+      internalID: 375164714088458393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ff443241a3d4b0800000000000000
+      internalID: -5416808621079006153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8f394bbbf1f070800000000000000
+      internalID: 8138562783441554604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987e60efb1b93a10800000000000000
+      internalID: 1889736956320839828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f07087a9dea3140800000000000000
+      internalID: 4700330408809008992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d51142f3c9a8fa80800000000000000
+      internalID: -8432803643203185196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fd0f499c5f7b380800000000000000
+      internalID: -8955419087866896525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53226a9ab45204140800000000000000
+      internalID: 4701799017873809973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47fa86281bc6a6c0800000000000000
+      internalID: -4132392303479556275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb33fac53eab3490800000000000000
+      internalID: -7765421586408850484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33d481e7afb2ed20800000000000000
+      internalID: 3306415804207387451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74d8809ac5d00c0800000000000000
+      internalID: -4607924962667444269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a21aeebac1c1b80800000000000000
+      internalID: -8422825678321145188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed8b4b3ae15761c0800000000000000
+      internalID: -4510546435329258009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6dd789fa43dbf0800000000000000
+      internalID: -300814314516943297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d825bc09bbbe3b00800000000000000
+      internalID: 810291386429810903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51be44098aee0c30800000000000000
+      internalID: 4327654166153310558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85abe863d2d6ad070800000000000000
+      internalID: 8131932118127131224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b46f89e165b7c20800000000000000
+      internalID: 3205250249219525417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea302909e71f6bd0800000000000000
+      internalID: -2634860967340524831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf4118a059636a70800000000000000
+      internalID: 8819008290459570138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccccbf66bc564d470800000000000000
+      internalID: 8418465527742844108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33f24f45c197a20800000000000000
+      internalID: 3060508572974527402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629fa8bb15fa91340800000000000000
+      internalID: 4835088440532597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c45b76d7041160800000000000000
+      internalID: 6995224738986771770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b7a9e9c93cd2fa0800000000000000
+      internalID: -5823783665676944523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cff224bd4dc1c0800000000000000
+      internalID: -4481840618087134854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9f0b136706552f0800000000000000
+      internalID: -984774882754496024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a615e7bf66168580800000000000000
+      internalID: -8825341750703483229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aeaac5f23fadd20800000000000000
+      internalID: 3304220661373397507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546ea75acc12d3b0800000000000000
+      internalID: -5489293340431195046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24083aa4cc8d6f340800000000000000
+      internalID: 4897340016749150274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bbb484602b6d230800000000000000
+      internalID: 3663311086964947807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085078a80584ba8d0800000000000000
+      internalID: -2834092029740907136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b47f5bcafe144b0800000000000000
+      internalID: -5457817748330034321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2818aed072104f250800000000000000
+      internalID: 5977403872676315522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a9103e2676d6320800000000000000
+      internalID: 2552810238201928348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d05db785d5dd40800000000000000
+      internalID: 5608623689933314557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9431803ad431ec0800000000000000
+      internalID: -3597446314728404544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa02f15415aa7d0800000000000000
+      internalID: -2906421252197406018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d5b118e366565c0800000000000000
+      internalID: -4222856656949912192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69093f84b792f3940800000000000000
+      internalID: 5277982897783148694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1405e646fd962440800000000000000
+      internalID: 4910786124771034143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc38f6eea7222d10800000000000000
+      internalID: 2099284008460893391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7727e5c7c115755f0800000000000000
+      internalID: -768056028655881609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfac885e27c9d350800000000000000
+      internalID: 6042079376962269130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98282f7985b89230800000000000000
+      internalID: 3645863500504901787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7433e8a7102d580800000000000000
+      internalID: -8803972695672535115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c6539ed5d36b120800000000000000
+      internalID: 2429196522566806685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2250267aae3e090800000000000000
+      internalID: -8006297707909668181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f075624a6f3cd0c0800000000000000
+      internalID: -4549691797938016012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f259924227383260800000000000000
+      internalID: 7077467434698494713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd8882fd4671cc0800000000000000
+      internalID: -3740410055887365234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ea1f2a469bb8c0800000000000000
+      internalID: -3982424200117034880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat 1G[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520aede6fbf09ef50800000000000000
+      internalID: 6911072418049990693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bat 1G[anim]_0: 4170293801756954746
+      Bat 1G[anim]_1: -1993716606285975164
+      Bat 1G[anim]_10: 6268240271073213295
+      Bat 1G[anim]_100: 4910786124771034143
+      Bat 1G[anim]_101: 2099284008460893391
+      Bat 1G[anim]_102: -768056028655881609
+      Bat 1G[anim]_103: 6042079376962269130
+      Bat 1G[anim]_104: 3645863500504901787
+      Bat 1G[anim]_105: -8803972695672535115
+      Bat 1G[anim]_106: 2429196522566806685
+      Bat 1G[anim]_107: -8006297707909668181
+      Bat 1G[anim]_108: -4549691797938016012
+      Bat 1G[anim]_109: 7077467434698494713
+      Bat 1G[anim]_11: -5150705731040038909
+      Bat 1G[anim]_110: -3740410055887365234
+      Bat 1G[anim]_111: -3982424200117034880
+      Bat 1G[anim]_112: 6911072418049990693
+      Bat 1G[anim]_12: -1429137190682707434
+      Bat 1G[anim]_13: 1683345083594948450
+      Bat 1G[anim]_14: -6847450339374496092
+      Bat 1G[anim]_15: -7693784345633282332
+      Bat 1G[anim]_16: 7542441480582862195
+      Bat 1G[anim]_17: 4172895671971220781
+      Bat 1G[anim]_18: -6284234032290545915
+      Bat 1G[anim]_19: 484444093736498144
+      Bat 1G[anim]_2: 6068287722947212441
+      Bat 1G[anim]_20: -3851901968401468267
+      Bat 1G[anim]_21: 1225888498964697166
+      Bat 1G[anim]_22: -6486238832295979586
+      Bat 1G[anim]_23: 3145167700100970709
+      Bat 1G[anim]_24: 3454963178569754683
+      Bat 1G[anim]_25: -5411218960196997301
+      Bat 1G[anim]_26: 7420833614393476956
+      Bat 1G[anim]_27: -2757186876444597744
+      Bat 1G[anim]_28: -3101605412231531126
+      Bat 1G[anim]_29: 1519093480382599903
+      Bat 1G[anim]_3: -2024963593099107887
+      Bat 1G[anim]_30: 8624201273184987313
+      Bat 1G[anim]_31: -1818751420450209457
+      Bat 1G[anim]_32: -6612581894290237792
+      Bat 1G[anim]_33: -57714321317395624
+      Bat 1G[anim]_34: 5946129103977538538
+      Bat 1G[anim]_35: 1591660066303944408
+      Bat 1G[anim]_36: 2598302924091823764
+      Bat 1G[anim]_37: 2665869741928693341
+      Bat 1G[anim]_38: -4668474339446287561
+      Bat 1G[anim]_39: -4912286740706168607
+      Bat 1G[anim]_4: 3459363406174079784
+      Bat 1G[anim]_40: -202750323640477448
+      Bat 1G[anim]_41: 6972838517120961984
+      Bat 1G[anim]_42: -7288204548091470306
+      Bat 1G[anim]_43: -8357106511533282377
+      Bat 1G[anim]_44: -2346419638569286757
+      Bat 1G[anim]_45: 7614103603719009813
+      Bat 1G[anim]_46: -4839120258187826955
+      Bat 1G[anim]_47: 7354505732320383412
+      Bat 1G[anim]_48: 5628535831134284571
+      Bat 1G[anim]_49: -339024284284629778
+      Bat 1G[anim]_5: 2801052983084062176
+      Bat 1G[anim]_50: -8078081841443495808
+      Bat 1G[anim]_51: -8552051277054054846
+      Bat 1G[anim]_52: -6046758553315756708
+      Bat 1G[anim]_53: 1582058974426635222
+      Bat 1G[anim]_54: -2093399403556815768
+      Bat 1G[anim]_55: -8486956635892114627
+      Bat 1G[anim]_56: -1205543480651976643
+      Bat 1G[anim]_57: 8236921666738775898
+      Bat 1G[anim]_58: 375164714088458393
+      Bat 1G[anim]_59: -5416808621079006153
+      Bat 1G[anim]_6: 2257313180152560139
+      Bat 1G[anim]_60: 8138562783441554604
+      Bat 1G[anim]_61: 1889736956320839828
+      Bat 1G[anim]_62: 4700330408809008992
+      Bat 1G[anim]_63: -8432803643203185196
+      Bat 1G[anim]_64: -8955419087866896525
+      Bat 1G[anim]_65: 4701799017873809973
+      Bat 1G[anim]_66: -4132392303479556275
+      Bat 1G[anim]_67: -7765421586408850484
+      Bat 1G[anim]_68: 3306415804207387451
+      Bat 1G[anim]_69: -4607924962667444269
+      Bat 1G[anim]_7: -3364033376965352292
+      Bat 1G[anim]_70: -8422825678321145188
+      Bat 1G[anim]_71: -4510546435329258009
+      Bat 1G[anim]_72: -300814314516943297
+      Bat 1G[anim]_73: 810291386429810903
+      Bat 1G[anim]_74: 4327654166153310558
+      Bat 1G[anim]_75: 8131932118127131224
+      Bat 1G[anim]_76: 3205250249219525417
+      Bat 1G[anim]_77: -2634860967340524831
+      Bat 1G[anim]_78: 8819008290459570138
+      Bat 1G[anim]_79: 8418465527742844108
+      Bat 1G[anim]_8: 6146246204694119701
+      Bat 1G[anim]_80: 3060508572974527402
+      Bat 1G[anim]_81: 4835088440532597030
+      Bat 1G[anim]_82: 6995224738986771770
+      Bat 1G[anim]_83: -5823783665676944523
+      Bat 1G[anim]_84: -4481840618087134854
+      Bat 1G[anim]_85: -984774882754496024
+      Bat 1G[anim]_86: -8825341750703483229
+      Bat 1G[anim]_87: 3304220661373397507
+      Bat 1G[anim]_88: -5489293340431195046
+      Bat 1G[anim]_89: 4897340016749150274
+      Bat 1G[anim]_9: -8915726168213397362
+      Bat 1G[anim]_90: 3663311086964947807
+      Bat 1G[anim]_91: -2834092029740907136
+      Bat 1G[anim]_92: -5457817748330034321
+      Bat 1G[anim]_93: 5977403872676315522
+      Bat 1G[anim]_94: 2552810238201928348
+      Bat 1G[anim]_95: 5608623689933314557
+      Bat 1G[anim]_96: -3597446314728404544
+      Bat 1G[anim]_97: -2906421252197406018
+      Bat 1G[anim]_98: -4222856656949912192
+      Bat 1G[anim]_99: 5277982897783148694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

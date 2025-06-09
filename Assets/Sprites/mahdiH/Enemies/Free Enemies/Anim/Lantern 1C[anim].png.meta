@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 13fd9c03d830bec4584027f020d0684e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1003531588564819751
+    second: Lantern 1C[anim]_0
+  - first:
+      213: 6441168122894503888
+    second: Lantern 1C[anim]_1
+  - first:
+      213: 3336298869749858240
+    second: Lantern 1C[anim]_2
+  - first:
+      213: 5679964943177736654
+    second: Lantern 1C[anim]_3
+  - first:
+      213: 7552488861795594553
+    second: Lantern 1C[anim]_4
+  - first:
+      213: -8410497755348329019
+    second: Lantern 1C[anim]_5
+  - first:
+      213: 518837001403534979
+    second: Lantern 1C[anim]_6
+  - first:
+      213: 6841114489835412070
+    second: Lantern 1C[anim]_7
+  - first:
+      213: -109665429134623832
+    second: Lantern 1C[anim]_8
+  - first:
+      213: -7836419145346956945
+    second: Lantern 1C[anim]_9
+  - first:
+      213: -1253373181370892917
+    second: Lantern 1C[anim]_10
+  - first:
+      213: -72619164864261459
+    second: Lantern 1C[anim]_11
+  - first:
+      213: -2004875210318154862
+    second: Lantern 1C[anim]_12
+  - first:
+      213: -8493586633640959446
+    second: Lantern 1C[anim]_13
+  - first:
+      213: 6835355142497654357
+    second: Lantern 1C[anim]_14
+  - first:
+      213: -8321519456763364580
+    second: Lantern 1C[anim]_15
+  - first:
+      213: -4545213620150929436
+    second: Lantern 1C[anim]_16
+  - first:
+      213: 3906522890009284571
+    second: Lantern 1C[anim]_17
+  - first:
+      213: 3700121638777539001
+    second: Lantern 1C[anim]_18
+  - first:
+      213: 942675163391294520
+    second: Lantern 1C[anim]_19
+  - first:
+      213: -1002123302776855244
+    second: Lantern 1C[anim]_20
+  - first:
+      213: -3942055852246044723
+    second: Lantern 1C[anim]_21
+  - first:
+      213: -809885905372721212
+    second: Lantern 1C[anim]_22
+  - first:
+      213: 6774581028282380434
+    second: Lantern 1C[anim]_23
+  - first:
+      213: 135345575534523708
+    second: Lantern 1C[anim]_24
+  - first:
+      213: 5768417100764161383
+    second: Lantern 1C[anim]_25
+  - first:
+      213: 6704490045429484210
+    second: Lantern 1C[anim]_26
+  - first:
+      213: -8062819543689666338
+    second: Lantern 1C[anim]_27
+  - first:
+      213: 1342926224518958463
+    second: Lantern 1C[anim]_28
+  - first:
+      213: -5411177115308410682
+    second: Lantern 1C[anim]_29
+  - first:
+      213: 4734676566927812323
+    second: Lantern 1C[anim]_30
+  - first:
+      213: -8216964588952585310
+    second: Lantern 1C[anim]_31
+  - first:
+      213: 5698738680264235827
+    second: Lantern 1C[anim]_32
+  - first:
+      213: 1734367771219260323
+    second: Lantern 1C[anim]_33
+  - first:
+      213: -7821911060370709759
+    second: Lantern 1C[anim]_34
+  - first:
+      213: -7698221871203993307
+    second: Lantern 1C[anim]_35
+  - first:
+      213: 2085653338916675742
+    second: Lantern 1C[anim]_36
+  - first:
+      213: -7795026519755922124
+    second: Lantern 1C[anim]_37
+  - first:
+      213: 3513799963323677182
+    second: Lantern 1C[anim]_38
+  - first:
+      213: 5601559569709001029
+    second: Lantern 1C[anim]_39
+  - first:
+      213: -8359413598372603613
+    second: Lantern 1C[anim]_40
+  - first:
+      213: -186088727890409560
+    second: Lantern 1C[anim]_41
+  - first:
+      213: 2717836888174364248
+    second: Lantern 1C[anim]_42
+  - first:
+      213: 4258435086715836761
+    second: Lantern 1C[anim]_43
+  - first:
+      213: 9188460853870016198
+    second: Lantern 1C[anim]_44
+  - first:
+      213: 8694546774632928117
+    second: Lantern 1C[anim]_45
+  - first:
+      213: 2467285207771528217
+    second: Lantern 1C[anim]_46
+  - first:
+      213: -9089169682386107233
+    second: Lantern 1C[anim]_47
+  - first:
+      213: 2713582630498162436
+    second: Lantern 1C[anim]_48
+  - first:
+      213: 715843894167626314
+    second: Lantern 1C[anim]_49
+  - first:
+      213: 5902852190454224771
+    second: Lantern 1C[anim]_50
+  - first:
+      213: -5670579041401758231
+    second: Lantern 1C[anim]_51
+  - first:
+      213: -7939916615273464988
+    second: Lantern 1C[anim]_52
+  - first:
+      213: 1085582240453006496
+    second: Lantern 1C[anim]_53
+  - first:
+      213: -6581760110351127598
+    second: Lantern 1C[anim]_54
+  - first:
+      213: 7999952400483210997
+    second: Lantern 1C[anim]_55
+  - first:
+      213: 6928539204620756121
+    second: Lantern 1C[anim]_56
+  - first:
+      213: 9188298990722166152
+    second: Lantern 1C[anim]_57
+  - first:
+      213: 386329368271038453
+    second: Lantern 1C[anim]_58
+  - first:
+      213: -8301030058338263683
+    second: Lantern 1C[anim]_59
+  - first:
+      213: -6596902813055710624
+    second: Lantern 1C[anim]_60
+  - first:
+      213: 1607728953551025434
+    second: Lantern 1C[anim]_61
+  - first:
+      213: 7264319171572902499
+    second: Lantern 1C[anim]_62
+  - first:
+      213: 2128749556015371087
+    second: Lantern 1C[anim]_63
+  - first:
+      213: 7699188716440751709
+    second: Lantern 1C[anim]_64
+  - first:
+      213: 8945752642885780071
+    second: Lantern 1C[anim]_65
+  - first:
+      213: 140556811862568404
+    second: Lantern 1C[anim]_66
+  - first:
+      213: 446708769870219199
+    second: Lantern 1C[anim]_67
+  - first:
+      213: 3265658562061782615
+    second: Lantern 1C[anim]_68
+  - first:
+      213: 9195322361644064150
+    second: Lantern 1C[anim]_69
+  - first:
+      213: 2766569578147931863
+    second: Lantern 1C[anim]_70
+  - first:
+      213: 5994406100184909406
+    second: Lantern 1C[anim]_71
+  - first:
+      213: -3539827564708301170
+    second: Lantern 1C[anim]_72
+  - first:
+      213: 1975619532377160869
+    second: Lantern 1C[anim]_73
+  - first:
+      213: 7268235396753702669
+    second: Lantern 1C[anim]_74
+  - first:
+      213: -7260758298379523853
+    second: Lantern 1C[anim]_75
+  - first:
+      213: 7652102594399882719
+    second: Lantern 1C[anim]_76
+  - first:
+      213: 6819588960840226872
+    second: Lantern 1C[anim]_77
+  - first:
+      213: 7881641885802119388
+    second: Lantern 1C[anim]_78
+  - first:
+      213: -8581813466801113304
+    second: Lantern 1C[anim]_79
+  - first:
+      213: -4260430696719428835
+    second: Lantern 1C[anim]_80
+  - first:
+      213: 9066937803468433355
+    second: Lantern 1C[anim]_81
+  - first:
+      213: 1680167444248993728
+    second: Lantern 1C[anim]_82
+  - first:
+      213: 6980563352755850216
+    second: Lantern 1C[anim]_83
+  - first:
+      213: -1198726645233937969
+    second: Lantern 1C[anim]_84
+  - first:
+      213: -6368069057739197014
+    second: Lantern 1C[anim]_85
+  - first:
+      213: -1629770934619220650
+    second: Lantern 1C[anim]_86
+  - first:
+      213: 594350141067207531
+    second: Lantern 1C[anim]_87
+  - first:
+      213: 5605400347297799661
+    second: Lantern 1C[anim]_88
+  - first:
+      213: -8395907050019016904
+    second: Lantern 1C[anim]_89
+  - first:
+      213: -6289317786412721402
+    second: Lantern 1C[anim]_90
+  - first:
+      213: 1054137059595048009
+    second: Lantern 1C[anim]_91
+  - first:
+      213: 5253086622490862796
+    second: Lantern 1C[anim]_92
+  - first:
+      213: 4332041641706517207
+    second: Lantern 1C[anim]_93
+  - first:
+      213: -4806397899340685858
+    second: Lantern 1C[anim]_94
+  - first:
+      213: 7517355616038901661
+    second: Lantern 1C[anim]_95
+  - first:
+      213: 5513227896286353396
+    second: Lantern 1C[anim]_96
+  - first:
+      213: 6229084995249439490
+    second: Lantern 1C[anim]_97
+  - first:
+      213: 8479087171881778885
+    second: Lantern 1C[anim]_98
+  - first:
+      213: 510407174316295439
+    second: Lantern 1C[anim]_99
+  - first:
+      213: 5916104557392730163
+    second: Lantern 1C[anim]_100
+  - first:
+      213: -111519255027967965
+    second: Lantern 1C[anim]_101
+  - first:
+      213: -7014985923087794669
+    second: Lantern 1C[anim]_102
+  - first:
+      213: 8399971908594896402
+    second: Lantern 1C[anim]_103
+  - first:
+      213: -4108636122547803000
+    second: Lantern 1C[anim]_104
+  - first:
+      213: 7710500515657286599
+    second: Lantern 1C[anim]_105
+  - first:
+      213: -5093777096879508706
+    second: Lantern 1C[anim]_106
+  - first:
+      213: -5036606435310394848
+    second: Lantern 1C[anim]_107
+  - first:
+      213: -978147952235641306
+    second: Lantern 1C[anim]_108
+  - first:
+      213: -5321673257597245821
+    second: Lantern 1C[anim]_109
+  - first:
+      213: 3388678309705510283
+    second: Lantern 1C[anim]_110
+  - first:
+      213: -5704061064653710013
+    second: Lantern 1C[anim]_111
+  - first:
+      213: -2972289939652348131
+    second: Lantern 1C[anim]_112
+  - first:
+      213: -8491118342603087781
+    second: Lantern 1C[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2113
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f1a41b9a24ded00800000000000000
+      internalID: 1003531588564819751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2113
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df42bfe740a36950800000000000000
+      internalID: 6441168122894503888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2112
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf3af3452aec4e20800000000000000
+      internalID: 3336298869749858240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2112
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1e7c6a50a43de40800000000000000
+      internalID: 5679964943177736654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1947
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931bb61ea94dfc860800000000000000
+      internalID: 7552488861795594553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1949
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd1e3c2ad8e74b80800000000000000
+      internalID: -8410497755348329019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1949
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e8cfcf087433700800000000000000
+      internalID: 518837001403534979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1948
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ada6af16580fe50800000000000000
+      internalID: 6841114489835412070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1787
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3a4c8fd36a7ef0800000000000000
+      internalID: -109665429134623832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1789
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6146827e427f3390800000000000000
+      internalID: -7836419145346956945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1789
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df2617bbf1b9ee0800000000000000
+      internalID: -1253373181370892917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1788
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2516a11410efef0800000000000000
+      internalID: -72619164864261459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1634
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293fff55e904d24e0800000000000000
+      internalID: -2004875210318154862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1634
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2223d825f7b02a80800000000000000
+      internalID: -8493586633640959446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1634
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556563e694f0cde50800000000000000
+      internalID: 6835355142497654357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1634
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3e14b426048c80800000000000000
+      internalID: -8321519456763364580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1473
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f2a64b482ce0c0800000000000000
+      internalID: -4545213620150929436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1473
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf8fedeed1c63630800000000000000
+      internalID: 3906522890009284571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1472
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b94211c609795330800000000000000
+      internalID: 3700121638777539001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1472
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c758c011e051d00800000000000000
+      internalID: 942675163391294520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1312
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43528d46a2eb712f0800000000000000
+      internalID: -1002123302776855244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1312
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfef1a96110b49c0800000000000000
+      internalID: -3942055852246044723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1313
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc9ad5f05b2c4f0800000000000000
+      internalID: -809885905372721212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1313
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2903fdc4d85240e50800000000000000
+      internalID: 6774581028282380434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1153
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f7a77518d0e100800000000000000
+      internalID: 135345575534523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1153
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765265f6ac88d0050800000000000000
+      internalID: 5768417100764161383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1152
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba87f5ac222b0d50800000000000000
+      internalID: 6704490045429484210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1152
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0ec4af75c1b1090800000000000000
+      internalID: -8062819543689666338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 993
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d420c394803a210800000000000000
+      internalID: 1342926224518958463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 993
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b1515513a7e4b0800000000000000
+      internalID: -5411177115308410682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 992
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e629129043f4b140800000000000000
+      internalID: 4734676566927812323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 992
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab748fdd3a77fd80800000000000000
+      internalID: -8216964588952585310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 833
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b9de0f2acf51f40800000000000000
+      internalID: 5698738680264235827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 833
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3f8618c46b11810800000000000000
+      internalID: 1734367771219260323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 832
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a7e5355df27390800000000000000
+      internalID: -7821911060370709759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 832
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293ebcbefb6a2590800000000000000
+      internalID: -7698221871203993307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 672
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e906cb659aab1fc10800000000000000
+      internalID: 2085653338916675742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 672
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e23b1ea082d390800000000000000
+      internalID: -7795026519755922124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 673
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef930b1237683c030800000000000000
+      internalID: 3513799963323677182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 673
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e1b410ccbcbd40800000000000000
+      internalID: 5601559569709001029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 513
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3295e625f956dfb80800000000000000
+      internalID: -8359413598372603613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 513
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74365b941ea6df0800000000000000
+      internalID: -186088727890409560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 512
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85606150042b7b520800000000000000
+      internalID: 2717836888174364248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 512
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d1c23620091b30800000000000000
+      internalID: 4258435086715836761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6318bc678f38f70800000000000000
+      internalID: 9188460853870016198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 353
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5739301d93c39a870800000000000000
+      internalID: 8694546774632928117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 352
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3cc003de8d3220800000000000000
+      internalID: 2467285207771528217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 352
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9440229458ccd180800000000000000
+      internalID: -9089169682386107233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 184
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075387760598a520800000000000000
+      internalID: 2713582630498162436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 184
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a426e72aa303fe900800000000000000
+      internalID: 715843894167626314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 184
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38719a5eac42be150800000000000000
+      internalID: 5902852190454224771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 184
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1976e76e0e41b0800000000000000
+      internalID: -5670579041401758231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b3768e7efbfc190800000000000000
+      internalID: -7939916615273464988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49ca8cb43c01f00800000000000000
+      internalID: 1085582240453006496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6fa12d04e8a4a0800000000000000
+      internalID: -6581760110351127598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6d5da925a850f60800000000000000
+      internalID: 7999952400483210997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a9c792bd172060800000000000000
+      internalID: 6928539204620756121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d23181045638f70800000000000000
+      internalID: 9188298990722166152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 159
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a81a73848c5500800000000000000
+      internalID: 386329368271038453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d58e68421dccc80800000000000000
+      internalID: -8301030058338263683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a0a0ae7d71374a0800000000000000
+      internalID: -6596902813055710624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15f48317fccf4610800000000000000
+      internalID: 1607728953551025434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aa9ac6ccb00d460800000000000000
+      internalID: 7264319171572902499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43111e4176da8d10800000000000000
+      internalID: 2128749556015371087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8526785309da60800000000000000
+      internalID: 7699188716440751709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76208bfc1a2b52c70800000000000000
+      internalID: 8945752642885780071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd64d9fcab53f100800000000000000
+      internalID: 140556811862568404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb78a2a6247033600800000000000000
+      internalID: 446708769870219199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec765f823f15d20800000000000000
+      internalID: 3265658562061782615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d100118f85c9f70800000000000000
+      internalID: 9195322361644064150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6e8e79f54d46620800000000000000
+      internalID: 2766569578147931863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56c4f0a698603350800000000000000
+      internalID: 5994406100184909406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fc6fa59100eec0800000000000000
+      internalID: -3539827564708301170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf9a65f7fca6b10800000000000000
+      internalID: 1975619532377160869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fbc67a595fdd460800000000000000
+      internalID: 7268235396753702669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f86e19fbca9c3b90800000000000000
+      internalID: -7260758298379523853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddcc0c54cab13a60800000000000000
+      internalID: 7652102594399882719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389e05370c04ae50800000000000000
+      internalID: 6819588960840226872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd043125987316d60800000000000000
+      internalID: 7881641885802119388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f7aece1647e880800000000000000
+      internalID: -8581813466801113304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135ed3aad8efd4c0800000000000000
+      internalID: -4260430696719428835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7eb40c4eb34dd70800000000000000
+      internalID: 9066937803468433355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf13ad7367215710800000000000000
+      internalID: 1680167444248993728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4f1d7261ffd060800000000000000
+      internalID: 6980563352755850216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11900a7744d5fe0800000000000000
+      internalID: -1198726645233937969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa57c447ee210a7a0800000000000000
+      internalID: -6368069057739197014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d3c848f3e169e0800000000000000
+      internalID: -1629770934619220650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a386ed4e8f3800800000000000000
+      internalID: 594350141067207531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded598ccae16acd40800000000000000
+      internalID: 5605400347297799661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f2b6c750fbb7b80800000000000000
+      internalID: -8395907050019016904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd255abcad7b8a0800000000000000
+      internalID: -6289317786412721402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944dcb5121c01ae00800000000000000
+      internalID: 1054137059595048009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4aceb7376b6e840800000000000000
+      internalID: 5253086622490862796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2fd16cbe08e1c30800000000000000
+      internalID: 4332041641706517207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd5d90739e3c4db0800000000000000
+      internalID: -4806397899340685858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975948aa13035860800000000000000
+      internalID: 7517355616038901661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f71ce3bf8be28c40800000000000000
+      internalID: 5513227896286353396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2030f81dcc7227650800000000000000
+      internalID: 6229084995249439490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb593dbd4cba570800000000000000
+      internalID: 8479087171881778885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050febee94551700800000000000000
+      internalID: 510407174316295439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338967500c93a1250800000000000000
+      internalID: 5916104557392730163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328117214ddc37ef0800000000000000
+      internalID: -111519255027967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7cfd4873c5ae90800000000000000
+      internalID: -7014985923087794669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0f0722f1b29470800000000000000
+      internalID: 8399971908594896402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c233c07313bf6c0800000000000000
+      internalID: -4108636122547803000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30834fd53310b60800000000000000
+      internalID: 7710500515657286599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f977e7b44f49b0800000000000000
+      internalID: -5093777096879508706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a0e5d1216a1ab0800000000000000
+      internalID: -5036606435310394848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260831be9bec62f0800000000000000
+      internalID: -978147952235641306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386683e1e5e9526b0800000000000000
+      internalID: -5321673257597245821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d611cf7f0070f20800000000000000
+      internalID: 3388678309705510283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ddd20eeaa17d0b0800000000000000
+      internalID: -5704061064653710013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fd893c0e40c6d0800000000000000
+      internalID: -2972289939652348131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 1C[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e653fadc792a80800000000000000
+      internalID: -8491118342603087781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lantern 1C[anim]_0: 1003531588564819751
+      Lantern 1C[anim]_1: 6441168122894503888
+      Lantern 1C[anim]_10: -1253373181370892917
+      Lantern 1C[anim]_100: 5916104557392730163
+      Lantern 1C[anim]_101: -111519255027967965
+      Lantern 1C[anim]_102: -7014985923087794669
+      Lantern 1C[anim]_103: 8399971908594896402
+      Lantern 1C[anim]_104: -4108636122547803000
+      Lantern 1C[anim]_105: 7710500515657286599
+      Lantern 1C[anim]_106: -5093777096879508706
+      Lantern 1C[anim]_107: -5036606435310394848
+      Lantern 1C[anim]_108: -978147952235641306
+      Lantern 1C[anim]_109: -5321673257597245821
+      Lantern 1C[anim]_11: -72619164864261459
+      Lantern 1C[anim]_110: 3388678309705510283
+      Lantern 1C[anim]_111: -5704061064653710013
+      Lantern 1C[anim]_112: -2972289939652348131
+      Lantern 1C[anim]_113: -8491118342603087781
+      Lantern 1C[anim]_12: -2004875210318154862
+      Lantern 1C[anim]_13: -8493586633640959446
+      Lantern 1C[anim]_14: 6835355142497654357
+      Lantern 1C[anim]_15: -8321519456763364580
+      Lantern 1C[anim]_16: -4545213620150929436
+      Lantern 1C[anim]_17: 3906522890009284571
+      Lantern 1C[anim]_18: 3700121638777539001
+      Lantern 1C[anim]_19: 942675163391294520
+      Lantern 1C[anim]_2: 3336298869749858240
+      Lantern 1C[anim]_20: -1002123302776855244
+      Lantern 1C[anim]_21: -3942055852246044723
+      Lantern 1C[anim]_22: -809885905372721212
+      Lantern 1C[anim]_23: 6774581028282380434
+      Lantern 1C[anim]_24: 135345575534523708
+      Lantern 1C[anim]_25: 5768417100764161383
+      Lantern 1C[anim]_26: 6704490045429484210
+      Lantern 1C[anim]_27: -8062819543689666338
+      Lantern 1C[anim]_28: 1342926224518958463
+      Lantern 1C[anim]_29: -5411177115308410682
+      Lantern 1C[anim]_3: 5679964943177736654
+      Lantern 1C[anim]_30: 4734676566927812323
+      Lantern 1C[anim]_31: -8216964588952585310
+      Lantern 1C[anim]_32: 5698738680264235827
+      Lantern 1C[anim]_33: 1734367771219260323
+      Lantern 1C[anim]_34: -7821911060370709759
+      Lantern 1C[anim]_35: -7698221871203993307
+      Lantern 1C[anim]_36: 2085653338916675742
+      Lantern 1C[anim]_37: -7795026519755922124
+      Lantern 1C[anim]_38: 3513799963323677182
+      Lantern 1C[anim]_39: 5601559569709001029
+      Lantern 1C[anim]_4: 7552488861795594553
+      Lantern 1C[anim]_40: -8359413598372603613
+      Lantern 1C[anim]_41: -186088727890409560
+      Lantern 1C[anim]_42: 2717836888174364248
+      Lantern 1C[anim]_43: 4258435086715836761
+      Lantern 1C[anim]_44: 9188460853870016198
+      Lantern 1C[anim]_45: 8694546774632928117
+      Lantern 1C[anim]_46: 2467285207771528217
+      Lantern 1C[anim]_47: -9089169682386107233
+      Lantern 1C[anim]_48: 2713582630498162436
+      Lantern 1C[anim]_49: 715843894167626314
+      Lantern 1C[anim]_5: -8410497755348329019
+      Lantern 1C[anim]_50: 5902852190454224771
+      Lantern 1C[anim]_51: -5670579041401758231
+      Lantern 1C[anim]_52: -7939916615273464988
+      Lantern 1C[anim]_53: 1085582240453006496
+      Lantern 1C[anim]_54: -6581760110351127598
+      Lantern 1C[anim]_55: 7999952400483210997
+      Lantern 1C[anim]_56: 6928539204620756121
+      Lantern 1C[anim]_57: 9188298990722166152
+      Lantern 1C[anim]_58: 386329368271038453
+      Lantern 1C[anim]_59: -8301030058338263683
+      Lantern 1C[anim]_6: 518837001403534979
+      Lantern 1C[anim]_60: -6596902813055710624
+      Lantern 1C[anim]_61: 1607728953551025434
+      Lantern 1C[anim]_62: 7264319171572902499
+      Lantern 1C[anim]_63: 2128749556015371087
+      Lantern 1C[anim]_64: 7699188716440751709
+      Lantern 1C[anim]_65: 8945752642885780071
+      Lantern 1C[anim]_66: 140556811862568404
+      Lantern 1C[anim]_67: 446708769870219199
+      Lantern 1C[anim]_68: 3265658562061782615
+      Lantern 1C[anim]_69: 9195322361644064150
+      Lantern 1C[anim]_7: 6841114489835412070
+      Lantern 1C[anim]_70: 2766569578147931863
+      Lantern 1C[anim]_71: 5994406100184909406
+      Lantern 1C[anim]_72: -3539827564708301170
+      Lantern 1C[anim]_73: 1975619532377160869
+      Lantern 1C[anim]_74: 7268235396753702669
+      Lantern 1C[anim]_75: -7260758298379523853
+      Lantern 1C[anim]_76: 7652102594399882719
+      Lantern 1C[anim]_77: 6819588960840226872
+      Lantern 1C[anim]_78: 7881641885802119388
+      Lantern 1C[anim]_79: -8581813466801113304
+      Lantern 1C[anim]_8: -109665429134623832
+      Lantern 1C[anim]_80: -4260430696719428835
+      Lantern 1C[anim]_81: 9066937803468433355
+      Lantern 1C[anim]_82: 1680167444248993728
+      Lantern 1C[anim]_83: 6980563352755850216
+      Lantern 1C[anim]_84: -1198726645233937969
+      Lantern 1C[anim]_85: -6368069057739197014
+      Lantern 1C[anim]_86: -1629770934619220650
+      Lantern 1C[anim]_87: 594350141067207531
+      Lantern 1C[anim]_88: 5605400347297799661
+      Lantern 1C[anim]_89: -8395907050019016904
+      Lantern 1C[anim]_9: -7836419145346956945
+      Lantern 1C[anim]_90: -6289317786412721402
+      Lantern 1C[anim]_91: 1054137059595048009
+      Lantern 1C[anim]_92: 5253086622490862796
+      Lantern 1C[anim]_93: 4332041641706517207
+      Lantern 1C[anim]_94: -4806397899340685858
+      Lantern 1C[anim]_95: 7517355616038901661
+      Lantern 1C[anim]_96: 5513227896286353396
+      Lantern 1C[anim]_97: 6229084995249439490
+      Lantern 1C[anim]_98: 8479087171881778885
+      Lantern 1C[anim]_99: 510407174316295439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: adc50e929cdf48d49a7bc85c39d24b6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8773172722472917099
+    second: Frog 2G[anim]_0
+  - first:
+      213: -5904595042971803485
+    second: Frog 2G[anim]_1
+  - first:
+      213: 8507779368027359762
+    second: Frog 2G[anim]_2
+  - first:
+      213: 5905044224347992314
+    second: Frog 2G[anim]_3
+  - first:
+      213: -2332578027022865189
+    second: Frog 2G[anim]_4
+  - first:
+      213: 2992279691710981653
+    second: Frog 2G[anim]_5
+  - first:
+      213: -2024938830690654155
+    second: Frog 2G[anim]_6
+  - first:
+      213: -1156143096700618237
+    second: Frog 2G[anim]_7
+  - first:
+      213: -7300537588912988003
+    second: Frog 2G[anim]_8
+  - first:
+      213: -9012186496584599852
+    second: Frog 2G[anim]_9
+  - first:
+      213: 8316113621783083497
+    second: Frog 2G[anim]_10
+  - first:
+      213: 3726967986738963211
+    second: Frog 2G[anim]_11
+  - first:
+      213: 8951811969366419176
+    second: Frog 2G[anim]_12
+  - first:
+      213: -8658597895438683112
+    second: Frog 2G[anim]_13
+  - first:
+      213: 2722479437444165774
+    second: Frog 2G[anim]_14
+  - first:
+      213: 2497109515894929630
+    second: Frog 2G[anim]_15
+  - first:
+      213: 5899446085324350582
+    second: Frog 2G[anim]_16
+  - first:
+      213: 2003130080292089471
+    second: Frog 2G[anim]_17
+  - first:
+      213: 4608078694002808680
+    second: Frog 2G[anim]_18
+  - first:
+      213: 7733195426739277005
+    second: Frog 2G[anim]_19
+  - first:
+      213: -7148224966104260834
+    second: Frog 2G[anim]_20
+  - first:
+      213: 883940671083828792
+    second: Frog 2G[anim]_21
+  - first:
+      213: -1400419052809402520
+    second: Frog 2G[anim]_22
+  - first:
+      213: -5674105691018526172
+    second: Frog 2G[anim]_23
+  - first:
+      213: 4328641348361079259
+    second: Frog 2G[anim]_24
+  - first:
+      213: 2759223036899158892
+    second: Frog 2G[anim]_25
+  - first:
+      213: 5608286545609827895
+    second: Frog 2G[anim]_26
+  - first:
+      213: 3361063844661851752
+    second: Frog 2G[anim]_27
+  - first:
+      213: 6901019543085940810
+    second: Frog 2G[anim]_28
+  - first:
+      213: -4044787782675743971
+    second: Frog 2G[anim]_29
+  - first:
+      213: 8559586209346750190
+    second: Frog 2G[anim]_30
+  - first:
+      213: 1353731672324639836
+    second: Frog 2G[anim]_31
+  - first:
+      213: -3487494323441734568
+    second: Frog 2G[anim]_32
+  - first:
+      213: 8616249842737875047
+    second: Frog 2G[anim]_33
+  - first:
+      213: 2072327908968200164
+    second: Frog 2G[anim]_34
+  - first:
+      213: -1168950933304585705
+    second: Frog 2G[anim]_35
+  - first:
+      213: 1631058526891062925
+    second: Frog 2G[anim]_36
+  - first:
+      213: -2363445390836003819
+    second: Frog 2G[anim]_37
+  - first:
+      213: 2812117186334261847
+    second: Frog 2G[anim]_38
+  - first:
+      213: -8745066899528742344
+    second: Frog 2G[anim]_39
+  - first:
+      213: -1913328402151457515
+    second: Frog 2G[anim]_40
+  - first:
+      213: 4426418689002747880
+    second: Frog 2G[anim]_41
+  - first:
+      213: 3469713135531756760
+    second: Frog 2G[anim]_42
+  - first:
+      213: -2683781483817778356
+    second: Frog 2G[anim]_43
+  - first:
+      213: 1751886594908633436
+    second: Frog 2G[anim]_44
+  - first:
+      213: -3146668863050833852
+    second: Frog 2G[anim]_45
+  - first:
+      213: -773271356959512992
+    second: Frog 2G[anim]_46
+  - first:
+      213: 1593466630899745061
+    second: Frog 2G[anim]_47
+  - first:
+      213: 9062974109440856803
+    second: Frog 2G[anim]_48
+  - first:
+      213: 1300912247417415579
+    second: Frog 2G[anim]_49
+  - first:
+      213: 6480788758368022597
+    second: Frog 2G[anim]_50
+  - first:
+      213: -1376565546427086283
+    second: Frog 2G[anim]_51
+  - first:
+      213: -2971393383201876489
+    second: Frog 2G[anim]_52
+  - first:
+      213: 18625296985590679
+    second: Frog 2G[anim]_53
+  - first:
+      213: -4627557909182338797
+    second: Frog 2G[anim]_54
+  - first:
+      213: 3637583089948057372
+    second: Frog 2G[anim]_55
+  - first:
+      213: 6557326460436330797
+    second: Frog 2G[anim]_56
+  - first:
+      213: 5885269917892217099
+    second: Frog 2G[anim]_57
+  - first:
+      213: 3931954440992992724
+    second: Frog 2G[anim]_58
+  - first:
+      213: -2321089099614679949
+    second: Frog 2G[anim]_59
+  - first:
+      213: 3230104789207486255
+    second: Frog 2G[anim]_60
+  - first:
+      213: 8589940341943058764
+    second: Frog 2G[anim]_61
+  - first:
+      213: -1100488839751319204
+    second: Frog 2G[anim]_62
+  - first:
+      213: 5814325753531439617
+    second: Frog 2G[anim]_63
+  - first:
+      213: 4547070167342503429
+    second: Frog 2G[anim]_64
+  - first:
+      213: -4200379784433026693
+    second: Frog 2G[anim]_65
+  - first:
+      213: 938615345173220009
+    second: Frog 2G[anim]_66
+  - first:
+      213: -8698569246590734348
+    second: Frog 2G[anim]_67
+  - first:
+      213: -4729054840621232553
+    second: Frog 2G[anim]_68
+  - first:
+      213: 8972242185211721468
+    second: Frog 2G[anim]_69
+  - first:
+      213: 655253855617767806
+    second: Frog 2G[anim]_70
+  - first:
+      213: 6674230539363225293
+    second: Frog 2G[anim]_71
+  - first:
+      213: -4248387888130264694
+    second: Frog 2G[anim]_72
+  - first:
+      213: -9121732451533306325
+    second: Frog 2G[anim]_73
+  - first:
+      213: 13819466727769456
+    second: Frog 2G[anim]_74
+  - first:
+      213: -4704379236580952199
+    second: Frog 2G[anim]_75
+  - first:
+      213: 1634910665316816742
+    second: Frog 2G[anim]_76
+  - first:
+      213: 8102636285951342572
+    second: Frog 2G[anim]_77
+  - first:
+      213: -1500121680919613790
+    second: Frog 2G[anim]_78
+  - first:
+      213: -7206006719504802190
+    second: Frog 2G[anim]_79
+  - first:
+      213: 691136282738898837
+    second: Frog 2G[anim]_80
+  - first:
+      213: 6146042474780589583
+    second: Frog 2G[anim]_81
+  - first:
+      213: 5191186019441715407
+    second: Frog 2G[anim]_82
+  - first:
+      213: 7398028660808156923
+    second: Frog 2G[anim]_83
+  - first:
+      213: -6849526791766496998
+    second: Frog 2G[anim]_84
+  - first:
+      213: 7016078330028543085
+    second: Frog 2G[anim]_85
+  - first:
+      213: 4860701910615843277
+    second: Frog 2G[anim]_86
+  - first:
+      213: 4469889711840309305
+    second: Frog 2G[anim]_87
+  - first:
+      213: 6267890377664984255
+    second: Frog 2G[anim]_88
+  - first:
+      213: -4069262842323278541
+    second: Frog 2G[anim]_89
+  - first:
+      213: -4699157633047069657
+    second: Frog 2G[anim]_90
+  - first:
+      213: 5914538097680811076
+    second: Frog 2G[anim]_91
+  - first:
+      213: 6150320815341337822
+    second: Frog 2G[anim]_92
+  - first:
+      213: 5012796755411462240
+    second: Frog 2G[anim]_93
+  - first:
+      213: -966568699682761254
+    second: Frog 2G[anim]_94
+  - first:
+      213: -2844849999852085530
+    second: Frog 2G[anim]_95
+  - first:
+      213: -1432450162994857300
+    second: Frog 2G[anim]_96
+  - first:
+      213: 7713268407561557083
+    second: Frog 2G[anim]_97
+  - first:
+      213: -6241757809849195379
+    second: Frog 2G[anim]_98
+  - first:
+      213: 4323381247563029497
+    second: Frog 2G[anim]_99
+  - first:
+      213: 6264100107023210756
+    second: Frog 2G[anim]_100
+  - first:
+      213: 7449022486144937841
+    second: Frog 2G[anim]_101
+  - first:
+      213: 1490355399824212216
+    second: Frog 2G[anim]_102
+  - first:
+      213: 6927452725122967885
+    second: Frog 2G[anim]_103
+  - first:
+      213: -7382405636449265592
+    second: Frog 2G[anim]_104
+  - first:
+      213: -3883131874119166343
+    second: Frog 2G[anim]_105
+  - first:
+      213: 2738052857614168166
+    second: Frog 2G[anim]_106
+  - first:
+      213: 2144110096382222074
+    second: Frog 2G[anim]_107
+  - first:
+      213: 4205575165337301972
+    second: Frog 2G[anim]_108
+  - first:
+      213: -6298846886153027782
+    second: Frog 2G[anim]_109
+  - first:
+      213: -4795194911837172053
+    second: Frog 2G[anim]_110
+  - first:
+      213: 747953083926547264
+    second: Frog 2G[anim]_111
+  - first:
+      213: -3832131129460967192
+    second: Frog 2G[anim]_112
+  - first:
+      213: 2389481780217464735
+    second: Frog 2G[anim]_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frog 2G[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2091
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ead324ed6f3680800000000000000
+      internalID: -8773172722472917099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2091
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a02221a71aae0ea0800000000000000
+      internalID: -5904595042971803485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2091
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0ba25244b11670800000000000000
+      internalID: 8507779368027359762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2091
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fb3f8f6ee2f150800000000000000
+      internalID: 5905044224347992314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1930
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcab6894a401afd0800000000000000
+      internalID: -2332578027022865189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1930
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5166c0d9686b68920800000000000000
+      internalID: 2992279691710981653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1930
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538e9c0bcd8f5e3e0800000000000000
+      internalID: -2024938830690654155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1930
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ab3a3aafd84ffe0800000000000000
+      internalID: -1156143096700618237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1771
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9064772eb74faa90800000000000000
+      internalID: -7300537588912988003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1771
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b08541284ee280800000000000000
+      internalID: -9012186496584599852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1771
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9fa224745c86370800000000000000
+      internalID: 8316113621783083497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1771
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0324da33a9d8b330800000000000000
+      internalID: 3726967986738963211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1615
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ec22be893b3c70800000000000000
+      internalID: 8951811969366419176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1615
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814be6dd61b76d780800000000000000
+      internalID: -8658597895438683112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1615
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e803a21cf9038c520800000000000000
+      internalID: 2722479437444165774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1615
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83a2cdfd387a220800000000000000
+      internalID: 2497109515894929630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1451
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a35f35fa0fd150800000000000000
+      internalID: 5899446085324350582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1451
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea5bae13c8ccb10800000000000000
+      internalID: 2003130080292089471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1451
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8675515582f23ff30800000000000000
+      internalID: 4608078694002808680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1451
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4875b444d15b60800000000000000
+      internalID: 7733195426739277005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1291
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd6c824476ccc90800000000000000
+      internalID: -7148224966104260834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1291
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d8766b53644c00800000000000000
+      internalID: 883940671083828792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1291
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674b9c8a46b09ce0800000000000000
+      internalID: -1400419052809402520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1291
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42281dccfe68141b0800000000000000
+      internalID: -5674105691018526172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1131
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd941294f5c621c30800000000000000
+      internalID: 4328641348361079259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1131
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be27aabbaba4620800000000000000
+      internalID: 2759223036899158892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1131
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7362da536e2a4dd40800000000000000
+      internalID: 5608286545609827895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1131
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8667a7052c5e4ae20800000000000000
+      internalID: 3361063844661851752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 971
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a408aa516b855cf50800000000000000
+      internalID: 6901019543085940810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 971
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb5cd11f60ed7c0800000000000000
+      internalID: -4044787782675743971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 971
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee602788e42c9c670800000000000000
+      internalID: 8559586209346750190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 971
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0b1a98cb69c210800000000000000
+      internalID: 1353731672324639836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 810
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c601fe36ee99fc0800000000000000
+      internalID: -3487494323441734568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 810
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7680864c491139770800000000000000
+      internalID: 8616249842737875047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 810
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e77d28e04362cc10800000000000000
+      internalID: 2072327908968200164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 812
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d48cc15d07cfe0800000000000000
+      internalID: -1168950933304585705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 650
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b637a61fa2a610800000000000000
+      internalID: 1631058526891062925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 650
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c8f2960fa533fd0800000000000000
+      internalID: -2363445390836003819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 650
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75289368ea5a60720800000000000000
+      internalID: 2812117186334261847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 652
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a009cfcf743a680800000000000000
+      internalID: -8745066899528742344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 491
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51db81b94fd7275e0800000000000000
+      internalID: -1913328402151457515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 491
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b821785ccd6d30800000000000000
+      internalID: 4426418689002747880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 491
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc80e3a6b5e62030800000000000000
+      internalID: 3469713135531756760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 491
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434542b5fa41cad0800000000000000
+      internalID: -2683781483817778356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 331
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593c408393ff4810800000000000000
+      internalID: 1751886594908633436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 331
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a2104759c454d0800000000000000
+      internalID: -3146668863050833852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 331
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a17d3cc9c445f0800000000000000
+      internalID: -773271356959512992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 331
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c73055712d1610800000000000000
+      internalID: 1593466630899745061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 171
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d8c15fe626cd70800000000000000
+      internalID: 9062974109440856803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972547ebc4cd0210800000000000000
+      internalID: 1300912247417415579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 171
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540fedef90360f950800000000000000
+      internalID: 6480788758368022597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 171
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0c2bcde475ece0800000000000000
+      internalID: -1376565546427086283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f55e4a067d73c6d0800000000000000
+      internalID: -2971393383201876489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b89a2eb9b224000800000000000000
+      internalID: 18625296985590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31923a5799c97cfb0800000000000000
+      internalID: -4627557909182338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f525d2c8a4b7230800000000000000
+      internalID: 3637583089948057372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29b39e6cad400b50800000000000000
+      internalID: 6557326460436330797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09024f0fcdaca150800000000000000
+      internalID: 5885269917892217099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 111
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd28605bbb119630800000000000000
+      internalID: 3931954440992992724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c8f65f2c5d9cfd0800000000000000
+      internalID: -2321089099614679949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f00042133a3dc20800000000000000
+      internalID: 3230104789207486255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c414053ca39953770800000000000000
+      internalID: 8589940341943058764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51475b1b374ab0f0800000000000000
+      internalID: -1100488839751319204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a95ab9772a0b050800000000000000
+      internalID: 5814325753531439617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d93dc9307a1f30800000000000000
+      internalID: 4547070167342503429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79332337d045b5c0800000000000000
+      internalID: -4200379784433026693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac7c5fea1a60d00800000000000000
+      internalID: 938615345173220009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff62d27b59784780800000000000000
+      internalID: -8698569246590734348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e0e659da50f5eb0800000000000000
+      internalID: -4729054840621232553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b1500bbec38c70800000000000000
+      internalID: 8972242185211721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795dc5f8ede71900800000000000000
+      internalID: 655253855617767806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce0fcf5051af9c50800000000000000
+      internalID: 6674230539363225293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817ce389b1ba05c0800000000000000
+      internalID: -4248387888130264694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2644321aa8196180800000000000000
+      internalID: -9121732451533306325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0754b455bb8113000800000000000000
+      internalID: 13819466727769456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777eda5200b6beb0800000000000000
+      internalID: -4704379236580952199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d4b5869e50b610800000000000000
+      internalID: 1634910665316816742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7f150c5c8527070800000000000000
+      internalID: 8102636285951342572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeace8774f7e2be0800000000000000
+      internalID: -1500121680919613790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e96d2511f1ffb90800000000000000
+      internalID: -7206006719504802190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597390099c8679900800000000000000
+      internalID: 691136282738898837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e72c351112b4550800000000000000
+      internalID: 6146042474780589583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc82ccb3e2cca0840800000000000000
+      internalID: 5191186019441715407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf601added31ba660800000000000000
+      internalID: 7398028660808156923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ac395ca791f0a0800000000000000
+      internalID: -6849526791766496998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccaa1811e1e5160800000000000000
+      internalID: 7016078330028543085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e15572aea47340800000000000000
+      internalID: 4860701910615843277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303a6ba20d380e30800000000000000
+      internalID: 4469889711840309305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb47fcbf6150cf650800000000000000
+      internalID: 6267890377664984255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ef9931031787c0800000000000000
+      internalID: -4069262842323278541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cf9aaa70d39ceb0800000000000000
+      internalID: -4699157633047069657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44487c23019a41250800000000000000
+      internalID: 5914538097680811076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7c1d12345a5550800000000000000
+      internalID: 6150320815341337822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e7811718019540800000000000000
+      internalID: 5012796755411462240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d56483ee0692f0800000000000000
+      internalID: -966568699682761254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eedb8f6fff0588d0800000000000000
+      internalID: -2844849999852085530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caabd3c8a2aee1ce0800000000000000
+      internalID: -1432450162994857300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5413f100c80b0b60800000000000000
+      internalID: 7713268407561557083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d842be99752d069a0800000000000000
+      internalID: -6241757809849195379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5491a65cbffb30800000000000000
+      internalID: 4323381247563029497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409da94dbdd8ee650800000000000000
+      internalID: 6264100107023210756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fe09a0c7e306760800000000000000
+      internalID: 7449022486144937841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f08b93075ecea410800000000000000
+      internalID: 1490355399824212216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49244fdc81432060800000000000000
+      internalID: 6927452725122967885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489993ff2d6c8990800000000000000
+      internalID: -7382405636449265592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976512b52285c1ac0800000000000000
+      internalID: -3883131874119166343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f55231948ff520800000000000000
+      internalID: 2738052857614168166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed03ec5c861cd10800000000000000
+      internalID: 2144110096382222074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3722ea4543d5a30800000000000000
+      internalID: 4205575165337301972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff54831200698a0800000000000000
+      internalID: -6298846886153027782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4f2b32ab047db0800000000000000
+      internalID: -4795194911837172053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8914fd53416a00800000000000000
+      internalID: 747953083926547264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e833cf8a0981dac0800000000000000
+      internalID: -3832131129460967192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog 2G[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974123e405292120800000000000000
+      internalID: 2389481780217464735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frog 2G[anim]_0: -8773172722472917099
+      Frog 2G[anim]_1: -5904595042971803485
+      Frog 2G[anim]_10: 8316113621783083497
+      Frog 2G[anim]_100: 6264100107023210756
+      Frog 2G[anim]_101: 7449022486144937841
+      Frog 2G[anim]_102: 1490355399824212216
+      Frog 2G[anim]_103: 6927452725122967885
+      Frog 2G[anim]_104: -7382405636449265592
+      Frog 2G[anim]_105: -3883131874119166343
+      Frog 2G[anim]_106: 2738052857614168166
+      Frog 2G[anim]_107: 2144110096382222074
+      Frog 2G[anim]_108: 4205575165337301972
+      Frog 2G[anim]_109: -6298846886153027782
+      Frog 2G[anim]_11: 3726967986738963211
+      Frog 2G[anim]_110: -4795194911837172053
+      Frog 2G[anim]_111: 747953083926547264
+      Frog 2G[anim]_112: -3832131129460967192
+      Frog 2G[anim]_113: 2389481780217464735
+      Frog 2G[anim]_12: 8951811969366419176
+      Frog 2G[anim]_13: -8658597895438683112
+      Frog 2G[anim]_14: 2722479437444165774
+      Frog 2G[anim]_15: 2497109515894929630
+      Frog 2G[anim]_16: 5899446085324350582
+      Frog 2G[anim]_17: 2003130080292089471
+      Frog 2G[anim]_18: 4608078694002808680
+      Frog 2G[anim]_19: 7733195426739277005
+      Frog 2G[anim]_2: 8507779368027359762
+      Frog 2G[anim]_20: -7148224966104260834
+      Frog 2G[anim]_21: 883940671083828792
+      Frog 2G[anim]_22: -1400419052809402520
+      Frog 2G[anim]_23: -5674105691018526172
+      Frog 2G[anim]_24: 4328641348361079259
+      Frog 2G[anim]_25: 2759223036899158892
+      Frog 2G[anim]_26: 5608286545609827895
+      Frog 2G[anim]_27: 3361063844661851752
+      Frog 2G[anim]_28: 6901019543085940810
+      Frog 2G[anim]_29: -4044787782675743971
+      Frog 2G[anim]_3: 5905044224347992314
+      Frog 2G[anim]_30: 8559586209346750190
+      Frog 2G[anim]_31: 1353731672324639836
+      Frog 2G[anim]_32: -3487494323441734568
+      Frog 2G[anim]_33: 8616249842737875047
+      Frog 2G[anim]_34: 2072327908968200164
+      Frog 2G[anim]_35: -1168950933304585705
+      Frog 2G[anim]_36: 1631058526891062925
+      Frog 2G[anim]_37: -2363445390836003819
+      Frog 2G[anim]_38: 2812117186334261847
+      Frog 2G[anim]_39: -8745066899528742344
+      Frog 2G[anim]_4: -2332578027022865189
+      Frog 2G[anim]_40: -1913328402151457515
+      Frog 2G[anim]_41: 4426418689002747880
+      Frog 2G[anim]_42: 3469713135531756760
+      Frog 2G[anim]_43: -2683781483817778356
+      Frog 2G[anim]_44: 1751886594908633436
+      Frog 2G[anim]_45: -3146668863050833852
+      Frog 2G[anim]_46: -773271356959512992
+      Frog 2G[anim]_47: 1593466630899745061
+      Frog 2G[anim]_48: 9062974109440856803
+      Frog 2G[anim]_49: 1300912247417415579
+      Frog 2G[anim]_5: 2992279691710981653
+      Frog 2G[anim]_50: 6480788758368022597
+      Frog 2G[anim]_51: -1376565546427086283
+      Frog 2G[anim]_52: -2971393383201876489
+      Frog 2G[anim]_53: 18625296985590679
+      Frog 2G[anim]_54: -4627557909182338797
+      Frog 2G[anim]_55: 3637583089948057372
+      Frog 2G[anim]_56: 6557326460436330797
+      Frog 2G[anim]_57: 5885269917892217099
+      Frog 2G[anim]_58: 3931954440992992724
+      Frog 2G[anim]_59: -2321089099614679949
+      Frog 2G[anim]_6: -2024938830690654155
+      Frog 2G[anim]_60: 3230104789207486255
+      Frog 2G[anim]_61: 8589940341943058764
+      Frog 2G[anim]_62: -1100488839751319204
+      Frog 2G[anim]_63: 5814325753531439617
+      Frog 2G[anim]_64: 4547070167342503429
+      Frog 2G[anim]_65: -4200379784433026693
+      Frog 2G[anim]_66: 938615345173220009
+      Frog 2G[anim]_67: -8698569246590734348
+      Frog 2G[anim]_68: -4729054840621232553
+      Frog 2G[anim]_69: 8972242185211721468
+      Frog 2G[anim]_7: -1156143096700618237
+      Frog 2G[anim]_70: 655253855617767806
+      Frog 2G[anim]_71: 6674230539363225293
+      Frog 2G[anim]_72: -4248387888130264694
+      Frog 2G[anim]_73: -9121732451533306325
+      Frog 2G[anim]_74: 13819466727769456
+      Frog 2G[anim]_75: -4704379236580952199
+      Frog 2G[anim]_76: 1634910665316816742
+      Frog 2G[anim]_77: 8102636285951342572
+      Frog 2G[anim]_78: -1500121680919613790
+      Frog 2G[anim]_79: -7206006719504802190
+      Frog 2G[anim]_8: -7300537588912988003
+      Frog 2G[anim]_80: 691136282738898837
+      Frog 2G[anim]_81: 6146042474780589583
+      Frog 2G[anim]_82: 5191186019441715407
+      Frog 2G[anim]_83: 7398028660808156923
+      Frog 2G[anim]_84: -6849526791766496998
+      Frog 2G[anim]_85: 7016078330028543085
+      Frog 2G[anim]_86: 4860701910615843277
+      Frog 2G[anim]_87: 4469889711840309305
+      Frog 2G[anim]_88: 6267890377664984255
+      Frog 2G[anim]_89: -4069262842323278541
+      Frog 2G[anim]_9: -9012186496584599852
+      Frog 2G[anim]_90: -4699157633047069657
+      Frog 2G[anim]_91: 5914538097680811076
+      Frog 2G[anim]_92: 6150320815341337822
+      Frog 2G[anim]_93: 5012796755411462240
+      Frog 2G[anim]_94: -966568699682761254
+      Frog 2G[anim]_95: -2844849999852085530
+      Frog 2G[anim]_96: -1432450162994857300
+      Frog 2G[anim]_97: 7713268407561557083
+      Frog 2G[anim]_98: -6241757809849195379
+      Frog 2G[anim]_99: 4323381247563029497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: f085fe0176046e54f891f46a1873d98c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 287386259497004697
+    second: Barrel 2B[anim]_0
+  - first:
+      213: -4630177482938465908
+    second: Barrel 2B[anim]_1
+  - first:
+      213: 2132880482519304472
+    second: Barrel 2B[anim]_2
+  - first:
+      213: -4155807051024523922
+    second: Barrel 2B[anim]_3
+  - first:
+      213: 2599920813491158417
+    second: Barrel 2B[anim]_4
+  - first:
+      213: -8578538267927351626
+    second: Barrel 2B[anim]_5
+  - first:
+      213: -6830499223932608126
+    second: Barrel 2B[anim]_6
+  - first:
+      213: 877238617386321949
+    second: Barrel 2B[anim]_7
+  - first:
+      213: -2504505509001907398
+    second: Barrel 2B[anim]_8
+  - first:
+      213: 7985950906143031818
+    second: Barrel 2B[anim]_9
+  - first:
+      213: -8321949696522649925
+    second: Barrel 2B[anim]_10
+  - first:
+      213: -3821859608846322167
+    second: Barrel 2B[anim]_11
+  - first:
+      213: -8333352428439628365
+    second: Barrel 2B[anim]_12
+  - first:
+      213: -6398634480266615945
+    second: Barrel 2B[anim]_13
+  - first:
+      213: 4404750320266573898
+    second: Barrel 2B[anim]_14
+  - first:
+      213: 2025690657477436443
+    second: Barrel 2B[anim]_15
+  - first:
+      213: -6045851261467178967
+    second: Barrel 2B[anim]_16
+  - first:
+      213: 3775911077837241010
+    second: Barrel 2B[anim]_17
+  - first:
+      213: -8273840467844254580
+    second: Barrel 2B[anim]_18
+  - first:
+      213: 344853624968484546
+    second: Barrel 2B[anim]_19
+  - first:
+      213: 4484963176926412984
+    second: Barrel 2B[anim]_20
+  - first:
+      213: -3219529547737309502
+    second: Barrel 2B[anim]_21
+  - first:
+      213: 8422853768710770944
+    second: Barrel 2B[anim]_22
+  - first:
+      213: 8820741798380929095
+    second: Barrel 2B[anim]_23
+  - first:
+      213: 7411130014047121074
+    second: Barrel 2B[anim]_24
+  - first:
+      213: -7307319206594987962
+    second: Barrel 2B[anim]_25
+  - first:
+      213: 3976571604196696010
+    second: Barrel 2B[anim]_26
+  - first:
+      213: -3763101528754750150
+    second: Barrel 2B[anim]_27
+  - first:
+      213: 3650145110509826577
+    second: Barrel 2B[anim]_28
+  - first:
+      213: -1424298669896617877
+    second: Barrel 2B[anim]_29
+  - first:
+      213: -4326833077690903523
+    second: Barrel 2B[anim]_30
+  - first:
+      213: 7520431313590719908
+    second: Barrel 2B[anim]_31
+  - first:
+      213: -4991935928504847294
+    second: Barrel 2B[anim]_32
+  - first:
+      213: -1691034304416112403
+    second: Barrel 2B[anim]_33
+  - first:
+      213: -8698465496614240071
+    second: Barrel 2B[anim]_34
+  - first:
+      213: -6331185959744949938
+    second: Barrel 2B[anim]_35
+  - first:
+      213: 4402312454031395550
+    second: Barrel 2B[anim]_36
+  - first:
+      213: 5961965875921799174
+    second: Barrel 2B[anim]_37
+  - first:
+      213: -1004813860320993826
+    second: Barrel 2B[anim]_38
+  - first:
+      213: -6204634382769826567
+    second: Barrel 2B[anim]_39
+  - first:
+      213: 3319847026758714778
+    second: Barrel 2B[anim]_40
+  - first:
+      213: 232747766128156244
+    second: Barrel 2B[anim]_41
+  - first:
+      213: 1868313770141440010
+    second: Barrel 2B[anim]_42
+  - first:
+      213: -1054531252129671920
+    second: Barrel 2B[anim]_43
+  - first:
+      213: -1046995895958065020
+    second: Barrel 2B[anim]_44
+  - first:
+      213: -6404387924145239670
+    second: Barrel 2B[anim]_45
+  - first:
+      213: 5364191293221843613
+    second: Barrel 2B[anim]_46
+  - first:
+      213: -5469608795048752794
+    second: Barrel 2B[anim]_47
+  - first:
+      213: -1634606000560656782
+    second: Barrel 2B[anim]_48
+  - first:
+      213: -2945554810674529302
+    second: Barrel 2B[anim]_49
+  - first:
+      213: -6224047869453327767
+    second: Barrel 2B[anim]_50
+  - first:
+      213: -3932349577520376106
+    second: Barrel 2B[anim]_51
+  - first:
+      213: -5511945549441972076
+    second: Barrel 2B[anim]_52
+  - first:
+      213: -2830940187588451739
+    second: Barrel 2B[anim]_53
+  - first:
+      213: 3192659713709937355
+    second: Barrel 2B[anim]_54
+  - first:
+      213: -1151284744655500687
+    second: Barrel 2B[anim]_55
+  - first:
+      213: 2349215796923068671
+    second: Barrel 2B[anim]_56
+  - first:
+      213: 6972179092503825568
+    second: Barrel 2B[anim]_57
+  - first:
+      213: 3634601911807058910
+    second: Barrel 2B[anim]_58
+  - first:
+      213: -1962927493476834757
+    second: Barrel 2B[anim]_59
+  - first:
+      213: 453637189146478774
+    second: Barrel 2B[anim]_60
+  - first:
+      213: -4987583979065910043
+    second: Barrel 2B[anim]_61
+  - first:
+      213: 3173093311029719196
+    second: Barrel 2B[anim]_62
+  - first:
+      213: -5872570751821978639
+    second: Barrel 2B[anim]_63
+  - first:
+      213: -6816173589117091866
+    second: Barrel 2B[anim]_64
+  - first:
+      213: -1673114066375682004
+    second: Barrel 2B[anim]_65
+  - first:
+      213: -3384865705475758082
+    second: Barrel 2B[anim]_66
+  - first:
+      213: 151330714333263081
+    second: Barrel 2B[anim]_67
+  - first:
+      213: -6852416566605687619
+    second: Barrel 2B[anim]_68
+  - first:
+      213: -5721606527949298604
+    second: Barrel 2B[anim]_69
+  - first:
+      213: 6119332138911784818
+    second: Barrel 2B[anim]_70
+  - first:
+      213: 5238352457557813810
+    second: Barrel 2B[anim]_71
+  - first:
+      213: -4493876999785563541
+    second: Barrel 2B[anim]_72
+  - first:
+      213: 7517431135017859362
+    second: Barrel 2B[anim]_73
+  - first:
+      213: -2342608416613897950
+    second: Barrel 2B[anim]_74
+  - first:
+      213: -2280070320463649944
+    second: Barrel 2B[anim]_75
+  - first:
+      213: -6541766964382829543
+    second: Barrel 2B[anim]_76
+  - first:
+      213: -1749869845839573581
+    second: Barrel 2B[anim]_77
+  - first:
+      213: -1486892336554749256
+    second: Barrel 2B[anim]_78
+  - first:
+      213: -820691058740737859
+    second: Barrel 2B[anim]_79
+  - first:
+      213: 5418474797312707868
+    second: Barrel 2B[anim]_80
+  - first:
+      213: 6208406865768674048
+    second: Barrel 2B[anim]_81
+  - first:
+      213: -1659818759478104878
+    second: Barrel 2B[anim]_82
+  - first:
+      213: 6982869885535024642
+    second: Barrel 2B[anim]_83
+  - first:
+      213: 4010414942818358929
+    second: Barrel 2B[anim]_84
+  - first:
+      213: 2582182234615714727
+    second: Barrel 2B[anim]_85
+  - first:
+      213: -8213560693591358168
+    second: Barrel 2B[anim]_86
+  - first:
+      213: 1541698172004685218
+    second: Barrel 2B[anim]_87
+  - first:
+      213: 3047385465008791027
+    second: Barrel 2B[anim]_88
+  - first:
+      213: -2708279218978222775
+    second: Barrel 2B[anim]_89
+  - first:
+      213: 8786511976464214865
+    second: Barrel 2B[anim]_90
+  - first:
+      213: -3008627568603929281
+    second: Barrel 2B[anim]_91
+  - first:
+      213: -1127175051393893633
+    second: Barrel 2B[anim]_92
+  - first:
+      213: -1610913890995405636
+    second: Barrel 2B[anim]_93
+  - first:
+      213: -1463358546941049162
+    second: Barrel 2B[anim]_94
+  - first:
+      213: -5566229578077334558
+    second: Barrel 2B[anim]_95
+  - first:
+      213: -1407884914814870564
+    second: Barrel 2B[anim]_96
+  - first:
+      213: -2510441169949395861
+    second: Barrel 2B[anim]_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2093
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea5a6c7400df300800000000000000
+      internalID: 287386259497004697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2093
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c07a6c1e4ebfb0800000000000000
+      internalID: -4630177482938465908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2093
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8194de49f73899d10800000000000000
+      internalID: 2132880482519304472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2093
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9e98618b9356c0800000000000000
+      internalID: -4155807051024523922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1933
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df8447436c41420800000000000000
+      internalID: 2599920813491158417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1933
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be681875e8e2f880800000000000000
+      internalID: -8578538267927351626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1933
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2816ae635213531a0800000000000000
+      internalID: -6830499223932608126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1933
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18019cefd39c2c00800000000000000
+      internalID: 877238617386321949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1773
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33beed42853e3dd0800000000000000
+      internalID: -2504505509001907398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1773
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a024d5aa90cc3de60800000000000000
+      internalID: 7985950906143031818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1773
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef814b7de728c80800000000000000
+      internalID: -8321949696522649925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1773
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9063d415fe606fac0800000000000000
+      internalID: -3821859608846322167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1614
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b597ba4e1cf95c80800000000000000
+      internalID: -8333352428439628365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1614
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773642477db7337a0800000000000000
+      internalID: -6398634480266615945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1614
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f6c33411d02d30800000000000000
+      internalID: 4404750320266573898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1614
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1425cf9be2bc1c10800000000000000
+      internalID: 2025690657477436443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1453
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c66b5f42d81ca0800000000000000
+      internalID: -6045851261467178967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1453
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba73f1ae1bb66430800000000000000
+      internalID: 3775911077837241010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1453
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8434e16ee96d2d80800000000000000
+      internalID: -8273840467844254580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1453
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c690c77b8a29c400800000000000000
+      internalID: 344853624968484546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1293
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0086f3f3acd3e30800000000000000
+      internalID: 4484963176926412984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1293
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5e332feee153d0800000000000000
+      internalID: -3219529547737309502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1293
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d01f50ecf3e470800000000000000
+      internalID: 8422853768710770944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1293
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408feb6ee1996a70800000000000000
+      internalID: 8820741798380929095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1133
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bea38f5b7f99d660800000000000000
+      internalID: 7411130014047121074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1133
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648348eb5ef279a90800000000000000
+      internalID: -7307319206594987962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1133
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf9c042ece9f2730800000000000000
+      internalID: 3976571604196696010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1133
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df7dce817c6cbc0800000000000000
+      internalID: -3763101528754750150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 973
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112319283abe7a230800000000000000
+      internalID: 3650145110509826577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 973
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6030cee7efdb3ce0800000000000000
+      internalID: -1424298669896617877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 973
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d2d98d3004f3c0800000000000000
+      internalID: -4326833077690903523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 973
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a59c4c4f60fd5860800000000000000
+      internalID: 7520431313590719908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 813
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24475ffa8b419bab0800000000000000
+      internalID: -4991935928504847294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 813
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02746724d3888e0800000000000000
+      internalID: -1691034304416112403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 833
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0015f97b7d84780800000000000000
+      internalID: -8698465496614240071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 822
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e413676e9eb1328a0800000000000000
+      internalID: -6331185959744949938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 653
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edac1dc3ad7281d30800000000000000
+      internalID: 4402312454031395550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 653
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c15550682db250800000000000000
+      internalID: 5961965875921799174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 673
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd9d262e1f2e02f0800000000000000
+      internalID: -1004813860320993826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 662
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f454d507e5b4e9a0800000000000000
+      internalID: -6204634382769826567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 493
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9507921847721e20800000000000000
+      internalID: 3319847026758714778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 493
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e95523cd2ea3300800000000000000
+      internalID: 232747766128156244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 493
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a085046a9759de910800000000000000
+      internalID: 1868313770141440010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 493
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0155340d96d8d51f0800000000000000
+      internalID: -1054531252129671920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 333
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480b024a7c25871f0800000000000000
+      internalID: -1046995895958065020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 333
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8985896d1b0f17a0800000000000000
+      internalID: -6404387924145239670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 353
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923bbb7f8f617a40800000000000000
+      internalID: 5364191293221843613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 342
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66944c6b7cb0814b0800000000000000
+      internalID: -5469608795048752794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 173
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2cd4c086b059e0800000000000000
+      internalID: -1634606000560656782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 173
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3d4381894f17d0800000000000000
+      internalID: -2945554810674529302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 173
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962253c607dbf99a0800000000000000
+      internalID: -6224047869453327767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 173
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d69d3bc4ec7d69c0800000000000000
+      internalID: -3932349577520376106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4984730f9b2a183b0800000000000000
+      internalID: -5511945549441972076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a96af5ea76b8d0800000000000000
+      internalID: -2830940187588451739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 111
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2916c181b9e4c20800000000000000
+      internalID: 3192659713709937355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8b7fdf90d500f0800000000000000
+      internalID: -1151284744655500687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 81
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f55412571a9020800000000000000
+      internalID: 2349215796923068671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac8817c1f722c060800000000000000
+      internalID: 6972179092503825568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3273d8e23b07230800000000000000
+      internalID: 3634601911807058910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32277f38d742c4e0800000000000000
+      internalID: -1962927493476834757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88bfbbe94ab4600800000000000000
+      internalID: 453637189146478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd850ebca88cab0800000000000000
+      internalID: -4987583979065910043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90381bfd87190c20800000000000000
+      internalID: 3173093311029719196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f36d43f300708ea0800000000000000
+      internalID: -5872570751821978639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efb64dfb361861a0800000000000000
+      internalID: -6816173589117091866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d7f40f97e7c8e0800000000000000
+      internalID: -1673114066375682004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef727bc139a8601d0800000000000000
+      internalID: -3384865705475758082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b07f9b72a91200800000000000000
+      internalID: 151330714333263081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db45776307357e0a0800000000000000
+      internalID: -6852416566605687619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a60d5d25c890b0800000000000000
+      internalID: -5721606527949298604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd772a82c3ce450800000000000000
+      internalID: 6119332138911784818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a27016ecd52b840800000000000000
+      internalID: 5238352457557813810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6abb73adaa82a1c0800000000000000
+      internalID: -4493876999785563541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229733ac9c7435860800000000000000
+      internalID: 7517431135017859362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22963e78e026d7fd0800000000000000
+      internalID: -2342608416613897950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8636ad5bf109b50e0800000000000000
+      internalID: -2280070320463649944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914739c0b99f635a0800000000000000
+      internalID: -6541766964382829543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd809b75a637b7e0800000000000000
+      internalID: -1749869845839573581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2576c3c4f7d5be0800000000000000
+      internalID: -1486892336554749256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84b6d84d15c94f0800000000000000
+      internalID: -820691058740737859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0b3eae1a423b40800000000000000
+      internalID: 5418474797312707868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003fc3f9621b82650800000000000000
+      internalID: 6208406865768674048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc27c1e1a327f8e0800000000000000
+      internalID: -1659818759478104878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20676100a2328e060800000000000000
+      internalID: 6982869885535024642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965b94742bd7a730800000000000000
+      internalID: 4010414942818358929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a31897bf01c5d320800000000000000
+      internalID: 2582182234615714727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82540650112930e80800000000000000
+      internalID: -8213560693591358168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55535b156356510800000000000000
+      internalID: 1541698172004685218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd99874fec7a4a20800000000000000
+      internalID: 3047385465008791027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d0b3046624a6ad0800000000000000
+      internalID: -2708279218978222775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6dd3f616ffe970800000000000000
+      internalID: 8786511976464214865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356aefaa253f36d0800000000000000
+      internalID: -3008627568603929281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffafbf543487b50f0800000000000000
+      internalID: -1127175051393893633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf973e952e4a9e0800000000000000
+      internalID: -1610913890995405636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b60c8e972b11bbe0800000000000000
+      internalID: -1463358546941049162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39d6c90b7c0c2b0800000000000000
+      internalID: -5566229578077334558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb14d71120367ce0800000000000000
+      internalID: -1407884914814870564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel 2B[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6476ab8e0f192dd0800000000000000
+      internalID: -2510441169949395861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barrel 2B[anim]_0: 287386259497004697
+      Barrel 2B[anim]_1: -4630177482938465908
+      Barrel 2B[anim]_10: -8321949696522649925
+      Barrel 2B[anim]_11: -3821859608846322167
+      Barrel 2B[anim]_12: -8333352428439628365
+      Barrel 2B[anim]_13: -6398634480266615945
+      Barrel 2B[anim]_14: 4404750320266573898
+      Barrel 2B[anim]_15: 2025690657477436443
+      Barrel 2B[anim]_16: -6045851261467178967
+      Barrel 2B[anim]_17: 3775911077837241010
+      Barrel 2B[anim]_18: -8273840467844254580
+      Barrel 2B[anim]_19: 344853624968484546
+      Barrel 2B[anim]_2: 2132880482519304472
+      Barrel 2B[anim]_20: 4484963176926412984
+      Barrel 2B[anim]_21: -3219529547737309502
+      Barrel 2B[anim]_22: 8422853768710770944
+      Barrel 2B[anim]_23: 8820741798380929095
+      Barrel 2B[anim]_24: 7411130014047121074
+      Barrel 2B[anim]_25: -7307319206594987962
+      Barrel 2B[anim]_26: 3976571604196696010
+      Barrel 2B[anim]_27: -3763101528754750150
+      Barrel 2B[anim]_28: 3650145110509826577
+      Barrel 2B[anim]_29: -1424298669896617877
+      Barrel 2B[anim]_3: -4155807051024523922
+      Barrel 2B[anim]_30: -4326833077690903523
+      Barrel 2B[anim]_31: 7520431313590719908
+      Barrel 2B[anim]_32: -4991935928504847294
+      Barrel 2B[anim]_33: -1691034304416112403
+      Barrel 2B[anim]_34: -8698465496614240071
+      Barrel 2B[anim]_35: -6331185959744949938
+      Barrel 2B[anim]_36: 4402312454031395550
+      Barrel 2B[anim]_37: 5961965875921799174
+      Barrel 2B[anim]_38: -1004813860320993826
+      Barrel 2B[anim]_39: -6204634382769826567
+      Barrel 2B[anim]_4: 2599920813491158417
+      Barrel 2B[anim]_40: 3319847026758714778
+      Barrel 2B[anim]_41: 232747766128156244
+      Barrel 2B[anim]_42: 1868313770141440010
+      Barrel 2B[anim]_43: -1054531252129671920
+      Barrel 2B[anim]_44: -1046995895958065020
+      Barrel 2B[anim]_45: -6404387924145239670
+      Barrel 2B[anim]_46: 5364191293221843613
+      Barrel 2B[anim]_47: -5469608795048752794
+      Barrel 2B[anim]_48: -1634606000560656782
+      Barrel 2B[anim]_49: -2945554810674529302
+      Barrel 2B[anim]_5: -8578538267927351626
+      Barrel 2B[anim]_50: -6224047869453327767
+      Barrel 2B[anim]_51: -3932349577520376106
+      Barrel 2B[anim]_52: -5511945549441972076
+      Barrel 2B[anim]_53: -2830940187588451739
+      Barrel 2B[anim]_54: 3192659713709937355
+      Barrel 2B[anim]_55: -1151284744655500687
+      Barrel 2B[anim]_56: 2349215796923068671
+      Barrel 2B[anim]_57: 6972179092503825568
+      Barrel 2B[anim]_58: 3634601911807058910
+      Barrel 2B[anim]_59: -1962927493476834757
+      Barrel 2B[anim]_6: -6830499223932608126
+      Barrel 2B[anim]_60: 453637189146478774
+      Barrel 2B[anim]_61: -4987583979065910043
+      Barrel 2B[anim]_62: 3173093311029719196
+      Barrel 2B[anim]_63: -5872570751821978639
+      Barrel 2B[anim]_64: -6816173589117091866
+      Barrel 2B[anim]_65: -1673114066375682004
+      Barrel 2B[anim]_66: -3384865705475758082
+      Barrel 2B[anim]_67: 151330714333263081
+      Barrel 2B[anim]_68: -6852416566605687619
+      Barrel 2B[anim]_69: -5721606527949298604
+      Barrel 2B[anim]_7: 877238617386321949
+      Barrel 2B[anim]_70: 6119332138911784818
+      Barrel 2B[anim]_71: 5238352457557813810
+      Barrel 2B[anim]_72: -4493876999785563541
+      Barrel 2B[anim]_73: 7517431135017859362
+      Barrel 2B[anim]_74: -2342608416613897950
+      Barrel 2B[anim]_75: -2280070320463649944
+      Barrel 2B[anim]_76: -6541766964382829543
+      Barrel 2B[anim]_77: -1749869845839573581
+      Barrel 2B[anim]_78: -1486892336554749256
+      Barrel 2B[anim]_79: -820691058740737859
+      Barrel 2B[anim]_8: -2504505509001907398
+      Barrel 2B[anim]_80: 5418474797312707868
+      Barrel 2B[anim]_81: 6208406865768674048
+      Barrel 2B[anim]_82: -1659818759478104878
+      Barrel 2B[anim]_83: 6982869885535024642
+      Barrel 2B[anim]_84: 4010414942818358929
+      Barrel 2B[anim]_85: 2582182234615714727
+      Barrel 2B[anim]_86: -8213560693591358168
+      Barrel 2B[anim]_87: 1541698172004685218
+      Barrel 2B[anim]_88: 3047385465008791027
+      Barrel 2B[anim]_89: -2708279218978222775
+      Barrel 2B[anim]_9: 7985950906143031818
+      Barrel 2B[anim]_90: 8786511976464214865
+      Barrel 2B[anim]_91: -3008627568603929281
+      Barrel 2B[anim]_92: -1127175051393893633
+      Barrel 2B[anim]_93: -1610913890995405636
+      Barrel 2B[anim]_94: -1463358546941049162
+      Barrel 2B[anim]_95: -5566229578077334558
+      Barrel 2B[anim]_96: -1407884914814870564
+      Barrel 2B[anim]_97: -2510441169949395861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

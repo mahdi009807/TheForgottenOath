@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 2fd2abc1578e6294b95c4bf81c8e0893
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5353386309604229410
+    second: SpriteSheet-SlideVerticle_0
+  - first:
+      213: 8800613961676012374
+    second: SpriteSheet-SlideVerticle_1
+  - first:
+      213: -5338112253866519785
+    second: SpriteSheet-SlideVerticle_2
+  - first:
+      213: -7619016345844743021
+    second: SpriteSheet-SlideVerticle_3
+  - first:
+      213: -4832632283011531000
+    second: SpriteSheet-SlideVerticle_4
+  - first:
+      213: 3104564356503129931
+    second: SpriteSheet-SlideVerticle_5
+  - first:
+      213: -1699367543138428312
+    second: SpriteSheet-SlideVerticle_6
+  - first:
+      213: 4215372398495121092
+    second: SpriteSheet-SlideVerticle_7
+  - first:
+      213: 2705727506585795399
+    second: SpriteSheet-SlideVerticle_8
+  - first:
+      213: -8486662223122582290
+    second: SpriteSheet-SlideVerticle_9
+  - first:
+      213: 1881515131859144313
+    second: SpriteSheet-SlideVerticle_10
+  - first:
+      213: 5906154372415067758
+    second: SpriteSheet-SlideVerticle_11
+  - first:
+      213: 1779410191146052186
+    second: SpriteSheet-SlideVerticle_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6048
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb99ec383f4b5b0800000000000000
+      internalID: -5353386309604229410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bba0f35cf022a70800000000000000
+      internalID: 8800613961676012374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5472
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713502900373be5b0800000000000000
+      internalID: -5338112253866519785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5184
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39487003001d34690800000000000000
+      internalID: -7619016345844743021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4896
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f33010b8a0fecb0800000000000000
+      internalID: -4832632283011531000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f45b365d0a51b20800000000000000
+      internalID: 3104564356503129931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ad7602932aa68e0800000000000000
+      internalID: -1699367543138428312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceb948ccd2008a30800000000000000
+      internalID: 4215372398495121092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bbc09e4dcac8520800000000000000
+      internalID: 2705727506585795399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43d0e1ca1593a80800000000000000
+      internalID: -8486662223122582290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8cf13b0c7c1a10800000000000000
+      internalID: 1881515131859144313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669b6c0c10e6f150800000000000000
+      internalID: 5906154372415067758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet-SlideVerticle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 81
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a68f0242cb1b810800000000000000
+      internalID: 1779410191146052186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e0e162ddf219be4d9cadb36e1ed6c16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet-SlideVerticle_0: -5353386309604229410
+      SpriteSheet-SlideVerticle_1: 8800613961676012374
+      SpriteSheet-SlideVerticle_10: 1881515131859144313
+      SpriteSheet-SlideVerticle_11: 5906154372415067758
+      SpriteSheet-SlideVerticle_12: 1779410191146052186
+      SpriteSheet-SlideVerticle_2: -5338112253866519785
+      SpriteSheet-SlideVerticle_3: -7619016345844743021
+      SpriteSheet-SlideVerticle_4: -4832632283011531000
+      SpriteSheet-SlideVerticle_5: 3104564356503129931
+      SpriteSheet-SlideVerticle_6: -1699367543138428312
+      SpriteSheet-SlideVerticle_7: 4215372398495121092
+      SpriteSheet-SlideVerticle_8: 2705727506585795399
+      SpriteSheet-SlideVerticle_9: -8486662223122582290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

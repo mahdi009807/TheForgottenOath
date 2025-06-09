@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 081fc58a41e93484f8b1842008f3deee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6658986203599630638
+    second: Genie 1C[anim]_0
+  - first:
+      213: -1746140759279320875
+    second: Genie 1C[anim]_1
+  - first:
+      213: 5248831490644393187
+    second: Genie 1C[anim]_2
+  - first:
+      213: 5079683795857040779
+    second: Genie 1C[anim]_3
+  - first:
+      213: -7115769161325680052
+    second: Genie 1C[anim]_4
+  - first:
+      213: 427764022039221242
+    second: Genie 1C[anim]_5
+  - first:
+      213: -1894037370067699234
+    second: Genie 1C[anim]_6
+  - first:
+      213: 3329827697073827088
+    second: Genie 1C[anim]_7
+  - first:
+      213: 4837527623486281792
+    second: Genie 1C[anim]_8
+  - first:
+      213: 6958497073166589799
+    second: Genie 1C[anim]_9
+  - first:
+      213: 7004110282330055367
+    second: Genie 1C[anim]_10
+  - first:
+      213: -8758641871390252097
+    second: Genie 1C[anim]_11
+  - first:
+      213: 8146028734430869748
+    second: Genie 1C[anim]_12
+  - first:
+      213: -5442314098915221917
+    second: Genie 1C[anim]_13
+  - first:
+      213: 681387374368591381
+    second: Genie 1C[anim]_14
+  - first:
+      213: -4366552771352831915
+    second: Genie 1C[anim]_15
+  - first:
+      213: -1743403221196461604
+    second: Genie 1C[anim]_16
+  - first:
+      213: -4418635024988331653
+    second: Genie 1C[anim]_17
+  - first:
+      213: 6478677142305155919
+    second: Genie 1C[anim]_18
+  - first:
+      213: 3488636551592541660
+    second: Genie 1C[anim]_19
+  - first:
+      213: -8619997437829531623
+    second: Genie 1C[anim]_20
+  - first:
+      213: -2230853142870389116
+    second: Genie 1C[anim]_21
+  - first:
+      213: -7739936186446969263
+    second: Genie 1C[anim]_22
+  - first:
+      213: 5487761970410564083
+    second: Genie 1C[anim]_23
+  - first:
+      213: -3006282961186649637
+    second: Genie 1C[anim]_24
+  - first:
+      213: 6663624950347968559
+    second: Genie 1C[anim]_25
+  - first:
+      213: -994852947744414934
+    second: Genie 1C[anim]_26
+  - first:
+      213: 7585573163380174485
+    second: Genie 1C[anim]_27
+  - first:
+      213: 2852897658695989531
+    second: Genie 1C[anim]_28
+  - first:
+      213: 3459113224182331018
+    second: Genie 1C[anim]_29
+  - first:
+      213: -5184188315634019508
+    second: Genie 1C[anim]_30
+  - first:
+      213: 1397940542498521042
+    second: Genie 1C[anim]_31
+  - first:
+      213: -5239945032399311318
+    second: Genie 1C[anim]_32
+  - first:
+      213: 5546120925631493262
+    second: Genie 1C[anim]_33
+  - first:
+      213: 3495686736842190486
+    second: Genie 1C[anim]_34
+  - first:
+      213: -7249792589206181429
+    second: Genie 1C[anim]_35
+  - first:
+      213: -5648406682174061701
+    second: Genie 1C[anim]_36
+  - first:
+      213: 3258571983647947226
+    second: Genie 1C[anim]_37
+  - first:
+      213: 3670162870957803433
+    second: Genie 1C[anim]_38
+  - first:
+      213: 8157438339479538840
+    second: Genie 1C[anim]_39
+  - first:
+      213: -3753191935124587275
+    second: Genie 1C[anim]_40
+  - first:
+      213: -1357215482745468439
+    second: Genie 1C[anim]_41
+  - first:
+      213: -8846954357552938031
+    second: Genie 1C[anim]_42
+  - first:
+      213: -4050151887548773794
+    second: Genie 1C[anim]_43
+  - first:
+      213: -4399586167142101239
+    second: Genie 1C[anim]_44
+  - first:
+      213: 2786270789590095641
+    second: Genie 1C[anim]_45
+  - first:
+      213: 1064571286796287069
+    second: Genie 1C[anim]_46
+  - first:
+      213: -1072646457926614986
+    second: Genie 1C[anim]_47
+  - first:
+      213: -7201484136771450466
+    second: Genie 1C[anim]_48
+  - first:
+      213: -6091573667553794669
+    second: Genie 1C[anim]_49
+  - first:
+      213: -1173895064989433820
+    second: Genie 1C[anim]_50
+  - first:
+      213: -2799300102733803168
+    second: Genie 1C[anim]_51
+  - first:
+      213: 2305971112872615124
+    second: Genie 1C[anim]_52
+  - first:
+      213: 241594253851926562
+    second: Genie 1C[anim]_53
+  - first:
+      213: 6808683060092443273
+    second: Genie 1C[anim]_54
+  - first:
+      213: -6957654512006916235
+    second: Genie 1C[anim]_55
+  - first:
+      213: -5779797855094229659
+    second: Genie 1C[anim]_56
+  - first:
+      213: -4930359473028456713
+    second: Genie 1C[anim]_57
+  - first:
+      213: -1967245559397736595
+    second: Genie 1C[anim]_58
+  - first:
+      213: -1983014222899956893
+    second: Genie 1C[anim]_59
+  - first:
+      213: 1651801934046624005
+    second: Genie 1C[anim]_60
+  - first:
+      213: 5511749051828269802
+    second: Genie 1C[anim]_61
+  - first:
+      213: 1942301329438462734
+    second: Genie 1C[anim]_62
+  - first:
+      213: 6291625808665600277
+    second: Genie 1C[anim]_63
+  - first:
+      213: 546650838900461918
+    second: Genie 1C[anim]_64
+  - first:
+      213: -26653039758216119
+    second: Genie 1C[anim]_65
+  - first:
+      213: -3004034099531369121
+    second: Genie 1C[anim]_66
+  - first:
+      213: 2159485080012334076
+    second: Genie 1C[anim]_67
+  - first:
+      213: -4021595444869860339
+    second: Genie 1C[anim]_68
+  - first:
+      213: -4681535593043084643
+    second: Genie 1C[anim]_69
+  - first:
+      213: 8911262510383274456
+    second: Genie 1C[anim]_70
+  - first:
+      213: -6035039386983667928
+    second: Genie 1C[anim]_71
+  - first:
+      213: 8282690602496236399
+    second: Genie 1C[anim]_72
+  - first:
+      213: -7212581063684715297
+    second: Genie 1C[anim]_73
+  - first:
+      213: 5224421365402917028
+    second: Genie 1C[anim]_74
+  - first:
+      213: 1858422385204204246
+    second: Genie 1C[anim]_75
+  - first:
+      213: -2692192050540168250
+    second: Genie 1C[anim]_76
+  - first:
+      213: 5433601759907899967
+    second: Genie 1C[anim]_77
+  - first:
+      213: 8525123347974217353
+    second: Genie 1C[anim]_78
+  - first:
+      213: 8592477973051678502
+    second: Genie 1C[anim]_79
+  - first:
+      213: 5875559686100210368
+    second: Genie 1C[anim]_80
+  - first:
+      213: -6476387968670384283
+    second: Genie 1C[anim]_81
+  - first:
+      213: 4884095433035120700
+    second: Genie 1C[anim]_82
+  - first:
+      213: -6093405595870713365
+    second: Genie 1C[anim]_83
+  - first:
+      213: 6805639132142599319
+    second: Genie 1C[anim]_84
+  - first:
+      213: 3408901129484787054
+    second: Genie 1C[anim]_85
+  - first:
+      213: -2076508231679366794
+    second: Genie 1C[anim]_86
+  - first:
+      213: -1550557967159206343
+    second: Genie 1C[anim]_87
+  - first:
+      213: -3863293976491275336
+    second: Genie 1C[anim]_88
+  - first:
+      213: 2851937430940749505
+    second: Genie 1C[anim]_89
+  - first:
+      213: 2242375745938526533
+    second: Genie 1C[anim]_90
+  - first:
+      213: -1805922749017430692
+    second: Genie 1C[anim]_91
+  - first:
+      213: -5439155706460075234
+    second: Genie 1C[anim]_92
+  - first:
+      213: -4036284020806570761
+    second: Genie 1C[anim]_93
+  - first:
+      213: 1723657759471589873
+    second: Genie 1C[anim]_94
+  - first:
+      213: -3525398965091245972
+    second: Genie 1C[anim]_95
+  - first:
+      213: 6808544642753097725
+    second: Genie 1C[anim]_96
+  - first:
+      213: -1065498049865395092
+    second: Genie 1C[anim]_97
+  - first:
+      213: 3823533099798121435
+    second: Genie 1C[anim]_98
+  - first:
+      213: 7634367949575891307
+    second: Genie 1C[anim]_99
+  - first:
+      213: -2601659063242680644
+    second: Genie 1C[anim]_100
+  - first:
+      213: 14371663646052464
+    second: Genie 1C[anim]_101
+  - first:
+      213: 8705508113914941543
+    second: Genie 1C[anim]_102
+  - first:
+      213: -6163512418920665940
+    second: Genie 1C[anim]_103
+  - first:
+      213: -4886201808728703536
+    second: Genie 1C[anim]_104
+  - first:
+      213: -1916015706318678172
+    second: Genie 1C[anim]_105
+  - first:
+      213: -2263618858699145230
+    second: Genie 1C[anim]_106
+  - first:
+      213: -6443859409390670461
+    second: Genie 1C[anim]_107
+  - first:
+      213: -3476627459598442157
+    second: Genie 1C[anim]_108
+  - first:
+      213: -6503721177779032861
+    second: Genie 1C[anim]_109
+  - first:
+      213: -4196909124882457400
+    second: Genie 1C[anim]_110
+  - first:
+      213: 5134182466036475153
+    second: Genie 1C[anim]_111
+  - first:
+      213: 6796888368277447672
+    second: Genie 1C[anim]_112
+  - first:
+      213: 8602523216348489835
+    second: Genie 1C[anim]_113
+  - first:
+      213: -8189497555552786701
+    second: Genie 1C[anim]_114
+  - first:
+      213: 897844619495031485
+    second: Genie 1C[anim]_115
+  - first:
+      213: 1761072576093004306
+    second: Genie 1C[anim]_116
+  - first:
+      213: 6953970248735364914
+    second: Genie 1C[anim]_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genie 1C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2097
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2178cddba8796c50800000000000000
+      internalID: 6658986203599630638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2096
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0435b1b3674c7e0800000000000000
+      internalID: -1746140759279320875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2096
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3eb56e6897d840800000000000000
+      internalID: 5248831490644393187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2096
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ed5fbf79ae7640800000000000000
+      internalID: 5079683795857040779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1937
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae08316a5bf3d90800000000000000
+      internalID: -7115769161325680052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1936
+        width: 33
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af317559c19bfe500800000000000000
+      internalID: 427764022039221242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1936
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9bcc50c0707b5e0800000000000000
+      internalID: -1894037370067699234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1936
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da757f5ace53e20800000000000000
+      internalID: 3329827697073827088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1777
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481a054eb9522340800000000000000
+      internalID: 4837527623486281792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1776
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f90b8683c819060800000000000000
+      internalID: 6958497073166589799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1776
+        width: 34
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2a1f14139933160800000000000000
+      internalID: 7004110282330055367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1776
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3ebec8f9d037680800000000000000
+      internalID: -8758641871390252097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1617
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f870e579f18c0170800000000000000
+      internalID: 8146028734430869748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1617
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ede0269240974b0800000000000000
+      internalID: -5442314098915221917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1617
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e0da3f436c47900800000000000000
+      internalID: 681387374368591381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1617
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585482b363e663c0800000000000000
+      internalID: -4366552771352831915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1457
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9205cd1003ec7e0800000000000000
+      internalID: -1743403221196461604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1456
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a87f0bdadda2c0800000000000000
+      internalID: -4418635024988331653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1456
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4baa811982e8e950800000000000000
+      internalID: 6478677142305155919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1456
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddfd18c5702a6030800000000000000
+      internalID: 3488636551592541660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1297
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b461400e9f5880800000000000000
+      internalID: -8619997437829531623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1296
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8529d2ea6a01e0800000000000000
+      internalID: -2230853142870389116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1296
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15603aedb09369490800000000000000
+      internalID: -7739936186446969263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1296
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9283acf62782c40800000000000000
+      internalID: 5487761970410564083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1137
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9092423998746d0800000000000000
+      internalID: -3006282961186649637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1136
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20bbe14693f97c50800000000000000
+      internalID: 6663624950347968559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1136
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23a1f5d3829132f0800000000000000
+      internalID: -994852947744414934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1136
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee20d1a9e554960800000000000000
+      internalID: 7585573163380174485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 977
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193e172e47879720800000000000000
+      internalID: 2852897658695989531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 976
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a867e35762d310030800000000000000
+      internalID: 3459113224182331018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 976
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4357e5a1301e08b0800000000000000
+      internalID: -5184188315634019508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 976
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfbdbc448b766310800000000000000
+      internalID: 1397940542498521042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 817
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e244561c9f747b0800000000000000
+      internalID: -5239945032399311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 816
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8430a5e897c7fc40800000000000000
+      internalID: 5546120925631493262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 816
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee583f09c238030800000000000000
+      internalID: 3495686736842190486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 816
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92b191d00936b90800000000000000
+      internalID: -7249792589206181429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 657
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7382129c04dc91b0800000000000000
+      internalID: -5648406682174061701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 656
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9306854f5c83d20800000000000000
+      internalID: 3258571983647947226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 656
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7844f8fa90fe230800000000000000
+      internalID: 3670162870957803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 656
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c84d523fa053170800000000000000
+      internalID: 8157438339479538840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb90df1dbf9ebc0800000000000000
+      internalID: -3753191935124587275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 497
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9cb4395b33a2de0800000000000000
+      internalID: -1357215482745468439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 550
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d386fd82ed493580800000000000000
+      internalID: -8846954357552938031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 496
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a07402158fac7c0800000000000000
+      internalID: -4050151887548773794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 549
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fc5c4e0b781f2c0800000000000000
+      internalID: -4399586167142101239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 496
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91790955582daa620800000000000000
+      internalID: 2786270789590095641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 550
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb29be1fd16ce00800000000000000
+      internalID: 1064571286796287069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63004b9cab13d11f0800000000000000
+      internalID: -1072646457926614986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 335
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99802c25503f0c90800000000000000
+      internalID: -7201484136771450466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 335
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395255e1602667ba0800000000000000
+      internalID: -6091573667553794669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 335
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42088bf68ac75bfe0800000000000000
+      internalID: -1173895064989433820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 335
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06156dc4363e629d0800000000000000
+      internalID: -2799300102733803168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc95157284700020800000000000000
+      internalID: 2305971112872615124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220ae90a1b05a5300800000000000000
+      internalID: 241594253851926562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 175
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a97015b2d4d7e50800000000000000
+      internalID: 6808683060092443273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 175
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5771fe5a512717f90800000000000000
+      internalID: -6957654512006916235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5653b8539780acfa0800000000000000
+      internalID: -5779797855094229659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe18237e28d39bb0800000000000000
+      internalID: -4930359473028456713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f122e2690f2b4e0800000000000000
+      internalID: -1967245559397736595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363308b121bea74e0800000000000000
+      internalID: -1983014222899956893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f62e7b116ce610800000000000000
+      internalID: 1651801934046624005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2f1556f8aad7c40800000000000000
+      internalID: 5511749051828269802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 136
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03d2f3b4c074fa10800000000000000
+      internalID: 1942301329438462734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116139a658505750800000000000000
+      internalID: 6291625808665600277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d4dcaa08169700800000000000000
+      internalID: 546650838900461918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f609933f41aff0800000000000000
+      internalID: -26653039758216119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b54c07e68f46d0800000000000000
+      internalID: -3004034099531369121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf324e32d3808fd10800000000000000
+      internalID: 2159485080012334076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04f33e004c6038c0800000000000000
+      internalID: -4021595444869860339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab1559e28d70fb0800000000000000
+      internalID: -4681535593043084643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d996af0a0a2bab70800000000000000
+      internalID: 8911262510383274456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827e85d07ab3f3ca0800000000000000
+      internalID: -6035039386983667928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b114a283702f270800000000000000
+      internalID: 8282690602496236399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc0d598cb3c7eb90800000000000000
+      internalID: -7212581063684715297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 84
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85dc93d8fd08840800000000000000
+      internalID: 5224421365402917028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d21bb020517ac910800000000000000
+      internalID: 1858422385204204246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb3c68089963aad0800000000000000
+      internalID: -2692192050540168250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6f3e1308086b40800000000000000
+      internalID: 5433601759907899967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e546654825f4670800000000000000
+      internalID: 8525123347974217353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f1d1c013d9e3770800000000000000
+      internalID: 8592477973051678502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2db9a876e2a8150800000000000000
+      internalID: 5875559686100210368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb9c3b47f3f16a0800000000000000
+      internalID: -6476387968670384283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308a275beac7c340800000000000000
+      internalID: 4884095433035120700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9afb115efdf6ba0800000000000000
+      internalID: -6093405595870713365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_84
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7bdc9bbc727e50800000000000000
+      internalID: 6805639132142599319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_85
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5e512489de4f20800000000000000
+      internalID: 3408901129484787054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_86
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a39dd3c2ce23e0800000000000000
+      internalID: -2076508231679366794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_87
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ed2db7ebf4b7ae0800000000000000
+      internalID: -1550557967159206343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc454d892d26ac0800000000000000
+      internalID: -3863293976491275336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_89
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0dd4bbfd149720800000000000000
+      internalID: 2851937430940749505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411e9d3cd48e1f10800000000000000
+      internalID: 2242375745938526533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55e405f3d210f6e0800000000000000
+      internalID: -1805922749017430692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b886ee3bc3484b0800000000000000
+      internalID: -5439155706460075234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc2d37711d3cf7c0800000000000000
+      internalID: -4036284020806570761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f956a39999abe710800000000000000
+      internalID: 1723657759471589873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e432d154431fc0800000000000000
+      internalID: -3525398965091245972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffefa4874fcc7e50800000000000000
+      internalID: 6808544642753097725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_97
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d6ec3b279631f0800000000000000
+      internalID: -1065498049865395092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_98
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb4a68a81bef0530800000000000000
+      internalID: 3823533099798121435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6929179339b2f960800000000000000
+      internalID: 7634367949575891307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69ebcbddc05ebd0800000000000000
+      internalID: -2601659063242680644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705472b3fe033000800000000000000
+      internalID: 14371663646052464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605e2f718d20d870800000000000000
+      internalID: 8705508113914941543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac66855c1ec67aa0800000000000000
+      internalID: -6163512418920665940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddbad9d759b03cb0800000000000000
+      internalID: -4886201808728703536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675ec8ddd1f865e0800000000000000
+      internalID: -1916015706318678172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_106
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffbc5424a20690e0800000000000000
+      internalID: -2263618858699145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_107
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de5b81200d296a0800000000000000
+      internalID: -6443859409390670461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3512446deb980cfc0800000000000000
+      internalID: -3476627459598442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_109
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecab480c042eb5a0800000000000000
+      internalID: -6503721177779032861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc19c8136591c5c0800000000000000
+      internalID: -4196909124882457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115a42430c7404740800000000000000
+      internalID: 5134182466036475153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_112
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36921a5f5635e50800000000000000
+      internalID: 6796888368277447672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a082894d426770800000000000000
+      internalID: 8602523216348489835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_114
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 8
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6a850fc5f095e80800000000000000
+      internalID: -8189497555552786701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_115
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db24f78ace8c57c00800000000000000
+      internalID: 897844619495031485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_116
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a4b96d26907810800000000000000
+      internalID: 1761072576093004306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie 1C[anim]_117
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2379186f817718060800000000000000
+      internalID: 6953970248735364914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Genie 1C[anim]_0: 6658986203599630638
+      Genie 1C[anim]_1: -1746140759279320875
+      Genie 1C[anim]_10: 7004110282330055367
+      Genie 1C[anim]_100: -2601659063242680644
+      Genie 1C[anim]_101: 14371663646052464
+      Genie 1C[anim]_102: 8705508113914941543
+      Genie 1C[anim]_103: -6163512418920665940
+      Genie 1C[anim]_104: -4886201808728703536
+      Genie 1C[anim]_105: -1916015706318678172
+      Genie 1C[anim]_106: -2263618858699145230
+      Genie 1C[anim]_107: -6443859409390670461
+      Genie 1C[anim]_108: -3476627459598442157
+      Genie 1C[anim]_109: -6503721177779032861
+      Genie 1C[anim]_11: -8758641871390252097
+      Genie 1C[anim]_110: -4196909124882457400
+      Genie 1C[anim]_111: 5134182466036475153
+      Genie 1C[anim]_112: 6796888368277447672
+      Genie 1C[anim]_113: 8602523216348489835
+      Genie 1C[anim]_114: -8189497555552786701
+      Genie 1C[anim]_115: 897844619495031485
+      Genie 1C[anim]_116: 1761072576093004306
+      Genie 1C[anim]_117: 6953970248735364914
+      Genie 1C[anim]_12: 8146028734430869748
+      Genie 1C[anim]_13: -5442314098915221917
+      Genie 1C[anim]_14: 681387374368591381
+      Genie 1C[anim]_15: -4366552771352831915
+      Genie 1C[anim]_16: -1743403221196461604
+      Genie 1C[anim]_17: -4418635024988331653
+      Genie 1C[anim]_18: 6478677142305155919
+      Genie 1C[anim]_19: 3488636551592541660
+      Genie 1C[anim]_2: 5248831490644393187
+      Genie 1C[anim]_20: -8619997437829531623
+      Genie 1C[anim]_21: -2230853142870389116
+      Genie 1C[anim]_22: -7739936186446969263
+      Genie 1C[anim]_23: 5487761970410564083
+      Genie 1C[anim]_24: -3006282961186649637
+      Genie 1C[anim]_25: 6663624950347968559
+      Genie 1C[anim]_26: -994852947744414934
+      Genie 1C[anim]_27: 7585573163380174485
+      Genie 1C[anim]_28: 2852897658695989531
+      Genie 1C[anim]_29: 3459113224182331018
+      Genie 1C[anim]_3: 5079683795857040779
+      Genie 1C[anim]_30: -5184188315634019508
+      Genie 1C[anim]_31: 1397940542498521042
+      Genie 1C[anim]_32: -5239945032399311318
+      Genie 1C[anim]_33: 5546120925631493262
+      Genie 1C[anim]_34: 3495686736842190486
+      Genie 1C[anim]_35: -7249792589206181429
+      Genie 1C[anim]_36: -5648406682174061701
+      Genie 1C[anim]_37: 3258571983647947226
+      Genie 1C[anim]_38: 3670162870957803433
+      Genie 1C[anim]_39: 8157438339479538840
+      Genie 1C[anim]_4: -7115769161325680052
+      Genie 1C[anim]_40: -3753191935124587275
+      Genie 1C[anim]_41: -1357215482745468439
+      Genie 1C[anim]_42: -8846954357552938031
+      Genie 1C[anim]_43: -4050151887548773794
+      Genie 1C[anim]_44: -4399586167142101239
+      Genie 1C[anim]_45: 2786270789590095641
+      Genie 1C[anim]_46: 1064571286796287069
+      Genie 1C[anim]_47: -1072646457926614986
+      Genie 1C[anim]_48: -7201484136771450466
+      Genie 1C[anim]_49: -6091573667553794669
+      Genie 1C[anim]_5: 427764022039221242
+      Genie 1C[anim]_50: -1173895064989433820
+      Genie 1C[anim]_51: -2799300102733803168
+      Genie 1C[anim]_52: 2305971112872615124
+      Genie 1C[anim]_53: 241594253851926562
+      Genie 1C[anim]_54: 6808683060092443273
+      Genie 1C[anim]_55: -6957654512006916235
+      Genie 1C[anim]_56: -5779797855094229659
+      Genie 1C[anim]_57: -4930359473028456713
+      Genie 1C[anim]_58: -1967245559397736595
+      Genie 1C[anim]_59: -1983014222899956893
+      Genie 1C[anim]_6: -1894037370067699234
+      Genie 1C[anim]_60: 1651801934046624005
+      Genie 1C[anim]_61: 5511749051828269802
+      Genie 1C[anim]_62: 1942301329438462734
+      Genie 1C[anim]_63: 6291625808665600277
+      Genie 1C[anim]_64: 546650838900461918
+      Genie 1C[anim]_65: -26653039758216119
+      Genie 1C[anim]_66: -3004034099531369121
+      Genie 1C[anim]_67: 2159485080012334076
+      Genie 1C[anim]_68: -4021595444869860339
+      Genie 1C[anim]_69: -4681535593043084643
+      Genie 1C[anim]_7: 3329827697073827088
+      Genie 1C[anim]_70: 8911262510383274456
+      Genie 1C[anim]_71: -6035039386983667928
+      Genie 1C[anim]_72: 8282690602496236399
+      Genie 1C[anim]_73: -7212581063684715297
+      Genie 1C[anim]_74: 5224421365402917028
+      Genie 1C[anim]_75: 1858422385204204246
+      Genie 1C[anim]_76: -2692192050540168250
+      Genie 1C[anim]_77: 5433601759907899967
+      Genie 1C[anim]_78: 8525123347974217353
+      Genie 1C[anim]_79: 8592477973051678502
+      Genie 1C[anim]_8: 4837527623486281792
+      Genie 1C[anim]_80: 5875559686100210368
+      Genie 1C[anim]_81: -6476387968670384283
+      Genie 1C[anim]_82: 4884095433035120700
+      Genie 1C[anim]_83: -6093405595870713365
+      Genie 1C[anim]_84: 6805639132142599319
+      Genie 1C[anim]_85: 3408901129484787054
+      Genie 1C[anim]_86: -2076508231679366794
+      Genie 1C[anim]_87: -1550557967159206343
+      Genie 1C[anim]_88: -3863293976491275336
+      Genie 1C[anim]_89: 2851937430940749505
+      Genie 1C[anim]_9: 6958497073166589799
+      Genie 1C[anim]_90: 2242375745938526533
+      Genie 1C[anim]_91: -1805922749017430692
+      Genie 1C[anim]_92: -5439155706460075234
+      Genie 1C[anim]_93: -4036284020806570761
+      Genie 1C[anim]_94: 1723657759471589873
+      Genie 1C[anim]_95: -3525398965091245972
+      Genie 1C[anim]_96: 6808544642753097725
+      Genie 1C[anim]_97: -1065498049865395092
+      Genie 1C[anim]_98: 3823533099798121435
+      Genie 1C[anim]_99: 7634367949575891307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
