@@ -14,6 +14,7 @@ public class collectibleMovement : MonoBehaviour
     {
         if (other.CompareTag("Ground"))
         {
+            
             rb.linearVelocity = Vector2.zero;
             rb.bodyType = RigidbodyType2D.Static;
         }

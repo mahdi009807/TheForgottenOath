@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.U2D;
 
-public class lava : MonoBehaviour
+public class Lava : MonoBehaviour
 {
     public SpriteShapeController controller;
     public float waveHeight = 0.1f;

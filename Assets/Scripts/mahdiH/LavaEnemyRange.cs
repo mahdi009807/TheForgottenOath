@@ -35,6 +35,9 @@ public class LavaEnemyRange : MonoBehaviour
 
     private void Start()
     {
+        meleePlayer = PlayerRegistry.Knight;
+        rangePlayer = PlayerRegistry.Archer;
+        
         currentHealth = maxHealth;
         rb = GetComponent<Rigidbody2D>();
     }

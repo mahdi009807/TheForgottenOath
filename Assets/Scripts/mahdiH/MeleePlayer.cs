@@ -100,7 +100,7 @@ public class MeleePlayer : MonoBehaviour
     private Vector2 checkpointPos;
     private Rigidbody2D playerRb;
 
-    
+    private bool isKey = false;
 
     // Input System
     private PlayerControler controls;
@@ -564,6 +564,10 @@ public class MeleePlayer : MonoBehaviour
             }
             hearts++;
         }
+        else if (collision.gameObject.CompareTag("Projectile"))
+        {
+            TakeDamage(50, transform);
+        }
         
         else if (collision.gameObject.CompareTag("Health"))
         {
@@ -593,19 +597,16 @@ public class MeleePlayer : MonoBehaviour
             StartCoroutine(Die());
         }
         
+        if (collision.gameObject.CompareTag("Key"))
+        {
+            isKey = true;
+        }
+        
         else if (collision.CompareTag("Ladder"))
         {
             isTouchingLadder = true;
             rb.gravityScale = 0f; // حذف گرانش هنگام نردبان
             rb.linearVelocity = Vector2.zero;
-        }
-    }
-    
-    private void OnCollisionEnter2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Projectile"))
-        {
-            TakeDamage(7, transform);
         }
     }
 
@@ -769,6 +770,11 @@ public class MeleePlayer : MonoBehaviour
         if (firePoint == null) return;
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(firePoint.position, attackRange);
+    }
+
+    public bool getKEy()
+    {
+        return isKey;
     }
 
 }

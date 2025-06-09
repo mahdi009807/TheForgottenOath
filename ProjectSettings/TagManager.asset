@@ -27,6 +27,7 @@ TagManager:
   - Archer
   - Knight
   - Chest
+  - ChunkManager
   layers:
   - Default
   - TransparentFX
@@ -45,7 +46,7 @@ TagManager:
   - Stairs
   - 'Breakables '
   - BackGround
-  - 
+  - projectile
   - 
   - 
   - 

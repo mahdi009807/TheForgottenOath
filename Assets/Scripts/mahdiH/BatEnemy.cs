@@ -33,6 +33,10 @@ public class BatEnemy : MonoBehaviour
 
     private void Start()
     {
+        
+        meleePlayer = PlayerRegistry.Knight;
+        rangePlayer = PlayerRegistry.Archer;
+        
         originalPosition = transform.position;
         currentHealth = maxHealth;
         rb.gravityScale = 0f;

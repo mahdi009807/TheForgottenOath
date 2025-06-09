@@ -97,7 +97,7 @@
         private Vector2 checkpointPos;
 
 
-
+        private bool isKey = false;
 
         private PlayerControler RangeControler;
         
@@ -482,6 +482,11 @@
                 }
                 hearts++;
             }
+            
+            if (collision.gameObject.CompareTag("Projectile"))
+            {
+                TakeDamage(50, transform);
+            }
 
             if (collision.gameObject.CompareTag("Health"))
             {
@@ -507,6 +512,11 @@
                 maxLaunchForce = temp2;
             }
 
+            if (collision.gameObject.CompareTag("Key"))
+            {
+                isKey = true;
+            }
+
             if (collision.gameObject.CompareTag("Traps"))
             {
                 TakeDamage(23, transform);
@@ -517,14 +527,7 @@
                 Die();
             }
         }
-
-        private void OnCollisionEnter2D(Collision2D other)
-        {
-            if (other.gameObject.CompareTag("Projectile"))
-            {
-                TakeDamage(7, transform);
-            }
-        }
+        
 
         private IEnumerator Wait(int seconds)
         {

@@ -3,16 +3,29 @@ using UnityEngine;
 
 public class Door : MonoBehaviour
 {
-    private Animator animator;
+    // private Animator animator;
+    //
+    // public void Awake()
+    // {
+    //     animator = GetComponent<Animator>();
+    // }
+    //
+    // [ContextMenu("Open")]
+    // public void Open()
+    // {
+    //      animator.SetTrigger("Open");
+    // }
 
-    public void Awake()
-    {
-        animator = GetComponent<Animator>();
-    }
+    public GameObject knight;
+    public GameObject archer;
 
-    [ContextMenu("Open")]
-    public void Open()
-    {
-         animator.SetTrigger("Open");
-    }
+    // private void Start()
+    // {
+    //     
+    // }
+
+    // private void onTriggerEnter2D(Collider2D other)
+    // {
+    //     if ()
+    // }
 }
