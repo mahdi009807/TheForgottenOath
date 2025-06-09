@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 656619569127310296}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 38, y: -10.1, z: 0}
+  m_LocalPosition: {x: 14.3, y: -8.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44,7 +44,6 @@ GameObject:
   - component: {fileID: 8175757309484231122}
   - component: {fileID: 2753211180479093367}
   - component: {fileID: 387068495194955582}
-  - component: {fileID: 5987888343669619727}
   - component: {fileID: 5991924410425957428}
   m_Layer: 8
   m_Name: orgEnemy
@@ -213,32 +212,6 @@ CapsuleCollider2D:
   m_Offset: {x: -0.7597924, y: -2.4866424}
   m_Size: {x: 12.141992, y: 24.511185}
   m_Direction: 0
---- !u!114 &5987888343669619727
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2485011803764114429}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77502a818d2198e488f08fafa6ba4f14, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  leftPoint: {fileID: 2219445817351408301}
-  rightPoint: {fileID: 2030380284516506966}
-  walkSpeed: 2
-  idleDuration: 2
-  detectionRange: 10
-  chaseSpeed: 4
-  attackCooldown: 2
-  attackRangeCheck: {fileID: 7239618869247161414}
-  attackRadius: 2
-  damage: 10
-  maxHealth: 50
-  meleePlayer: {fileID: 0}
-  rangePlayer: {fileID: 0}
-  animator: {fileID: 8175757309484231122}
 --- !u!114 &5991924410425957428
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -251,23 +224,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed11a72b78cb9bb4e83bf421386a1a7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
-  chaseSpeed: 6
+  moveSpeed: 1.5
+  chaseSpeed: 3
   leftPoint: {fileID: 2219445817351408301}
   rightPoint: {fileID: 2030380284516506966}
   patrolDuration: 4
   idleDuration: 1.5
-  detectionRange: 8
+  detectionRange: 5
   attackRange: 1
-  fieldOfViewAngle: 120
+  fieldOfViewAngle: 150
   meleePlayer: {fileID: 0}
   rangePlayer: {fileID: 0}
   attackCooldown: 1
+  AtackDamage: 35
   maxHealth: 100
   currentHealth: 0
-  knockbackForceX: 8
-  knockbackForceY: 5
-  knockbackDuration: 0.3
+  knockbackForceX: 6
+  knockbackForceY: 10
+  knockbackDuration: 0.2
   sprite: {fileID: 577294786915352794}
   animator: {fileID: 8175757309484231122}
   rb: {fileID: 2753211180479093367}
@@ -281,6 +255,11 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  Collectibles:
+  - {fileID: 3957532181411328539, guid: 5c42adf7ba5d0e34e8cffec6ed70c756, type: 3}
+  - {fileID: 8863231773427029249, guid: dae9148bb60af5242aadb88002359eae, type: 3}
+  - {fileID: 5089687992101815758, guid: d6e9e8569f485d041a803bd5ed4154d9, type: 3}
+  - {fileID: 7586865083452697135, guid: 37210d0c3e764d54192906ff0e49d8c2, type: 3}
 --- !u!1 &3272936637919415918
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,7 +316,7 @@ Transform:
   m_GameObject: {fileID: 5899048203731036797}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -69.7, y: -8.8, z: 0}
+  m_LocalPosition: {x: -16.5, y: -9.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

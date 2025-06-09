@@ -18,8 +18,8 @@ public class MeleeEnemy : MonoBehaviour
     public float fieldOfViewAngle = 150f;
 
     [Header("Players")]
-    public Transform meleePlayer;
-    public Transform rangePlayer;
+   [SerializeField] private Transform meleePlayer;
+   [SerializeField] private Transform rangePlayer;
 
     private Transform closestPlayer;
 
@@ -27,6 +27,7 @@ public class MeleeEnemy : MonoBehaviour
     public float attackCooldown = 0.5f;
     private float attackTimer;
     private bool isPerformingAttack;
+    public int AtackDamage;
 
     [Header("Health Settings")]
     public float maxHealth = 100;
@@ -63,6 +64,8 @@ public class MeleeEnemy : MonoBehaviour
     public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
     
+    public GameObject[] Collectibles;
+    
 
     private void Start()
     {
@@ -70,7 +73,38 @@ public class MeleeEnemy : MonoBehaviour
         rightPoint.parent = null;
         currentHealth = maxHealth;
         patrolTimer = patrolDuration;
+        
+        facingRight = false;
+        sprite.flipX = !facingRight;
+        UpdateAttackPoint();
+        
+            meleePlayer = PlayerRegistry.Knight;
+            rangePlayer = PlayerRegistry.Archer;
+
+        
+        // StartCoroutine(AssignPlayersAfterDelay());
     }
+
+    // private IEnumerator AssignPlayersAfterDelay()
+    // {
+    //     yield return new WaitForSeconds(0.1f); // یا تا زمانی که پلیرها ساخته شوند
+    //
+    //     if (meleePlayer == null)
+    //         meleePlayer = GameObject.FindGameObjectWithTag("Knight")?.transform;
+    //
+    //     if (rangePlayer == null)
+    //         rangePlayer = GameObject.FindGameObjectWithTag("Archer")?.transform;
+    // }
+    
+    // private void Awake()
+    // {
+    //     if (meleePlayer == null)
+    //         meleePlayer = GameObject.FindGameObjectWithTag("Knight")?.transform;
+    //
+    //     if (rangePlayer == null)
+    //         rangePlayer = GameObject.FindGameObjectWithTag("Archer")?.transform;
+    // }
+
 
     private void Update()
     {
@@ -232,14 +266,14 @@ public class MeleeEnemy : MonoBehaviour
             MeleePlayer melee = hit.GetComponent<MeleePlayer>();
             if (melee != null)
             {
-                melee.TakeDamage(25, transform);
+                melee.TakeDamage(AtackDamage, transform);
                 continue;
             }
 
             RangePlayer range = hit.GetComponent<RangePlayer>();
             if (range != null)
             {
-                range.TakeDamage(25, transform);
+                range.TakeDamage(AtackDamage, transform);
             }
         }
     }
@@ -303,6 +337,14 @@ public class MeleeEnemy : MonoBehaviour
 
     private void Die()
     {
+        int random1 = Random.Range(0, Collectibles.Length);
+        int random2 = Random.Range(0, Collectibles.Length);
+        int random3 = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random1], pos, Quaternion.identity);
+        Instantiate(Collectibles[random2], pos, Quaternion.identity);
+        Instantiate(Collectibles[random3], pos, Quaternion.identity);
+        
         isDead = true;
 
         animator.SetBool("Idle", false);

@@ -28,9 +28,14 @@ public class FlyingEnemy : MonoBehaviour
     private bool isReturning = false;
     private bool isOnCooldown = false;
     private Transform targetPlayer;
+    
+    public GameObject[] Collectibles;
 
     private void Start()
     {
+        meleePlayer = PlayerRegistry.Knight;
+        rangePlayer = PlayerRegistry.Archer;
+
         originalPosition = transform.position;
         currentHealth = maxHealth;
         rb.gravityScale = 0f; // Ensure floating
@@ -166,6 +171,10 @@ public class FlyingEnemy : MonoBehaviour
 
     private void Die()
     {
+        int random = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random], pos, Quaternion.identity);
+        
         isDead = true;
         animator.SetTrigger("Die");
         rb.linearVelocity = Vector2.zero;

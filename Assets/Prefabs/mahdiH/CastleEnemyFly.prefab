@@ -192,10 +192,15 @@ MonoBehaviour:
   dashForce: 15
   dashCooldown: 3
   returnDuration: 1.5
-  detectionRange: 8
-  wakeUpRange: 12
+  detectionRange: 5
+  wakeUpRange: 7
   maxHealth: 1
   meleePlayer: {fileID: 0}
   rangePlayer: {fileID: 0}
   rb: {fileID: 5196685872308776727}
   animator: {fileID: 5767126378080136394}
+  Collectibles:
+  - {fileID: 3957532181411328539, guid: 5c42adf7ba5d0e34e8cffec6ed70c756, type: 3}
+  - {fileID: 8863231773427029249, guid: dae9148bb60af5242aadb88002359eae, type: 3}
+  - {fileID: 5089687992101815758, guid: d6e9e8569f485d041a803bd5ed4154d9, type: 3}
+  - {fileID: 7586865083452697135, guid: 37210d0c3e764d54192906ff0e49d8c2, type: 3}

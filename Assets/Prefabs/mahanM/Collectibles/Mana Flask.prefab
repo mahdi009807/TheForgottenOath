@@ -11,6 +11,9 @@ GameObject:
   - component: {fileID: 2359705974574311178}
   - component: {fileID: 3713596120056665844}
   - component: {fileID: 743336451682381281}
+  - component: {fileID: 8609412048860300932}
+  - component: {fileID: 780798562977098809}
+  - component: {fileID: 7246220553568233524}
   m_Layer: 0
   m_Name: Mana Flask
   m_TagString: Mana
@@ -103,3 +106,135 @@ MonoBehaviour:
   collisionEntered:
     m_PersistentCalls:
       m_Calls: []
+--- !u!60 &8609412048860300932
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5089687992101815758}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.15, y: 3.85}
+    newSize: {x: 2.15, y: 3.85}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 1.045, y: -1.255}
+      - {x: 1.0749999, y: -1.125}
+      - {x: 1.0749999, y: -0.745}
+      - {x: 1.005, y: -0.555}
+      - {x: 0.935, y: -0.405}
+      - {x: 0.875, y: -0.315}
+      - {x: 0.835, y: -0.265}
+      - {x: 0.66499996, y: -0.095}
+      - {x: 0.42499998, y: 0.055}
+      - {x: 0.385, y: 0.175}
+      - {x: 0.385, y: 1.105}
+      - {x: 0.45499998, y: 1.135}
+      - {x: 0.515, y: 1.1949999}
+      - {x: 0.505, y: 1.355}
+      - {x: 0.45499998, y: 1.395}
+      - {x: 0.405, y: 1.415}
+      - {x: 0.345, y: 1.435}
+      - {x: 0.39499998, y: 1.8149999}
+      - {x: 0.265, y: 1.915}
+      - {x: -0.145, y: 1.915}
+      - {x: -0.285, y: 1.895}
+      - {x: -0.375, y: 1.8249999}
+      - {x: -0.33499998, y: 1.4449999}
+      - {x: -0.49499997, y: 1.395}
+      - {x: -0.515, y: 1.3249999}
+      - {x: -0.48499998, y: 1.125}
+      - {x: -0.375, y: 1.095}
+      - {x: -0.375, y: 0.155}
+      - {x: -0.42499998, y: 0.035}
+      - {x: -0.575, y: -0.035}
+      - {x: -0.73499995, y: -0.16499999}
+      - {x: -0.885, y: -0.33499998}
+      - {x: -0.995, y: -0.525}
+      - {x: -1.035, y: -0.635}
+      - {x: -1.0749999, y: -0.84499997}
+      - {x: -1.0749999, y: -1.115}
+      - {x: -0.955, y: -1.4449999}
+      - {x: -0.895, y: -1.535}
+      - {x: -0.8774243, y: -1.7686361}
+      - {x: -0.7131519, y: -1.9070475}
+      - {x: -0.49962646, y: -2.0227358}
+      - {x: -0.28821534, y: -2.0159178}
+      - {x: 0.5580188, y: -1.994894}
+      - {x: 0.7727978, y: -1.8706883}
+      - {x: 0.9470703, y: -1.6896598}
+      - {x: 0.955, y: -1.4549999}
+  m_UseDelaunayMesh: 0
+--- !u!50 &780798562977098809
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5089687992101815758}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &7246220553568233524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5089687992101815758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee0245b52a33bec4ca6fcd32bc15bca2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

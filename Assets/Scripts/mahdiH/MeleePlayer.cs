@@ -2,11 +2,13 @@ using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class MeleePlayer : MonoBehaviour
 {
     [Header("Movement")]
-    public float walkSpeed = 4f;
     public float runSpeed = 7f;
     public float deceleration = 15f;  
     public float moveInput;
@@ -50,10 +52,16 @@ public class MeleePlayer : MonoBehaviour
 
     
     [Header("Health")]
-    [SerializeField]private float maxHealth = 100f;
+    [SerializeField] private float maxHealth = 100f;
     [SerializeField]private float currecntHealth;
     private bool isDead = false;
-    
+    [SerializeField] private Image _healthBarFill;
+    [SerializeField] private Transform _healthBarTransform;
+    [SerializeField] private Camera _camera;
+    private int hearts = 3;
+    [SerializeField] private TMP_Text heartsDisplay;
+    [SerializeField] private Gradient colorGradient;
+
     [Header("Knockback")]
     public float knockbackForceX = 8f;
     public float knockbackForceY = 5f;
@@ -88,12 +96,28 @@ public class MeleePlayer : MonoBehaviour
     public GameObject afterImagePrefab;
     public float afterImageInterval = 0.05f; // هر چند ثانیه یک afterimage
     
+    [Header("Respawn")]
+    private Vector2 checkpointPos;
+    private Rigidbody2D playerRb;
+
+    
 
     // Input System
     private PlayerControler controls;
+    
+    private void Start()
+    {
+        checkpointPos = transform.position;
+        playerRb = GetComponent<Rigidbody2D>();
+        currecntHealth = maxHealth;
+        // _camera = Camera.main;
+    }
 
     private void Awake()
     {
+        
+        PlayerRegistry.Knight = transform;
+        
         currecntHealth = maxHealth;
         
         // StandCollider.enabled = true;
@@ -115,6 +139,8 @@ public class MeleePlayer : MonoBehaviour
         
         controls.Melee.Dash.performed += ctx => TryDash();
         
+        controls.Melee.Suicide.performed += ctx => CommitSuicide();
+        
 
         controls.Melee.Attack.performed += ctx =>
         {
@@ -131,103 +157,78 @@ public class MeleePlayer : MonoBehaviour
     private void Update()
     {
         if (isDead || isKnockedBack || isAttacking) return;
-        
+
         if (!isWallSliding)
         {
             if (moveInput > 0 && !facingRight) Flip();
             else if (moveInput < 0 && facingRight) Flip();
         }
-        
+
         if (isTouchingLadder)
         {
-            if (Mathf.Abs(verticalInput) > 0.1f)
+            if (!isClimbing && Mathf.Abs(verticalInput) > 0.1f)
             {
                 isClimbing = true;
             }
-            
-            animator.SetBool("IsClimbing", isClimbing);
 
-            
             if (isClimbing)
             {
+                animator.SetBool("IsClimbing", Mathf.Abs(verticalInput) > 0.1f);
                 animator.speed = Mathf.Abs(verticalInput) > 0.1f ? 1f : 0f;
             }
-            else
+        }
+        else
+        {
+            if (isClimbing)
             {
-                animator.speed = 1f;
+                isClimbing = false;
+                animator.SetBool("IsClimbing" , false); // فقط یک‌بار هنگام خروج اجرا شود
             }
 
-        }
-        else
-        {
-            animator.speed = 1f;
-            isClimbing = false;
             animator.SetBool("IsClimbing", false);
+            animator.speed = 1f;
         }
 
 
+        isRunning = Mathf.Abs(moveInput) > 0.1f;
+        float targetSpeed = runSpeed * moveInput;
 
+        currentVelocityX = isRunning ? targetSpeed : Mathf.MoveTowards(currentVelocityX, 0, deceleration * Time.deltaTime);
 
-        // وضعیت دویدن (CapsLock + حرکت)
-        isRunning = Keyboard.current.capsLockKey.isPressed && Mathf.Abs(moveInput) > 0.1f;
-        float targetSpeed = (isRunning ? runSpeed : walkSpeed) * moveInput;
-
-        // کاهش تدریجی سرعت وقتی input قطع شده
-        if (Mathf.Abs(moveInput) < 0.1f)
-        {
-            currentVelocityX = Mathf.MoveTowards(currentVelocityX, 0, deceleration * Time.deltaTime);
-        }
-        else
-        {
-            currentVelocityX = targetSpeed;
-        }
-        
-        // انیمیشن‌ها
-        animator.SetFloat("Speed", Mathf.Abs(currentVelocityX) > 0.1 ? 1 : 0);
+        animator.SetFloat("Speed", isRunning ? 1 : 0);
         animator.SetBool("IsRunning", isRunning);
 
-        // کنترل ترایگرهای RunStart و RunEnd فقط وقتی وضعیت تغییر می‌کند
         if (isRunning && !wasRunningLastFrame && animator.GetCurrentAnimatorStateInfo(0).IsName("Walk"))
-        {
             animator.SetTrigger("RunStart");
-        }
         else if (!isRunning && wasRunningLastFrame && animator.GetCurrentAnimatorStateInfo(0).IsName("RunLoop"))
-        {
             animator.SetTrigger("RunEnd");
-        }
+
         wasRunningLastFrame = isRunning;
 
-        // تشخیص زمین
         isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, groundLayer);
 
-        // تشخیص سقوط (انیمیشن Fall)
         if (!isGrounded && rb.linearVelocity.y < -0.1f && !isWallSliding && !isDashing && !isClimbing)
-        {
             animator.SetTrigger("Fall");
-        }
 
-        // انیمیشن فرود
         if (!wasGroundedLastFrame && isGrounded)
         {
             StartCoroutine(Landing());
-            
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
         }
 
         wasGroundedLastFrame = isGrounded;
-        
-        
-        // کنترل اجرای حمله بدون Animation Event
+
         if (!isAttacking && CombatManager.instance.HasPendingInput())
-        {
             TryAttack();
-        }
-        
+
         CheckWallSlide();
-
-
     }
 
+    // private void LateUpdate()
+    // {
+    //     _healthBarTransform.rotation = _camera.transform.rotation;
+    //     Debug.Log(_camera.name);
+    // }
 
     private void FixedUpdate()
     {
@@ -235,7 +236,6 @@ public class MeleePlayer : MonoBehaviour
         
         if (isClimbing)
         {
-            // فقط اگر W یا S فشار داده شده باشد، حرکت کن
             if (Mathf.Abs(verticalInput) > 0.1f)
             {
                 rb.linearVelocity = new Vector2(0f, verticalInput * climbSpeed);
@@ -245,6 +245,7 @@ public class MeleePlayer : MonoBehaviour
                 rb.linearVelocity = Vector2.zero;
             }
         }
+
 
 
 
@@ -377,6 +378,17 @@ public class MeleePlayer : MonoBehaviour
             {
                 lavaFlyEnemy.TakeDamage((int) attackDamage);
             }
+            
+            if (enemy.TryGetComponent<Breakables>(out Breakables breakables))
+            {
+                breakables.Break();
+                
+            }
+            
+            if (enemy.TryGetComponent<Chest>(out Chest chest))
+            {
+                chest.Break();
+            }
 
         }
     }
@@ -419,6 +431,8 @@ public class MeleePlayer : MonoBehaviour
         if (isDead || isAttacking) return;
 
         currecntHealth -= damage;
+        currecntHealth = Mathf.Clamp(currecntHealth, 0, maxHealth);
+        UpdateHealthBar();
         animator.SetTrigger("Hurt");
 
         float direction = Mathf.Sign(transform.position.x - attacker.position.x); // از دشمن دور شو
@@ -429,6 +443,12 @@ public class MeleePlayer : MonoBehaviour
         {
             StartCoroutine(Die());
         }
+    }
+    
+    private void UpdateHealthBar()
+    {
+        _healthBarFill.fillAmount = currecntHealth / maxHealth;
+        _healthBarFill.color = colorGradient.Evaluate(currecntHealth / maxHealth);
     }
 
     
@@ -460,6 +480,7 @@ public class MeleePlayer : MonoBehaviour
 
     private IEnumerator Die()
     {
+        // Debug.Log("Dead");
         isDead = true;
         animator.SetBool("Death", true);
         
@@ -471,10 +492,160 @@ public class MeleePlayer : MonoBehaviour
         // yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
 
         // بعد از انیمیشن مرگ:
-        controls.Disable();
-        rb.linearVelocity = Vector2.zero;
-        rb.bodyType = RigidbodyType2D.Kinematic;
-        Destroy(gameObject);
+        // controls.Disable();
+        // rb.linearVelocity = Vector2.zero;
+        // rb.bodyType = RigidbodyType2D.Kinematic;
+        // GetComponent<Collider2D>().enabled = false;
+
+        // Destroy(gameObject);
+        
+        hearts--;
+        heartsDisplay.text = hearts.ToString();
+        
+        if (hearts < 0)
+        {
+            SceneManager.LoadScene("Game Over");
+        }
+        else
+        {
+            currecntHealth = maxHealth;
+        
+            StartCoroutine(Respawn(0.5f));
+        }
+        
+    }
+    
+    public void CommitSuicide()
+    {
+        if (isDead || isKnockedBack || isAttacking) return;
+        StartCoroutine(SuicideRoutine());
+    }
+
+    private IEnumerator SuicideRoutine()
+    {
+        isDead = true;
+        animator.SetTrigger("Suicide"); // اسم trigger انیمیشن خودکشی
+
+        yield return new WaitForSeconds(1f); // طول انیمیشن خودکشی
+
+        hearts--;
+        heartsDisplay.text = hearts.ToString();
+
+        if (hearts < 0)
+        {
+            SceneManager.LoadScene("Game Over");
+        }
+        else
+        {
+            currecntHealth = maxHealth;
+            StartCoroutine(Respawn(0.5f));
+        }
+    }
+
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            isTouchingLadder = true;
+            rb.gravityScale = 0f;
+            rb.linearVelocity = Vector2.zero;
+        }
+        if (collision.gameObject.CompareTag("Checkpoint"))
+        {
+            checkpointPos = transform.position;
+        }
+
+        else if (collision.gameObject.CompareTag("Heart"))
+        {
+            if (hearts == 5)
+            {
+                return;
+            }
+            hearts++;
+        }
+        
+        else if (collision.gameObject.CompareTag("Health"))
+        {
+            currecntHealth += 17;
+            currecntHealth = Mathf.Clamp(currecntHealth, 0, maxHealth);
+            UpdateHealthBar();
+        }
+
+        // if (collision.gameObject.CompareTag("Mana"))
+        // {
+        //     currentMana += 31;
+        //     currentMana = Mathf.Clamp(currentMana, 0, maxMana);
+        //     UpdateManaBar();
+        // }
+
+        else if (collision.gameObject.CompareTag("Power"))
+        {
+            float temp = attackDamage;
+            attackDamage *= 2;
+            StartCoroutine(Wait(5));
+            attackDamage = temp;
+        }
+
+        else if (collision.gameObject.CompareTag("DeadlyTrap"))
+        {
+            Debug.Log("Dead");
+            StartCoroutine(Die());
+        }
+        
+        else if (collision.CompareTag("Ladder"))
+        {
+            isTouchingLadder = true;
+            rb.gravityScale = 0f; // حذف گرانش هنگام نردبان
+            rb.linearVelocity = Vector2.zero;
+        }
+    }
+    
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Projectile"))
+        {
+            TakeDamage(7, transform);
+        }
+    }
+
+    private IEnumerator Wait(int seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+    }
+
+    private void OnGUI()
+    {
+        heartsDisplay.text = hearts.ToString();
+    }
+
+    IEnumerator Respawn(float duration)
+    {
+        // Make player completely invisible during respawn
+        GetComponent<SpriteRenderer>().enabled = false;
+    
+        yield return new WaitForSeconds(duration);
+    
+        // Reset position first
+        transform.position = checkpointPos;
+    
+        // Re-enable everything
+        isDead = false;
+        rb.bodyType = RigidbodyType2D.Dynamic;
+        GetComponent<Collider2D>().enabled = true;
+        GetComponent<SpriteRenderer>().enabled = true;
+    
+        // Reset animator
+        animator.SetBool("Dead", false);
+        animator.Rebind();
+        animator.Update(0f);
+    
+        // Re-enable controls
+        // RangeControler.Enable();
+    
+        // Reset health
+        currecntHealth = maxHealth;
+        UpdateHealthBar();
     }
     
     
@@ -562,25 +733,32 @@ public class MeleePlayer : MonoBehaviour
         );
     }
     
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Ladder"))
-        {
-            isTouchingLadder = true;
-            rb.gravityScale = 0f; // حذف گرانش هنگام نردبان
-            rb.linearVelocity = Vector2.zero;
-        }
-    }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Ladder"))
         {
             isTouchingLadder = false;
-            isClimbing = false;
-            rb.gravityScale = 2.5f; // مقدار پیش‌فرض گرانش
+            rb.gravityScale = 4f;
+
+            if (isClimbing)
+            {
+                isClimbing = false;
+                animator.SetTrigger("EndClimb");
+            }
         }
     }
+
+    
+    // private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     if (collision.CompareTag("Ladder"))
+    //     {
+    //         isTouchingLadder = true;
+    //         rb.gravityScale = 0f; // حذف گرانش هنگام نردبان
+    //         rb.linearVelocity = Vector2.zero;
+    //     }
+    // }
 
 
 
@@ -594,3 +772,4 @@ public class MeleePlayer : MonoBehaviour
     }
 
 }
+

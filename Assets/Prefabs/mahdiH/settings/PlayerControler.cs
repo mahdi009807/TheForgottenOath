@@ -137,15 +137,6 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""initialStateCheck"": false
                 },
                 {
-                    ""name"": ""Slide"",
-                    ""type"": ""Button"",
-                    ""id"": ""516d839c-cd51-4cd1-8bec-ff28cef6b396"",
-                    ""expectedControlType"": """",
-                    ""processors"": """",
-                    ""interactions"": """",
-                    ""initialStateCheck"": false
-                },
-                {
                     ""name"": ""Climb"",
                     ""type"": ""Value"",
                     ""id"": ""dccbaf94-65f2-480d-ac69-1a2b0245396e"",
@@ -153,6 +144,15 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
+                },
+                {
+                    ""name"": ""Suicide"",
+                    ""type"": ""Button"",
+                    ""id"": ""56002fc9-6dfd-4677-8f33-34c5b2b256c1"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -225,22 +225,11 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""2812abf4-46a1-44a8-8c8e-0a2816b176c6"",
-                    ""path"": ""<Keyboard>/x"",
+                    ""path"": ""<Keyboard>/f"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Attack"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""240b067a-396b-4374-b6d8-1e6452d025bf"",
-                    ""path"": ""<Keyboard>/c"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Slide"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -276,6 +265,17 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
                     ""action"": ""Climb"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""fc56e791-1eee-4521-99cd-8fe07a8d58c8"",
+                    ""path"": ""<Keyboard>/k"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Suicide"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         },
@@ -419,8 +419,8 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         m_Melee_Dash = m_Melee.FindAction("Dash", throwIfNotFound: true);
         m_Melee_AirDash = m_Melee.FindAction("AirDash", throwIfNotFound: true);
         m_Melee_Attack = m_Melee.FindAction("Attack", throwIfNotFound: true);
-        m_Melee_Slide = m_Melee.FindAction("Slide", throwIfNotFound: true);
         m_Melee_Climb = m_Melee.FindAction("Climb", throwIfNotFound: true);
+        m_Melee_Suicide = m_Melee.FindAction("Suicide", throwIfNotFound: true);
         // Range
         m_Range = asset.FindActionMap("Range", throwIfNotFound: true);
         m_Range_Jump = m_Range.FindAction("Jump", throwIfNotFound: true);
@@ -514,8 +514,8 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
     private readonly InputAction m_Melee_Dash;
     private readonly InputAction m_Melee_AirDash;
     private readonly InputAction m_Melee_Attack;
-    private readonly InputAction m_Melee_Slide;
     private readonly InputAction m_Melee_Climb;
+    private readonly InputAction m_Melee_Suicide;
     /// <summary>
     /// Provides access to input actions defined in input action map "Melee".
     /// </summary>
@@ -548,13 +548,13 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// </summary>
         public InputAction @Attack => m_Wrapper.m_Melee_Attack;
         /// <summary>
-        /// Provides access to the underlying input action "Melee/Slide".
-        /// </summary>
-        public InputAction @Slide => m_Wrapper.m_Melee_Slide;
-        /// <summary>
         /// Provides access to the underlying input action "Melee/Climb".
         /// </summary>
         public InputAction @Climb => m_Wrapper.m_Melee_Climb;
+        /// <summary>
+        /// Provides access to the underlying input action "Melee/Suicide".
+        /// </summary>
+        public InputAction @Suicide => m_Wrapper.m_Melee_Suicide;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -596,12 +596,12 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Attack.started += instance.OnAttack;
             @Attack.performed += instance.OnAttack;
             @Attack.canceled += instance.OnAttack;
-            @Slide.started += instance.OnSlide;
-            @Slide.performed += instance.OnSlide;
-            @Slide.canceled += instance.OnSlide;
             @Climb.started += instance.OnClimb;
             @Climb.performed += instance.OnClimb;
             @Climb.canceled += instance.OnClimb;
+            @Suicide.started += instance.OnSuicide;
+            @Suicide.performed += instance.OnSuicide;
+            @Suicide.canceled += instance.OnSuicide;
         }
 
         /// <summary>
@@ -628,12 +628,12 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
             @Attack.started -= instance.OnAttack;
             @Attack.performed -= instance.OnAttack;
             @Attack.canceled -= instance.OnAttack;
-            @Slide.started -= instance.OnSlide;
-            @Slide.performed -= instance.OnSlide;
-            @Slide.canceled -= instance.OnSlide;
             @Climb.started -= instance.OnClimb;
             @Climb.performed -= instance.OnClimb;
             @Climb.canceled -= instance.OnClimb;
+            @Suicide.started -= instance.OnSuicide;
+            @Suicide.performed -= instance.OnSuicide;
+            @Suicide.canceled -= instance.OnSuicide;
         }
 
         /// <summary>
@@ -850,19 +850,19 @@ public partial class @PlayerControler: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnAttack(InputAction.CallbackContext context);
         /// <summary>
-        /// Method invoked when associated input action "Slide" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
-        /// </summary>
-        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
-        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
-        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
-        void OnSlide(InputAction.CallbackContext context);
-        /// <summary>
         /// Method invoked when associated input action "Climb" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
         /// </summary>
         /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnClimb(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Suicide" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnSuicide(InputAction.CallbackContext context);
     }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "Range" which allows adding and removing callbacks.

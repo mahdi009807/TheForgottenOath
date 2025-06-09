@@ -11,6 +11,9 @@ GameObject:
   - component: {fileID: 1057116694597370962}
   - component: {fileID: 8070753656323311038}
   - component: {fileID: 5119946939392924010}
+  - component: {fileID: 6601771085011812247}
+  - component: {fileID: -3746570225354077965}
+  - component: {fileID: -3900059872650238346}
   m_Layer: 0
   m_Name: Diomond
   m_TagString: Diamond
@@ -103,7 +106,7 @@ MonoBehaviour:
   collisionEntered:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1231102327325914285, guid: c3e16b7748e38ee4ca002660dbe4081c, type: 3}
+      - m_Target: {fileID: 11500000, guid: 4f7238569fe02da4fa86c2c24fb1c479, type: 3}
         m_TargetAssemblyTypeName: Shop, Assembly-CSharp
         m_MethodName: AddDiamonds
         m_Mode: 3
@@ -115,3 +118,101 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!60 &6601771085011812247
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586159050511365411}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.05, y: 0.8}
+    newSize: {x: 1.05, y: 0.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.405, y: 0.39999998}
+      - {x: -0.405, y: 0.39999998}
+      - {x: -0.42499998, y: 0.38}
+      - {x: -0.525, y: 0.26999998}
+      - {x: -0.58569944, y: 0.18958156}
+      - {x: -0.45333007, y: 0.028059538}
+      - {x: -0.1369519, y: -0.38277638}
+      - {x: -0.048173826, y: -0.44471586}
+      - {x: 0.040960692, y: -0.4351343}
+      - {x: 0.10970825, y: -0.41665632}
+      - {x: 0.5824951, y: 0.17083591}
+      - {x: 0.525, y: 0.29}
+  m_UseDelaunayMesh: 0
+--- !u!50 &-3746570225354077965
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586159050511365411}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &-3900059872650238346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586159050511365411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee0245b52a33bec4ca6fcd32bc15bca2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

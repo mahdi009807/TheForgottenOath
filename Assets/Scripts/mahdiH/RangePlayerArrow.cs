@@ -28,7 +28,7 @@ public class RangePlayerArrow : MonoBehaviour
         rb.linearVelocity = direction * force;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D (Collider2D collision)
     {
         if (hasHit) return;
         hasHit = true;
@@ -52,35 +52,42 @@ public class RangePlayerArrow : MonoBehaviour
             FlyingEnemy flying = collision.GetComponent<FlyingEnemy>();
             if (flying != null)
             {
-                flying.TakeDamage(1); // یا مقدار مناسب مثلاً 10 یا 20
+                flying.TakeDamage(40); // یا مقدار مناسب مثلاً 10 یا 20
             }
             
             MeleeEnemy enemy = collision.GetComponent<MeleeEnemy>();
             if (enemy != null)
             {
-                enemy.TakeDamage(1 , transform);
+                enemy.TakeDamage(40 , transform);
             }
             
             DogWolfEnemy dog = collision.GetComponent<DogWolfEnemy>();
             if (dog != null)
             {
-                dog.TakeDamage(1); // یا مقدار دلخواه
+                dog.TakeDamage(40); // یا مقدار دلخواه
             }
 
             EnemyArcher archer = collision.GetComponent<EnemyArcher>();
             if (archer != null)
             {
-                archer.TakeDamage(1 , transform);
+                archer.TakeDamage(40 , transform);
             }
-
-
-            // if (collision.CompareTag("Knight"))
-            // {
-            //     Physics2D.IgnoreCollision (collision.GetComponent<Collider2D>(), GetComponent<Collider2D>() , true);
-            // }
         }
         else
         {
+            
+            if (collision.CompareTag("Chest"))
+            {
+                Chest chest = collision.GetComponent<Chest>();
+                chest.Break();
+            }
+            
+            if (collision.CompareTag("Breakables"))
+            {
+                Breakables breakables = collision.GetComponent<Breakables>();
+                breakables.Break();
+            }
+            
             // اگر غیر دشمن بود، فقط لرزش کن و حذف شو بعد از تاخیر
             if (animator != null && animator.runtimeAnimatorController != null)
             {

@@ -51,15 +51,6 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Slide",
-                    "type": "Button",
-                    "id": "516d839c-cd51-4cd1-8bec-ff28cef6b396",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
                     "name": "Climb",
                     "type": "Value",
                     "id": "dccbaf94-65f2-480d-ac69-1a2b0245396e",
@@ -67,6 +58,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+                },
+                {
+                    "name": "Suicide",
+                    "type": "Button",
+                    "id": "56002fc9-6dfd-4677-8f33-34c5b2b256c1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -139,22 +139,11 @@
                 {
                     "name": "",
                     "id": "2812abf4-46a1-44a8-8c8e-0a2816b176c6",
-                    "path": "<Keyboard>/x",
+                    "path": "<Keyboard>/f",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Attack",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "240b067a-396b-4374-b6d8-1e6452d025bf",
-                    "path": "<Keyboard>/c",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Slide",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -190,6 +179,17 @@
                     "action": "Climb",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "fc56e791-1eee-4521-99cd-8fe07a8d58c8",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Suicide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },

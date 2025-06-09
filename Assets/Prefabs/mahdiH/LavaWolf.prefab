@@ -152,18 +152,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8409fe89478ede446b4dc7dfada9d670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detectionRange: 8
+  detectionRange: 4
   verticalDetectionRange: 4
   chaseSpeed: 6
   returnSpeed: 2
   stopAfterHitDuration: 1
   knockbackForce: 3
-  knockbackDuration: 0.3
+  knockbackDuration: 0.2
   damage: 20
   maxHealth: 100
   meleePlayer: {fileID: 0}
   rangePlayer: {fileID: 0}
   animator: {fileID: 6412915141118230864}
+  Collectibles:
+  - {fileID: 3957532181411328539, guid: 5c42adf7ba5d0e34e8cffec6ed70c756, type: 3}
+  - {fileID: 8863231773427029249, guid: dae9148bb60af5242aadb88002359eae, type: 3}
+  - {fileID: 5089687992101815758, guid: d6e9e8569f485d041a803bd5ed4154d9, type: 3}
+  - {fileID: 7586865083452697135, guid: 37210d0c3e764d54192906ff0e49d8c2, type: 3}
 --- !u!60 &5725787400779738301
 PolygonCollider2D:
   m_ObjectHideFlags: 0

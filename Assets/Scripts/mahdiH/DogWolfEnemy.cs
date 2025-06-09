@@ -32,9 +32,14 @@ public class DogWolfEnemy : MonoBehaviour
     private bool isKnockedBack = false;
     private bool isDead = false;
     private bool canAttack = true;
+    
+    public GameObject[] Collectibles;
 
     void Start()
     {
+        meleePlayer = PlayerRegistry.Knight;
+        rangePlayer = PlayerRegistry.Archer;
+
         currentHealth = maxHealth;
         startPosition = transform.position;
     }
@@ -213,6 +218,12 @@ public class DogWolfEnemy : MonoBehaviour
 
     private void Die()
     {
+        int random1 = Random.Range(0, Collectibles.Length);
+        int random2 = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random1], pos, Quaternion.identity);
+        Instantiate(Collectibles[random2], pos, Quaternion.identity);
+        
         isDead = true;
         animator.SetTrigger("Die");
         Destroy(gameObject, 2f);

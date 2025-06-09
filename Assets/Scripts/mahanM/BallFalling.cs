@@ -45,6 +45,7 @@ public class BallFalling : MonoBehaviour
         {
             // ballRigidbody.useGravity = true;
             Ball.SetActive(true);
+            Destroy(Ball, 6);
         }
     }
 }

@@ -29,6 +29,8 @@ public class LavaEnemyRange : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
     [SerializeField] private float DieDuration;
+    
+    public GameObject[] Collectibles;
 
 
     private void Start()
@@ -124,6 +126,12 @@ public class LavaEnemyRange : MonoBehaviour
 
     private void Die()
     {
+        int random1 = Random.Range(0, Collectibles.Length);
+        int random2 = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random1], pos, Quaternion.identity);
+        Instantiate(Collectibles[random2], pos, Quaternion.identity);
+        
         isDead = true;
         animator.SetTrigger("Die");
         rb.linearVelocity = Vector2.zero;

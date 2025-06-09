@@ -369,10 +369,10 @@ AnimatorStateMachine:
     m_Position: {x: 600, y: 380, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6762335631889047689}
-    m_Position: {x: 190, y: -60, z: 0}
+    m_Position: {x: 190, y: -50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 219977127620504060}
-    m_Position: {x: -380, y: -200, z: 0}
+    m_Position: {x: -390, y: -200, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8541529721725890353}
     m_Position: {x: -80, y: -50, z: 0}
@@ -390,7 +390,7 @@ AnimatorStateMachine:
     m_Position: {x: -380, y: 810, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2159507452824954905}
-    m_Position: {x: -1070, y: 360, z: 0}
+    m_Position: {x: -1080, y: 350, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6255630898996790749}
     m_Position: {x: -910, y: -50, z: 0}
@@ -471,7 +471,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Jump
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -46008566243464880}

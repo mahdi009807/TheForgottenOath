@@ -9,7 +9,7 @@ public class EnemyArcher : MonoBehaviour
     public GameObject arrowPrefab;
     public Transform shootPoint;
     public int damage = 15;
-    public int maxHealth = 3;
+    public int maxHealth = 50;
 
     [Header("References")]
     public Transform meleePlayer;
@@ -26,15 +26,30 @@ public class EnemyArcher : MonoBehaviour
 
 
     private float nextShootTime;
-    private int currentHealth;
+    [SerializeField]private int currentHealth;
     private bool isDead = false;
     [SerializeField] private float DieDuration;
+    
+    public GameObject[] Collectibles;
 
     private void Start()
     {
+        
+        meleePlayer = PlayerRegistry.Knight;
+        rangePlayer = PlayerRegistry.Archer;
+
         currentHealth = maxHealth;
         rb = GetComponent<Rigidbody2D>();
+
+        // چرخاندن به سمت چپ در شروع بازی
+        if (transform.localScale.x > 0)
+        {
+            Vector3 scale = transform.localScale;
+            scale.x *= -1;
+            transform.localScale = scale;
+        }
     }
+
 
 
     private void Update()
@@ -123,6 +138,12 @@ public class EnemyArcher : MonoBehaviour
 
     private void Die()
     {
+        int random1 = Random.Range(0, Collectibles.Length);
+        int random2 = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random1], pos, Quaternion.identity);
+        Instantiate(Collectibles[random2], pos, Quaternion.identity);
+        
         isDead = true;
         animator.SetTrigger("Die");
         rb.linearVelocity = Vector2.zero;

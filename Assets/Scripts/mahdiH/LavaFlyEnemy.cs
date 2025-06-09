@@ -25,6 +25,8 @@ public class LavaFlyEnemy : MonoBehaviour
     private bool isReturning = false;
     private bool isOnCooldown = false;
     private Transform targetPlayer;
+    
+    public GameObject[] Collectibles;
 
     private void Start()
     {
@@ -142,6 +144,10 @@ public class LavaFlyEnemy : MonoBehaviour
 
     private void Die()
     {
+        int random = Random.Range(0, Collectibles.Length);
+        Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
+        Instantiate(Collectibles[random], pos, Quaternion.identity);
+        
         isDead = true;
         animator.SetTrigger("Die");
         rb.linearVelocity = Vector2.zero;

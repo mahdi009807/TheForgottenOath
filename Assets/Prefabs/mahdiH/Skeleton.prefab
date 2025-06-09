@@ -56,7 +56,7 @@ Transform:
   m_GameObject: {fileID: 4132623013845770291}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.7, y: -4.1, z: 0}
+  m_LocalPosition: {x: 2.21, y: -1.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -218,8 +218,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.14061928, y: -0.47456694}
-  m_Size: {x: 1.7052574, y: 2.9346476}
+  m_Offset: {x: -0.14061928, y: -0.5918336}
+  m_Size: {x: 1.7052574, y: 3.1691809}
   m_Direction: 0
 --- !u!114 &8700253762585226459
 MonoBehaviour:
@@ -233,23 +233,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed11a72b78cb9bb4e83bf421386a1a7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
-  chaseSpeed: 6
+  moveSpeed: 2
+  chaseSpeed: 3
   leftPoint: {fileID: 4559844778408365636}
   rightPoint: {fileID: 5418667386739760907}
   patrolDuration: 4
   idleDuration: 1.5
-  detectionRange: 8
+  detectionRange: 5
   attackRange: 1
-  fieldOfViewAngle: 120
+  fieldOfViewAngle: 150
   meleePlayer: {fileID: 0}
   rangePlayer: {fileID: 0}
   attackCooldown: 1
+  AtackDamage: 20
   maxHealth: 100
   currentHealth: 0
-  knockbackForceX: 8
-  knockbackForceY: 10
-  knockbackDuration: 0.3
+  knockbackForceX: 7
+  knockbackForceY: 15
+  knockbackDuration: 0.2
   sprite: {fileID: 3045961089959637764}
   animator: {fileID: 370543705580163576}
   rb: {fileID: 4815117980140728208}
@@ -263,6 +264,11 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  Collectibles:
+  - {fileID: 3957532181411328539, guid: 5c42adf7ba5d0e34e8cffec6ed70c756, type: 3}
+  - {fileID: 8863231773427029249, guid: dae9148bb60af5242aadb88002359eae, type: 3}
+  - {fileID: 5089687992101815758, guid: d6e9e8569f485d041a803bd5ed4154d9, type: 3}
+  - {fileID: 7586865083452697135, guid: 37210d0c3e764d54192906ff0e49d8c2, type: 3}
 --- !u!95 &370543705580163576
 Animator:
   serializedVersion: 7
@@ -310,7 +316,7 @@ Transform:
   m_GameObject: {fileID: 7650632250593509837}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.2, y: -3.9, z: 0}
+  m_LocalPosition: {x: -2.47, y: -1.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

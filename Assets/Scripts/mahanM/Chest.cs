@@ -4,6 +4,13 @@ public class Chest : MonoBehaviour
 {
     
     public GameObject[] Collectibles;
+    SpriteRenderer spriteRenderer;
+    public Sprite active;
+
+    private void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
     
     public void Break()
     {
@@ -12,6 +19,8 @@ public class Chest : MonoBehaviour
         Vector3 pos = transform.position + new Vector3(0f, 1f, 0f);
         Instantiate(Collectibles[random1], pos, Quaternion.identity);
         Instantiate(Collectibles[random2], pos, Quaternion.identity);
-        Destroy(gameObject);
+        spriteRenderer.sprite = active;
+        GetComponent<Collider2D>().enabled = false;
+        // Destroy(gameObject, 5);
     }
 }

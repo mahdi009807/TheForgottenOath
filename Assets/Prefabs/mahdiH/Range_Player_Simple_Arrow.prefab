@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -1920208414570267944}
   - component: {fileID: 8476770356444608476}
   - component: {fileID: 5812047199113655294}
-  - component: {fileID: 5987563735835476483}
+  - component: {fileID: 3555964772502540558}
   m_Layer: 9
   m_Name: Range_Player_Simple_Arrow
   m_TagString: ArcherArrow
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -120133462129419705, guid: 88d0d74d333678e409b13713b1af7ca1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -106,7 +106,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -117,7 +117,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &8476770356444608476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,8 +153,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!60 &5987563735835476483
-PolygonCollider2D:
+--- !u!61 &3555964772502540558
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -187,27 +187,15 @@ PolygonCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.1377964, y: -0.033772834}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.48819295, y: 0.5087}
     oldSize: {x: 16, y: 8}
     newSize: {x: 16, y: 8}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.67354393, y: 0.06572248}
-      - {x: -0.8171043, y: 0.0630617}
-      - {x: -0.8191548, y: 0.12622952}
-      - {x: -1.0054255, y: 0.122902155}
-      - {x: -1.0033274, y: -0.07421852}
-      - {x: -0.81045717, y: -0.07674505}
-      - {x: -0.81466573, y: -0.0027651936}
-      - {x: 0.6463318, y: -0.0071435124}
-      - {x: 0.7071438, y: 0.0028572008}
-      - {x: 0.70422745, y: 0.015217558}
-      - {x: 0.7076683, y: 0.06434513}
-  m_UseDelaunayMesh: 0
+  m_Size: {x: 1.5120792, y: 0.072304964}
+  m_EdgeRadius: 0

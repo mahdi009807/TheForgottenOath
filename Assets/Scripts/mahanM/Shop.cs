@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
-    private int coinsCollected = 0;
-    private int diamondsCollected = 0;
+    [SerializeField]private int coinsCollected = 0;
+    [SerializeField]private int diamondsCollected = 0;
 
     public void AddCoins(int coin)
     {

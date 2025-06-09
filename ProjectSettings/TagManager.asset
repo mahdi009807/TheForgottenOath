@@ -12,6 +12,21 @@ TagManager:
   - EnemyArrow
   - Wall
   - Ladder
+  - DeadlyTraps
+  - Coin
+  - Traps
+  - Diamond
+  - Health
+  - Heart
+  - Mana
+  - Power
+  - Checkpoint
+  - Projectile
+  - Breakables
+  - Stairs
+  - Archer
+  - Knight
+  - Chest
   layers:
   - Default
   - TransparentFX
@@ -27,9 +42,9 @@ TagManager:
   - Wall
   - Dashing
   - ladder
-  - 
-  - 
-  - 
+  - Stairs
+  - 'Breakables '
+  - BackGround
   - 
   - 
   - 
